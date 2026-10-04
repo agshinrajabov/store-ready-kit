@@ -1,5 +1,5 @@
 {
-  "_source": "iTunes lookup 885697368 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "_source": "iTunes lookup 885697368 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page; privacy_policy_url is the developer's site from the lookup (sellerUrl), standing in for their policy page",
   "name": "Halide Mark III - Pro Camera",
   "subtitle": "Pro Camera",
   "keywords": "raw,manual,focus,exposure,photography,lens,shutter,iso,histogram",
@@ -10,7 +10,7 @@
     885697368
   ],
   "trait_catalog": "utility-app",
-  "privacy_policy_url": "https://example.invalid/privacy",
+  "privacy_policy_url": "https://halide.cam",
   "traits": {
     "UT01": false,
     "UT02": false,

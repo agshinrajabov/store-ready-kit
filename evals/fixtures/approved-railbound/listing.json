@@ -1,5 +1,5 @@
 {
-  "_source": "iTunes lookup 1636439801 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "_source": "iTunes lookup 1636439801 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page; privacy_policy_url is the developer's site from the lookup (sellerUrl), standing in for their policy page",
   "name": "Railbound",
   "subtitle": "Connect the train cars",
   "keywords": "train,rail,track,logic,brain,dog,comic,level,solve,carriage",
@@ -10,7 +10,7 @@
     1636439801
   ],
   "trait_catalog": "hypercasual-game",
-  "privacy_policy_url": "https://example.invalid/privacy",
+  "privacy_policy_url": "http://afterburn.games/railbound",
   "traits": {
     "HC01": false,
     "HC02": false,

@@ -1,0 +1,131 @@
+{
+ "tool": "keyword_rank.score",
+ "rows": [
+  {
+   "term": "gewohnheiten",
+   "country": "us",
+   "popularity": 60,
+   "difficulty": 20,
+   "relevance": 1.0,
+   "opportunity": 48.0,
+   "blocked": null
+  },
+  {
+   "term": "alışkanlık",
+   "country": "us",
+   "popularity": 55,
+   "difficulty": 15,
+   "relevance": 1.0,
+   "opportunity": 46.8,
+   "blocked": null
+  },
+  {
+   "term": "習慣",
+   "country": "us",
+   "popularity": 50,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 45.0,
+   "blocked": null
+  },
+  {
+   "term": "hábitos",
+   "country": "us",
+   "popularity": 58,
+   "difficulty": 22,
+   "relevance": 1.0,
+   "opportunity": 45.2,
+   "blocked": null
+  },
+  {
+   "term": "routine",
+   "country": "us",
+   "popularity": 70,
+   "difficulty": 50,
+   "relevance": 1.0,
+   "opportunity": 35.0,
+   "blocked": null
+  },
+  {
+   "term": "tägliche",
+   "country": "us",
+   "popularity": 40,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 36.0,
+   "blocked": null
+  },
+  {
+   "term": "ziele",
+   "country": "us",
+   "popularity": 45,
+   "difficulty": 12,
+   "relevance": 1.0,
+   "opportunity": 39.6,
+   "blocked": null
+  },
+  {
+   "term": "rutin",
+   "country": "us",
+   "popularity": 44,
+   "difficulty": 11,
+   "relevance": 1.0,
+   "opportunity": 39.2,
+   "blocked": null
+  },
+  {
+   "term": "günlük",
+   "country": "us",
+   "popularity": 42,
+   "difficulty": 9,
+   "relevance": 1.0,
+   "opportunity": 38.2,
+   "blocked": null
+  },
+  {
+   "term": "目標",
+   "country": "us",
+   "popularity": 38,
+   "difficulty": 8,
+   "relevance": 1.0,
+   "opportunity": 35.0,
+   "blocked": null
+  },
+  {
+   "term": "seguimiento",
+   "country": "us",
+   "popularity": 36,
+   "difficulty": 20,
+   "relevance": 1.0,
+   "opportunity": 28.8,
+   "blocked": null
+  },
+  {
+   "term": "streak",
+   "country": "us",
+   "popularity": 65,
+   "difficulty": 60,
+   "relevance": 1.0,
+   "opportunity": 26.0,
+   "blocked": null
+  },
+  {
+   "term": "tracker",
+   "country": "us",
+   "popularity": 80,
+   "difficulty": 85,
+   "relevance": 1.0,
+   "opportunity": 12.0,
+   "blocked": null
+  },
+  {
+   "term": "habitica",
+   "country": "us",
+   "popularity": 70,
+   "difficulty": 64,
+   "relevance": 1.0,
+   "opportunity": 25.2,
+   "blocked": "competitor app name 'Habitica' (2.3.7)"
+  }
+ ]
+}

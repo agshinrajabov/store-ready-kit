@@ -205,6 +205,20 @@ def scan_listing(lst):
         if hits:
             sev = "HIGH" if guideline.startswith("2.1") else "MEDIUM"
             out.append(finding(sev, guideline, title, [f"found: {', '.join(hits)}"], fix))
+    url = lst.get("privacy_policy_url") or ""
+    if re.search(r"example\.(com|org|net|invalid)|localhost|\.test\b|placeholder", url, re.I):
+        out.append(finding("HIGH", "5.1.1(i) / 2.1", "Privacy policy URL is a placeholder", [url],
+                           "Use the real, reachable policy URL."))
+    desc = (lst.get("description") or "")
+    claim = re.search(r"(hundreds|thousands|\d{3,}\+?) (of )?(levels|puzzles|stages|challenges)", desc + " " +
+                      " ".join(s.get("caption", "") for s in lst.get("screenshots", []) if isinstance(s, dict)), re.I)
+    if claim and (lst.get("content") or {}).get("generated"):
+        out.append(finding("MEDIUM", "2.3.1 / 4.2", "Content-count claim on generated content", [f"'{claim.group(0)}'"],
+                           "Claim only what is authored and distinct, or drop the count; the reviewer will play the first few."))
+    filler = sorted({m.group(0) for m in re.finditer(r"download (it )?now|easy to learn,? hard to master|the most (addictive|satisfying)|what are you waiting for", desc, re.I)})
+    if filler:
+        out.append(finding("LOW", "4.3(b) / 2.3", "Stock store-copy phrases", [", ".join(filler)],
+                           "Replace with sentences only this app could say."))
     if not lst.get("privacy_policy_url"):
         out.append(finding("HIGH", "5.1.1(i)", "No privacy policy URL in the listing", ["privacy_policy_url missing"],
                            "Add a reachable privacy policy URL in App Store Connect."))

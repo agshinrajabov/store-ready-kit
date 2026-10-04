@@ -45,14 +45,22 @@ missing section means that signal is "not assessed", never "fine".
     "similar_apps_on_account": 0, "template_or_generator": false,
     "reused_project_assets": false, "prior_4_3_rejections": 0
   },
-  "exclude_ids": [1234567890]            // your own live app, left out of the competitor set
+  "exclude_ids": [1234567890],           // your own live app and off-niche results, left out of the competitor set
+  "niche_snapshot": "competitors.json"   // optional: the snapshot this listing is scored against
 }
 ```
 
 (Comments are for this page only; the real file is plain JSON.)
 
+## Missing sections vs missing fields
+
+A missing **section** (`monetisation`, `content`, `account`, `traits`) means that signal is not assessed. A
+missing **field** inside a given section counts as "no" — the score output lists these under
+`missing_fields` so they can be filled in. Fill every field you know.
+
 ## Filling it honestly
 
+- `account.prior_4_3_rejections` includes the rejection you are answering right now.
 - `traits`, `monetisation` and `content` describe the **build under review on a fresh install**, not the plan.
   Count purchase and ad prompts by playing the first ten minutes with a timer.
 - `differentiators` are things a reviewer can *see*. "Better UX" is not one; "verified belay certification on every

@@ -85,7 +85,9 @@ def run_case(case):
         return out
     if kind == "script":
         mod = load_module(case["skill"], case["script"])
-        return getattr(mod, case.get("function", "evaluate"))(**case.get("args", {}))
+        args = {k: (fx(v[4:]) if isinstance(v, str) and v.startswith("FIX/") else v)
+                for k, v in case.get("args", {}).items()}
+        return getattr(mod, case.get("function", "evaluate"))(**args)
     raise SystemExit(f"unknown run kind {kind}")
 
 
@@ -132,6 +134,9 @@ def check(case, out):
         for frag in exp["report_contains"]:
             if frag not in out.get("report_markdown", ""):
                 fails.append(f"report lacks '{frag}'")
+    for frag in exp.get("violations_include", []):
+        if not any(frag.lower() in str(v).lower() for v in out.get("violations", [])):
+            fails.append(f"no violation mentioning '{frag}': {out.get('violations')}")
     if "equals" in exp:
         for k, v in exp["equals"].items():
             if out.get(k) != v:
@@ -144,6 +149,10 @@ def summary(case, out):
         return f"{out['verdict']} {out['readiness']}"
     if "verdict" in out and "score" in out:
         return f"{out['verdict']} {out['score']}"
+    if "characters" in out:
+        return f"{out['characters']}/{out['limit']} chars, {len(out['words'])} words"
+    if out.get("tool") == "char_lint":
+        return f"{len(out['results'])} variants, {len(out['violations'])} blocking"
     if "findings" in out:
         c = {s: sum(1 for f in out["findings"] if f["severity"] == s) for s in ("HIGH", "MEDIUM", "LOW")}
         return f"H{c['HIGH']} M{c['MEDIUM']} L{c['LOW']}"

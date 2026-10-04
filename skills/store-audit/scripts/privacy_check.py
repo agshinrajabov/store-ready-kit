@@ -402,14 +402,26 @@ def main():
     p.add_argument("--format", choices=["json", "md"], default="json")
     args = p.parse_args()
 
-    policy = None
+    policy, unreachable = None, None
     if args.policy:
         policy = read(args.policy)
     elif args.policy_url:
+        # This is a live network fetch. Offline, save the policy to a file and pass --policy instead.
         req = urllib.request.Request(args.policy_url, headers={"User-Agent": "store-ready-kit/privacy_check"})
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            policy = re.sub(r"<[^>]+>", " ", resp.read().decode("utf-8", "ignore"))
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                policy = re.sub(r"<[^>]+>", " ", resp.read().decode("utf-8", "ignore"))
+        except Exception as exc:
+            unreachable = f"{args.policy_url}: {exc}"
+            policy = ""
     result = check(args.project, policy)
+    if unreachable:
+        result["findings"].insert(0, finding("HIGH", "5.1.1(i) / 2.1", "Privacy policy URL did not load", [unreachable],
+                                             "The policy must load for the reviewer. Fix the URL or hosting; if you are "
+                                             "offline, re-run with --policy <file>."))
+        # Nothing can be said about a policy that did not load beyond the fact that it did not load.
+        result["findings"] = result["findings"][:1] + [f for f in result["findings"][1:] if f["guideline"] != "5.1.1(i)"]
+        result["counts"] = {s_: sum(1 for f in result["findings"] if f["severity"] == s_) for s_ in ("HIGH", "MEDIUM", "LOW")}
     print(to_markdown(result) if args.format == "md" else json.dumps(result, indent=2, ensure_ascii=False))
 
 

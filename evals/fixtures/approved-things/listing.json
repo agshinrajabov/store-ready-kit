@@ -1,5 +1,5 @@
 {
-  "_source": "iTunes lookup 904237743 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "_source": "iTunes lookup 904237743 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page; privacy_policy_url is the developer's site from the lookup (sellerUrl), standing in for their policy page",
   "name": "Things 3",
   "subtitle": "To-Do List & Planner",
   "keywords": "tasks,projects,checklist,reminder,planner,gtd,organizer,productivity,calendar",
@@ -10,7 +10,7 @@
     904237743
   ],
   "trait_catalog": "utility-app",
-  "privacy_policy_url": "https://example.invalid/privacy",
+  "privacy_policy_url": "https://culturedcode.com/things",
   "traits": {
     "UT01": false,
     "UT02": false,

@@ -1,0 +1,185 @@
+{
+ "tool": "keyword_rank.score",
+ "rows": [
+  {
+   "term": "climbing partner",
+   "country": "us",
+   "popularity": 62,
+   "difficulty": 30,
+   "relevance": 1.0,
+   "opportunity": 43.4,
+   "blocked": null
+  },
+  {
+   "term": "belay partner",
+   "country": "us",
+   "popularity": 41,
+   "difficulty": 12,
+   "relevance": 1.0,
+   "opportunity": 36.1,
+   "blocked": null
+  },
+  {
+   "term": "bouldering",
+   "country": "us",
+   "popularity": 78,
+   "difficulty": 70,
+   "relevance": 1.0,
+   "opportunity": 23.4,
+   "blocked": null
+  },
+  {
+   "term": "climbing gym",
+   "country": "us",
+   "popularity": 70,
+   "difficulty": 55,
+   "relevance": 1.0,
+   "opportunity": 31.5,
+   "blocked": null
+  },
+  {
+   "term": "rock climbing",
+   "country": "us",
+   "popularity": 80,
+   "difficulty": 74,
+   "relevance": 1.0,
+   "opportunity": 20.8,
+   "blocked": null
+  },
+  {
+   "term": "crag",
+   "country": "us",
+   "popularity": 35,
+   "difficulty": 20,
+   "relevance": 1.0,
+   "opportunity": 28.0,
+   "blocked": null
+  },
+  {
+   "term": "climbing buddy",
+   "country": "us",
+   "popularity": 38,
+   "difficulty": 15,
+   "relevance": 1.0,
+   "opportunity": 32.3,
+   "blocked": null
+  },
+  {
+   "term": "top rope",
+   "country": "us",
+   "popularity": 30,
+   "difficulty": 25,
+   "relevance": 1.0,
+   "opportunity": 22.5,
+   "blocked": null
+  },
+  {
+   "term": "lead climbing",
+   "country": "us",
+   "popularity": 33,
+   "difficulty": 22,
+   "relevance": 1.0,
+   "opportunity": 25.7,
+   "blocked": null
+  },
+  {
+   "term": "climbing log",
+   "country": "us",
+   "popularity": 44,
+   "difficulty": 40,
+   "relevance": 1.0,
+   "opportunity": 26.4,
+   "blocked": null
+  },
+  {
+   "term": "route grades",
+   "country": "us",
+   "popularity": 25,
+   "difficulty": 18,
+   "relevance": 1.0,
+   "opportunity": 20.5,
+   "blocked": null
+  },
+  {
+   "term": "indoor climbing",
+   "country": "us",
+   "popularity": 50,
+   "difficulty": 45,
+   "relevance": 1.0,
+   "opportunity": 27.5,
+   "blocked": null
+  },
+  {
+   "term": "outdoor climbing",
+   "country": "us",
+   "popularity": 40,
+   "difficulty": 35,
+   "relevance": 1.0,
+   "opportunity": 26.0,
+   "blocked": null
+  },
+  {
+   "term": "mountain project",
+   "country": "us",
+   "popularity": 55,
+   "difficulty": 60,
+   "relevance": 1.0,
+   "opportunity": 22.0,
+   "blocked": "competitor app name 'Mountain Project' (2.3.7)"
+  },
+  {
+   "term": "climbing partners",
+   "country": "us",
+   "popularity": 40,
+   "difficulty": 28,
+   "relevance": 1.0,
+   "opportunity": 28.8,
+   "blocked": null
+  },
+  {
+   "term": "belayer",
+   "country": "us",
+   "popularity": 20,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 18.0,
+   "blocked": null
+  },
+  {
+   "term": "climbing training",
+   "country": "us",
+   "popularity": 60,
+   "difficulty": 62,
+   "relevance": 1.0,
+   "opportunity": 22.8,
+   "blocked": null
+  },
+  {
+   "term": "hangboard",
+   "country": "us",
+   "popularity": 30,
+   "difficulty": 40,
+   "relevance": 1.0,
+   "opportunity": 18.0,
+   "blocked": null
+  },
+  {
+   "term": "free climbing app",
+   "country": "us",
+   "popularity": 50,
+   "difficulty": 50,
+   "relevance": 1.0,
+   "opportunity": 25.0,
+   "blocked": null
+  },
+  {
+   "term": "the best climbing app",
+   "country": "us",
+   "popularity": 10,
+   "difficulty": 90,
+   "relevance": 1.0,
+   "opportunity": 1.0,
+   "blocked": null
+  }
+ ]
+}

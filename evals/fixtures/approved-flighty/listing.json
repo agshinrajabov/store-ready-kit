@@ -1,5 +1,5 @@
 {
-  "_source": "iTunes lookup 1358823008 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "_source": "iTunes lookup 1358823008 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page; privacy_policy_url is the developer's site from the lookup (sellerUrl), standing in for their policy page",
   "name": "Flighty – Live Flight Tracker",
   "subtitle": "Live Flight Tracker",
   "keywords": "flight,tracker,airline,delay,airport,status,travel,gate,trip,radar",
@@ -10,7 +10,7 @@
     1358823008
   ],
   "trait_catalog": "utility-app",
-  "privacy_policy_url": "https://example.invalid/privacy",
+  "privacy_policy_url": "https://www.flighty.com",
   "traits": {
     "UT01": false,
     "UT02": false,

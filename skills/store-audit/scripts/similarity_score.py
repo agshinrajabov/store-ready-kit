@@ -411,6 +411,13 @@ def run(listing, snapshot, catalog=None, exclude_ids=()):
         score_lineage(listing),
         score_captions(listing),
     ]
+    # Fields left out of an assessed section count as "no"; say which, so nobody mistakes silence for a fact.
+    expected = {"monetisation": ["iap_count", "consumable_count", "rewarded_placements", "interstitial",
+                                 "purchase_prompts_first_10_min", "paywall_before_value", "sink_without_content"],
+                "content": ["generated", "authored_onboarding", "repeats_in_first_session", "silent_failures", "lasting_value"],
+                "account": ["similar_apps_on_account", "template_or_generator", "reused_project_assets", "prior_4_3_rejections"]}
+    missing = {sec: [k for k in keys if k not in listing[sec]] for sec, keys in expected.items() if listing.get(sec)}
+    missing = {k: v for k, v in missing.items() if v}
     assessed = [s for s in signals if s["assessed"]]
     possible = sum(s["max"] for s in assessed)
     got = sum(s["points"] for s in assessed)
@@ -440,8 +447,18 @@ def run(listing, snapshot, catalog=None, exclude_ids=()):
         verdict = "WARN"
     else:
         verdict = "PASS"
+    def prong(keys):
+        xs = [by[k] for k in keys if by[k]["assessed"]]
+        return round(100 * sum(x["points"] for x in xs) / sum(x["max"] for x in xs), 1) if xs else None
+
+    prongs = {
+        "indistinguishable": prong(["text_similarity", "name_genericness", "vocabulary", "saturated_category"]),
+        "low_effort": prong(["template_traits", "monetisation", "content", "captions"]),
+        "lineage": prong(["lineage"]),
+    }
     return {
         "tool": "similarity_score", "version": VERSION,
+        "prongs": prongs, "missing_fields": missing,
         "app": listing.get("name"),
         "score": score, "verdict": verdict, "coverage": coverage, "hard_triggers": hard,
         "store_page_twin": page_twin,
@@ -450,6 +467,7 @@ def run(listing, snapshot, catalog=None, exclude_ids=()):
         "signals": signals,
         "notes": [
             "Resemblance score, not a quality score; it cannot see the running app.",
+            "Read the per-prong scores: a low-effort FLAG can sit beside a low total when the store text is original.",
             "Signals not assessed are left out of the denominator; low coverage means a less reliable score.",
             "Guidance based on public App Review Guidelines; Apple's decisions are their own.",
         ],
@@ -459,7 +477,11 @@ def run(listing, snapshot, catalog=None, exclude_ids=()):
 def to_markdown(r):
     lines = [f"# 4.3 clone-signal score — {r['app']}", "",
              f"**{r['verdict']}** · score {r['score']}/100 · coverage {int(r['coverage'] * 100)}% · "
-             f"{r['competitors_compared']} competitors compared", ""]
+             f"{r['competitors_compared']} competitors compared", "",
+             "Per prong (0-100): " + " · ".join(f"{k.replace('_', ' ')} {v if v is not None else 'n/a'}"
+                                                for k, v in r["prongs"].items()), ""]
+    if r["missing_fields"]:
+        lines += ["Fields not given (counted as no): " + "; ".join(f"{k}: {', '.join(v)}" for k, v in r["missing_fields"].items()), ""]
     if r["hard_triggers"]:
         lines += [f"Hard triggers: {', '.join(r['hard_triggers'])}", ""]
     lines += ["| Signal | Points | Evidence |", "|---|---|---|"]
@@ -501,7 +523,7 @@ def main():
         listing = json.load(fh)
     with open(args.competitors, encoding="utf-8") as fh:
         snapshot = json.load(fh)
-    result = run(listing, snapshot, args.catalog, args.exclude_id)
+    result = run(listing, snapshot, args.catalog, list(args.exclude_id) + list(listing.get("exclude_ids", [])))
     print(to_markdown(result) if args.format == "md" else json.dumps(result, indent=2, ensure_ascii=False))
 
 

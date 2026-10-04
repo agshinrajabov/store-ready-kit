@@ -21,9 +21,18 @@ keyword tricks — the fix is always making the app genuinely complete, accurate
 3. Any rejection letter, verbatim.
 4. Whether you can run the build (simulator or device). If not, the manual checks are marked **not checked**.
 
-Work in a folder such as `store-audit/<date>/` in the project and keep every intermediate file there.
+Work in `store-audit/<date>/` inside the project (or any scratch folder when there is no repo) and keep the
+full set there: `listing.json`, `competitors.json`, `similarity.json`, `completeness.json`, `privacy.json`,
+`store-audit.md`.
+
+**No repo?** Run steps 0–3 and the listing part of step 4; mark step 5 and the project scans **not checked**.
 
 ## Workflow
+
+### 0. Read the letter (only after a rejection)
+Match its wording to the table "Reading a 4.3 letter" in `references/4-3-spam.md`: which prong, and what kind
+of answer it needs. Update `listing.json` from it — the rejection you are answering counts in
+`account.prior_4_3_rejections`. Often this step alone answers the user's question; say so first in the report.
 
 ### 1. Competitors (4.3)
 Pick 2–6 search terms a user would type for the app's *job*, plus the category's generic term.
@@ -33,8 +42,10 @@ python3 scripts/competitor_scan.py --term "climbing partner" --term "belay partn
   --country us --limit 50 -o competitors.json
 ```
 
-Open the top 10 by rating count. For each, note the first three screenshots as concepts (what is shown, not
-pixels), the icon pattern and the business model. Drop off-niche results and record how many.
+Open the top 10 by rating count. For each, note the first three screenshots (`firstScreenshots` URLs in the
+snapshot) as concepts — what is shown, not pixels — the icon pattern and the business model. If you cannot open
+images, write "screenshots not checked". Drop off-niche results by listing their IDs in `exclude_ids` in
+`listing.json` (or `--exclude-id`), and record which and why.
 
 ### 2. Template traits
 Choose the catalogue that fits (`hypercasual-game`, `utility-app`, `ai-wrapper`;
@@ -60,7 +71,8 @@ denied, airplane mode, empty states, login, purchases). Run the 2.5.2 interview 
 
 ### 5. Privacy
 ```bash
-python3 scripts/privacy_check.py --project . --policy-url https://… > privacy.json
+python3 scripts/privacy_check.py --project . --policy privacy.html > privacy.json   # offline
+python3 scripts/privacy_check.py --project . --policy-url https://… > privacy.json # fetches the URL live
 ```
 Confirm every HIGH by opening the file it cites. Remind the developer to compare App Privacy answers in App
 Store Connect by hand (`references/privacy-5-1.md`).
@@ -68,10 +80,13 @@ Store Connect by hand (`references/privacy-5-1.md`).
 ### 6. Report
 ```bash
 python3 scripts/audit_report.py --similarity similarity.json --completeness completeness.json \
-  --privacy privacy.json --listing listing.json > store-audit.md
+  --privacy privacy.json --listing listing.json [--rejection letter.txt] > store-audit.md
 ```
-Then edit `store-audit.md` by hand — the script gives the skeleton, you give the judgement:
+The script writes the header, findings and a notes draft. Keep its structure and add the sections it cannot
+write:
 
+- **The answer to the user's question**, first, in plain words (e.g. "No — reply-and-resubmit does not answer
+  this letter, because…").
 - **Differentiation section (the core).** The nearest neighbours, the niche's shared package as a short table,
   where this app matches it, and **3–5 concrete differentiation moves** ranked by impact ÷ effort. Each move names
   a screen or asset and what changes on it ("frame 1 shows the ride mid-unfold on paper", not "improve visuals").
@@ -79,7 +94,10 @@ Then edit `store-audit.md` by hand — the script gives the skeleton, you give t
   from the screen.
 - **Which 4.3 prong is at risk** (indistinguishable vs low-effort) and why — `references/4-3-spam.md`.
 - Manual checks: passed / failed (with device and steps) / not checked (with reason).
-- The App Review notes draft, filled in (`references/review-notes.md`).
+- The App Review notes draft, filled in (`references/review-notes.md`). After a rejection the notes describe the
+  *next* build; only list changes that will really be in it.
+- Read the per-prong scores, not only the total: a low-effort FLAG can sit beside a low total when the store
+  text is original.
 - The disclaimer line, last.
 
 ## Judgement rules

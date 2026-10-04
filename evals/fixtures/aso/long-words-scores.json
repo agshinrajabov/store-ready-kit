@@ -1,0 +1,113 @@
+{
+ "tool": "keyword_rank.score",
+ "rows": [
+  {
+   "term": "internationalization",
+   "country": "us",
+   "popularity": 90,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 81.0,
+   "blocked": null
+  },
+  {
+   "term": "photosynthesis",
+   "country": "us",
+   "popularity": 89,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 80.1,
+   "blocked": null
+  },
+  {
+   "term": "microarchitecture",
+   "country": "us",
+   "popularity": 88,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 79.2,
+   "blocked": null
+  },
+  {
+   "term": "counterrevolutionary",
+   "country": "us",
+   "popularity": 87,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 78.3,
+   "blocked": null
+  },
+  {
+   "term": "electroencephalography",
+   "country": "us",
+   "popularity": 86,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 77.4,
+   "blocked": null
+  },
+  {
+   "term": "characterization",
+   "country": "us",
+   "popularity": 85,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 76.5,
+   "blocked": null
+  },
+  {
+   "term": "incomprehensibilities",
+   "country": "us",
+   "popularity": 84,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 75.6,
+   "blocked": null
+  },
+  {
+   "term": "telecommunications",
+   "country": "us",
+   "popularity": 83,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 74.7,
+   "blocked": null
+  },
+  {
+   "term": "uncharacteristically",
+   "country": "us",
+   "popularity": 82,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 73.8,
+   "blocked": null
+  },
+  {
+   "term": "disproportionately",
+   "country": "us",
+   "popularity": 81,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 72.9,
+   "blocked": null
+  },
+  {
+   "term": "habit",
+   "country": "us",
+   "popularity": 80,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 72.0,
+   "blocked": null
+  },
+  {
+   "term": "goal",
+   "country": "us",
+   "popularity": 79,
+   "difficulty": 10,
+   "relevance": 1.0,
+   "opportunity": 71.1,
+   "blocked": null
+  }
+ ]
+}

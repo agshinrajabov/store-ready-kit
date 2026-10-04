@@ -30,4 +30,10 @@ at. Keep it under ~150 words unless the app genuinely needs more.
 - Promise features that are not in this build.
 - Ask for approval, mention deadlines or launches, or plead.
 
+## Notes for a build that does not exist yet
+
+After a rejection, the draft is for the *next* build. Write only what that build will really contain, keep
+placeholders where it is not decided, and re-read the notes against the build before submitting. Notes that
+describe changes not in the build are worse than no notes.
+
 `audit_report.py` drafts the notes from the listing JSON; fill every `<placeholder>` and cut what does not apply.

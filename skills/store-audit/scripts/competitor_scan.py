@@ -30,7 +30,7 @@ KEEP = (
     "trackId", "trackName", "bundleId", "artistName", "sellerName", "primaryGenreName",
     "genres", "price", "formattedPrice", "averageUserRating", "userRatingCount",
     "releaseDate", "currentVersionReleaseDate", "version", "description",
-    "screenshotUrls", "ipadScreenshotUrls", "artworkUrl512", "trackViewUrl",
+    "artworkUrl512", "trackViewUrl",
     "contentAdvisoryRating", "fileSizeBytes", "languageCodesISO2A",
 )
 
@@ -53,6 +53,7 @@ def fetch(url, params, retries=3):
 def slim(app, term=None):
     out = {k: app.get(k) for k in KEEP if k in app}
     out["screenshotCount"] = len(app.get("screenshotUrls") or [])
+    out["firstScreenshots"] = (app.get("screenshotUrls") or [])[:3]   # what a browsing user sees first
     out["subtitle"] = None          # not exposed by the API
     out["matchedTerms"] = [term] if term else []
     return out

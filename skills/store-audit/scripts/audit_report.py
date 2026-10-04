@@ -11,7 +11,8 @@ Examples:
 
 Readiness score: starts at 100; each HIGH finding costs 15, MEDIUM 5, LOW 1; a 4.3 FLAG costs 30
 and a WARN 12. Floor 0, and capped by the verdict (49 for NOT READY, 79 for READY WITH FIXES) so the number
-never reads better than the verdict. The verdict follows the worst finding:
+never reads better than the verdict — so under a cap the number adds nothing; read the verdict and the fix
+list. The verdict follows the worst finding:
   NOT READY         any HIGH finding or a 4.3 FLAG
   READY WITH FIXES  MEDIUM findings or a 4.3 WARN
   READY             nothing above LOW
@@ -20,6 +21,7 @@ never reads better than the verdict. The verdict follows the worst finding:
 import argparse
 import datetime
 import json
+import re
 import sys
 
 DISCLAIMER = "Guidance based on public App Review Guidelines; Apple's decisions are their own."
@@ -63,8 +65,11 @@ def tag(findings, area):
     return findings
 
 
-def review_notes(lst, sim):
+def review_notes(lst, sim, rejected=False):
     lst = lst or {}
+    if not lst.get("one_line") and lst.get("description"):
+        first = re.split(r"(?<=[.!?])\s", lst["description"].strip())[0]
+        lst = {**lst, "one_line": f"<rewrite as one plain sentence: who it is for and what it does — the description opens: \"{first[:120]}\">"}
     demo = lst.get("demo_account") or {}
     steps = lst.get("review_steps") or ["<the shortest path to the core feature, as numbered taps>"]
     diffs = lst.get("differentiators") or []
@@ -85,13 +90,16 @@ def review_notes(lst, sim):
         lines += ["Things that may not be obvious:"] + [f"  - {x}" for x in lst["non_obvious"]] + [""]
     if lst.get("changes_since_rejection"):
         lines += ["Changes since the previous review:"] + [f"  - {x}" for x in lst["changes_since_rejection"]] + [""]
+    elif rejected:
+        lines += ["Changes since the previous review (<guideline, date>):",
+                  "  - <only changes that are in this build>", "  - <TestFlight round: testers, days, what changed>", ""]
     if lst.get("iap_summary"):
         lines += [f"In-app purchases: {lst['iap_summary']}", ""]
     lines += ["Thank you for your time."]
     return "\n".join(lines)
 
 
-def build(sim, priv, comp, lst):
+def build(sim, priv, comp, lst, rejection=None):
     findings = []
     findings += similarity_findings(sim)
     if priv:
@@ -123,7 +131,11 @@ def build(sim, priv, comp, lst):
         "readiness": score, "verdict": verdict, "covered": covered,
         "similarity": {k: sim[k] for k in ("score", "verdict", "coverage", "nearest_neighbours")} if sim else None,
         "areas": areas, "findings": findings,
-        "review_notes": review_notes(lst, sim),
+        "not_covered": [n for n, x in (("4.3 differentiation", sim), ("5.1 privacy", priv), ("2.1/2.3/2.5.2 completeness", comp)) if not x]
+                       + ["2.1 crash-surface pass on a device (manual)", "2.5.2 interview (manual)"],
+        "rejection": rejection,
+        "prongs": sim.get("prongs") if sim else None,
+        "review_notes": review_notes(lst, sim, rejected=bool(rejection) or bool((lst or {}).get("changes_since_rejection"))),
         "disclaimer": DISCLAIMER,
     }
 
@@ -131,10 +143,17 @@ def build(sim, priv, comp, lst):
 def to_markdown(r):
     lines = [f"# Store audit — {r['app'] or 'app'}", "",
              f"**{r['verdict']}** · readiness {r['readiness']}/100 · {r['date']}", "",
-             f"Covered: {', '.join(r['covered']) or 'nothing'}", ""]
+             f"Covered: {', '.join(r['covered']) or 'nothing'}",
+             f"Not covered by scripts: {', '.join(r['not_covered'])} — report each as passed, failed or not checked.", ""]
+    if r.get("rejection"):
+        lines += ["## The rejection", "", "> " + r["rejection"].strip().replace("\n", "\n> ")[:1500], "",
+                  "Which prong it names, and what that means for the fix: <read it against the table in "
+                  "references/4-3-spam.md and write two or three sentences>", ""]
     if r["similarity"]:
         s = r["similarity"]
         lines += [f"4.3 clone-signal score: **{s['score']}/100 ({s['verdict']})**, signal coverage {int(s['coverage'] * 100)}%"]
+        if r.get("prongs"):
+            lines.append("Per prong: " + " · ".join(f"{k.replace('_', ' ')} {v if v is not None else 'n/a'}" for k, v in r["prongs"].items()))
         if s["nearest_neighbours"]:
             lines.append("Nearest: " + ", ".join(f"{n['trackName']} ({n['score']})" for n in s["nearest_neighbours"][:3]))
         lines.append("")
@@ -166,11 +185,13 @@ def main():
     p.add_argument("--privacy", help="privacy_check.py JSON output")
     p.add_argument("--completeness", help="completeness_scan.py JSON output")
     p.add_argument("--listing", help="listing JSON, used for the review-notes draft")
+    p.add_argument("--rejection", help="the rejection letter as a text file, quoted in the report")
     p.add_argument("--format", choices=["json", "md"], default="md")
     args = p.parse_args()
     if not any([args.similarity, args.privacy, args.completeness]):
         p.error("give at least one scan output")
-    r = build(load(args.similarity), load(args.privacy), load(args.completeness), load(args.listing))
+    rejection = open(args.rejection, encoding="utf-8").read() if args.rejection else None
+    r = build(load(args.similarity), load(args.privacy), load(args.completeness), load(args.listing), rejection)
     print(to_markdown(r) if args.format == "md" else json.dumps(r, indent=2, ensure_ascii=False))
 
 

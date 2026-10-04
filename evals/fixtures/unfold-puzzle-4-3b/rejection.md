@@ -13,8 +13,10 @@
 
 ## What the developer's own audit found afterwards
 
-- The mechanic was new. The package was the category's: 13 of 16 hyper-casual template traits on screen, a
-  keyword-stack name and subtitle, generated levels, and five purchase or ad prompts in the first three minutes.
+- The mechanic was new. The package was the category's: 13 of 16 hyper-casual template traits fully on screen in
+  the developer's own catalogue (15 full + 1 partial in this kit's catalogue, which also counts generated levels
+  and the engine splash), a
+  keyword-stack name and subtitle, generated levels, and five purchase or ad prompts within the first three minutes (recorded as `purchase_prompts_first_10_min: 5`).
 - The letter matches the low-effort / low-quality prong of the June 2026 4.3(b) text, not the "saturated category"
   prong. Arguing "nothing else unfolds rides" would not have answered it.
 

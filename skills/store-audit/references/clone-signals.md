@@ -53,7 +53,9 @@ first session · no empty/offline/error states beyond the template's.
 only domain content · paywall before the first useful answer · no handling of wrong/slow/unavailable model · same
 app under several names · generated icon/screenshots in the AI house style · app-generator scaffold unchanged.
 
-A niche without a catalogue: write the traits down in the report as a table (what the top 10 apps all share) and
+Which catalogue: `hypercasual-game` for free-to-play casual games with a level loop (also premium puzzle games —
+most traits will simply be false, which is the point); `utility-app` for single-job tools and trackers;
+`ai-wrapper` for chat or generation apps built on a third-party model. A niche without a catalogue: write the traits down in the report as a table (what the top 10 apps all share) and
 mark which of them the app has. Do not invent a score for it.
 
 ## Choosing the competitor set
@@ -67,7 +69,7 @@ mark which of them the app has. Do not invent a score for it.
 ## Known limits
 
 - The Search API has no subtitle, keyword field, IAP list or ads flag for competitors.
-- Screenshots are not compared as images. Describe the first three frames of the top 10 competitors in the
-  report (concept, not pixels) and compare them by hand with yours.
+- Screenshots are not compared as images. The snapshot keeps each competitor's first three screenshot URLs
+  (`firstScreenshots`); describe them in the report (concept, not pixels) and compare by hand with yours.
 - A high `text_similarity` in a functional niche (to-do, camera, flight tracking) is normal; the approved
   reference apps in the evals score 10–15 there and still pass. Read it together with the other signals.
