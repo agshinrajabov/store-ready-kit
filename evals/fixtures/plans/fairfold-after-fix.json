@@ -1,0 +1,28 @@
+{
+  "app": "Fairfold",
+  "core_outcome": "a ride that stands up off the page",
+  "differentiator": "rides unfold on hinges in a constrained order",
+  "frames": [
+    {
+      "caption": "",
+      "shows": "a carousel mid-unfold on a cream page, the blocking hinge visible",
+      "real_ui": true,
+      "moment": "differentiator",
+      "concept": "mid-unfold"
+    },
+    {
+      "caption": "Find the order the hinges allow",
+      "shows": "puzzle page, a wrong-order panel straining against its hinge",
+      "real_ui": true,
+      "moment": "outcome",
+      "concept": "wrong-order"
+    },
+    {
+      "caption": "Every ride joins your fairground",
+      "shows": "a full park spread with the children riding",
+      "real_ui": true,
+      "moment": "outcome",
+      "concept": "park-spread"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Fairfold is a puzzle game about unfolding hinged fairground rides.
+
+Access: no account needed.
+
+To see the core feature:
+1. Launch and tap the first page.
+2. Tap a panel; it swings open on its hinge.
+
+Changes since the last review (Guideline 4.3(b), [[FILL: letter date]]):
+1. Hand-built first chapter.
+2. External TestFlight round: [[FILL: testers]] testers over [[FILL: days]] days.

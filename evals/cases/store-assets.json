@@ -1,0 +1,22 @@
+[
+  {"id": "s-plan-good", "group": "assets", "skill": "store-assets", "run": "script", "script": "plan_lint",
+   "args": {"plan": "FIX/plans/belayer-good.json"}, "expect": {"equals": {"ok": true, "warnings": []}}},
+  {"id": "s-plan-template", "group": "assets", "skill": "store-assets", "run": "script", "script": "plan_lint",
+   "args": {"plan": "FIX/plans/template-bad.json"},
+   "note": "The template frame set: title art first, a repeated concept, stock and feature captions, a price word, another platform.",
+   "expect": {"equals": {"ok": false},
+              "violations_include": ["frame 1 does not show the app in use", "same concept", "'free'", "'best'", "another platform"],
+              "warnings_include": ["stock phrase", "feature-list wording", "not real UI"]}},
+  {"id": "s-plan-after-fix", "group": "assets", "skill": "store-assets", "run": "script", "script": "plan_lint",
+   "args": {"plan": "FIX/plans/fairfold-after-fix.json"},
+   "note": "Caption-free first frame showing the differentiator is valid.",
+   "expect": {"equals": {"ok": true}}},
+  {"id": "s-assets-good", "group": "assets", "skill": "store-assets", "run": "script", "script": "asset_check",
+   "args": {"paths": ["FIX/assets/good/0*-iphone.png", "FIX/assets/good/01-ipad.png"], "icon": "FIX/assets/good/icon.png", "platforms": ["iphone", "ipad"]},
+   "expect": {"equals": {"ok": true}}},
+  {"id": "s-assets-bad", "group": "assets", "skill": "store-assets", "run": "script", "script": "asset_check",
+   "args": {"paths": ["FIX/assets/bad/0*.png"], "icon": "FIX/assets/bad/icon-alpha.png", "platforms": ["iphone", "ipad"]},
+   "expect": {"equals": {"ok": false},
+              "violations_include": ["1290x2800 is not an accepted", "alpha channel; screenshots", "icon has an alpha channel", "no iPad 13"],
+              "warnings_include": ["portrait and landscape mixed"]}}
+]

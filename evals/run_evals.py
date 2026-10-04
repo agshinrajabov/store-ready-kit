@@ -85,8 +85,13 @@ def run_case(case):
         return out
     if kind == "script":
         mod = load_module(case["skill"], case["script"])
-        args = {k: (fx(v[4:]) if isinstance(v, str) and v.startswith("FIX/") else v)
-                for k, v in case.get("args", {}).items()}
+        def res(v):
+            if isinstance(v, str) and v.startswith("FIX/"):
+                return fx(v[4:])
+            if isinstance(v, list):
+                return [res(x) for x in v]
+            return v
+        args = {k: res(v) for k, v in case.get("args", {}).items()}
         return getattr(mod, case.get("function", "evaluate"))(**args)
     raise SystemExit(f"unknown run kind {kind}")
 
@@ -159,6 +164,8 @@ def summary(case, out):
         return f"{out['path']} / {out['risk']}"
     if out.get("tool") == "message_lint":
         return f"{'OK' if out['ok'] else 'BLOCKED'}, {len(out['warnings'])} warnings"
+    if out.get("tool") in ("plan_lint", "asset_check"):
+        return f"{'OK' if out['ok'] else 'BLOCKED'}, {len(out['violations'])} blocking, {len(out['warnings'])} warnings"
     if out.get("tool") == "preflight":
         return f"{out['count']} checks"
     if "readiness" in out:

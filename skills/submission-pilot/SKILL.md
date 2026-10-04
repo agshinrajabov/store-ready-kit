@@ -5,6 +5,9 @@ description: Gets an iOS app through App Store submission and through rejections
 
 # submission-pilot
 
+Run the scripts from anywhere, but keep working files outside the skill folder, in `submission/<date>/` in the
+project or a scratch folder.
+
 Submit once, answer rejections calmly, and never turn one rejection into an account problem.
 
 **Never promise approval.** End every output with: *Guidance based on public App Review Guidelines; Apple's
@@ -28,7 +31,7 @@ review, or pressuring the reviewer.
    account? Any earlier removals? Can the developer show the reviewer missed something?
 1. **Triage**
    ```bash
-   python3 scripts/rejection_triage.py --letter letter.txt --prior-4-3 N --similar-apps N [--believe-misread]
+   python3 scripts/rejection_triage.py --letter letter.txt --prior-4-3 N --similar-apps N --prior-removals N [--believe-misread]
    ```
    It returns a path (ANSWER_ONLY · FIX_AND_RESUBMIT · CLARIFY · REWORK · STOP), an account risk level, steps
    and things to avoid. Check its reading against `references/resubmission-strategy.md`. If you disagree, say
@@ -41,16 +44,22 @@ review, or pressuring the reviewer.
      in the letter, and the reply.
    - CLARIFY: the evidence to gather (recording, steps, lineage facts) and the reply. The appeal draft only if a
      reply would not be enough (`references/appeal.md`).
-   - REWORK: say clearly **do not resubmit this build**. Run `store-audit` for what to change (or use its
-     existing report). Then a plan: changes → external TestFlight → one resubmission, with notes listing the
-     changes. An optional, once-only Resolution Center reply. No appeal that argues originality.
+   - REWORK: say clearly **do not resubmit this build**. Order: `store-audit` first, to decide what to change
+     (or use its existing report). If it cannot run yet (no build, no repo, no network), list the likely
+     changes as **proposals**, mark them clearly, and make "run store-audit" the first step. Then the plan:
+     changes → external TestFlight → optional Meet with Apple consultation → one resubmission with notes listing
+     the changes. The optional Resolution Center reply goes out once, and only after the changes are decided.
    - STOP: no uploads. Book a Meet with Apple App Review consultation, write down the account history, and
      answer any notice once, factually.
+   - **If the user asks for an appeal the path does not support** (e.g. an originality appeal against a
+     low-effort letter): explain why it would hurt and what to do instead. If they still want one, draft a
+     factual appeal without the originality argument, lint it, and show the result. Never send-ready an appeal
+     that the lint blocks.
 4. **Lint every message** before showing it:
-   `python3 scripts/message_lint.py --kind reply|appeal|notes --file draft.txt --letter-kind <kind_4_3>`
-   Fix all BLOCKs. Explain any WARN you keep.
-5. Output `rejection-plan.md`: the answer, the triage (path, risk, guidelines, flags), the steps with owners,
-   the drafts (lint passing), what not to do, and when to check back.
+   `python3 scripts/message_lint.py --kind reply|appeal|notes --file draft.txt --letter-kind <4.3 kind from triage>`
+   Fix all BLOCKs. Explain any WARN you keep. Drafts for a build that does not exist yet mark unknowns as
+   `[[FILL: tester count]]` and are linted with `--draft`. Never invent figures to make the lint pass.
+5. Output `rejection-plan.md` using `references/rejection-plan-template.md`.
 
 ## Judgement
 
@@ -69,3 +78,4 @@ review, or pressuring the reviewer.
 - `references/resolution-center.md`: reply templates by path
 - `references/appeal.md`: when to appeal, what has worked, template
 - `references/review-notes.md`: review notes skeleton and special situations
+- `references/rejection-plan-template.md`: the structure of `rejection-plan.md`

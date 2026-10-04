@@ -119,6 +119,7 @@ def decide(c, prior43=0, similar_apps=0, prior_removals=0, believe_misread=False
                  "Run store-audit: find which surfaces read as template or low-effort (store page, first five minutes, monetisation).",
                  "Rework so the store page and first five minutes look like a different, more finished product.",
                  "External TestFlight round (the letter may name it): record tester count, length, what changed because of it.",
+                 "Optional: book a Meet with Apple App Review consultation and ask what specifically reads as low quality.",
                  "Optionally reply once in Resolution Center: short, factual, what you are changing; ask for the specific concern.",
                  "Resubmit once, with review notes that list the changes and the TestFlight round."]
         avoid += ["Resubmitting with cosmetic changes", "More than one resubmission before the rework is done",
@@ -181,7 +182,7 @@ def to_markdown(r):
     g = ", ".join(x["guideline"] + (f" ({x['title']})" if x["title"] else "") for x in r["guidelines"]) or "none found"
     lines = [f"# Rejection triage — {r['path']} · account risk {r['risk']}", "",
              f"- Guidelines cited: {g}",
-             f"- 4.3: {r['kind_4_3'] or 'no'}" + (f" (4.3 rejections on this concept incl. this one: {r['four_three_count_including_this']})" if r["is_4_3"] else ""),
+             f"- 4.3 kind (pass to message_lint --letter-kind): {r['kind_4_3'] or 'no'}" + (f" (4.3 rejections on this concept incl. this one: {r['four_three_count_including_this']})" if r["is_4_3"] else ""),
              f"- Information request: {'yes' if r['information_needed'] else 'no'} · 'do not resubmit': {'yes' if r['do_not_resubmit'] else 'no'} · "
              f"extended-review warning: {'yes' if r['extended_review_warning'] else 'no'} · TestFlight named: {'yes' if r['mentions_testflight'] else 'no'}",
              f"- Confidence: {r['confidence']}", "", "## Do, in order", ""]

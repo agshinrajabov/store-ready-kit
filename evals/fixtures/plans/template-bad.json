@@ -1,0 +1,35 @@
+{
+  "app": "Fairfold",
+  "core_outcome": "a ride that stands up off the page",
+  "differentiator": "rides unfold on hinges in a constrained order",
+  "frames": [
+    {
+      "caption": "Fairfold: Unfold Puzzle",
+      "shows": "logo on a gradient with a 3D ride render",
+      "real_ui": false,
+      "moment": "title",
+      "concept": "logo"
+    },
+    {
+      "caption": "Relax and unwind with hundreds of levels",
+      "shows": "level grid",
+      "real_ui": true,
+      "moment": "feature",
+      "concept": "level-grid"
+    },
+    {
+      "caption": "Powerful tools, best puzzle game, FREE",
+      "shows": "level grid with coins",
+      "real_ui": true,
+      "moment": "feature",
+      "concept": "level-grid"
+    },
+    {
+      "caption": "Also on Android",
+      "shows": "park overview",
+      "real_ui": true,
+      "moment": "feature",
+      "concept": "park"
+    }
+  ]
+}

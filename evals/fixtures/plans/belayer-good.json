@@ -1,0 +1,35 @@
+{
+  "app": "Belayer",
+  "core_outcome": "a belay partner for tonight's session",
+  "differentiator": "verified belay certification on every profile",
+  "frames": [
+    {
+      "caption": "Find a belayer for tonight",
+      "shows": "Tonight list with three climbers free at your gym",
+      "real_ui": true,
+      "moment": "outcome",
+      "concept": "tonight-list"
+    },
+    {
+      "caption": "Every belayer is certified",
+      "shows": "profile with the verified certification badge expanded",
+      "real_ui": true,
+      "moment": "differentiator",
+      "concept": "certification"
+    },
+    {
+      "caption": "Plan the session together",
+      "shows": "shared session plan with routes and time",
+      "real_ui": true,
+      "moment": "outcome",
+      "concept": "session-plan"
+    },
+    {
+      "caption": "Check in when you're down",
+      "shows": "safety check-in prompt after the session",
+      "real_ui": true,
+      "moment": "feature",
+      "concept": "check-in"
+    }
+  ]
+}
