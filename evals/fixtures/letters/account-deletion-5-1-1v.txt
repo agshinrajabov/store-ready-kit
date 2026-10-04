@@ -1,0 +1,9 @@
+Guideline 5.1.1(v) - Legal - Privacy - Data Collection and Storage
+
+Issue Description
+
+The app supports account creation but does not include an option to initiate account deletion.
+
+Next Steps
+
+Update the app to support account deletion. If the app supports account creation, it must also offer account deletion within the app.

@@ -1,0 +1,32 @@
+{
+  "name": "Belayer",
+  "platforms": [
+    "iphone",
+    "ipad"
+  ],
+  "accounts": true,
+  "login_required": true,
+  "third_party_login": true,
+  "iap": true,
+  "subscriptions": true,
+  "ads": false,
+  "tracking": false,
+  "ugc": true,
+  "chat": true,
+  "kids_category": false,
+  "health": false,
+  "medical": false,
+  "finance": false,
+  "crypto": false,
+  "location": true,
+  "background_location": false,
+  "camera_or_mic": false,
+  "ai_generated_content": false,
+  "webview_main": false,
+  "external_purchase_links": false,
+  "loot_boxes": false,
+  "gambling": false,
+  "vpn": false,
+  "uses_ota_updates": false,
+  "previously_rejected_for": []
+}

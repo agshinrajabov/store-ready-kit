@@ -1,0 +1,11 @@
+Guideline 4.3(b) - Design - Spam
+
+Issue Description
+
+The app's design, content, and overall concept do not provide the high-quality experience expected of apps on the App Store. Apps should offer users a meaningful, well-crafted experience.
+
+Next Steps
+
+Do not resubmit for review until significant changes have been made to the app. We recommend using TestFlight to gather feedback before you resubmit.
+
+This app was found to include one or more issues that present significant safety, security, or quality concerns to users. Repeated submissions of apps with these issues will result in extended review times and may result in removal from the Apple Developer Program.

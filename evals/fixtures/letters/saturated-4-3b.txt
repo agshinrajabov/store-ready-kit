@@ -1,0 +1,7 @@
+Guideline 4.3(b) - Design - Spam
+
+Your app duplicates the content and functionality of similar apps in a saturated category on the App Store. Dating apps are well established on the App Store and we will not accept new submissions unless they offer a meaningfully different or improved experience.
+
+Next Steps
+
+We encourage you to review your app concept and submit a unique app that offers a meaningfully different experience.

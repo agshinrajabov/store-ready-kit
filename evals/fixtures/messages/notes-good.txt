@@ -1,0 +1,13 @@
+Belayer helps climbers find a belay partner for a session tonight.
+
+Demo account (full access, no expiry):
+Username: review@belayer.app
+Password: provided in the App Review Information field
+
+How to see the core feature:
+1. Sign in with the demo account.
+2. Tap Tonight.
+3. Tap any climber to open their profile and belay certification.
+4. Tap Ask to belay; the demo account already has one accepted match to show the chat.
+
+Matching needs two people, so the demo account comes with a pending and an accepted match.

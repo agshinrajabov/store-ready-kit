@@ -137,6 +137,16 @@ def check(case, out):
     for frag in exp.get("violations_include", []):
         if not any(frag.lower() in str(v).lower() for v in out.get("violations", [])):
             fails.append(f"no violation mentioning '{frag}': {out.get('violations')}")
+    for frag in exp.get("warnings_include", []):
+        if not any(frag.lower() in w.lower() for w in out.get("warnings", [])):
+            fails.append(f"no warning mentioning '{frag}': {out.get('warnings')}")
+    gl = [i["guideline"] for i in out.get("items", [])]
+    for g in exp.get("items_include", []):
+        if g not in gl:
+            fails.append(f"checklist lacks {g}")
+    for g in exp.get("items_exclude", []):
+        if g in gl:
+            fails.append(f"checklist should not include {g}")
     if "equals" in exp:
         for k, v in exp["equals"].items():
             if out.get(k) != v:
@@ -145,6 +155,12 @@ def check(case, out):
 
 
 def summary(case, out):
+    if out.get("tool") == "rejection_triage":
+        return f"{out['path']} / {out['risk']}"
+    if out.get("tool") == "message_lint":
+        return f"{'OK' if out['ok'] else 'BLOCKED'}, {len(out['warnings'])} warnings"
+    if out.get("tool") == "preflight":
+        return f"{out['count']} checks"
     if "readiness" in out:
         return f"{out['verdict']} {out['readiness']}"
     if "verdict" in out and "score" in out:

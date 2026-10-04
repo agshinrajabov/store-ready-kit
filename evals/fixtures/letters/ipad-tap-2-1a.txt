@@ -1,0 +1,15 @@
+Guideline 2.1(a) - Performance - App Completeness
+
+Issue Description
+
+The app exhibited one or more bugs that would negatively impact users.
+
+Bug description: We were unable to use the core feature; the app was unresponsive when we tapped on a piece to complete the first game.
+
+Review device details:
+- Device type: iPad Air 11-inch (M3)
+- OS version: iPadOS 27
+
+Next Steps
+
+Test the app on supported devices to identify and resolve bugs and stability issues before submitting for review.

@@ -1,0 +1,9 @@
+Guideline 4.3(a) - Design - Spam
+
+We noticed your app shares a similar binary, metadata, and/or concept as apps submitted to the App Store by other developers, with only minor differences.
+
+Submitting similar or repackaged apps is a form of spam that creates clutter and makes it difficult for users to discover new apps.
+
+Next Steps
+
+Since we do not accept spam apps on the App Store, we encourage you to review your app concept and submit a unique app with distinct content and functionality.

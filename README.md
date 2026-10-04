@@ -12,7 +12,7 @@ A set of four agent skills (SKILL.md format — Claude Code and compatible agent
 | `store-assets` | Screenshot narrative, caption copy, icon brief, preview video script |
 | `submission-pilot` | Pre-flight checklist, App Review notes, Resolution Center replies, resubmission strategy, appeal template |
 
-> Status: **pre-release.** `store-audit` is built and passes its evals; the other three skills are in progress.
+> Status: **pre-release.** `store-audit`, `aso-research` and `submission-pilot` are built and pass their evals; `store-assets` is in progress.
 
 **Guidelines snapshot:** App Review Guidelines revision of **8 June 2026**, last checked **2026-10-04**. Every
 reference file records the guideline numbers it summarises and the date it was last checked. Guidelines change;

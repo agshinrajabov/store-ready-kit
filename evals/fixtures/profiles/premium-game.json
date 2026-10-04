@@ -1,0 +1,12 @@
+{
+  "name": "Lumen",
+  "platforms": [
+    "iphone"
+  ],
+  "accounts": false,
+  "login_required": false,
+  "iap": true,
+  "subscriptions": false,
+  "ads": false,
+  "ugc": false
+}

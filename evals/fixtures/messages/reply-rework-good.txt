@@ -1,0 +1,10 @@
+Hello App Review,
+
+Thank you for the review under 4.3(b). We read it as a judgement on the quality of the whole experience, and we agree the first session did not show the game at its best.
+
+We are not resubmitting this build. We are changing:
+1. The first chapter: twelve hand-made levels, one idea each, no lives.
+2. The first session: no purchase or ad prompts; one optional purchase later.
+3. The art direction and store screenshots, built around the paper mechanic.
+
+We will run an external TestFlight round before submitting again. If there is a specific concern you can point us to, we would be grateful.

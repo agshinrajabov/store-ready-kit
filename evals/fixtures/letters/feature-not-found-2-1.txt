@@ -1,0 +1,7 @@
+Guideline 2.1 - Performance - App Completeness
+
+We were unable to locate the subscription restore option described in your metadata.
+
+Next Steps
+
+Please revise your app to include this feature or update your metadata.

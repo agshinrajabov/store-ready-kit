@@ -1,0 +1,10 @@
+Guideline 2.1 - Information Needed
+
+We have started the review of your app, but we are not able to continue because we need additional information about your app.
+
+Next Steps
+
+Please reply to this message and provide the following information:
+1. Does your app access any paid content or services outside of the app?
+2. Who is the intended audience of the app?
+3. Please provide a demo video showing the account creation flow on a physical device.
