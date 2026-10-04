@@ -3,8 +3,9 @@
 Last checked: **2026-10-04** · numbers: 2.3.7 (no copying other apps' icons), 4.1 (copycats) · spec: the App
 Store icon is 1024×1024, opaque (no alpha)
 
-The icon appears next to the name in every search result, so it is the first impression. In one documented 4.3
-case a clearly different icon was the change that got the app approved.
+The icon appears next to the name in every search result, so it is the first impression. In one 4.3 case a
+developer documented in a 2025 blog post, a clearly different icon was the only change in the approved
+resubmission. That is one case, not a rule.
 
 ## Write the brief before anyone draws
 
@@ -17,7 +18,7 @@ case a clearly different icon was the change that got the app approved.
 | Size test | Readable at 40 px (search results on small phones)? |
 | Text | None, or one letter that is the brand. Words are unreadable at icon size. |
 | Colour | One dominant colour that is not the niche default. Check it against the competitors' grid. |
-| Variants | Light, dark and tinted (iOS 18+). The idea must survive all three. |
+| Variants | Default, dark, clear and tinted appearances (iOS 26 layered icons, built in Icon Composer; iOS 18 introduced dark and tinted). The idea must survive every appearance as a shape, not only as a colour. |
 
 ## Review
 

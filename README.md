@@ -47,8 +47,8 @@ endpoints the research scripts call. No telemetry.
 
 ## Why this exists
 
-A growing share of App Store submissions now come from AI-built apps, and Guideline 4.3 (spam) is where many
-of them stop. Apple tightened 4.3(b) in June 2026 with a second prong aimed at low-effort apps, and acted
+AI app builders have made it easy to get an app to "it builds". Getting it through App Review is another
+matter, and Guideline 4.3 (spam) is where many of these apps stop. Apple tightened 4.3(b) in June 2026 with a second prong aimed at low-effort apps, and acted
 against app-builder platforms the same year. The help available is blog posts and paid consultants. This kit
 puts the know-how inside the agent that is already building the app.
 

@@ -42,10 +42,11 @@ def png_info(data):
         return None
     w, h, depth, color = struct.unpack(">IIBB", data[16:26])
     alpha = color in (4, 6)
-    # A palette image with a tRNS chunk also carries transparency.
-    if color == 3 and b"tRNS" in data[:4096]:
+    # A tRNS chunk (palette, grey or RGB colour key) also carries transparency; it must precede IDAT.
+    idat = data.find(b"IDAT")
+    if b"tRNS" in (data[:idat] if idat > 0 else data):
         alpha = True
-    return {"format": "png", "width": w, "height": h, "alpha": alpha}
+    return {"format": "png", "width": w, "height": h, "alpha": alpha, "colour": "rgb"}
 
 
 def jpeg_info(data):
@@ -59,7 +60,9 @@ def jpeg_info(data):
         marker = data[i + 1]
         if marker in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
             h, w = struct.unpack(">HH", data[i + 5:i + 9])
-            return {"format": "jpeg", "width": w, "height": h, "alpha": False}
+            comps = data[i + 9]
+            return {"format": "jpeg", "width": w, "height": h, "alpha": False,
+                    "colour": {1: "grey", 3: "rgb", 4: "cmyk"}.get(comps, "unknown")}
         seg = struct.unpack(">H", data[i + 2:i + 4])[0]
         i += 2 + seg
     return None
@@ -67,7 +70,7 @@ def jpeg_info(data):
 
 def info(path):
     with open(path, "rb") as fh:
-        data = fh.read(256 * 1024)
+        data = fh.read(16 * 1024 * 1024)   # EXIF/ICC blocks can push a JPEG's size marker far in
     return png_info(data) or jpeg_info(data)
 
 
@@ -97,6 +100,8 @@ def check(paths, icon=None, platforms=("iphone",)):
             sets.setdefault(dev, []).append(rec)
         if meta["alpha"]:
             problems.append(("ERROR", p, "has an alpha channel; screenshots cannot include transparency"))
+        if meta.get("colour") == "cmyk":
+            problems.append(("ERROR", p, "CMYK JPEG; export as RGB"))
     for dev, items in sets.items():
         if len(items) > 10:
             problems.append(("ERROR", dev, f"{len(items)} screenshots; at most 10 per device class"))
@@ -136,7 +141,7 @@ def evaluate(paths=(), icon=None, platforms=("iphone",)):
 
 
 def write_png(path, w, h, alpha=False, rgb=(240, 236, 228)):
-    """Write a solid-colour PNG (used to build eval fixtures without image libraries)."""
+    """Test helper, not used by the check: writes a solid-colour PNG so the evals need no image library."""
     channels = 4 if alpha else 3
     px = bytes(rgb) + (b"\x80" if alpha else b"")
     raw = b"".join(b"\x00" + px * w for _ in range(h))

@@ -23,21 +23,29 @@ this skill's plan and briefs.
 
 ## Workflow
 
-Keep everything in `assets/<date>/`.
+Keep everything in `assets/<date>/` at the project root (or a scratch folder with no project). Languages: if
+the user has not said, ask. If there is no answer, plan for the primary market's language and say so.
 
+0. **Current assets** (if any): describe the current frames as a plan, run `plan_lint.py` on it, and list what
+   fails. That is the before picture.
 1. **Three sentences**: core outcome, differentiator, the user's doubt
    (`references/screenshot-narrative.md`, step 1).
-2. **Niche pattern**: describe the first three frames and the icon of the top 10 competitors (concepts, not
-   pixels). Write down what they all share. If you cannot open the images, say so.
+2. **Niche pattern**: take the 10 apps that rank highest on the app's most relevant search terms (not by rating
+   count). Leave out apps from other categories. Describe their first three frames and icons as concepts, not
+   pixels, and write down what they share. You need image URLs: `firstScreenshots` and `artworkUrl512` in a
+   snapshot from the current `competitor_scan.py`. If the snapshot is older and lacks them, re-run the scan, or
+   ask the user for screenshots. If neither is possible, infer from descriptions, label every visual claim
+   **not observed**, and have the user confirm the pattern by eye before the visual pass.
 3. **Narrative plan**: the moment map → frame order → captions (`references/caption-copy.md`). Write it as
    `plan.json` and run:
    `python3 scripts/plan_lint.py --plan plan.json`
    Fix every BLOCK. Rewrite captions that get a stock-phrase or feature-list warning.
 4. **Icon brief**: `references/icon-brief.md`. Include the niche pattern and how this icon departs from it.
 5. **Preview script** (optional, only if the first 3 seconds can be strong): `references/preview-video.md`.
-6. **Visual pass**: hand the plan, the niche pattern and the icon brief to `no-slop-design`. Say so plainly
-   if it is not installed.
-7. **File check** after export:
+6. **Visual pass**: write the hand-over to `no-slop-design` (plan, niche pattern, icon brief). Run it only once
+   real captures from the build exist. Otherwise the hand-over is the output. Say so plainly if it is not
+   installed.
+7. **File check** after export. In a planning turn, write "not run, no exports yet" and the command:
    `python3 scripts/asset_check.py <screens…> --icon icon-1024.png --platform iphone [--platform ipad]`
 
 ## Output: `store-assets.md`
@@ -54,6 +62,10 @@ Keep everything in `assets/<date>/`.
 
 ## Judgement
 
+- Frames that depend on UI you have not seen (a highlight, a locked state) are **conditions the user must
+  confirm in the build**. List them. Never plan a frame showing UI the build does not have (2.3.1).
+- Caption test 4 (the user's words) needs review mining from `aso-research`. Without it, mark that test
+  "not run".
 - If the differentiator cannot be seen in a frame, the problem is the product or the UI, not the screenshots.
   Say so, and send it back to `store-audit`.
 - Prefer a caption-free frame 1 when the image is distinctive. Use a caption when the outcome needs words.
