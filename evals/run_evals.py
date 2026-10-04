@@ -152,6 +152,15 @@ def check(case, out):
     for g in exp.get("items_exclude", []):
         if g in gl:
             fails.append(f"checklist should not include {g}")
+    for w in exp.get("pack_excludes", []):
+        if w in out.get("words", []):
+            fails.append(f"pack contains '{w}': {out.get('keywords')}")
+    for pair in exp.get("pack_not_both", []):
+        if all(w in out.get("words", []) for w in pair):
+            fails.append(f"pack reassembles {pair}: {out.get('keywords')}")
+    for w in exp.get("pack_includes", []):
+        if w not in out.get("words", []):
+            fails.append(f"pack lacks '{w}': {out.get('keywords')}")
     if "equals" in exp:
         for k, v in exp["equals"].items():
             if out.get(k) != v:

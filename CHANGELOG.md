@@ -1,6 +1,25 @@
 # Changelog
 
-## Unreleased
+## 1.0.0 — 2026-10-04
+
+First release: four skills — `store-audit`, `aso-research`, `store-assets`, `submission-pilot` — with
+`install.sh`, the 4.3(b) playbook, and the eval suite. Guidelines snapshot: revision of 8 June 2026, checked
+2026-10-04.
+
+Eval run before release: **54/54 script cases passed**; agent rubrics 01–05 run once each (all pass criteria
+met; their friction reports drove the fixes below).
+
+- `store-assets` skill: SKILL.md, five references (first three screenshots, narrative planner, caption copy,
+  icon brief, preview video), `plan_lint.py` (frame-1 rule, distinct moments, 2.3.7/2.3.10 in captions,
+  competitor names, award and rating claims) and `asset_check.py` (accepted sizes, alpha, CMYK, counts).
+- `aso-research`: `keyword_rank.py apps` (competitor IDs and snapshot) and `charts` (chart-depth medians);
+  faster, cached popularity probing with partial credit; a brand split across fields is blocked; the packer never
+  reassembles a blocked brand, drops relevance < 0.5, ranks unscored terms sanely and reports free characters.
+- `submission-pilot`: originality appeals against a low-effort letter are blocked; any placeholder blocks unless
+  `--draft`; `[[FILL: …]]` convention; rejection-plan template; consultation step in REWORK.
+- `install.sh`: symlink or copy, `--dest`, `--only`, `--uninstall`; no network, no telemetry.
+
+## Pre-release history
 
 - `aso-research` skill: SKILL.md, four references (method, metadata rules, category choice, prohibited tactics),
   three scripts — `keyword_rank.py` (autocomplete expansion, review mining, per-storefront popularity proxy,

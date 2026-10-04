@@ -1,0 +1,77 @@
+{
+ "tool": "keyword_rank.score",
+ "rows": [
+  {
+   "term": "mountain project",
+   "country": "us",
+   "popularity": 65,
+   "difficulty": 58,
+   "relevance": 0.0,
+   "opportunity": 0.0,
+   "blocked": "competitor app name 'Mountain Project' (2.3.7)"
+  },
+  {
+   "term": "climbing buddy",
+   "country": "us",
+   "popularity": 43,
+   "difficulty": 48,
+   "relevance": 1.0,
+   "opportunity": 0.0,
+   "blocked": "competitor app name 'Climbing Buddy' (2.3.7)"
+  },
+  {
+   "term": "rock climbing",
+   "country": "us",
+   "popularity": 65,
+   "difficulty": 50,
+   "relevance": 0.8,
+   "opportunity": 25.8,
+   "blocked": null
+  },
+  {
+   "term": "belay check",
+   "country": "us",
+   "popularity": 0,
+   "difficulty": 32,
+   "relevance": 1.0,
+   "opportunity": 0,
+   "blocked": null
+  },
+  {
+   "term": "top rope",
+   "country": "us",
+   "popularity": 0,
+   "difficulty": 56,
+   "relevance": 1.0,
+   "opportunity": 0,
+   "blocked": null
+  },
+  {
+   "term": "bouldering",
+   "country": "us",
+   "popularity": 36,
+   "difficulty": 47,
+   "relevance": 0.3,
+   "opportunity": 5.8,
+   "blocked": null
+  },
+  {
+   "term": "project",
+   "country": "us",
+   "popularity": 10,
+   "difficulty": 20,
+   "relevance": 0.6,
+   "opportunity": 4.8,
+   "blocked": null
+  },
+  {
+   "term": "buddy",
+   "country": "us",
+   "popularity": 12,
+   "difficulty": 30,
+   "relevance": 0.9,
+   "opportunity": 7.6,
+   "blocked": null
+  }
+ ]
+}

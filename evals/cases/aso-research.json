@@ -1,24 +1,150 @@
 [
-  {"id": "c-pack-climbing", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "keyword_pack", "args": {"scores": "FIX/aso/climbing-scores.json", "name": "Belayer", "subtitle": "Find partners at your crag"},
-   "note": "Twenty candidates, one blocked competitor name, price/ranking phrases, words already in the subtitle.",
-   "expect": {"all_within_limits": true}},
-  {"id": "c-pack-long-words", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "keyword_pack", "args": {"scores": "FIX/aso/long-words-scores.json", "name": "Goals"},
-   "note": "Long words that cannot all fit; the packer must stop at 100, not truncate a word.",
-   "expect": {"all_within_limits": true}},
-  {"id": "c-pack-unicode", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "keyword_pack", "args": {"scores": "FIX/aso/unicode-scores.json", "name": "Habitudes"},
-   "note": "Non-ASCII terms (German, Turkish, Japanese, Spanish) and a blocked competitor name.",
-   "expect": {"all_within_limits": true}},
-  {"id": "c-pack-tight-limit", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "keyword_pack", "args": {"scores": "FIX/aso/climbing-scores.json", "name": "Belayer", "limit": 20},
-   "expect": {"all_within_limits": true}},
-  {"id": "c-lint-variants-ok", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "char_lint", "args": {"file": "FIX/aso/climbing-variants-ok.json"},
-   "expect": {"all_within_limits": true}},
-  {"id": "c-lint-variants-bad", "group": "charlimit", "skill": "aso-research", "run": "script",
-   "script": "char_lint", "args": {"file": "FIX/aso/climbing-variants-bad.json", "competitors": "FIX/niches/habit-tracker.json"},
-   "note": "Negative test: a 32-character name, 'best'/'free' in the subtitle, a competitor name in keywords. The linter must catch all three.",
-   "expect": {"equals": {"all_within_limits": false}, "violations_include": ["name: 32/30", "'best'", "'free'", "habit rabbit"]}}
+ {
+  "id": "c-pack-climbing",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "keyword_pack",
+  "args": {
+   "scores": "FIX/aso/climbing-scores.json",
+   "name": "Belayer",
+   "subtitle": "Find partners at your crag"
+  },
+  "note": "Twenty candidates, one blocked competitor name, price/ranking phrases, words already in the subtitle.",
+  "expect": {
+   "all_within_limits": true
+  }
+ },
+ {
+  "id": "c-pack-long-words",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "keyword_pack",
+  "args": {
+   "scores": "FIX/aso/long-words-scores.json",
+   "name": "Goals"
+  },
+  "note": "Long words that cannot all fit; the packer must stop at 100, not truncate a word.",
+  "expect": {
+   "all_within_limits": true
+  }
+ },
+ {
+  "id": "c-pack-unicode",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "keyword_pack",
+  "args": {
+   "scores": "FIX/aso/unicode-scores.json",
+   "name": "Habitudes"
+  },
+  "note": "Non-ASCII terms (German, Turkish, Japanese, Spanish) and a blocked competitor name.",
+  "expect": {
+   "all_within_limits": true
+  }
+ },
+ {
+  "id": "c-pack-tight-limit",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "keyword_pack",
+  "args": {
+   "scores": "FIX/aso/climbing-scores.json",
+   "name": "Belayer",
+   "limit": 20
+  },
+  "expect": {
+   "all_within_limits": true
+  }
+ },
+ {
+  "id": "c-lint-variants-ok",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "char_lint",
+  "args": {
+   "file": "FIX/aso/climbing-variants-ok.json"
+  },
+  "expect": {
+   "all_within_limits": true
+  }
+ },
+ {
+  "id": "c-lint-variants-bad",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "char_lint",
+  "args": {
+   "file": "FIX/aso/climbing-variants-bad.json",
+   "competitors": "FIX/niches/habit-tracker.json"
+  },
+  "note": "Negative test: a 32-character name, 'best'/'free' in the subtitle, a competitor name in keywords. The linter must catch all three.",
+  "expect": {
+   "equals": {
+    "all_within_limits": false
+   },
+   "violations_include": [
+    "name: 32/30",
+    "'best'",
+    "'free'",
+    "habit rabbit"
+   ]
+  }
+ },
+ {
+  "id": "c-lint-split-brand",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "char_lint",
+  "args": {
+   "file": "FIX/aso/split-brand.json",
+   "competitors": "FIX/aso/climbing-apps.json"
+  },
+  "note": "Found by agent eval 03: a brand split into words across fields indexes as the brand.",
+  "expect": {
+   "equals": {
+    "all_within_limits": false
+   },
+   "violations_include": [
+    "assembled from words"
+   ]
+  }
+ },
+ {
+  "id": "c-pack-brand-trap",
+  "group": "charlimit",
+  "skill": "aso-research",
+  "run": "script",
+  "script": "keyword_pack",
+  "args": {
+   "scores": "FIX/aso/brand-trap-scores.json",
+   "name": "Belayer: Climbing Partner",
+   "subtitle": "Verified belay at your gym",
+   "terms": "mountain"
+  },
+  "note": "Blocked brands must not be reassembled: 'buddy' would complete 'climbing buddy' (climbing is in the name); 'project' alone is fine, but never together with 'mountain'. Low-relevance 'bouldering' is dropped; zero-opportunity rows rank by difficulty, not alphabet.",
+  "expect": {
+   "all_within_limits": true,
+   "pack_excludes": [
+    "buddy",
+    "bouldering"
+   ],
+   "pack_includes": [
+    "rock",
+    "check"
+   ],
+   "pack_not_both": [
+    [
+     "mountain",
+     "project"
+    ]
+   ]
+  }
+ }
 ]

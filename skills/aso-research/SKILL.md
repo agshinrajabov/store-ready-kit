@@ -23,24 +23,36 @@ proxies from public data, so call them proxies every time and never present them
 
 ## Workflow
 
-Keep every file in `aso/<date>/`. Read `references/keyword-method.md` once before starting. It explains each
-step and how to read the numbers.
+Keep every file in `aso/<date>/` at the project root (or a scratch folder). Commands below are relative to
+this skill's folder. Read `references/keyword-method.md` once before starting. It explains each step and how
+to read the numbers.
 
+0. **Competitors**: `python3 scripts/keyword_rank.py apps --term "<job term>" --term … --country us -o apps.json`
+   This gives competitor IDs for step 3 and the snapshot that `char_lint.py --competitors` needs. You can
+   also use `store-audit`'s `competitors.json`.
 1. **Seeds**: 5–10 words for the app's job, written as a user would type them.
 2. **Expand**: `python3 scripts/keyword_rank.py expand --seed … --country us -o expand.json`
-   Remove app names, other jobs and unsupported languages. Keep 20–60 candidates as `shortlist.json` (a list of
-   terms).
-3. **Reviews**: `python3 scripts/keyword_rank.py reviews --app-id <top 2–3 competitors> --format md`
-   Add the phrases users actually use. Keep complaint words separately for `store-assets`.
+   Remove app names, other jobs and unsupported languages. Keep 20–40 candidates as `shortlist.json` (a list of
+   terms). In a niche, autocomplete is mostly app names, so expect to write much of the shortlist by hand.
+3. **Reviews**: `python3 scripts/keyword_rank.py reviews --app-id <top 2–3 competitors from apps.json> --format md`
+   Add the phrases users actually use, but never competitor names that show up among them. Keep complaint words
+   separately for `store-assets`. If the direct competitors have no reviews, mine the closest adjacent apps and
+   say so.
 4. **Score**: `python3 scripts/keyword_rank.py score --keywords shortlist.json --app-text listing.json --country us[,gb…] -o scores.json`
-   Correct relevance by hand where the calculation is wrong (`--relevance overrides.json`). Rows marked
-   `blocked` are competitor names and stay out.
-5. **Variants**: 3 names, 3 subtitles (`keyword-method.md` §6), then a keyword field for each pair:
-   `python3 scripts/keyword_pack.py --scores scores.json --country us --name "…" --subtitle "…"`
+   Do a quick pass with `--no-popularity` first (about 2 s per term per storefront), then probe popularity only
+   for the 15–20 best terms (roughly 10–30 s each per storefront). Correct relevance by hand where the
+   calculation is wrong (`--relevance overrides.json`). Rows marked `blocked` are competitor names, and a term
+   blocked in one storefront stays out everywhere.
+5. **Variants**: 3 names, 3 subtitles (`keyword-method.md` §6), then a keyword field for each pair **and each
+   localisation** (en-US and en-GB are separate fields):
+   `python3 scripts/keyword_pack.py --scores scores.json --country us --competitors apps.json --name "…" --subtitle "…"`
+   It drops terms with relevance below 0.5 and never reassembles a blocked brand. If it reports free
+   characters, add relevant words by hand.
 6. **Lint**: write all variants to `variants.json` and run
-   `python3 scripts/char_lint.py --file variants.json --competitors competitors.json`
+   `python3 scripts/char_lint.py --file variants.json --competitors apps.json` (give each variant a `label`)
    Fix and re-run until it passes. WASTE warnings are worth fixing. LIMIT and BLOCK must be fixed.
-7. **Category**: recommend a primary and a secondary category (`references/category-choice.md`).
+7. **Category**: recommend a primary and a secondary category (`references/category-choice.md`), with chart
+   depth from `python3 scripts/keyword_rank.py charts --genre <id> --genre <id> --country us,gb`.
 
 ## Output: `aso-research.md`
 
@@ -67,8 +79,9 @@ step and how to read the numbers.
 - If `store-audit` flagged the name as a keyword stack, the recommended name must fix that. Brand first, at
   most one descriptor.
 - If the user's current metadata breaks a rule, say so plainly before proposing anything else.
-- The scripts call public Apple endpoints at about one request a second. A full run (40 terms × 2 storefronts
-  with popularity) takes several minutes. Use `--no-popularity` for a quick first pass.
+- The scripts call public Apple endpoints at about one request a second, and slower when Apple throttles.
+  Popularity probing costs several calls per term. Budget about 15 minutes for 20 probed terms in two
+  storefronts, and keep the rest difficulty-only. In the keyword table, mark difficulty-only rows as such.
 
 ## References
 

@@ -8,7 +8,7 @@ Input: a JSON object, or a list of objects (variants), with any of these fields:
   name (30) · subtitle (30) · keywords (100) · promotional_text (170) · description (4000) · whats_new (4000)
 
 Examples:
-  char_lint.py --name "Belayer" --subtitle "Find partners at your crag" --keywords "climbing,bouldering,gym"
+  char_lint.py --name "Leafwise" --subtitle "Keep every houseplant alive" --keywords "plant,watering,succulent"
   char_lint.py --file variants.json
   char_lint.py --file variants.json --competitors competitors.json --format md
 
@@ -97,6 +97,16 @@ def lint(variant, marks, soft_marks=()):
         issues.append(("LIMIT", "name", "name is empty or too short"))
 
     head = {"name": name, "subtitle": variant.get("subtitle") or "", "keywords": variant.get("keywords") or ""}
+    # Apple combines words across the three fields, so a brand split into its words ("mountain,project")
+    # indexes like the brand itself.
+    all_words = {singular(w) for t in head.values() for w in words(t)}
+    for mark in sorted(marks):
+        parts = [singular(w) for w in words(mark)]
+        joined = " ".join(head.values()).lower()
+        whole = re.search(r"(?<![\w])" + re.escape(mark) + r"(?![\w])", joined.replace(",", " , "))
+        if len(parts) > 1 and all(w in all_words for w in parts) and not whole:
+            issues.append(("BLOCK", "all", f"'{mark}' is assembled from words across the fields — Apple combines "
+                                           f"them, so this targets another app's name (2.3.7)"))
     for field, text in head.items():
         low = " " + text.lower().replace(",", " , ") + " "
         for mark in sorted(marks):
@@ -143,13 +153,14 @@ def lint(variant, marks, soft_marks=()):
         if multi:
             issues.append(("WASTE", "keywords", f"multi-word terms (single words combine anyway): {', '.join(multi[:5])}"))
     if name and variant.get("subtitle"):
-        overlap = sorted(set(words(name)) & set(words(variant["subtitle"])) - FILLER)
+        overlap = sorted({singular(w) for w in words(name)} & {singular(w) for w in words(variant["subtitle"])}
+                         - {singular(f) for f in FILLER})
         if overlap:
             issues.append(("WASTE", "subtitle", f"repeats words from the name: {', '.join(overlap)}"))
     return issues
 
 
-def evaluate(variants=None, file=None, competitors=None):
+def evaluate(variants=None, file=None, competitors=None, extra_marks=()):
     """Entry point used by the eval harness. Returns a dict with all_within_limits and violations."""
     if file:
         with open(file, encoding="utf-8") as fh:
@@ -160,12 +171,13 @@ def evaluate(variants=None, file=None, competitors=None):
     if competitors:
         hard, soft = competitor_names(competitors, (variants[0].get("name") if variants else None))
         marks |= hard
+    marks |= {m.lower() for m in extra_marks}
     results, violations = [], []
     for i, v in enumerate(variants):
         own = re.split(r"[:\-–—|]", v.get("name") or "")[0].strip().lower()
         issues = lint(v, {m for m in marks if m != own}, {m for m in soft if m != own})
         blocking = [x for x in issues if x[0] in ("LIMIT", "BLOCK")]
-        results.append({"variant": i + 1, "fields": {k: f"{count(v[k])}/{LIMITS[k]}" for k in LIMITS if k in v},
+        results.append({"variant": i + 1, "label": v.get("label"), "fields": {k: f"{count(v[k])}/{LIMITS[k]}" for k in LIMITS if k in v},
                         "ok": not blocking, "issues": [{"rule": r, "field": f, "detail": d} for r, f, d in issues]})
         violations += [f"variant {i + 1} {f}: {d}" for r, f, d in blocking]
     return {"tool": "char_lint", "all_within_limits": not violations, "violations": violations, "results": results}
@@ -193,7 +205,8 @@ def main():
     else:
         for r in res["results"]:
             status = "OK" if r["ok"] else "BLOCKED"
-            print(f"Variant {r['variant']}: {status} — " + ", ".join(f"{k} {v}" for k, v in r["fields"].items()))
+            tag = f" ({r['label']})" if r.get("label") else ""
+            print(f"Variant {r['variant']}{tag}: {status} — " + ", ".join(f"{k} {v}" for k, v in r["fields"].items()))
             for i in r["issues"]:
                 print(f"  {i['rule']:<5} {i['field']:<10} {i['detail']}")
         print("\nAll variants within limits and rules." if res["all_within_limits"] else

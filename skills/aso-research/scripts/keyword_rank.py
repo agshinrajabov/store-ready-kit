@@ -5,10 +5,14 @@ Subcommands:
 
   expand   Grow a seed list with App Store autocomplete (the hints users see while typing).
   reviews  Mine competitor reviews (public RSS) for the words users actually use.
+  apps     Top apps for some terms, with IDs and rating counts (competitor IDs; a snapshot for the linter).
+  charts   Chart depth per genre and storefront, for the category choice.
   score    For each keyword and storefront: a popularity proxy, a difficulty estimate, relevance to
            your app, your current rank, and an opportunity score.
 
 Examples:
+  keyword_rank.py apps --term "plant care" --term "watering reminder" --country us -o apps.json
+  keyword_rank.py charts --genre 6012 --genre 6013 --country us,gb
   keyword_rank.py expand --seed "habit tracker" --seed "routine" --country us -o candidates.json
   keyword_rank.py expand --seed habit --alphabet --country gb
   keyword_rank.py reviews --app-id 1234567890 --app-id 2345678901 --country us --top 40
@@ -50,7 +54,9 @@ STOREFRONTS = {"us": 143441, "gb": 143444, "de": 143443, "fr": 143442, "ca": 143
                "jp": 143462, "it": 143450, "es": 143454, "nl": 143452, "br": 143503, "mx": 143468,
                "in": 143467, "kr": 143466, "cn": 143465, "tr": 143480, "ru": 143469, "se": 143456}
 
-STOP = set("""a an and the for with of to in on at by from my your our you we i it is are be this that app apps
+STOP = set("""when they there what other every now out only because why then than them their these those
+who how which where while also still even just back over into onto about after before again always never
+ever app's apps' gets getting got going one two lot much many really very much thing things""".split()) | set("""a an and the for with of to in on at by from my your our you we i it is are be this that app apps
 game games get got very really just so but not no yes can will would could like love great good nice best
 use using used one also even much more most all any some way thing things make makes made lot lots time
 please would been have has had was were do does did dont don't its it's im i'm ive i've""".split())
@@ -77,7 +83,13 @@ def get(url, headers=None, raw=False, retries=3):
             time.sleep(4 * (attempt + 1))
 
 
+_hint_cache = {}
+
+
 def hints(term, country):
+    key = (term, country)
+    if key in _hint_cache:
+        return _hint_cache[key]
     sf = STOREFRONTS.get(country)
     if not sf:
         raise SystemExit(f"no storefront id for '{country}'; known: {', '.join(sorted(STOREFRONTS))}")
@@ -86,24 +98,38 @@ def hints(term, country):
     if not data:
         return []
     try:
-        return [h["term"] for h in plistlib.loads(data).get("hints", [])]
+        out = [h["term"] for h in plistlib.loads(data).get("hints", [])]
     except Exception:
-        return []
+        out = []
+    _hint_cache[key] = out
+    return out
 
 
 def popularity(term, country):
-    """Shortest typed prefix at which autocomplete offers the term, and where it sits in the list."""
+    """Shortest typed prefix at which autocomplete offers the term, and where it sits in the list.
+
+    Stops early: once a prefix returns a short (not full) list without the term, longer prefixes only narrow
+    it. If the term itself is never offered but longer phrases starting with it are ("climbing partner" →
+    "climbing partner finder"), it gets half credit — in niches autocomplete is crowded with app names.
+    """
     term = term.lower().strip()
+    partial = None
     for n in range(2, len(term) + 1):
         prefix = term[:n]
         if prefix.endswith(" "):
             continue
         offered = [h.lower() for h in hints(prefix, country)]
+        typed = (n - 2) / max(1, len(term) - 2)        # 0 when found after 2 letters
         if term in offered:
             pos = offered.index(term)
-            typed = (n - 2) / max(1, len(term) - 2)        # 0 when found after 2 letters
             return round(100 * (1 - 0.85 * typed) * (1 - 0.06 * pos), 1), n, pos + 1
-    return 0.0, None, None
+        if partial is None:
+            ext = [i for i, h in enumerate(offered) if h.startswith(term + " ")]
+            if ext:
+                partial = (round(50 * (1 - 0.85 * typed) * (1 - 0.06 * ext[0]), 1), n, ext[0] + 1)
+        if len(offered) < 10 and not any(h.startswith(term[:n + 1]) for h in offered):
+            break
+    return partial or (0.0, None, None)
 
 
 def search(term, country, limit=25):
@@ -115,7 +141,7 @@ def search(term, country, limit=25):
 def difficulty(term, results):
     top = results[:10]
     if not top:
-        return 0.0, {}
+        return None, {"note": "no search results"}
     ratings = sorted((a.get("userRatingCount") or 0) for a in top)
     med = ratings[len(ratings) // 2]
     rating_part = min(1.0, math.log10(med + 1) / 5)           # 100k ratings -> 1.0
@@ -146,7 +172,8 @@ def relevance(term, toks, manual):
     ws = [w for w in re.findall(r"[a-z0-9]+", term.lower()) if w not in STOP]
     if not ws:
         return 0.0
-    hit = sum(1 for w in ws if w in toks or w.rstrip("s") in toks)
+    stoks = {t[:-1] if t.endswith("s") and len(t) > 3 else t for t in toks}
+    hit = sum(1 for w in ws if (w[:-1] if w.endswith("s") and len(w) > 3 else w) in stoks)
     return round(hit / len(ws), 2)
 
 
@@ -213,8 +240,10 @@ def cmd_score(a):
             manual = {k.lower(): float(v) for k, v in json.load(fh).items()}
     toks = app_tokens(a.app_text)
     rows = []
-    for country in a.country.split(","):
-        for term in terms:
+    countries = a.country.split(",")
+    for country in countries:
+        for k, term in enumerate(terms, 1):
+            print(f"keyword_rank: {country} {k}/{len(terms)} {term}", file=sys.stderr, flush=True)
             results = search(term, country)
             diff, detail = difficulty(term, results)
             pop, typed, pos = popularity(term, country) if not a.no_popularity else (None, None, None)
@@ -235,12 +264,17 @@ def cmd_score(a):
                     if str(r.get("trackId")) == str(a.app_id):
                         rank = i
                         break
-            opp = round((pop or 0) * (100 - diff) / 100 * rel, 1) if pop is not None else None
+            opp = round((pop or 0) * (100 - diff) / 100 * rel, 1) if (pop is not None and diff is not None) else None
             rows.append({"term": term, "country": country, "popularity": pop, "typed_letters": typed,
                          "hint_position": pos, "difficulty": diff, **detail, "relevance": rel,
                          "your_rank": rank if a.app_id else None, "opportunity": 0.0 if brand else opp,
                          "blocked": f"competitor app name '{owner}' (2.3.7)" if brand else None,
                          "note": name_note})
+    # A term that is a competitor's name in any storefront stays blocked in all of them.
+    blocked_any = {r["term"]: r["blocked"] for r in rows if r["blocked"]}
+    for r in rows:
+        if r["term"] in blocked_any and not r["blocked"]:
+            r["blocked"], r["opportunity"] = blocked_any[r["term"]] + " (in another storefront)", 0.0
     rows.sort(key=lambda r: (r["country"], -(r["opportunity"] or 0)))
     res = {"tool": "keyword_rank.score", "fetchedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
            "countries": a.country.split(","), "rows": rows,
@@ -248,14 +282,62 @@ def cmd_score(a):
     emit(res, a)
 
 
+def cmd_apps(a):
+    """Top apps for the terms, with IDs: competitor IDs for `reviews`, and a snapshot for char_lint/keyword_pack."""
+    apps = {}
+    for term in a.term:
+        for rank, r in enumerate(search(term, a.country, a.limit), 1):
+            e = apps.setdefault(r.get("trackId"), {k: r.get(k) for k in ("trackId", "trackName", "artistName",
+                                                                          "primaryGenreName", "userRatingCount")})
+            e.setdefault("ranks", {})[term] = rank
+    out = sorted(apps.values(), key=lambda x: min(x["ranks"].values()))
+    emit({"tool": "keyword_rank.apps", "country": a.country, "terms": a.term, "apps": out}, a)
+
+
+def cmd_charts(a):
+    """Chart depth: ratings at several positions of the top-free chart, per genre and storefront."""
+    rows = []
+    for country in a.country.split(","):
+        for genre in a.genre:
+            d = get(f"https://itunes.apple.com/{country}/rss/topfreeapplications/limit=100/genre={genre}/json")
+            entries = ((d or {}).get("feed") or {}).get("entry") or []
+            ids = [e["id"]["attributes"]["im:id"] for e in entries]
+            ratings = {}
+            for i in range(0, len(ids), 50):
+                q = urllib.parse.urlencode({"id": ",".join(ids[i:i + 50]), "country": country})
+                for r in (get(f"https://itunes.apple.com/lookup?{q}") or {}).get("results", []):
+                    ratings[str(r.get("trackId"))] = r.get("userRatingCount") or 0
+            vals = [ratings.get(x, 0) for x in ids]
+            mid = sorted(vals[40:60])
+            rows.append({"country": country, "genre": genre, "apps": len(vals),
+                         "at_10": vals[9] if len(vals) > 9 else None,
+                         "median_41_60": mid[len(mid) // 2] if mid else None,
+                         "median_81_100": sorted(vals[80:100])[len(vals[80:100]) // 2] if len(vals) > 80 else None})
+    emit({"tool": "keyword_rank.charts", "rows": rows,
+          "note": "Single positions are noisy; read the medians. Lower = easier to enter."}, a)
+
+
 def emit(res, a):
+    if getattr(a, "format", "json") == "md" and getattr(a, "output", None):
+        with open(a.output.rsplit(".", 1)[0] + ".json", "w", encoding="utf-8") as fh:
+            json.dump(res, fh, indent=2, ensure_ascii=False)
+        print(f"keyword_rank: also wrote {a.output.rsplit('.', 1)[0]}.json", file=sys.stderr)
     if getattr(a, "format", "json") == "md":
+        dash = lambda v: "—" if v is None else v
         if res["tool"].endswith("score"):
             print("| Keyword | Store | Popularity | Difficulty | Relevance | Opportunity | Your rank | Note |")
             print("|---|---|---|---|---|---|---|---|")
             for r in res["rows"]:
-                print(f"| {r['term']} | {r['country']} | {r['popularity']} | {r['difficulty']} | {r['relevance']} | "
-                      f"{r['opportunity']} | {r['your_rank'] or '—'} | {r['blocked'] or r.get('note') or ''} |")
+                print(f"| {r['term']} | {r['country']} | {dash(r['popularity'])} | {dash(r['difficulty'])} | {r['relevance']} | "
+                      f"{dash(r['opportunity'])} | {r['your_rank'] or '—'} | {r['blocked'] or r.get('note') or ''} |")
+            print(f"\n_{res['note']}_")
+        elif res["tool"].endswith("apps"):
+            for x in res["apps"]:
+                print(f"{x['trackId']}  {x['trackName']}  ({x['userRatingCount'] or 0} ratings; ranks {x['ranks']})")
+        elif res["tool"].endswith("charts"):
+            print("| Store | Genre | #10 | median #41–60 | median #81–100 |\n|---|---|---|---|---|")
+            for r in res["rows"]:
+                print(f"| {r['country']} | {r['genre']} | {dash(r['at_10'])} | {dash(r['median_41_60'])} | {dash(r['median_81_100'])} |")
             print(f"\n_{res['note']}_")
         elif res["tool"].endswith("expand"):
             for c in res["candidates"]:
@@ -307,6 +389,21 @@ def main():
     s.add_argument("--format", choices=["json", "md"], default="json")
     s.add_argument("-o", "--output")
     s.set_defaults(fn=cmd_score)
+
+    ap = sub.add_parser("apps", help="top apps (with IDs) for terms; also a snapshot for char_lint --competitors")
+    ap.add_argument("--term", action="append", required=True)
+    ap.add_argument("--country", default="us")
+    ap.add_argument("--limit", type=int, default=25)
+    ap.add_argument("--format", choices=["json", "md"], default="json")
+    ap.add_argument("-o", "--output")
+    ap.set_defaults(fn=cmd_apps)
+
+    c = sub.add_parser("charts", help="chart depth per genre and storefront (median ratings at positions)")
+    c.add_argument("--genre", action="append", required=True, help="genre ID, e.g. 6004; repeatable")
+    c.add_argument("--country", default="us", help="comma-separated storefronts")
+    c.add_argument("--format", choices=["json", "md"], default="md")
+    c.add_argument("-o", "--output")
+    c.set_defaults(fn=cmd_charts)
 
     a = p.parse_args()
     a.fn(a)

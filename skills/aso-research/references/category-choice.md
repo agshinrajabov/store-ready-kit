@@ -10,9 +10,9 @@ ranking reasons but not by fit is a metadata problem, and a reviewer may also re
 ## How to choose between two that both fit
 
 1. **Fit first.** If a user browsing each category would expect to find this app there, both are candidates.
-2. **Chart depth.** Count how many ratings the #50 app in each candidate category's top-free chart has. Fewer
-   ratings means an easier chart to enter. Use the public RSS feed:
-   `https://itunes.apple.com/<country>/rss/topfreeapplications/limit=100/genre=<genreId>/json`
+2. **Chart depth.** `python3 scripts/keyword_rank.py charts --genre <id> --genre <id> --country us,gb` reports
+   ratings at #10 and the median ratings of positions 41–60 and 81–100 in each top-free chart. Single positions
+   are noisy, so read the medians. Fewer ratings means an easier chart to enter.
 3. **Search, not charts, brings most installs to small apps.** Do not trade fit for chart position.
 4. **Secondary category**: a second fit. It does not change ranking much, but it costs nothing if it is
    honest.
@@ -30,8 +30,7 @@ ranking reasons but not by fit is a metadata problem, and a reviewer may also re
 | Social Networking | 6005 | Travel | 6003 |
 | Sports | 6004 | Food & Drink | 6023 |
 
-Check an ID against an app you know in that category (`competitor_scan.py --lookup <id>` shows
-`primaryGenreName`) before relying on it.
+These were checked against the live top charts on 2026-10-04.
 
 ## Report it as
 

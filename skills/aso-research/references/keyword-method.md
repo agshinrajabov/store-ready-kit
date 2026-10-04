@@ -8,19 +8,19 @@ or small app can rank. Then pack them into 30 + 30 + 100 characters without wast
 ## 1. Seeds (5–10)
 
 Write the app's job in the words a user would type, not in the developer's words:
-- the task ("find climbing partner"), the object ("belay"), the situation ("climbing gym tonight");
-- the category's generic term ("climbing app");
+- the task ("water my plants"), the object ("watering"), the situation ("plant dying");
+- the category's generic term ("plant care");
 - words from the app's own listing that no competitor uses (from `store-audit`'s vocabulary signal, if run).
 
 ## 2. Expand
 
 ```bash
-python3 scripts/keyword_rank.py expand --seed "climbing partner" --seed belay --seed bouldering --country us -o expand.json
+python3 scripts/keyword_rank.py expand --seed "plant care" --seed watering --seed houseplant --country us -o expand.json
 ```
 
 Autocomplete shows what people type. Read the list and strike:
 - app names (they are other people's brands);
-- terms about a different job ("climbing games" for a partner finder);
+- terms about a different job ("plant games" for a care app);
 - terms in languages the app does not support.
 
 Use `--alphabet` only for the 2–3 most important seeds. It makes 26 extra calls per seed.
@@ -62,13 +62,13 @@ mechanically. Users in each market type their own words.
 
 - **3 name variants**: brand alone, brand plus a short descriptor, and descriptor-led if the brand is unknown.
   Every variant must be a name a person would say, not a list of words.
-- **3 subtitle variants**: each is a promise ("Find a belayer for tonight"), and none repeats a name word.
-- **1–2 keyword fields** from `keyword_pack.py` for each name/subtitle pair, since the pack depends on what the
-  name and subtitle already hold.
+- **3 subtitle variants**: each is a promise ("Keep every houseplant alive"), and none repeats a name word.
+- **One keyword field per name/subtitle pair and per localisation** from `keyword_pack.py`, since the pack
+  depends on what the name and subtitle already hold, and each localisation (en-US, en-GB…) has its own field.
 
 ```bash
-python3 scripts/keyword_pack.py --scores scores.json --country us --name "Belayer" --subtitle "Find partners at your crag"
-python3 scripts/char_lint.py --file variants.json --competitors competitors.json
+python3 scripts/keyword_pack.py --scores scores.json --country us --name "Leafwise" --subtitle "Keep every houseplant alive"
+python3 scripts/char_lint.py --file variants.json --competitors apps.json
 ```
 
 Nothing is shown to the user until `char_lint.py` passes.
@@ -79,6 +79,7 @@ See `category-choice.md`.
 
 ## 8. Measure
 
-After launch, re-run `score --app-id <your id>` every 2–4 weeks for the shortlist and record your rank. Apple
+After launch, re-run `score --keywords measure-terms.json --relevance overrides.json --app-id <your id> -o rank-<date>.json`
+every 2–4 weeks and record your rank. Don't write over the term list. Apple
 Search Ads (search popularity 1–100, inside the Apple Ads dashboard) is the only first-party volume signal. If
 the developer has access, calibrate the proxies against it.
