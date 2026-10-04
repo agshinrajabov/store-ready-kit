@@ -1,0 +1,60 @@
+{
+  "_source": "Synthetic hard case: the top screw-puzzle mechanic with a new garden theme.",
+  "name": "Bolt Garden: Screw Puzzle",
+  "subtitle": "Unscrew pins, solve wood nuts",
+  "keywords": "screw,bolt,nut,pin,wood,jam,sort,brain,relax,offline",
+  "category": "Games / Puzzle",
+  "description": "Welcome to Bolt Garden, the most relaxing screw puzzle game! Unscrew the bolts in the right order to free the wooden plates and clear the board. Hundreds of levels of satisfying screw jam fun with a beautiful garden theme.\n\n- Easy to play, hard to master\n- Use boosters when you get stuck\n- Collect coins and unlock new garden themes\n- Play offline anytime\n\nTrain your brain and relax with Bolt Garden!",
+  "screenshots": [
+    {
+      "caption": "Relax and unwind",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Hundreds of levels",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Train your brain",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "hypercasual-game",
+  "traits": {
+    "HC01": true,
+    "HC02": true,
+    "HC03": "partial",
+    "HC04": true,
+    "HC05": true,
+    "HC06": true,
+    "HC07": true,
+    "HC08": true,
+    "HC09": true,
+    "HC10": true,
+    "HC11": true,
+    "HC12": "partial",
+    "HC13": true,
+    "HC14": true,
+    "HC15": true,
+    "HC16": false
+  },
+  "monetisation": {
+    "iap_count": 8,
+    "consumable_count": 6,
+    "rewarded_placements": 5,
+    "interstitial": "after every level from level 5",
+    "purchase_prompts_first_10_min": 4
+  },
+  "content": {
+    "generated": true,
+    "authored_onboarding": false
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [
+    "Garden theme"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/unfold-puzzle.json"
+}

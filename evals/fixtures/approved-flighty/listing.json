@@ -1,0 +1,50 @@
+{
+  "_source": "iTunes lookup 1358823008 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "name": "Flighty – Live Flight Tracker",
+  "subtitle": "Live Flight Tracker",
+  "keywords": "flight,tracker,airline,delay,airport,status,travel,gate,trip,radar",
+  "description": "\"Don't Fly Without This App\" WSJ • Finalist for App of The Year • Winner of Apple Design Award\n\nThe flight tracker your pilot uses.\n\nFree trial does not required credit card.\nNo account required.\nNo newsletters.\nNo ads.\n\n▶ WORLD'S FASTEST DELAY ALERTS\n- 2-90 minutes faster than airline apps\n- 24-48 hours faster cancellation alerts\n- Always be the first to know, with no effort\n\n▶ INDUSTRY-FIRST FEATURES\n- See WHY you're flight is delayed\n- 25-hour where's my plane\n- Flighty Friends – private sharing among family/friends\n- Pilot-Grade data – FAA and Eurocontrol\n- Delay Predictions\n- Gate Predictions\n- Flighty Passport – auto-create your personal flight map\n- Airport Intelligence – plain word summary of the status\n- Taxi times\n- Ground radar\n- Proximity radar\n\n▶ AUTOMATIONS\n- Calendar sync\n- TripIt sync\n- Email forwarding\n- Flighty Friends: private flight sharing with friends\n\n▶ PILOT-GRADE DATA\n- Live-streaming\n- Actual flight plans\n- Commercial data – same source used by your pilot\n- FAA advisories, warnings, and delays\n- Tail number – with birthday, type, and even name\n- Full flight timetable\n- Proximity radar - see flights around you\n- Ground radar - radar even while taxiing\n\n▶ BE THE FIRST TO KNOW\n- Late arriving aircraft delays – up to 6 hours before your airline!\n- Alerts for canceled inbound aircraft\n- Alerts for airport weather or traffic\n- Delay forecast\n\n▶ ASSISTANTS\n- Morning-Of Assistant - wake up informed\n- Check In Assistant - your reservation number and check in link at the right time\n- Connection Assistant - see all the checkpoints required for your connection and how long it typically takes\n- Import Assistant - seamless import (plus data enrichment!) from myFlightradar24, App In The Air, OpenFlights.org, FlightMemory, Logmyflight, and JetLovers\n\n▶ WORLDWIDE + LIVE + UNLIMITED\n- Every airline\n- Every flight\n- 24/7/365 live global coverage\n\n▶ FLIGHTY FRIENDS\n- Often sharing with Family and Friends? Invite them to see your flights and never manually share again!\n- Picking someone up, excited for a friend to visit, meeting a colleague? Share your live flight status with one tap.\n\n▶ WHAT'S FREE?\n- No ads\n- Unlimited flights\n- Flighty Friends\n- Live data\n- Weather\n- Actual flight route\n- Aircraft model and image\n- Personal flight log and map\n- Personal all-time and annual stats\n- Apple Watch app\n- iCloud backup & sync\n- Historical flight input and import limited to past 365 days (due to costs)\n- Lock screen widgets (limited refresh for costs)\n- Airport Intelligence \n\n▶ WHAT'S PRO?\n- See why your flight is delayed\n- Pilot-grade FAA delay alerts\n- Delay predictions, including the reason why\n- Industry's fastest push alerts\n- 25-hour where's my plane\n- Live lock screen widgets\n- Live data, even on 'messaging-only' plane wifi\n- Live activities\n- Unlimited past flight lookup\n- Unlimited bulk import\n- Delay predictions\n- Arrival forecast\n- TripIt sync\n- Calendar sync\n- Email forwarding\n- Apple Watch complications\n- Airport \n- Tail number\n- Taxi times\n- And more\n\nPro is free on your first flight. No trial required.\n\nflightyapp.com/privacy Zero personal information is required. \nflightyapp.com/terms Personal use only. Business@flightyapp.com for business usage.",
+  "category": "Travel",
+  "niche_snapshot": "niches/flight-tracker.json",
+  "exclude_ids": [
+    1358823008
+  ],
+  "trait_catalog": "utility-app",
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "traits": {
+    "UT01": false,
+    "UT02": false,
+    "UT03": false,
+    "UT04": false,
+    "UT05": false,
+    "UT06": false,
+    "UT07": "partial",
+    "UT08": false,
+    "UT09": false,
+    "UT10": false
+  },
+  "monetisation": {
+    "iap_count": 4,
+    "consumable_count": 0,
+    "rewarded_placements": 0,
+    "purchase_prompts_first_10_min": 1
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "screenshots": [
+    {
+      "caption": "Know before the airline tells you",
+      "shows_real_ui": true
+    }
+  ],
+  "differentiators": [
+    "Predicts delays from where the inbound plane is",
+    "Live Activities and pilot-grade alerts",
+    "Passport of past flights"
+  ]
+}

@@ -1,0 +1,1780 @@
+{
+ "source": "itunes-search-api",
+ "fetchedAt": "2026-10-04T18:33:49Z",
+ "country": "us",
+ "terms": [
+  "pro camera",
+  "manual camera"
+ ],
+ "count": 40,
+ "apps": [
+  {
+   "trackId": 587366035,
+   "trackName": "Picsart AI Photo Editor, Video",
+   "bundleId": "com.picsart.studio",
+   "artistName": "PicsArt, Inc.",
+   "sellerName": "PicsArt, Inc.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.6653,
+   "userRatingCount": 1195660,
+   "releaseDate": "2013-01-02T22:14:40Z",
+   "currentVersionReleaseDate": "2026-09-30T09:11:15Z",
+   "version": "30.9.1",
+   "description": "Ignite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to creation fast. Create with an AI photo generator and AI video generator, edit with an AI image editor, remove backgrounds with Background Remover (BG remover), erase objects with Object Remover (Object Eraser), apply AI effects, filters, and retouch tools, and turn ideas into designs with templates, collages, story maker, and more. Create with new image-to-video tools, AI video avatars, AI try-on, AI avatars, Gen AI Studio, AI Playground, and Picsart Persona.\n\nMEET PICSART AURA\nChat your vision into visuals. Built on Picsart’s platform and trusted by 150M+ creators, Aura is your creative partner. From prompt to design in seconds, Aura creates, edits, and refines in one conversation. It suggests prompts, generates AI photos and AI videos, remembers chats, and lets you share sessions.\nAura combines AI models to create and edit AI images and videos. Use Nano Banana™ for image generation and video models like Veo™ (Veo 3), Kling, Runway, and Luma. Availability may vary. Trademarks belong to their owners.\n\nKICK-START PROJECTS WITH TEMPLATES\n• Use customizable templates made by professional editors.\n• Create logos with AI logo maker, social posts, stories, business cards, posters, and more.\n\nTRANSFORM DESIGNS WITH BACKGROUND REMOVER\n• Remove background for clean cutouts and product shots.\n• Smart Background blends seamless backdrops — a fast background changer for ads and promos.\n• Remove background, refine edges, and create aesthetic styles for photo editor projects.\n\nREMOVE OBJECTS WITH EASE\n• Object Remover / Object Eraser deletes unwanted objects. \n• Remove clutter and imperfections for a clean photo.\n\nGET CREATIVE WITH AI\n• AI Image Generator / AI photo generator: turn text into AI art, images, and GIFs.\n• AI video generator: create videos from text, images, or ideas in seconds.\n• AI Enhance instantly boosts image quality for better photo retouch. \n• Apply stylized AI filters and AI effects to create stunning photo effects in your photo editor workflow.\n• AI Replace transforms images with face swaps, hair color changes, and selfie edits.\n• AI Retouch perfects portraits with advanced skin, face, and detail enhancements for flawless retouch results.\n• AI Expand extends images beyond the frame.\n• AI Try-On lets you experiment with outfits and styles instantly.\n• AI Writer creates captions, text, and marketing copy for your content needs.\n• Upload selfies to generate customized AI avatar in different styles.\n• Explore new ideas in AI Playground and create faster with Gen AI Studio.\n\nEDIT VIDEOS LIKE A PRO\n• Use the easy video editor to create and edit clips with music.\n• Generate and edit videos with AI video tools, effects, text, and trendy filters.\n• Turn images into motion with image-to-video tools.\n• Create short-form edits that shine on any platform.\n• Add your best moments to a video collage.\n\nADD YOUR FLAVOR WITH THE STICKER MAKER\n• Discover 60M+ stickers.\n• Add stickers to pictures or business promos.\n• Create custom stickers.\n\nTELL YOUR STORY IN TEXT\n• Add text with the Picsart Text Editor.\n• Discover hundreds of classic & trendy fonts.\n• Customize text styles. \n\nCREATE COLLAGE MAGIC (COLLAGE MAKER)\n• Create fun photo collages with your favorite photos.\n• Try photo grid collage or freestyle collage for mood boards and frames.\n\nDISCOVER ENDLESS INSPIRATION\nFrom solopreneurs to graphic design enthusiasts, AI art pioneers, and photo editors — share your ideas and get inspiration for your next project with Picsart Spaces.\n\nUPGRADE YOUR DESIGN EXPERIENCE\nPicsart Plus: premium content, templates, and extra retouch features.\nPicsart Pro: more AI tools, extra team seats for small businesses, and more storage space.\n\nTerms and conditions: https://picsart.com/terms-of-use/\nAbout Ads: https://picsart.com/privacy-policy#interest-base",
+   "trackViewUrl": "https://apps.apple.com/us/app/picsart-ai-photo-editor-video/id587366035?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "270469120",
+   "languageCodesISO2A": [
+    "SQ",
+    "AR",
+    "HY",
+    "BN",
+    "HR",
+    "CS",
+    "EN",
+    "FR",
+    "DE",
+    "EL",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MK",
+    "FA",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 11
+   }
+  },
+  {
+   "trackId": 878783582,
+   "trackName": "Lightroom: AI Photo Editor",
+   "bundleId": "com.adobe.lrmobilephone",
+   "artistName": "Adobe Inc.",
+   "sellerName": "Adobe Inc.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.77484,
+   "userRatingCount": 336888,
+   "releaseDate": "2014-06-22T04:35:34Z",
+   "currentVersionReleaseDate": "2026-09-30T10:57:17Z",
+   "version": "11.6.1",
+   "description": "Ever wish your photos could really show what makes a moment special? Adobe Lightroom is a free AI photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to help you create photos you’re proud to share.\n\nPHOTO EDITOR THAT EASILY MAKES YOUR PHOTOS LOOK AMAZING\nAdobe Lightroom’s one-tap features like Quick Actions and Adaptive Presets let you retouch and enhance photo quality in seconds. These AI photo editor tools suggest the best edits for your images. Perfect for quick photo fixes or adding a unique vibe, no experience required. Use it as your go-to photo editor.\n\nREMOVE DISTRACTIONS AND BLUR BACKGROUND\nAdobe Lightroom gives you professional photo editing tools that are easy to use. Blur the photo background for a polished look, adjust finer details, or use AI Generative Remove as an object eraser in photos.\n\nPOWERFUL EDITS WITH ZERO HASSLE\nUse photo lighting tools to tweak exposure, highlights, and shadows. Fix photos with presets, photo effects, color grading, hue, saturation, or add a blurry bokeh effect to match your vibe.\n\nGET INSPIRATION FROM THE COMMUNITY\nNot sure where to start? Browse photo filters, templates, and presets shared by creators around the world. From vintage photo effects to retro photo filters and presets to match your aesthetic kick off your edits in a tap. Whether you’re looking to make bold edits with AI photo editor tools or subtle tweaks for polished portrait edits, find a look that matches your style. Save your favorites and make every photo feel like you.\n\nEDIT ONCE, APPLY EVERYWHERE\nSnapped a whole concert, travel day, or family gathering? Instead of editing each shot one by one, make quick edits with AI photo editor tools. Fix photos in batches to keep your photo edits looking consistent.\n\nWHY ADOBE LIGHTROOM?\n• It’s for every moment: whether editing photos for fun, capturing memories, gaining confidence, or sharing on social media.\n• It’s flexible: start with simple photo editing and grow into a better photographer along the way. Fix photos, crop and resize images, blur background elements, or remove distractions with our object eraser — the editing options are endless with Adobe Lightroom.\n• It’s an AI photo editor designed to help build confidence, spark creativity, and showcase your authentic style.\n\nPHOTO EDITOR TOOLS YOU'LL LOVE\n• Quick Actions: Fix photos with suggested edits tailored to your pics.\n• Preset Edits: Discover filters or make your own signature look.\n• Background Blur: Create depth with a blurry background effortlessly.\n• Generative Remove Edits: Take out the things you didn’t want with this AI photo eraser.\n• Video Editing: Bring the same creative energy to your clips with tools for light, color, and presets.\n\nFOR EVERY KIND OF PHOTOGRAPHER\nPhoto editing has never been easier. Lightroom is here to empower you - to capture sunsets, family moments, or your latest foodie find. With tools to fix pictures, enhance photo quality, and edit videos, Adobe Lightroom gives you the right balance of ease and control.\n\nDownload Adobe Lightroom today.\n\nTerms & Conditions:\nYour use of this application is governed by the Adobe General Terms of Use http://www.adobe.com/go/terms_linkfree_en and the Adobe Privacy Policy http://www.adobe.com/go/privacy_policy_linkfree_en\n\nDo not sell or share my personal information www.adobe.com/go/ca-rights-linkfree",
+   "trackViewUrl": "https://apps.apple.com/us/app/lightroom-ai-photo-editor/id878783582?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "366776320",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 30
+   }
+  },
+  {
+   "trackId": 730712409,
+   "trackName": "ProCam - Pro Camera",
+   "bundleId": "gemini.ProCam-2",
+   "artistName": "Tinkerworks Apps",
+   "sellerName": "Tinkerworks Apps",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 9.99,
+   "formattedPrice": "$9.99",
+   "averageUserRating": 4.61148,
+   "userRatingCount": 35311,
+   "releaseDate": "2013-10-30T21:19:25Z",
+   "currentVersionReleaseDate": "2026-10-03T22:20:44Z",
+   "version": "15.1.6",
+   "description": "***ONE-TIME PURCHASE, NO SUBSCRIPTIONS***\n\nSHOOTING MODES \n\n- Photo\n- Burst Mode\n- Slow Shutter\n- Portrait Mode - supported on all dual lens camera system as well as iPhone XR and iPhone SE 2020\n- 3D Photo - requires dual lens camera system\n- Video\n- Time Lapse\n\nPHOTO SHUTTER RELEASE OPTIONS\n\n- Self-Timer \n- Anti-Shake\n- Screen Shutter / Big Button\n- Interval\n\nVIDEO FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5s / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase -  iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - iPhone 5 / iPad mini and later  \n* 96 / 100 /120 fps 720p - iPhone 5s / iPad Air 2 and later \n* 192 / 200 / 240 fps 720p - iPhone 6 and later \n* 48 / 50 / 60 fps 1080p - iPhone 6 and later\n* 96 / 100 / 120 fps 1080p - iPhone 6s / Plus and later\n* 192 / 200 / 240 fps 1080p - iPhone 8 and later \n* 48 / 50 / 60 fps 4K - iPhone 8 and later  \n\nTIME LAPSE FRAME RATES AND RESOLUTIONS\n\n- VGA, 720p, 1080p\n- 4K Ultra HD - 3264x1836 upscaled to 3840x2160 - in-app purchase - iPhone 5 / iPad Air 2 and later\n- 4K Ultra HD - 3840x2160 - native support on iPhone 6s / Plus and later\n- 4K Max - 4032x2268 - in-app purchase - iPhone 6s / Plus and later\n- High frame rate:\n* 48 / 50 / 60 fps 720p - all devices\n* 48 / 50 / 60 fps 1080p - all devices\n* 48 / 50 / 60 fps 4K - iPhone 5 / iPad Air 2 and later\n* 48 / 50 / 60 fps 4K Max -  iPhone 6s / Plus and later\n\nMANUAL CONTROLS\n\n- Manual exposure, shutter speed, ISO, focus, and white balance controls\n- Scroll and steppers system inspired by DSLR cameras\n- Tap location accurate manual focus assist\n- True focus peaking\n- Zebra stripes - overexposure warning\n- Live shutter speed, ISO, focus, and WB values\n- Manual controls are supported in all photo and video modes\n\nMAIN CAMERA FEATURES\n\n- RAW (DNG) iOS 10 - iPhone 6s / iPad Pro 9.7 and later\n- Lossless TIFF file format support\n- Intelligent 3-shot HDR\n- AEB (Auto Exposure Bracketing) with RAW support for high contrast conditions\n- Live light level histogram\n- Adjustable aspect ratio (4:3 / 3:2 / 16:9 / 1:1) \n- Video pause/resume functionality \n- Video audio meter (Avg. / Peak signal levels) \n- Still photo capture during video recording \n- Realtime video stabilization (ON/OFF) \n- Video disk space indicator \n- Thirds grid and horizontal tiltmeter. \n- Date / time / location / Copyright stamp\n\nPHOTO / VIDEO EDITOR & PHOTO EDITING EXTENSION\n\n- Nondestructive editing - all edits, including cropping, are completely amendable / reversible \n- 60 expertly crafted filters\n- 17 lenses: Vignette / White Vignette / Fisheye / Tilt Shift / Macro / Tiny Planet / Wormhole / Split / Kaleidoscope I, II, III, IV, V / Ripple / Striped / Hatched / Halftone\n- 19 comprehensive adjustment tools\n- Trimming, cropping, rotating, mirroring, straightening, and perspective correction\n- Extremely accurate timeline with the ability to review videos frame by frame\n- Ability to add background music",
+   "trackViewUrl": "https://apps.apple.com/us/app/procam-pro-camera/id730712409?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "92924928",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 6,
+    "manual camera": 9
+   }
+  },
+  {
+   "trackId": 840110184,
+   "trackName": "Timestamp Camera Basic",
+   "bundleId": "com.jeyluta.camera7free",
+   "artistName": "玉彬 陈",
+   "sellerName": "玉彬 陈",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.75125,
+   "userRatingCount": 33676,
+   "releaseDate": "2014-03-25T00:51:34Z",
+   "currentVersionReleaseDate": "2026-08-27T20:44:53Z",
+   "version": "1.158",
+   "description": "Add timestamp watermark to camera in real time.\n\n• Automatically insert current time and address when taking photo or video in real time, you can change time format or select the address around easily. Timestamp Camera is the only App that can record video with the time watermark accurate to millisecond(0.001 second). \n- Support 81 timestamp formats. \n- Support change font, font color, font size.  \n- Support set timestamp in 6 positions: top left, top center, top right, bottom left, bottom center, bottom right.  \n- Support auto add address and GPS. \n- Support input and display custom text on camera.\n- Support input and display tag on camera and insert to the Exif. \n- Support change opacity of text and text background.\n- Support four text margin modes: no margin, one line margin, half line margin, suitable for printing\n\n• Support display altitude and speed.\n• Support display map on the camera.\n• Support display compass on the camera.\n• Support import watermark logo image to display on the camera.\n• Support change photo resolution, support the maximum resolution supported by the camera.\n• Support change video resolution(540P, 720P, 1080P, 4K) and fps(30fps, 60fps). \n• Support record video without audio. \n• Support pause and continue record fragments to one video. \n• Support timer to take picture (3, 5, 10 seconds with count down).\n• Has 4 modes. \"Video\", \"Square\", \"Timelapse\" support record video and capture photo. \"Photo\" mode only support capture photo with special optimization. \n• All the effects are real-time and can be used when taking photo or video. \n• Support change effect, toggle camera when recording. \n• Support \"Battery saver mode\", the brightness of screen can be changed when turn it on. \n• Support show 3x3 grid. \n• Support import photo as a virtual camera. \n• Support portrait and landscape. \n• Support both iPad and iPhone.  \n• Photo and Video will be saved to Camera roll. \n\nPlease mail us cybfriend@gmail.com if you have any problem or suggestions. Thank you.",
+   "trackViewUrl": "https://apps.apple.com/us/app/timestamp-camera-basic/id840110184?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "25604096",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "NB",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 27
+   }
+  },
+  {
+   "trackId": 953286746,
+   "trackName": "Darkroom: Photo & Video Editor",
+   "bundleId": "co.bergen.Darkroom",
+   "artistName": "Bergen Co.",
+   "sellerName": "Bergen Co.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.7778,
+   "userRatingCount": 29361,
+   "releaseDate": "2015-02-12T03:47:40Z",
+   "currentVersionReleaseDate": "2026-09-15T13:46:00Z",
+   "version": "7.4",
+   "description": "Transform your iPhone and iPad into a sophisticated editing suite with Darkroom, the highly acclaimed photo and video editor designed to empower both amateur photographers and professional creators. With desktop-quality tools at your fingertips, Darkroom competes with industry giants such as Adobe Lightroom and Photoshop, delivering unparalleled editing experiences right on your mobile device.\n\nAward-Winning App Recognitions:\nWinner of the Apple Design Award in 2020\nApple’s Editor’s Choice since 2018\nBest New App Winner in 2015\n\nWhy Choose Darkroom?\nAdvanced AI-Powered Editing: Leverage cutting-edge AI tools for precise, depth-based edits and intelligent object detection. Enhance specific elements like skies, skin tones, and landscapes with unmatched accuracy.\nVersatile Editing Capabilities: From high-resolution video playback and professional 8K color grading to batch photo editing, Darkroom addresses all your creative needs with efficiency. Its comprehensive toolset includes support for RAW and ProRAW files, making it perfect for high-quality photo projects.\n\nProfessional Tools for Every Creator:\nAll-Inclusive Format Support: Whether managing RAW files or crafting the perfect JPEG, Darkroom provides powerful editing tools that ensure top-tier output for all photo formats.\nTailored for iPhone Photographers: With iPhone-specific enhancements, Darkroom stands out as the premier editing tool for mobile photographers, offering intuitive interfaces and seamless integration with iOS features.\n\nPraise from Experts:\n\"I can't say enough good things about Darkroom. It's fast, beautiful, powerful, and easy to understand and explore. And the team behind it keep improving the app\non a regular basis.\" - John Gruber, Daringfireball\n\"Darkroom is one of the best apps around, offering extensive support for RAW and ProRAW photos and capabilities to batch edit photos with ease.\" – The Verge\n\"Its iPhone-specific features make Darkroom the leading editing app for iPhone photographers.\" – The Sweet Setup\n\nSeamless Organization and Sharing:\nOrganize your photos and videos with Darkroom's advanced management tools. Create stunning collages, manage hashtags effortlessly, and share your creations with ease. Streamline your workflow and keep your collections meticulously organized, whether for personal enjoyment or professional display.\n\nJoin Our Community and Enhance Your Creative Skills:\nBecome a Darkroom member to access exclusive features and regular updates that keep your tools cutting-edge. Our community is a hub for sharing tips, inspiration, and creative techniques.\n\nGet Started with Darkroom Today:\nDownload Darkroom and elevate your photo and video editing to professional levels. With ongoing enhancements and a focus on user-friendly design, Darkroom is dedicated to enriching your creative journey.\n\nSubscription and Membership Details:\nManage your Darkroom+ membership in the iTunes & App Store settings. Remember, subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.\n\nTerms and Conditions: https://darkroom.co/legal/terms.html\nPrivacy Policy: https://darkroom.co/legal/privacy-policy.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "293451776",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 28
+   }
+  },
+  {
+   "trackId": 6449580241,
+   "trackName": "Blackmagic Camera",
+   "bundleId": "com.blackmagic-design.DaVinciCamera",
+   "artistName": "Blackmagic Design Inc",
+   "sellerName": "Blackmagic Design Inc",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.82304,
+   "userRatingCount": 23327,
+   "releaseDate": "2023-09-14T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-23T06:47:02Z",
+   "version": "3.5.1",
+   "description": "Introducing Digital Film for iPhone and iPad!\nBlackmagic Camera unlocks the power of your iPhone and iPad by adding digital film camera controls and operating systems! Now you can create the same cinematic ‘look’ as Hollywood feature films. You get the same intuitive and user friendly interface as Blackmagic Design’s award winning cameras. So it’s just like using a professional digital film camera! This means you can adjust settings such as frame rate, shutter angle, white balance and ISO all in a single tap. Or record directly to Blackmagic Cloud in industry standard 10-bit Apple ProRes files up to 4K! Recording to Blackmagic Cloud Storage lets you collaborate on DaVinci Resolve projects with editors anywhere in the world, all at the same time!\n\nGet the \"Hollywood Look\" with Digital Film!\nBlackmagic Camera puts the professional features you need for feature film, television and documentaries in your pocket. Now you can create YouTube and TikTok content with a cinematic look, and broadcast quality ENG! Imagine having a run and gun camera on hand to capture breaking news whenever it happens! Or use Blackmagic Camera as a B Cam to capture angles that are difficult to reach with traditional cameras, while still retaining control of important settings. Best of all, recording to Blackmagic Cloud allows you to get your footage to the newsroom or post production studio in minutes.\n\nInteractive Controls for Fast Setup \nBlackmagic Camera has all the controls you need to quickly setup and start shooting!  Everything is interactive, so you can tap any item and instantly change settings without searching through confusing menus! The HUD shows status and record parameters, histogram, focus peaking indicators, levels, frame guides and more. Show or hide the HUD by swiping up or down. You can auto focus by tapping the screen in the area you want to focus. You can shoot in 16:9 or vertical aspect ratios, plus you can shoot 16:9 while holding your phone vertically if you want to shoot unobtrusively.\n\nOn Screen Heads Up Display\nThe heads up display, or HUD, controls have the most important camera controls such as lens selection, frame rate, shutter angle, timecode, ISO, white balance, gain and audio levels. You can adjust settings such as exposure by touching the ISO indicator, or you can change the audio levels simply by touching the audio meters. Everything is interactive, so if you tap any item you can instantaneously change its settings without having to search through complex menus!\n\nCamera Setup Menus\nThe settings tab unlocks the full power of your phone’s camera, with quick access to advanced settings such as monitoring, audio, camera setup, recording and more! The record tab gives you total control over video resolution and recording format including industry standard Apple ProRes or space efficient H.264 and H.265. Plus, you can set anamorphic de-squeeze and lens correction settings. Professional audio options include AAC and PCM format and VU or PPM audio metering. You can even add external microphones! Or add 3D LUTs to recreate film looks!\n\nMedia\nThe Blackmagic Camera media tab has all the controls you need to browse or scrub clips for quick review, search and sort and view the upload status of your media. Access your media from Blackmagic Camera’s all clips folder by choosing the Media button to see the thumbnails for each clip you have stored. Plus, you can save to the files folder on the phone, send it to Blackmagic Cloud Storage via Blackmagic Cloud or manually choose which clips to upload to a project library. You can even sync media from Blackmagic Camera directly into the DaVinci Resolve project so you’re ready to edit!\n\nLive Sync to Blackmagic Cloud Storage\nWhen shooting with Blackmagic Camera, the video you capture can be instantly uploaded as a proxy file, followed by the camera originals, and saved to Blackmagic Cloud Storage. This means you can start editing quickly using your proxies, speeding up your workflow.",
+   "trackViewUrl": "https://apps.apple.com/us/app/blackmagic-camera/id6449580241?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "212709376",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 3,
+    "manual camera": 2
+   }
+  },
+  {
+   "trackId": 1076481548,
+   "trackName": "ProMovie Recorder",
+   "bundleId": "com.liaoyuan.huo.FKCamera",
+   "artistName": "Panda Apps Limited",
+   "sellerName": "Panda Apps Limited",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.65819,
+   "userRatingCount": 20725,
+   "releaseDate": "2016-05-27T05:22:01Z",
+   "currentVersionReleaseDate": "2026-09-18T00:35:25Z",
+   "version": "1.11.12",
+   "description": "ProMovie Recorder is a feature-rich yet easy-to-use video camera App for your iPhone and iPad. Take control of exposure, focus, frame rate, and every other aspect of video recording right at your fingertip. Take full advantage of your device's videography capability and create professional clips.\n\n•  4K video recording (up to 120FPS) ¹.\n•  1080p video recording (up to 240FPS) ².\n•  Manual camera control for exposure, shutter speed, ISO, focus, and white balance.\n•  High-quality video recording with up to 224Mbps bitrate.\n•  Switch between Ultra Wide, Wide, and Telephoto cameras ³.\n\n********\nAn In-App Purchase is required to record videos without the 'ProMovie Recorder' watermark.\n********\n\nAudio features:\n•  External microphones (Lightning/3.5 mm headphone jack ⁴/Bluetooth).\n•  Stereo audio recording *.\n•  Audio monitoring through headphones and Bluetooth headphones.\n•  On-screen audio level indicator.\n•  Audio gain control *.\n•  Supported audio formats: 256 Kbps AAC, 16-bit PCM.\n\nCamera control:\n•  Separate Exposure Point and Focus Point.\n•  Exposure compensation.\n•  Manual control/parameter lock for:\n     - Shutter Speed/ISO\n     - Color Temperature\n     - Focus\n•  White balance presets.\n•  White balance calibration with gray cards.\n\nSupported accessories:\n•  2.4:1 anamorphic adapters.\n•  Video rotation/flip for lens accessories.\n•  External displays connected via Lightning-to-HDMI/VGA adapters.\n•  Bluetooth remote *.\n\nOther features:\n•  Grids and cropping guides for easier composition.\n•  Full-screen modes.\n•  Level (tilt indicator).\n•  Both HEVC and H.264 encoding *.\n•  Standard and Cinematic stabilization mode.\n\n\n¹\n4K @30FPS: iPhone 6s/6s Plus/SE and newer, iPad (2022), iPad Mini (2021 and newer), iPad Air (2020 and newer), iPad Pro 9.7-in., iPad Pro 10.5-in., iPad Pro 12.9-in. (2017 and newer), iPad Pro 11-in. (all models), iPad Pro 13-in.\n4K @60FPS: iPhone 8/8 Plus/X and newer, iPad (2022), iPad Mini (2021 and newer), iPad Air (2020 and newer), iPad Pro 12.9-in. (2018 and newer), iPad Pro 11-in. (all models), iPad Pro 13-in.\n4K @120FPS: iPhone 16 Pro/16 Pro Max/17 Pro/17 Pro Max.\n\n²\n1080p @30FPS: iPhone 5s and newer, iPad (2017 and newer), iPad Mini (2013 and newer), iPad Air (all models), iPad Pro (all models).\n1080p @60FPS: iPhone 6/6 Plus/SE and newer, iPad (2022), iPad Mini (2021 and newer), iPad Air (2020 and newer), iPad Pro 9.7-in., iPad Pro 10.5-in., iPad Pro 12.9-in. (2017 and newer), iPad Pro 11-in. (all models), iPad Pro 13-in.\n1080p @120FPS: iPhone 6s/6s Plus/SE and newer, iPad (2022), iPad Mini (2021 and newer), iPad Air (2020 and newer), iPad Pro 9.7-in., iPad Pro 10.5-in., iPad Pro 12.9-in. (2017 and newer), iPad Pro 11-in. (all models), iPad Pro 13-in.\n1080p @240FPS: iPhone 8/8 Plus/X and newer, iPad (2022), iPad Mini (2021 and newer), iPad Air (2020 and newer), iPad Pro 12.9-in. (2018 and newer), iPad Pro 11-in. (all models), iPad Pro 13-in.\n\n³\nFor iPhone and iPad models with Ultra Wide and/or Telephoto cameras.\n\n⁴\nDepending on your iPhone/iPad model and microphone connector, some of the following adapters may be required:\n•  TRS to TRRS adapter\n•  Lightning to 3.5 mm headphone jack adapter\n•  USB-C to 3.5 mm headphone jack adapter\n\n*  For supported devices only.\n\nContact us: support@ProMovieApp.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/promovie-recorder/id1076481548?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "4317184",
+   "languageCodesISO2A": [
+    "EN",
+    "JA",
+    "RU",
+    "ZH",
+    "ZH"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 20,
+    "manual camera": 30
+   }
+  },
+  {
+   "trackId": 885697368,
+   "trackName": "Halide Mark III - Pro Camera",
+   "bundleId": "com.chromanoir.Zeit",
+   "artistName": "Lux Optics Incorporated",
+   "sellerName": "Lux Optics Incorporated",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.44919,
+   "userRatingCount": 13540,
+   "releaseDate": "2017-05-30T16:52:01Z",
+   "currentVersionReleaseDate": "2026-10-02T16:38:12Z",
+   "version": "3.2.1",
+   "description": "Halide unleashes your iPhone’s camera. Disable iPhone processing for natural photos, apply powerful film situations, access manual controls, and more. Halide has over 24,000 5-star ratings and is an App Store Editors’ Choice and Apple Design Award winner.\n\nHalide’s Looks are built into the camera itself, changing how your photo is captured and processed - not just a color filter applied after the fact. These are the best photos you can get out of an iPhone. Start with Process Zero for natural, film-like results, without any AI or computational photography. Explore our rich set of creative Looks developed with Hollywood colorist Cullen Kelly, and powered by sophisticated film simulation. \n\nFor nine years, Halide has set the standard for professional iPhone camera control. Nail your manual focus with Focus Peaking and the Focus Loupe. Compose your shots with intention using sophisticated framing guides, from a basic grid and rule of thirds, to the golden ratio and rabatment of the rectangle. Get perfect macro shots with Halide's dedicated Macro Mode.\n\nHate editing? Halide gives you amazing results straight out of the camera. But when you need to fine-tune, Photo Lab makes it fast and intuitive.  Try dramatically different Looks, adjust framing and exposure, experiment with film simulation, or rescue details in highlights and shadows with Tone Fusion.\n\nYou can even import and load RAWs from other apps, such as Apple’s own camera app, or standalone cameras by Canon, Nikon, Sony, Leica, Fujifilm, and Hasselblad. Specific formats are listed below.\n\n*Halide is a paid app. Try it free for 7 days with an annual membership, or buy it outright with a one-time purchase — no subscription required.*\n\nFeatures:\n- Shoot without Apple’s computational photography for stronger contrast and more natural results.\n- Photographic Looks developed in collaboration with esteemed Hollywood colorist Cullen Kelly.\n- Rescue details in shadows and highlights with a Tone Fusion slider inspired by darkroom dodging and burning.\n- Try any Look on existing ProRAW files - including photos shot in Apple’s camera app.\n- Become a better photographer by signing up for our 10-day tutorial directly from the app.\n- Full manual exposure controls including shutter speed, ISO and white balance.\n- Technical Readout to view all details of your iPhone camera hardware.\n- Also runs on iPad, for an amazing Photo Lab experience.\n\nRAW File Support:\n- DNG (iPhone, Leica)\n- CR2 (Canon)\n- CR3 (Canon)\n- NEF (Nikon)\n- RAF (Fujifilm)\n- ARW (Sony)\n- FFF (Hasselblad)\n\nTerms of Use can be found here: https://halide.cam/terms\n\nPrivacy: https://www.lux.camera/privacy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/halide-mark-iii-pro-camera/id885697368?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "91168768",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 4,
+    "manual camera": 5
+   }
+  },
+  {
+   "trackId": 1313580627,
+   "trackName": "Camera+ I Pro Camera & Editor",
+   "bundleId": "com.latenitesoft.CameraPlus2",
+   "artistName": "Heavy Plumb Apps, SOCIEDAD LIMITADA",
+   "sellerName": "Heavy Plumb Apps, SOCIEDAD LIMITADA",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.46623,
+   "userRatingCount": 11844,
+   "releaseDate": "2018-05-29T15:03:22Z",
+   "currentVersionReleaseDate": "2026-08-21T00:53:07Z",
+   "version": "24.6.7",
+   "description": "Capture breathtaking photos, unlock professional camera controls, and edit every detail with precision. Camera+ combines a powerful DSLR-style camera, advanced AI tools, RAW photography, and professional editing features into one complete photography app.\n\nWhether you're a casual photographer, content creator, traveler, social media enthusiast, or photography professional, Camera+ gives you everything you need to take stunning photos and transform them into masterpieces.\n\nFrom manual camera controls and RAW capture to AI-powered image enhancement and advanced editing tools, Camera+ helps you create professional-quality photos directly from your iPhone.\n\n► WHY CAMERA+ IS DIFFERENT\n\nUnlike basic camera apps, Camera+ gives you complete creative control over every shot.\n\nChoose from multiple shooting modes designed for specific photography scenarios, including Manual Mode, RAW Capture, Slow Shutter, Macro Photography, Action Photography, and AI-powered enhancement tools. Whether you're shooting landscapes, portraits, night scenes, sports, pets, food, or travel photography, Camera+ adapts to your style.\n\nOur intelligent photography engine combines powerful camera technology with machine learning to help you capture sharper, brighter, and more detailed images. Advanced AI tools automatically optimize your photos while preserving natural colors and realistic details.\n\nCamera+ isn't just a camera app—it's a complete photography studio that fits in your pocket.\n\n\n\n► KEY FEATURES\n\n► RAW Photography\n\nCapture and edit RAW photos for maximum image quality and flexibility.\n\nRAW image support allows you to:\n\n• Preserve more image data\n• Recover highlights and shadows\n• Achieve greater color accuracy\n• Perform professional-grade editing\n• Maintain maximum detail\n\nCreate stunning images with complete editing freedom.\n\n► UltraRes AI Upscaling\n\nEnhance your photos using advanced artificial intelligence.\n\nUltraRes intelligently analyzes and upscales images to improve:\n• Image resolution\n• Fine details\n• Sharpness\n• Texture quality\n• Overall clarity\n\nBring older photos back to life or prepare images for high-quality sharing and printing.\n\n\n► Magic ML Auto Enhancement\n\nLet AI do the work for you.\n\nMagic ML automatically improves your photos while you shoot by optimizing:\n\n• Exposure\n• Contrast\n• Brightness\n• Color balance\n• Sharpness\n• Dynamic range\n\n► Get professional-looking results instantly.\n\nSpecialized Capture Modes\nAuto Mode\n\nSimple, intuitive photography for everyday moments.\n\n\n\nEvery feature is designed to improve your photography experience and help you achieve better results.\n\n► Powerful Photo Editing Tools\nTransform your photos with professional editing capabilities.\n\n\n► Professional Filters\nApply beautiful filters and creative effects to instantly enhance your photos.\n\nChoose from a wide range of professionally designed looks for:\n\n• Portrait photography\n• Travel photos\n• Landscapes\n• Street photography\n• Social media content\n\n► RAW Editing\nProfessional photographers will appreciate advanced RAW editing tools that preserve image quality while providing maximum flexibility.\n\nEdit with confidence while maintaining complete control over every detail.\n\nSeamless Photo Library Integration\n\nWork directly with your existing photo collection.\n\n► Camera+ integrates smoothly with your photo library, allowing you to:\n• Edit photos in place\n• Organize images efficiently\n• Save storage space\n• Maintain a streamlined workflow\n• Access your entire photo collection instantly\n\nNo complicated importing or exporting required.\n\nWhether you're capturing everyday memories or creating professional content, Camera+ provides the tools you need to achieve exceptional results.\n\nDownload Camera+ today and experience one of the most powerful camera and photo editing apps available for iPhone.\n\nPrivacy Policy: https://www.heavyplumbapps.com/privacy-policy-apps.html\nTerms of Use: https://www.heavyplumbapps.com/Service_Terms.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/camera-i-pro-camera-editor/id1313580627?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "369242112",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 9
+   }
+  },
+  {
+   "trackId": 694647259,
+   "trackName": "ProCamera. Professional Camera",
+   "bundleId": "com.cocologics.ProCamera",
+   "artistName": "Cocologics",
+   "sellerName": "Cocologics GmbH",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.70347,
+   "userRatingCount": 11331,
+   "releaseDate": "2013-09-18T19:49:44Z",
+   "currentVersionReleaseDate": "2026-09-25T18:15:35Z",
+   "version": "27.0",
+   "description": "Upgrade your photography – start your free 7-day trial today!\n\nTHE ORIGINAL: ProCamera is the ultimate photo and video app for enthusiasts, creatives, and professionals. Experience the power of a DSLR camera with ProCamera's innovative features and seamless integration with your iOS photo library.\n\nProCamera perfectly blends simplicity with sophistication: Choose from easy point-and-shoot mode, semi-automatic mode or dive into full manual controls with just a tap. Effortlessly capture stunning images and film like a pro with advanced features and support for external lenses and microphones.\n\nThe powerful editing suite allows you to elevate your images with a wide range of tools for complete creative control. Know everything about your captures with our pro-level EXIF/metadata viewer. Enjoy custom sharing options to easily remove geo-tags for increased privacy or downsize photos and videos to save data.\n\nTrusted since 2009 and continuously refined through years of innovation, ProCamera is loved worldwide: Featured by Apple, numerous prestigious awards and more than 40k 5-star reviews! \n\n––– KEY FEATURES FOR UNRIVALED CONTROL –––\nIndependent focus & exposure control\nAuto, Semi-Auto, full Manual mode\nManual focus & focus peaking\nExposure compensation with zebra stripes\nPortrait mode with depth preview\nRAW, ProRAW, TIFF, JPG & HEIF\nOptical & digital zoom (up to 24x)\nManual white balance (incl. gray card calibration)\nSupport for all lenses (ultra wide, wide, tele, LiDAR)\n48 MP photos (iPhone 14 Pro and up)\nConfigurable capture quality\nLock screen camera\nSupport for Camera Control Button (iPhone 16 and up)\nCustom launch settings\nSelftimer & ProTimer intervalometer\nSelfie mode with display flash\nImage stabilization on/off\nEXIF & metadata viewer\nLive Histogram\nAspect Ratios (4:3, 5:4, 3:2, 1:1, 16:9, 2:1, 2.4:1, 3:1, golden ratio)\nAdjustable LED light\nRapid Fire photo series\nApple Watch Remote Trigger\nPowerful gallery with iCloud integration\nSupport for iOS albums\nMirroring options\nAnti-Shake\n3D Tiltmeter\nPhoto Compass\nCode Scanner (QR, Barcode,…)\nDate stamp & copyright field\nVolume button & full screen trigger\nLightbox (optional internal save location for easy file sharing)\n\n––– ADDITIONAL VIDEO FEATURES –––\nVideo resolution options (4K, 1080, 720, 480 VGA)\nFrame rates (24, 25, 30, 48, 50, 60, 96, 100, 120, 192, 200, 240 fps)\nCodecs (H.264, H.265 HEVC, ProRes, ProRes RAW)\nLog profile\nHigh bitrate recording\nRecord to external USB-C drive\nConnect bluetooth, lightning, USB microphones\nStereo audio & Audiometer\nDisk space indicator\nStill photo capture while filming\n\n––– PHOTO EDITING –––\nProRAW/RAW Editing\nDepth editing (Bokeh, simulated aperture)\nEDR and ISO HDR\n100+ photo filters\nWide range of pro tools\nSave & export options (resize, convert to jpeg, remove geotag)\nAutomatic Perspective Correction (APC)\n\n––– INCLUDED PREMIUM FEATURES –––\nGet access to premium features such as Auto Perspective Correction with Live Preview for professional-looking photos free of perspective distortion, custom camera presets (Exposure, WB, Focus) for a fast and consistent workflow, anamorphic lens support, (RAW) exposure bracketing, safeguarded Private Lightbox folder, and specialty photo filter sets.\nAfter the free trial, ProCamera is available as a subscription. \nTerms & Conditions: procameraterms.cocologics.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/procamera-professional-camera/id694647259?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "205435904",
+   "languageCodesISO2A": [
+    "CS",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HU",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 1,
+    "manual camera": 4
+   }
+  },
+  {
+   "trackId": 436577167,
+   "trackName": "Filmic Pro－Video Camera",
+   "bundleId": "com.cinegenix.filmic.pro",
+   "artistName": "Bending Spoons Apps ApS",
+   "sellerName": "Bending Spoons Apps ApS",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.69827,
+   "userRatingCount": 10148,
+   "releaseDate": "2011-05-15T19:55:33Z",
+   "currentVersionReleaseDate": "2026-09-08T15:00:21Z",
+   "version": "7.5.35",
+   "description": "Filmic Pro v7 transforms your mobile device into a professional cinema camera, allowing you to capture the highest video quality possible on a smartphone or tablet, with the most intuitive capture experience — ever.\n\nA multi-time iOS Video Camera App of the Year, Filmic Pro has been used in more high profile video projects by award winning filmmakers than any other app:\n• Stupid Love - Lady Gaga\n• Tangerine - Sean Baker\n• Unsane & High Flying Bird - Steven Soderbergh\n• Snow Steam Iron - Zack Snyder\n \nRedesigned from the ground up, Filmic Pro v7 provides filmmakers, newscasters, teachers, vloggers, and social media content creators with the most powerful and intuitive camera experience available, with a full suite of advanced yet easy to use features.\n \n| — V7 New Features — |\n \n• Dedicated Focus/Exposure Mode selector, comprising three intuitive focus and exposure modes.\n \n• Redesigned Manual Sliders for improved focus and exposure control:\n— New Exposure/Zoom Slider provides discrete control over LV; ISO; shutter speed; and zoom.\n— Improved pull points for automated rack focus and zoom moves.\n \n• Quick Action Modals (QAMs) put key functionality at your fingertips front and center in the main interface, eliminating the need to dive into settings.\n \n• Action Slider can be revealed to provide a real-time readout and control over key capture settings including ISO, shutter speed, white balance, and gamma curve. Tap a value to interact with its associated QAM for unrivaled control.\n \n• Custom Function (Fn) Button now allows you to map one of dozens of available custom functions to the main UI, so your most used feature is only ever a tap away.\n \n• Enhanced pro audio capabilities with support for 16/24-bit audio.\n \n— — Headline Features — —\n \n• ProRes Capture (Proxy; LT; 422; 422 HQ; 4444)*\n• iPad Pro M2 exclusive: ProRes 4444 XQ\n• Log gamma curves*\n• Realtime Film Looks for cinematic results without the need for grading*\n• Live Analytic suite including Zebras, False Color, Focus Peaking*\n• Support for DolbyVision HDR, 10-bit SDR, and 8-bit HEVC/H264*\n• Clean HDMI Out transforms your device into a pro level web cam\n• Frame.io Camera to Cloud (C2C) support*\n• Advanced Audio Controls for manual input gain, 16/24-bit audio; uncompressed PCM\n• CMS for industry standard clip naming conventions.\n \n— Foundation Features —\n \n• Manual control over every capture parameter\n• Apple Watch support for remote start/stop + video preview\n• Vertical and landscape support\n• Sync audio frame rates of 24/25/30/48/50/60 fps*\n• High speed frame rates of 60/120/240fps*\n• Slow and fast motion FX\n• Time lapse\n• Histogram & waveform\n• Downsample to lower resolutions\n• Capture presets synced to the cloud\n• Image stabilization (standard/cinematic)*\n• Support for Filmic Remote. Control an iOS device running Filmic Pro with a second device running Remote.\n• 8 aspect ratios including Widescreen (16:9); Ultra Panavision (2.76:1); Square (1:1).\n\n• 4 encoding options for H264/HEVC to balance quality and file size\n \n• 3rd Party Hardware Support\n— 1.33x and 1.55x anamorphic desqueeze\n— 35mm lens adapters\n— Horizontal flip\n \n• Supported Gimbals\n— Zhiyun Q3/4 + Smooth 4-5\n— DJI OSMO Mobile 1-5\n \n• Advanced Audio Features:\n— Pro audio formats; headphone monitoring; manual gain\n \n* Features are hardware or configuration specific. For more information visit our website.\n \nSUBSCRIPTION INFO\n• Subscription length: weekly, yearly\n• Payment will be charged as soon as you confirm your purchase\n• Your subscription will renew automatically, unless you turn off auto-renew at least 24 hours before the end of the current period\n• When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but the current subscription will not be refunded.\n• Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription.\n\nTerms of Service: https://support.bendingspoons.com/tos.html?app=436577167",
+   "trackViewUrl": "https://apps.apple.com/us/app/filmic-pro-video-camera/id436577167?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "235972608",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 22
+   }
+  },
+  {
+   "trackId": 6477182657,
+   "trackName": "Leica LUX - Pro Manual Camera",
+   "bundleId": "com.leica-camera.camera",
+   "artistName": "Leica Camera AG",
+   "sellerName": "Leica Camera AG",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.84968,
+   "userRatingCount": 7710,
+   "releaseDate": "2024-06-05T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T12:01:39Z",
+   "version": "1.15.0",
+   "description": "Leica LUX is a professional camera app that brings the iconic Leica Look – and its signature color, style, and feel – to your iPhone. Developed in-house by Leica, it gives you the unique visual character of Leica cameras in a powerful mobile experience.\n\n\nFLEXIBLE PHOTOGRAPHY\nLeica LUX simplifies the photographic process to capture life's moments with clarity. Whether you're shooting landscapes, street scenes, or intimate portraits, Leica LUX offers countless creative opportunities. Photographers of every skill level can craft masterpieces, using automatic mode for spontaneous snapshots or diving into the manual settings to tweak every detail.\n\n\nLENS SIMULATIONS\nStunning simulations of legendary Leica lenses bring prestige and personality to your mobile photography. Each lens has a distinct visual style, from the Summilux-M 28mm f/1.4 ASPH to the Noctilux-M 50mm f/1.2 ASPH, with more lens options coming soon. The custom software engine also creates authentic-looking bokeh directly on your iPhone. \n\n\nICONIC LEICA LOOKS\nLeica LUX was developed in accordance with the acclaimed color science of Leica, offering the same color corrections and film presets as found in Leica cameras. These Leica Looks include Leica Classic, Leica Contemporary, Leica Black & White, and Leica Vivid. More than 15 looks are currently available, giving your images rich textures, emotional nuance, and inimitable drama.\n\n\nAUTOMATIC AND MANUAL CONTROL\nLeica LUX allows you to expand your creativity, choosing between an intuitive automatic mode or full-fledged manual control. Manual photographers can adjust the exposure compensation, shutter speed, ISO, white balance, focus mode, RAW output, and more.\n\n\nSUBSCRIPTION OPTIONS\nLeica LUX Pro expands the Leica experience for photographers looking to get the most from their images. Choose from a $6.99/month or $69.99/year package. These prices are for United States customers. Pricing in other countries may vary. Subscriptions are automatically renewed. Go to your account settings in the App Store to manage your subscriptions.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://leica-camera.com/node/9954/iframe",
+   "trackViewUrl": "https://apps.apple.com/us/app/leica-lux-pro-manual-camera/id6477182657?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "407954432",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 8,
+    "manual camera": 6
+   }
+  },
+  {
+   "trackId": 6445889483,
+   "trackName": "Snap Pro Camera: Manual DSLR",
+   "bundleId": "com.miops.snap",
+   "artistName": "MIOPS TEKNOLOJI ANONIM SIRKETI",
+   "sellerName": "MIOPS TEKNOLOJI ANONIM SIRKETI",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.68454,
+   "userRatingCount": 5297,
+   "releaseDate": "2023-03-25T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-17T16:03:33Z",
+   "version": "2.6.3",
+   "description": "Snap Pro Camera is the most advanced photo and video app that transforms your iPhone into a powerful DSLR camera. With full manual controls, AI-powered features, instant color grading, and professional filters, Snap Pro Camera+ lets you capture stunning photos and cinematic videos effortlessly.\n\nPRO CAMERA FEATURES\n● Manual Controls: Adjust ISO, shutter speed, and white balance for perfect shots.\n● RAW Mode: Capture in RAW to fine-tune every detail with professional editing.\n● Advanced Effects: Enhance your photos with precise focus and white balance adjustments.\n● Multiple Formats: Shoot in ProRAW, RAW, JPG, and TIFF for flexible editing options.\n\nLONG EXPOSURE & SLOW SHUTTER\n● Motion Blur: Capture motion blur for smooth, dreamy effects.\n● Light Trails: Create stunning light streaks in nighttime photography.\n● Low Light: Capture clear, vibrant photos in dim settings without unwanted grain.\n\nINSTANT COLOR GRADING & FILTERS\n● Pro Color Presets: Apply cinematic, film-like color to your photos and videos with one tap.\n● Instant Grade: Use live LUTs and color grading during capture, no need for post-editing.\n● Digital Filters: Enhance your photos with professional camera-style filters.\n\nPRO VIDEO FEATURES\n● Cinematic Stabilization: Record smooth, professional-quality videos with advanced stabilization.\n● Instant Color Grading: Apply live cinematic color grades while recording.\n● FPS Control: Adjust frame rates from 24, 30, and 60 fps and more.\n\nPORTRAIT & BOKEH EFFECTS\n● Depth Control: Achieve DSLR-like bokeh with automatic depth adjustments.\n● Aperture Simulation: Get stunning background blur from F1.4 to F22.0.\n● Automatic Bokeh: Add beautiful background blur to any portrait effortlessly.\n\nCREATIVE TIMELAPSE MODES\n● Timelapse: Capture dynamic sequences at intervals for stunning time-lapse videos.\n● Zoom Timelapse: Add a zoom effect during your time-lapse to enhance the visual impact.\n● Tilt-Shift: Create miniature world effects with tilt-shift photography.\n\nPHOTO EDITOR\n● Advanced Adjustments: Fine-tune brightness, contrast, saturation, and more.\n● Preset Filters: Instantly apply professional-grade preset filters to your photos.\n● Constant Updates: Regularly updated filters keep your edits fresh.\n\nAI STUDIO – CREATE PRO & FUN HEADSHOTS\nSnap Pro Camera's AI Studio enables you to create professional or fun headshots in just a few taps:\n● Background Removal: Remove backgrounds from photos or product shots, or replace them with solid black or white backdrops.\n● Background Replacement: Choose from preset backgrounds or upload your own image for a custom look.\n● AI Bokeh Effect: Apply background blur even to non-portrait photos.\n● Face Transformations: Create unique images with your face across hundreds of creative themes.\n\nCAMERA+ FEATURES\n● Auto & Manual Modes: Switch between auto and manual control for perfect shots.\n● Focus Assist: Easily achieve sharp focus with focus peaking.\n● Zebra Stripes: Identify overexposed areas for better exposure.\n● Multiple Formats: Shoot in RAW, ProRAW, TIFF, JPG, and HEIF.\n● White Balance: Manually adjust color accuracy for perfect lighting.\n● Histogram: Monitor exposure with real-time feedback.\n\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://www.miopsteknoloji.com/privacy-policy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/snap-pro-camera-manual-dslr/id6445889483?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "109115392",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 14
+   }
+  },
+  {
+   "trackId": 6737783441,
+   "trackName": "(Not Boring) Camera",
+   "bundleId": "com.andyworks.camera",
+   "artistName": "Not Boring Software LLC",
+   "sellerName": "Not Boring Software LLC",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.55869,
+   "userRatingCount": 5103,
+   "releaseDate": "2025-06-05T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-15T16:15:49Z",
+   "version": "1.59",
+   "description": "\"The most fun camera app I've used in forever.\" — The Verge\n\"My go-to for iPhone photography\" — Washington Post\n\"It’s so fun to use.\" —MKBHD\n\nCapture unique, honest, inspiring photos like the Pros in a fun, playful camera.\n\nSUPER RAW™\nNo AI or over-processed photos. Just natural grain, sharper images, & film-like exposures. Save Raw digital negative files (DNG) for processing in other tools like Darkroom, Lightroom, or Photoshop. Or capture using Apple's professional-level ProRaw.\n\nSKIP THE EDITS\nFrom snap to share. !Camera is the first camera app to enable professional color grading with 3D LUTs (”lookup tables”) used in high-end workflows by professional photographers to achieve realistic film simulations and unique cinematic looks. Use !Camera’s presets, add LUTs from your favorite creators, or make & import your own! New Styles and pro collaborations released every season. \n\nMAKE IT YOURS\nCustomize every part of your camera to fit your vibe. Share colorways with others.\n\nHDR\nExtend your photo’s dynamic range with HDR to save additional highlight detail and color depth.\n\nLOVE THE FEEL\nClick. Tick. Snap. First fully-3D camera interface with dynamic lighting, sounds, & custom haptics that evokes the feel of holding a real camera.\n\nPRO CONTROL\nUse Auto mode for easy captures or switch to Manual for full control over exposure, shutter speed, ISO, white balance, and focus with pro-level tools like focus peaking, histogram, and zebra stripes. \n\nONE-TAP FAST\nFrom lock screen to first snap in under 1 second. Add shortcuts to your lock screen, home screen, widgets, camera control, control settings, wherever.\n\n100% PRIVATE\nWe collect nothing. We store nothing. We share nothing.\n\nPlans: https://notbor.ing/plans\nSupport: https://notbor.ing/support\nTerms: https://notbor.ing/terms\nPrivacy: https://notbor.ing/privacy",
+   "trackViewUrl": "https://apps.apple.com/us/app/not-boring-camera/id6737783441?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "200032256",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 31,
+    "manual camera": 25
+   }
+  },
+  {
+   "trackId": 1479255922,
+   "trackName": "Pro Camera with RAW & Focus",
+   "bundleId": "com.whiterabbit.professionalCam",
+   "artistName": "Joseph Hall",
+   "sellerName": "Joseph Hall",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.43393,
+   "userRatingCount": 4185,
+   "releaseDate": "2019-10-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-13T04:50:12Z",
+   "version": "9.7",
+   "description": "Take a professional camera in your hands; capture professional photos with anything but your phone, and turn those important moments into professionally taken pictures that will make those memories unforgettable with the large list tools we bring directly to the palm of your hand.\n\n•\tCapture every moment in your day to day like a professional photographer with the large list of professional tools that will make your photos more stunning than ever before.\n•\tTake photos, selfies, or film videos with a professional style that will make you look like a qualified photographer.\n•\tBalance colors, lights, temperature, and any other characteristic in your photos; and fill your gallery with the most amazing photos.\n•\tTake professional selfies, eliminate face shine, and apply awesome effects to make your self-portraits even more beautiful.\n•\tKeep the control over the size of your photos, and keep any detail under control.\n•\tScan barcodes and copy them to your clipboard with just a tap on the screen.\n•\tSave your pictures directly in your gallery, or share your photos with your family or friends by any social media in any format.\n\nCapture every moment in your day, apply awesome effects to your photos, and create your own collection of professional masterpieces with anything but your, imagination, your passion for photography, and a practical yet powerful professional camera we bring directly to your hands.\n\nProfessional Camera Subscription Plans Details:\n\n3 days free trial and then:\n- $2.99/Week.\n- $9.99/Month\n- $29.99/Year.\n- $49.99/Year.\n\n- Professional Camera adds the great features above and are available through an auto-renewing subscription.\n- Renewal: subscription automatically renews unless auto-renew is turned off at least 24 hours before end of the current period.\n- Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n- No cancellation of the current subscription is allowed during the active subscription period.\n\nSubscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless cancelled at least 24 hours before the end of your current subscription, and you can cancel a subscription during the active period. You can manage your subscription at any time, either by viewing your account in iTunes from your Mac or PC, or Account Settings on your device after purchase. \n\nProfessional Camera app’s Privacy Policy is available at : https://whiterabbitllc.wordpress.com/privacy-policy/\n\nAnd Terms & Conditions: https://whiterabbitllc.wordpress.com/terms-of-use/",
+   "trackViewUrl": "https://apps.apple.com/us/app/pro-camera-with-raw-focus/id1479255922?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "222180352",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 13
+   }
+  },
+  {
+   "trackId": 1224581974,
+   "trackName": "Pro Camera-Omnipotent Camera",
+   "bundleId": "com.phantom.fantengmu",
+   "artistName": "Xiamen Suijisenlin Technology Co., Ltd.",
+   "sellerName": "Xiamen Suijisenlin Technology Co., Ltd.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.43163,
+   "userRatingCount": 4161,
+   "releaseDate": "2017-04-15T02:23:57Z",
+   "currentVersionReleaseDate": "2026-07-08T15:39:22Z",
+   "version": "2.1.8",
+   "description": "Pro Camera is an app integrating professional photography, professional video recording, photo editing and video editing. It integrates powerful computational photography technology to give full play to your camera potential.\n\n-- Camera Mode --\n\n- Photo\n- Video\n- Dual Camera\n- Triple-Camera Split Screen\n- Depth of Field\n- Burst Mode\n- Macro\n- Live Photo\n- Slow Shutter\n- Time-lapse\n- Slow Motion\n- Spatial Video\n- Multiple Exposure\n- Sports Burst Mode\n- Bracketing Exposure\n- Process Zero\n- Soft Focus\n- Starburst\n- Tilt-Shift\n- Fisheye\n- 3D Lighting\n- 100MP\n- BrightFlash\n- Mirror\n- 3D Night Vision\n- VHS\n- Film\n- Smile\n- 3D GIF\n\n-- Main Functions Of The Camera --\n\n-Manual control (focus, shutter, ISO, white balance)\n-Independent control lock (focus, exposure, white balance)\n-White balance control (custom, daylight, shadow, cloudy, tungsten lamp, fluorescent lamp, flashlight)\n-150 + real-time high-performance preset (Single Photo, Video, Time-Lapse, 3D image)\n-Multi lens support (wide-angle, telephoto, ultra wide-angle, front lens,  dual lens, true depth lens)\n-Many aspect ratios\n-2-10x digital zoom\n-Grid\n-Light level histogram\n-Level\n-EV indication\n-Support horizontal and vertical screen\n-Volume key for take photo/record video\n-Flashlight\n-FN parameter (9 groups of manual parameters)\n\n--Main Functions Of Photography --\n\n-Capture 48MP pixel photo with HEIF, JPEG,TIFF,ProRAW (iPhone 14 Pro and later)\n-Capture quality options\n-Image formats: HEIF, JPEG, TIFF, RAW, RAW + JPEG, ProRAW (iPhone 12 Pro and later), ProRAW + JPEG (iPhone 12 pro and later)\n-Exposure Bracketing (support HEIF, RAW, TIFF)\n-Up to 60 seconds slow shutter\n-Burst function\n-Smart smile photography\n-Slow shutter sensitivity adjustment\n-Depth of field / portrait mode supports focusing change of finished photos, and supports analog aperture control (f/1.2-f/16) and a variety of out of focus effects\n-3D mode supports MOV and GIF format export\n-Add location information tag for photos\n-Mirror front camera\n-3s, 5s, 10s Timer\n-Photo EXIF metadata viewing support (aperture, shutter, ISO, lens, etc.)\n\n-- Main Functions Of Video --\n\n-4K MAX (4032x3024) (24fps, 25FPS, 30fps)\n-4K (24-60fps)\n-1080P (24-240fps)\n-720P (24-240fps)\n-480P (24-240fps)\n-Normal/Cinema level stabilization \n-Video flashlight\n\n-- Photo / Video Editing --\n\n-150 + professional presets\n-150 + overlays\n-Image clipping, rotation, flipping, etc.\n-Photo frames\n-Basic image adjustment (support RAW image)\n-Advanced image tools (HSL etc.)\n-Chromatism\n-Blend\n-Grain\n-Analog Film\n-Depth of field\n-3D photo\n\nPrivacy Policy：http://www.sjslai.com/privacypolicy.html\nTerms of Use：http://www.sjslai.com/termsofservices.html\n\n—About Data Collection—\n\n1. The app will not collect any user information, not to mention the user's facial information. Users can also use the app offline.\n2. We do not collect user information and facial information, so there is no purpose to collect user information and facial information.\n3. Users can select their own photos to add filter and other effects, or record video in real time. Photos and videos will not be uploaded, stored remotely, or shared with third parties.\n4. The [data collection] part of our privacy policy. There are also explanations for data collection.",
+   "trackViewUrl": "https://apps.apple.com/us/app/pro-camera-omnipotent-camera/id1224581974?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "90974208",
+   "languageCodesISO2A": [
+    "EN",
+    "ZH",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 2,
+    "manual camera": 13
+   }
+  },
+  {
+   "trackId": 1535205062,
+   "trackName": "Varlens - DSLR in Phone",
+   "bundleId": "com.auramarker.varlens",
+   "artistName": "Aura Marker Studio Co., Ltd.",
+   "sellerName": "Aura Marker Studio Co., Ltd.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.72695,
+   "userRatingCount": 3970,
+   "releaseDate": "2021-01-26T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-17T08:38:38Z",
+   "version": "8.2",
+   "description": "Varlens is an ultimate pro camera app, can turn your phone as a DSLR camera. With more than 100 functions, and easy to use.\n\nRecommended as \"Fresh App\"\nSelected as \"The Best Camera Apps\" in United State AppStore\n\n# Classic Filters, High-Fidelity Reproduction, Analog Presets, Easy to Self-made\n- HiFi Filters: Built-in HS Nature HIFi filter, can import LUT files from Fujifilm and Sony websites to generate high fidelity DSLR style filters\n- Every month launches a new high-quality filter;\n- Dozens of carefully designed classic Kodak and Fuji films, Rico, Leica classic styles, Master filters\n- Free import unlimited .cube or .3dl 3D LUTs as filters\n- Tune filter's style such as intensity, exposure, grain and frame\n- Customizable presets. Three official examples are provided: AI Beauty, GND Filter (Linear Gradient and Zoned), and Sky Mask\n- Classic CCD and Polaroid analog presets, dozens of parameters can be fine-tuned\n\n# DSLR-level photography\n- 7 MODES: Auto, Portrait, Time-lapse, Light Trail, Macro, Program, Manual\n- 4K Live Photo: Ultra HD Live, with filters render realtime\n- EXCLUSIVELY Portrait Photography Algorithm, Simulate optical bokeh of super large aperture and depth of field blur,  comparable to the effect of telephoto lens of DSLR camera\n- AI DE-SHARPEN, remove over-sharpening of iPhone camera\n- 50x digital zoom, f/1.1 digital aperture, 30 seconds long exposure, 60 seconds long time-lapse interval\n- Manual control ISO, Shutter, EV, White Balance, Focus, and multiple Metering modes\n- Image formats: HEIC, JPEG, Live Photo, TIFF,  RAW / ProRAW, with 12MP / 24MP / 48MP options\n- Grid, Level, Histogram, Zebra Stripe, Focus Peaking\n- Magnifying Glass, Mirror Front Camera\n- Anamorphic Lens: 1.33x and 1.55x\n- Bluetooth Shutter\n\n# Very Professional Photo Editing  \n- AI Features: Aperture, Whitening, Spot Removal, and Face Slimming. Perfectly crafted, maintaining original image quality, and manual adjustments.\n- Masks: Subject, Sky, Linear Gradient, Radial Gradient \n- Presets: Create presets with AI, masks, and various editing parameters. Presets can be used for both editing and shooting.\n- Exclusively HSL+ tool,  pick up and blend color locally, better than Lightroom and VSCO\n- \"Shoot then focus\": Portrait mode photos can be readjusted focus and aperture\n- Aperture, Exposure, Brightness, Contrast, Highlights, Shadows, Saturation, Tint, De-noise, Grain, Vignette, Curves, Split Tone and more\n- High-definition, high-quality processing of the whole process, from shooting, saving, to photo editing, NON-Destructive original image\n- Artistic Photo Frame,  with displaying camera manufacturer, model name and other EXIF shooting parameters\n- Self-made Logo\n\n# Cinematic Video\n- Open Gate: Recording video at full resolution of  CMOS sensor\n- 3-level stabilization, easy to shoot cinematic video\n- REAL-TIME color grading filters, capture slow motion video, up to 240 fps high speed\n- Pause and continue recording video, one-time production, no need for video editing\n- Color: HDR, HDR10, Dolby Vision, Apple Log, Log2 \n- Codec: HEVC, H.264, ProRes, ProRes RAW\n- Stereo recording, two-channel pickup display\n\n# Extreme Experience\n- Lots of widgets: Golden Hour, Photography Mode, Favorite Filters, Photo Editing can be accessed quickly from home screen\n- Optimize GPU/CPU/NPU performance deeply for saving power\n- Left-hand interface\n- More preferences in advanced\n\n---- Notice about Auto-Renewal Subscription --\nVarlens Pro - Monthly:    $5.99 / mon\nVarlens Pro - Yeally:        $26.99 / 12 mons\nThe automatic renewal of your Pro membership subscription will be automatically deducted from your iTunes account within 24 hours before the membership expires;\nYou can go to the account settings to manage the subscription and cancel the subscription after purchase. The specific path is: \"Settings\" -> Apple ID -> Subscription\n\nTerms of Service: https://varlens.com/service/term\nPrivacy Policy: https://varlens.com/en-US/service/privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/varlens-dslr-in-phone/id1535205062?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "489344000",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 18,
+    "manual camera": 11
+   }
+  },
+  {
+   "trackId": 6469552837,
+   "trackName": "Final Cut Camera",
+   "bundleId": "com.apple.FinalCutApp.companion",
+   "artistName": "Apple",
+   "sellerName": "Apple Inc.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.63617,
+   "userRatingCount": 3716,
+   "releaseDate": "2024-06-20T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T17:00:10Z",
+   "version": "2.4",
+   "description": "Final Cut Camera puts you in the director’s chair with intuitive pro controls for your entire video production. Seamlessly start a Live Multicam session by connecting up to four devices running Final Cut Camera to preview, record, and sync your video angles in Final Cut Pro for iPad. Capture with powerful settings including shutter speed, ISO, white balance, and manual focus. Easily customize your resolution, frame rate, color space, and more. Quickly monitor your video with focus peaking and overexposure indicators. Dial in the perfect shot for your professional videos with Final Cut Camera.\n\nCapture professional footage with full manual control\n• Easily record in a range of resolutions, frame rates, and codecs including ProRes and Apple Log*\n• Capture ProRes RAW in open gate for full-frame resolution and incredible editing performance**\n• Set your exposure with ISO and shutter speed controls\n• Adjust your white balance using presets or set a custom color temperature\n• Pull focus to follow the action and keep subjects sharp\n• Enable timecode options including Time of Day, Record Run, or external timecode\n• Genlock multiple video sources with precise frame alignment using a compatible sync generator**\n• Flexibly frame your shot in portrait or landscape with the Center Stage front camera without moving your iPhone***\n• Record with Spatial Audio for videos with even more immersive sound****\n• Reduce shakiness and movement during capture by enabling stabilization\n• Lock orientation to ensure your framing is consistent regardless of device position\n\nPreview, record, and sync up to four devices with Live Multicam in Final Cut Pro for iPad\n• Quickly start a Live Multicam session by connecting your device to Final Cut Pro for iPad*****\n• Remotely preview, adjust pro controls, and initiate recording on all your connected devices right in Final Cut Pro\n• Instantly edit your multicam clips with preview media that is automatically synced in the Final Cut Pro browser\n• Save time in post with background media transfer that seamlessly replaces preview media with originals as you work\n\nConfirm videos look and sound perfect with powerful monitoring tools\n• Level videos with tilt and roll indicators or crosshairs for overhead shots\n• Preview your Apple Log video in SDR or HDR by applying the Apple Log LUT*\n• Enable focus peaking to ensure footage looks sharp\n• Properly expose videos using zebra indicators\n• Frame your shot with aspect ratio guides or grid overlays\n• Monitor available recording time and audio meters\n\nEasily review and transfer media right in the browser\n• Save videos to Files or record onto a connected external storage device*\n• Browse and review your footage directly in the Final Cut Camera browser\n• Quickly connect to Final Cut Pro for iPad and transfer media directly into a project\n• Conveniently pause and resume media transfers\n\nUpgrading to the latest iOS or iPadOS is recommended\n* Requires iPhone 15 Pro or later\n** Requires iPhone 17 Pro or later\n*** Requires iPhone 17 or later or iPhone Air\n**** Requires iPhone 16 or later\n***** Requires Apple Creator Studio subscription",
+   "trackViewUrl": "https://apps.apple.com/us/app/final-cut-camera/id6469552837?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "80016384",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 5
+   }
+  },
+  {
+   "trackId": 1047340501,
+   "trackName": "Manual Camera Pro + RAW Photo",
+   "bundleId": "com.museworks.musecam",
+   "artistName": "Onelight Apps CY Ltd",
+   "sellerName": "Onelight Apps CY Ltd",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.61289,
+   "userRatingCount": 3242,
+   "releaseDate": "2016-05-19T04:13:04Z",
+   "currentVersionReleaseDate": "2025-12-22T15:33:11Z",
+   "version": "1.6.5",
+   "description": "Try the App Store Editor's Choice manual camera app - make quality RAW photos, take pictures of the moon and edit your photos using unique presets and color settings.\nCapture the perfect look for your photos with the next generation image editor MuseCam! Shoot and edit your images using film-emulating presets, pro grade tools, and advanced camera controls.\nDiscover advanced MuseCam features:\n• Manual Camera\nCustom exposure for your iPhone camera with independent control of shutter, ISO, white balance & focus.\n• Gorgeous, Film-Inspired Presets\nMuseCam features a superior collection of presets, diverse in nature. Some of the world's finest photographers have contributed their secret formulas that emulate film in a timeless, and beautifully subtle way.\n• No-Import Editing\nSpeed is the name of the game. Forget the slow, multi-tap import process. Your photos are ready to edit right away.\n• RGB Tone Curves\nCapture the perfect tone with the Curves tool, allowing independent access to the red, green and blue color channels.\n• CMYK Tone Curves\nFurther tweak your photos with precision with independent access to the Cyan, Magenta, Yellow and Black color channels.\n• Create Custom Presets & Filters\nCreate a custom preset from scratch, or edit existing ones to perfect the look you're after. Quickly apply them to any other photo in your library.\n• Color Tool\nAdjust the hue, saturation, and luminance of different colors.\n• Complete Edit History\nMuseCam stores your full edit history, allowing you to come back at any time to make changes to your workflow.\n• Split Toning\nInfuse color into the shadows or the highlights of your photo, or both.\n• Depth of Field Tool\nSimulate depth of field by applying a lens blur to your photo. Intensify the blur with multiple swipes, or by taking advantage of Apple’s 3D Touch technology.\n• Professional Image Adjustments\nEdit every detail on your photo using professional adjustment tools such as exposure, brightness, saturation and more.\nPayment will be charged to your Apple ID account at the time of purchase confirmation. Subscription renews automatically unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.\nPrivacy Policy: https://onelightapps.io/privacy-policy\nTerms of Use: https://onelightapps.io/terms-of-use",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-camera-pro-raw-photo/id1047340501?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "106648576",
+   "languageCodesISO2A": [
+    "EN",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 20
+   }
+  },
+  {
+   "trackId": 1485217423,
+   "trackName": "Nightcam Camera: Night Mode",
+   "bundleId": "com.ahmetserdarkaradeniz.nightcam",
+   "artistName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
+   "sellerName": "RAY INFORMATICS YAZILIM TEKNOLOJI MEDYA DANISMANLIK VE EGITIM TICARET LIMITED SIRKETI",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.10769,
+   "userRatingCount": 2563,
+   "releaseDate": "2020-02-18T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-17T08:00:00Z",
+   "version": "1.5.1",
+   "description": "Nightcam is a perfect manual camera app for shooting the gorgeous day and night photos on any iPhone. Nightcam not only presents a good algorithm for night photography but also provides one of the best user experiences. We basically try to think about all the demands a user wants while trying to catch the best scenes of travel plans or any other good memories. \n\nDOWNLOADED BY OVER 1M+ USERS\n************************************\n\"Everyone I do like this camera it really does a good job even on auto all night\" by Darlene .Smith\n \n\"This app gives off the perfect amount of long exposure to get a nicely lit photo, even on my iPhone XR the photos look as if they were short on an 11 or more. I love how natural the colours stay too.\" by fjsjvnevokavjslve\n \n\"I like this app! I can finally have night mode in my phone for a minimal size app, not space consuming.. Please continue doing upgrades\" by CHRYS0808\n \n\"Unbelievably great!! You can say goodbye to all the noise in the night shots.\" niloofar.k\n************************************\n\nTWO MODES, LIMITLESS POSSIBILITIES\nNightcam offers two distinct approaches to photography. Its Automatic Mode instantly analyzes the scene, setting the optimal parameters for exceptional day and night shots—perfect for capturing fleeting moments. On the other hand, Manual Mode unlocks advanced controls, enabling you to refine exposure duration, ISO, and white balance. Combined with powerful tools like focus peaking, histograms, grids, and a stability visualizer, you have all you need to frame professional-grade compositions.\n\nNEW VIDEO AND TIME LAPSE\nNightcam now goes beyond still photography with entirely new Video and Time Lapse experiences. Record video in Standard, Night, and Moon modes with manual controls, HDR, low-light processing, audio monitoring, and torch support. Create Time Lapse videos with adjustable speeds, Long Exposure, and Light Trails.\n\nSPECIALIZED NIGHT MODES FOR EVERY SCENE\nThis latest update introduces dedicated night modes, each crafted for specific low-light conditions:\n\nNorthern Lights Mode: Capture breathtaking auroras with clarity and depth.\nMoon Mode: Highlight lunar details and subtle lunar glow.\nNight Auto: Let the app handle the settings for stress-free night shooting.\nNight HDR: Enhance contrast, detail, and depth in challenging low-light scenarios.\nNight RAW: Preserve every detail in uncompressed form for ultimate editing flexibility.\nStars Mode: Turn starry skies into dazzling constellations of light.\nLong Exposure (up to 30s): Create dramatic light trails and capture scenes impossible to see with the naked eye.\n\nADAPTIVE TOOLS FOR PERFECT COMPOSITIONS\nNightcam integrates intuitive features to ensure every shot meets your vision:\n\nFocus Peaking & Focus Loupe: Fine-tune manual focus effortlessly.\nAdaptive Exposure: Seamlessly balance brightness and detail.\nGrid & Level Tool: Achieve perfect symmetry and alignment.\nTripod Mode: Stabilize your device for sharp, blur-free images.\nNight AI Enhancer: Improve clarity in dim conditions, even post-capture.\n\n\nPOWERFUL COMPUTATIONAL PHOTOGRAPHY\nUnder the hood, Nightcam employs advanced algorithms and countless experiments to enhance low-light performance. \n\nADDITIONAL FEATURES\n\nAI-based low-light image enhancement\nHigh-quality image capture options\nSelf-timer, torch, geotagging for situational convenience\nReal-time histogram and preview analysis\nRAW mode with advanced controls\nIntelligent post-processing for true-to-life colors and contrast\nWith Nightcam, every scene—from a bustling city at dusk to a serene, starry sky—becomes a masterpiece waiting to be captured.\n\nNightcam Pro Subscription\nAccess all features of Nightcam with Nightcam Pro. Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan. \n- Terms of use: https://www.rayinformatics.com/terms\n- Privacy policy: https://www.rayinformatics.com/privacy\n CONTACT\n- Visit rayinformatics.com/contact for support and feedback.",
+   "trackViewUrl": "https://apps.apple.com/us/app/nightcam-camera-night-mode/id1485217423?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "235656192",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "TR"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 24
+   }
+  },
+  {
+   "trackId": 1152205153,
+   "trackName": "Manual Camera, Pro DSLR | RAW+",
+   "bundleId": "com.dynamicappdesign.rawplus",
+   "artistName": "Dynamic App Design LLC",
+   "sellerName": "Dynamic App Design LLC",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.37505,
+   "userRatingCount": 2389,
+   "releaseDate": "2016-12-12T01:50:40Z",
+   "currentVersionReleaseDate": "2026-10-01T17:50:25Z",
+   "version": "1.2.36",
+   "description": "RAW+ is a minimalist camera for purists and professionals and puts total creative control back into your hands with a streamlined, manual-first interface. Shoot in RAW, JPG or both simultaneously.\n\nRAW+ is ALWAYS manual exposure- shutter and ISO controls are always on screen and easily accessible via huge sliders(The aperture is fixed on the iPhone and thus not adjustable- but you knew that already). Manual focus override any time as well as custom white balance settings.\n\nProfessional Imaging Pipeline-\n\nTrueRAW: Shoot pure, unadulterated RAW data with zero post-processing.\nProRAW: Leverage Apple's fusion pipeline and high-dynamic-range enhancements.\n48MP Support: Toggle maximum resolution for ProRAW on supported sensors and lenses.\nManual Shutter Speed\nManual ISO\nManual Aperture Control- iPhone 18 Pro only \nManual Focus Override: Take control of your focal plane at any moment.\nCustom White Balance: Choose from 8 presets or set a specific Kelvin value.\n\nEssential Tools-\n\nRGB Histogram: Monitor your color channels in real-time.\nClipping Warnings: Live highlights and shadow overlays to prevent lost detail.\nComposition Aids: Integrated Grid and Level overlays for perfect framing.\nFormat Flexibility: Support for RAW, ProRAW, and high-quality JPG.\n\nCompatibility-\n\nRAW Support: iPhone SE, 6s, and newer devices.\nProRAW Support: iPhone 12 Pro, 12 Pro Max, and all subsequent Pro models.\n\nTerms of Service: dynamicappdesign.com/tos",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-camera-pro-dslr-raw/id1152205153?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "13618176",
+   "languageCodesISO2A": [
+    "EN",
+    "DE"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 24,
+    "manual camera": 10
+   }
+  },
+  {
+   "trackId": 1459953293,
+   "trackName": "FotorGear - Camera in Pocket",
+   "bundleId": "www.zerosmart.com.modepter",
+   "artistName": "Shenzhen Fotorgear Technology Co., Ltd.",
+   "sellerName": "Shenzhen Fotorgear Technology Co., Ltd.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Graphics & Design"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.70244,
+   "userRatingCount": 1556,
+   "releaseDate": "2020-10-29T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T21:36:45Z",
+   "version": "5.4.4",
+   "description": "We are design team from @fotorgear. We design FotorGear to make you better use your mobile phone to shoot unlimited creativity. From now on, you no longer need to bring a bulky camera, no need to set parameters tediously, all you need is to use FotorGear to achieve all of this, real-time photo filters, manual Control, time-lapse photography, motion blur mode, light painting and more... all you want is FotorCam.\n\nThe mobile phone in your hand is more powerful than you think, still using it to shoot mediocre videos? Try FotorGear, real-time filters, 4K 60P, cinematic video stabilization, flat log color and more. Your phone is a professional camera in your pocket!\n\nIf you have any features or ideas please contact us at hi@fotorgear.com or DM us on Instagram @fotorgear.\n\n#Photo Features#\n\nMANUAL CONTROL\nEasy to control everything. Shutter Speed, ISO, focus, white balance. tint and more..\n\nREALTIME PHOTO FILTER\nApply photo filters in realtime. Portrait, Film, Cinematic, BW, Landscape mode included.\n\nTAKE RAW FILES\nTake photos with RAW format, Preserve more image details.\n\nPEAK FOCUS\nMore precise focus with Peak Focus.\n\nHISTOGRAM\nMake your every photo exposure perfectly.\n\nTILTMETER\nKeep it straight and make the composition more rigorous.\n\nPOWERFUL TIME LAPSE\nSmart control time lapse parameter, powerful & Efficient. Record the world in time lapse mode.\n\nMOTION BLUR\nShoot long exposure effects in daytime, Blur water, cloud and everything.\n\nLIGHT TRAIL\nRecord light trails, Enjoy the magic of light painting.\n\nPHOTO EDITOR\nAdjust Brightness, Contrast, Saturation, Shadow, Highlights, Sharp ... to make photos more perfect.\n\n#Video Features#\n\nCINEMATIC VIDEO CONTROL\nRecord up to 4K 60fps videos. Meet the high quality video world.\n\nREALTIME VIDEO FILTER\nApply photo filters in realtime. Portrait, Film, Cinematic, BW, Landscape mode included.\n\nANAMORPHIC LENS SUPPORT\nAttach anamorphic lens, Make your phone looks more like a video camera.\n\nASPECT RATIO\nInclude 1:1 / 16:9 / 2.35:1 / 2.76:1 (ANAMORPHIC LENS required).\n\nAUDIO LEVEL\nRecord videos with high quality audios.\n\nVIDEO STABILIZATION\nWith cinematic video stabilization, make your video more stable just with your hands.\n\nPROFESSIONAL LOG COLOR\nImprove video tolerance and make color grading more easier\n\nAnamorphic Lens Support\nUse the Fotorgear Anamorphic lens to shoot film look videos in 2.35:1 or 2.76:1.\n\nRaw file require an iPhone 6S or later.\n\nFollow us on:\nInstagram: @fotorgear\nFacebook: @fotorgear\nYoutube: @fotorgear \nEmail: hi@fotorgear.com\nWeb: fotorgear.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/fotorgear-camera-in-pocket/id1459953293?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "312147968",
+   "languageCodesISO2A": [
+    "EN",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 32
+   }
+  },
+  {
+   "trackId": 1239098425,
+   "trackName": "Camera M - Pro Manual Camera",
+   "bundleId": "com.bxb.camera-m",
+   "artistName": "bxb",
+   "sellerName": "bxb, LLC",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 7.99,
+   "formattedPrice": "$7.99",
+   "averageUserRating": 4.53569,
+   "userRatingCount": 1415,
+   "releaseDate": "2017-08-03T22:20:23Z",
+   "currentVersionReleaseDate": "2026-09-24T17:46:33Z",
+   "version": "9.4.1",
+   "description": "Camera M is a professional manual camera app designed to do one thing exceptionally well — help you capture beautiful photos at the highest possible quality with powerful, precise manual controls akin to a DSLR.\n\n\nHIGHLIGHTS\n• Fluid gesture-based native manual controls with Fine-Tuning feature\n• iOS 26 optimization with Liquid Glass design\n• Zero-process RAW support for the most natural look\n• Max Image Processing to ensure the absolute best image quality\n• ProRAW*, RAW, HEIF, JPEG, TIFF, and PNG image formats\n• Single, Burst, Timer, Live, Depth*, Dual Photo*, and Bracket shooting modes\n• Triple Photo mode with simultaneous ultra-wide, wide-angle, and telephoto camera capture*\n• Minimum focus distance display for macro photography\n• Intelligent Focus Tracking\n• Focus Peaking and 4x magnifier loupe with panning function\n• Live RGB and RGB luminance histograms\n• Manual gray card calibration\n• Great widgets for photography\n• Darkroom integration\n\n\nCAMERA CONTROLS\n– Manual focus\n– Macro and Scene focus presets\n\n– Exposure bias\n– Manual ISO & exposure duration adjustments\n– ISO & exposure duration semi-priority modes\n\n– Manual white balance temperature and tint\n– White balance presets\n– Gray card white balance calibration\n\n– Auto, on, and off flash modes\n– Manual torch brightness level\n\n– Manual switching between Ultra Wide, Wide, and Telephoto cameras*\n– Digital pinch zoom with 10x range\n\n– Camera Control support for all manual controls\n– Lock Screen camera capture support\n\n\nIMAGE FORMATS\n– Apple ProRAW*\n– RAW with stabilization\n– HEIF with optional minimum compression\n– JPEG with optional minimum compression\n– TIFF\n– PNG\n– Live Photo\n– P3 wide color support*\n\n\nSHOOTING MODES\n– Single\n– Burst\n– Timer\n– Depth*\n– Dual/Triple Photo*\n– Live Photo*\n– Bracket\n\n\nTOOLS\n– Exposure offset gauge\n– Intelligent Focus Tracking\n– Live focus peaking assistant\n– 4x magnifier loupe with panning function\n– Minimum focus distance display\n– Live RGB and RGB luminance histograms\n– Highlight & shadow alert display\n– Horizon level with available pitch tracking and flat options\n– Rule of Thirds, Golden Ratio, Quadrant, and Square grids\n– Siri Shortcuts and App Shortcuts\n– Detailed camera specifications display with PDF export\n\n\nMAX IMAGE PROCESSING\n– Deep Fusion and Smart HDR support for iPhone 11 and later.\n– Ensures maximum image quality with better noise reduction, image stabilization, and additional processing for all other iPhones and iPads\n\n\nZERO-PROCESS RAW\n– Capture standard RAW files with no extra processing\n\n\nPHOTO LIBRARY\n– Summarized and full EXIF metadata display\n– Location data display with compass and elevation\n– RGB and RGB luminance histogram displays\n– Access to all photo albums and folders\n\n\nWIDGETS\n– Home Screen: Golden Hour, EXIF, and Cameras\n– Lock Screen: Cameras and Golden Hour\n– Control Center: Focus, exposure, and white balance\n\n\nAPPLE WATCH SUPPORT\n– Shutter button control\n– Sunrise, sunset, and Golden Hour display with sun position indicator\n\n\nERGONOMICS\n– True one-handed control on all iPhones\n– An uncompromising approach to user experience in landscape orientation\n\n\nACCESSIBILITY\n– Dynamic Type support \n– Bold Text support\n– Increase Contrast support\n\n\nTECHNOLOGY\nCamera M is powered exclusively by native APIs and frameworks. There are absolutely no dependencies on any outside sources. This makes it responsive and efficient — from its small download size to its quick app launch times.\n\n\nWe hope you enjoy taking amazing photos with Camera M!\n\n\nWebsite: www.camera-m.com\nUser manual: www.camera-m.com/manual\nGet in touch: contact@camera-m.com\nFollow us: @CameraMApp\n#CameraM\n\n\n* These features are available on supported devices only.\n* Depth capture for selfies requires an iPhone or an iPad with a TrueDepth camera system.\n* Apple ProRAW capture requires iPhone 12 Pro or later.\n* For more information on device and feature compatibility: www.camera-m.com/compatibility",
+   "trackViewUrl": "https://apps.apple.com/us/app/camera-m-pro-manual-camera/id1239098425?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "31088640",
+   "languageCodesISO2A": [
+    "EN",
+    "DE",
+    "JA",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 26
+   }
+  },
+  {
+   "trackId": 1498431506,
+   "trackName": "Protake - Mobile Cinema Camera",
+   "bundleId": "com.blink.academy.protake",
+   "artistName": "Beijing Lingguang Zaixian Information Technology Limited",
+   "sellerName": "Beijing Lingguang Zaixian Information Technology Limited",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.49181,
+   "userRatingCount": 1344,
+   "releaseDate": "2020-04-26T07:00:00Z",
+   "currentVersionReleaseDate": "2025-11-11T02:42:38Z",
+   "version": "4.2.4",
+   "description": "Protake brings the filmmaking experience of professional cinema cameras to your mobile devices.\n\nNo matter you're a daily vlogger, a commercial director, or a well-established filmmaker, you will benefit from Protake's features, including:\n\n# [NEW] WI-FI VIDEO TRANSMISSION\n\n· In the landscape orientation of AUTO and PRO modes, you can start the brand new Wi-Fi Video Transmission system.\n· You can transmit the video from 1 \"camera\" to 4 \"monitors\" (yes, we're talking about iPhones and iPads).\n· You can watch up to 4 \"cameras\" on 1 \"monitor\".\n· You can wirelessly start and stop the recording of all \"cameras\".\n· You can even monitor HDR and SDR video streams on the same screen.\n· It's a ground-breaking end-to-end mobile recording and monitoring experience.\n· It's brought to you by Protake.\n\n# MODES\n\n· AUTO mode: a mode optimized for vloggers and YouTubers, you can use it single-handedly.\n· PRO mode: a mode designed for professional filmmakers. All the camera information and control settings are well aligned on the screen.\n· DUAL mode: recording video with two cameras working at the same time. Recorded in one file as Picture in Picture or two files.\n· PORTRAIT mode: with iPhone Pro and iPad Pro's LiDAR sensor and the devices' powerful processors, you can record \"portrait mode video\" with real-time blurred background.\n\n# COLOR\n\n· LOG: it's not only a genuine LOG gamma curve -- we strictly matched your mobile device's color to the industrial standard - ALEXA Log C.\n· Cinematic Looks: we provided a dozen of cinematic looks for filmmakers -- the styles are categorized into Neutral Styles, Film Emulation (classic Kodak and Fuji cinema film), Movie Inspired (blockbusters and indie masterpieces), and ALEXA Looks.\n\n# ASSISTANTS\n\n· Monitoring tools: Waveform, Parade, Histogram, RGB Histogram, Audio Meter.\n· Composition assistants: Aspect Ratios, Safe Area, Thirds, Crosshairs, and 3-axis Horizon Indicators.\n· Exposure assistants: Zebra Strips，False Color, Exposure Compensation, Auto Exposure.\n· Focus assistants: Focus Peaking and Auto Focus.\n· Recording: Record Beeper, Record Flash, Volume Key Record.\n· Zooming and Focusing: A-B Point.\n\n# DATA\n\n· Frame Rate Normalization: Mobile devices don't have perfect frame rate control, therefore, it's easy to get non-standard variable frame rate. Protake solves this problem fundamentally and makes strictly constant FPS of 24, 25, 30, 60, 120, etc.\n· File-naming: All the video files saved by Protake use the standard naming system: Camera Unit + Reel Number + Clip Count + Date + Suffix. It's something like \"A001C00203_200412_IR8J.MOV\"... Sounds familiar?\n· Metadata: Everything including device model, ISO, shutter angel, white balance, lens, connected accessories, location, are all well recorded in the file's metadata.\n· Time code: We provided both options for you -- Free Run and Record Run. It's compatible with your cinema cameras.\n\n# Protake+\n\n· With a Protake+ membership, you can use all the features, including: Pro mode, LOG gamma curve, Protake Cinematic Looks, all the assistant tools, data management, 3rd-party accessories.\n· Protake+ provides 1-year membership for you to purchase;  \n· Payment will be charged to your iTunes Account at confirmation of purchase;\n· Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period;\n· Your account will be charged for renewal within 24-hours prior to the end of the current period;\n· The renewal price for 1-year membership is USD 19.99.\n· You can manage your subscription and switch off the auto-renewal by accessing your Account Settings after purchase;\n· All personal data is handled under the terms and conditions of Protake’s privacy policy. More details can be found here: \nhttps://terms.alicdn.com/legal-agreement/terms/platform_service/20220621172324148/20220621172324148.html\nhttps://terms.alicdn.com/legal-agreement/terms/privacy/20220704104156634/20220704104156634.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/protake-mobile-cinema-camera/id1498431506?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "78616576",
+   "languageCodesISO2A": [
+    "EN",
+    "ZH",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 29
+   }
+  },
+  {
+   "trackId": 1542528184,
+   "trackName": "Fjorden Camera",
+   "bundleId": "co.fjorden.camera",
+   "artistName": "Fjorden",
+   "sellerName": "Fjorden Electra AS",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.29359,
+   "userRatingCount": 1250,
+   "releaseDate": "2022-03-09T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-04T17:47:12Z",
+   "version": "2.7.1",
+   "description": "Fjorden Camera is the companion app to the Fjorden Grip, a compact and ergonomic attachment that lets you handle and shoot your iPhone like a DSLR—without the added bulk. Enjoy tactile controls to adjust shutter speed, aperture, and zoom. Use the two-step shutter button to capture moments with more control. \n\nLearn more about the grip at Fjorden.co.\n \n++ FEATURES ++\n\n• Manual camera controls\n• Exposure compensation\n• ISO & shutter speed\n• White balance (preset & fully manual)\n• Assisted & manual focus\n\t• Face detection\n\t• Focus peaking\n• Composition tools\n• Digital zoom\n• One-handed UI\n• Dynamic type support\n• Shoot in ProRAW**, RAW, JPG & HEIF\n• EXIF/Metadata viewer\n\n**ProRAW requires iPhone 12/13/14/15/16 Pro / Pro Max\n\n----\n\nThank you for choosing our app! We greatly appreciate your support. \n\nIf you enjoy using our app, please consider leaving a review on the App Store. Your feedback is invaluable in helping us enhance our app and provide an even better experience for you and other users.\n\nIf you encounter any issues or have suggestions for improvement, please don’t hesitate to get in touch → team@fjorden.co.\n\n\nPrivacy policy: https://fjorden.co/privacy\nTerms of Use: https://fjorden.co/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/fjorden-camera/id1542528184?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "38737920",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 16
+   }
+  },
+  {
+   "trackId": 1550960155,
+   "trackName": "Pro Camera - Reeflex",
+   "bundleId": "reeflex.ReeflexAppUILayout",
+   "artistName": "Reeflex GmbH",
+   "sellerName": "Reeflex GmbH",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.39679,
+   "userRatingCount": 998,
+   "releaseDate": "2021-02-08T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-25T21:09:19Z",
+   "version": "3.6.1",
+   "description": "Reeflex is the most advanced photography app on the App Store built for enthusiasts, creatives, and professionals! It brings advanced DSLR-style controls to your iPhone in a clean, intuitive interface. Recognized as “App of the Day” and featured in “Apps We Love” by the App Store team, Reeflex gives you everything you need to elevate your photography in one app.\n\n— Professional Tools for Everyone —\n\nReeflex combines classic still photography and advanced Slow Shutter modes for long exposure, together with full manual control over focus, exposure, shutter speed, ISO, and white balance. Monitor exposure with live histograms and zebra stripes. Fine-tune focus with focus peaking and focus loupe. With a simple two-finger gesture, independently place focus and exposure reticles anywhere in the scene. Shoot with Zero Shutter Lag, powered by an optimized capture pipeline that delivers one of the fastest capture experiences on the App Store.\n\nReeflex supports HEIF, JPG, and RAW on all iPhone models, plus Apple ProRAW* and 48MP*** on compatible devices.\n\n— Slow Shutter Mode —\n\nReeflex offers powerful long exposure tools leveraging the iPhone Smart-HDR for incredible dynamic range. Use Motion Blur or Light Trails to smooth moving water and clouds, make crowds disappear, or transform roads and night skies into flowing streaks of light. Long exposure on iPhone has never been easier.\n\n— Focus & Exposure Bracketing —\n\nCapture multiple frames across different focus points for edge-to-edge sharpness, or bracket exposures to preserve detail in highlights and shadows — ready for perfect blends and full creative control.\n\n— Burst Mode & Burst On Tap —\n\nCapture every moment with Burst Mode. Press and hold the shutter for rapid sequences with a real-time shot counter, or enable Burst on Tap for instant bursts with zero delay. Customize shot count, focus lock, and burst grouping.\n\n— Honorable Mentions —\n\nReeflex has been recognized by the App Store team as “App of the Day” and featured in “Apps We Love\". Praised within the photography community as one of the best manual camera apps available on iPhone. Reeflex has also been featured across leading photography platforms and publications, including PetaPixel, Fstoppers, Mobiography, and other specialized media.\n\n— MAIN FEATURES —\n\n• Full manual controls (ISO, shutter speed, exposure, focus, white balance)\n• Focus Bracketing for edge-to-edge sharpness\n• Exposure Bracketing for extended dynamic range\n• Burst Mode & Burst On Tap\n• Zero Shutter Lag capture\n• Live histograms & zebra stripes\n• Focus Peaking & Loupe (Magnifier)\n• AF/AE reticles\n• Camera selection\n• Gyroscopic tiltmeter & ext digital zoom\n• JPG, HEIF, TIFF, ProRAW* and RAW** formats\n• 12MP and 48MP capture support***\n• Enhanced gallery with RAW+JPG tags and burst/bracket grouping\n• Advanced metadata view with GPS location\n• Accessibility support for color-blind users\n• Tutorials (in settings)\n\n— SLOW SHUTTER MODES —\n\n•⁠  ⁠Motion Blur — smooth water, flowing clouds, dynamic movement\n•⁠  ⁠Light Trails — transform traffic and stars into streams of light\n•⁠  ⁠Capture durations from 0.5 seconds up to 2 hours and Bulb (unlimited)\n•⁠  ⁠Live Preview — watch your image build in real time\n\n— REMARKS —\n\n*ProRAW is supported on iPhone 12 Pro and newer.\n\n**RAW format is limited to 12MP and requires iPhone 6s or newer.\nOn iPhone 11 and earlier, RAW is not supported on the Ultra Wide camera.\n\n***48MP is supported on the:\n•⁠ Main Wide camera of iPhone 14 Pro & newer\n•⁠ ⁠Ultra Wide camera of iPhone 16 Pro & newer\n•⁠ Telephoto camera of iPhone 17 Pro & newer\n\n— CONNECT —\n\n• Need help or want to share feedback? support@reeflexstore.com\n\n• Tutorial: https://reeflexstore.com/pages/pro-camera-2\n\n• FAQ: https://reeflexstore.com/pages/faq-reeflex-pro-camera\n\n• Follow @ReeflexCamera and tag #ShotWithReeflex\n\n— ADMIN —\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://reeflexstore.com/pages/privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/pro-camera-reeflex/id1550960155?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "51648512",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera",
+    "manual camera"
+   ],
+   "ranks": {
+    "pro camera": 10,
+    "manual camera": 35
+   }
+  },
+  {
+   "trackId": 1562150140,
+   "trackName": "Pro Camera RAW: Modus ProCam",
+   "bundleId": "com.ashutoshbilla.procam",
+   "artistName": "Sarva Labs",
+   "sellerName": "Sarva Labs",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.5301,
+   "userRatingCount": 681,
+   "releaseDate": "2021-06-22T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T20:24:18Z",
+   "version": "6.2",
+   "description": "Modus ProCam brings DSLR-level manual control to your iPhone, so you can shoot with intent instead of relying on auto.\n\nCapture RAW, ProRAW, and full 48MP images for maximum detail and editing latitude. Manually dial in exposure, ISO, shutter speed, focus, and white balance so every shot looks exactly how you imagined it. Built for photographers who have outgrown the default Camera app, Modus turns your iPhone into a precise, professional manual camera.\n\nClarity when you want it. Control when you need it.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\n⌘ Two Levels of Control ⌘\n⁍ Essential\nFor fast, everyday shooting when you still want creative control.\n• Point-and-shoot simplicity with better results\n• Tap to focus exactly where you want sharpness\n• Swipe to adjust exposure bias in real time\n• Zoom smoothly without hunting through menus\n\n⁍ Advanced\nFor full manual shooting when every setting matters.\nControl, lock, and fine-tune:\n• Shutter Speed: Freeze action or create motion blur\n• ISO: Balance noise and brightness in low light\n• Focus: Nail critical focus for portraits and macro shots  \n• White Balance: Correct color under any light source\n\nDouble-tap any control to reset. Precision when you need it.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\n⌘ Two Interface Styles ⌘\n⁍ Minimal\nA distraction-free layout built for composition and timing.\n• The screen stays clean so you can focus on framing\n• Controls appear only when you need them\nIdeal for street, travel, and candid photography.\n\n⁍ Classic\nA DSLR-inspired interface for shooters who want everything visible.\n• Always-on controls and settings at your fingertips\n• Quick adjustments without diving into menus\nPerfect when you are working fast and cannot miss the shot.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\n⌘ Professional Image Capture ⌘\n\nCapture with the flexibility and data you expect from a real camera:\n• RAW and ProRAW for maximum dynamic range and post-processing control\n• HEIF and JPEG when you need smaller files and instant sharing\n• Focus Peaking to visually confirm sharp focus before you shoot\n• Full manual control of ISO, shutter speed, focus, and white balance\n• Exposure bracketing to handle high-contrast scenes like sunsets and backlit portraits\n• Live exposure meter so you can expose accurately, not guess\n• Lock controls to keep your chosen settings consistent from shot to shot\n\nProduce professional-quality results straight from your iPhone, ready for Lightroom, or your preferred editor.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\n⌘ Designed for Serious iPhone Photographers ⌘\n\nModus is tuned for photographers who think in terms of light, timing, and control.\n• Essential mode for fast, responsive manual shooting on the go\n• Advanced mode for full creative control in demanding situations\n• Grid overlays including Rule of Thirds and Golden Ratio for intentional compositions\n• Built-in EXIF metadata viewer so you can review your exposure settings after each shot\n• Shutter release via Bluetooth and volume buttons for stable, shake-free shooting\n\nOptimized for one-handed operation with intuitive controls and professional precision.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\n⌘ Personalize Your Camera ⌘\n\nConfigure Modus to match how you like to shoot:\n• Switch between Essential or Advanced control level depending on the scenario\n• Choose Minimal or Classic interface to fit your style\n• Select zoom-based or lens-based notation to match how you think about focal length\n• Add Author Name and Copyright Info so your images are tagged as yours from the start\n• Customize front flash color for more flattering selfies and creative looks\n• Save up to 3 favorite settings presets for quick access to your go-to setups\n\nYour camera. Your workflow. No compromises.\n\n⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃⁃\n\nDownload Modus ProCam and take full control of your iPhone camera today.\n\nModus ProCam is designed exclusively for photography. Video recording is not supported.\n\nIf you have feedback or feature requests, reach out at support@modus.cam\n\nTerms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/pro-camera-raw-modus-procam/id1562150140?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "117702656",
+   "languageCodesISO2A": [
+    "AR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 7
+   }
+  },
+  {
+   "trackId": 1670798243,
+   "trackName": "DSLR Camera - Manual Camera",
+   "bundleId": "com.movieoff.off",
+   "artistName": "Xiamen Miuhua Technology Co., Ltd.",
+   "sellerName": "Xiamen Miuhua Technology Co., Ltd.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.60972,
+   "userRatingCount": 679,
+   "releaseDate": "2023-07-13T07:00:00Z",
+   "currentVersionReleaseDate": "2025-10-09T16:51:27Z",
+   "version": "3.0.36",
+   "description": "Shooting Modes:\n- Professional Camera\n- Professional Cinema Camera\n- Multiple Cameras\n- 8K Time-lapse Photography\n- Film Camera\n\nProfessional Camera Features:\n- Manual/Automatic Exposure Control (Shutter, ISO)\n- Manual/Automatic Focus Control\n- Manual/Automatic White Balance Control (Color Temperature, Tint)\n- Manual Zoom Control\n- Exposure/Focus Points of Interest\n- Zebra Lines, Peak Focus, False Color Image Analysis\n- Brightness Histogram, RGB Histogram\n- Macro Mode\n- Depth Mode\n- Slow Shutter Mode\n- Live Photos\n- HDR photography\n- Burst\n- Presets\n- Triple Camera Simultaneous Shooting\n- Timed Photography\n- De-sharpening\n- Level\n- Assist Lines\n- Multiple aspect ratios\n- Photo Quality Settings\n- Photo Formats (RAW+JPEG, RAW+HEIF, JPEG, HEIF, TIFF, RAW, PRORAW, PRORAW+JPEG)\n- Photo Pixels (48MP, 24MP, 12MP, 8MP, 5MP, 0.3MP)\n- Front Camera Mirroring\n\nProfessional Cinema Camera Features:\n- Manual/Automatic Exposure Control (Shutter, ISO)\n- Manual/Automatic Focus Control\n- Manual/Automatic White Balance Control (Color Temperature, Tint)\n- Manual Zoom Control\n- Exposure Points of Interest, Focus Points of Interest (Supports Exposure-Focus Separation)\n- Zebra Lines, Peak Focus, False Color Image Analysis\n- Real-time Oscilloscope, including Brightness Histogram, RGB Histogram, Brightness Waveform, RGB Component Waveform, RGB Overlay Waveform    \n- Real-time Audio Analysis\n- Local Video Management, Batch Saving, Batch Deletion, Supports Viewing Video Information\n\nVideo Resolutions:\n- 4K, 3K, 2K, 1080P, 720P, 540P\n\nVideo FPS:\n- 4K, 3K, 2K Video Recording, 24 fps, 25 fps, 30 fps, 48 fps, 60 fps\n- 1080P Video Recording, 24 fps, 25 fps, 30 fps, 48 fps, 60 fps, 120 fps, 240 fps\n- 720P Video Recording, 24 fps, 25 fps, 30 fps, 48 fps, 60 fps, 120 fps, 240 fps\n- 540P Video Recording, 24 fps, 25 fps, 30 fps, 48 fps, 60 fps\n\nVideo Aspect Ratios:\n- 16:9, 1:1, 2.2:1, 4:3, 2.39:1, 3:2\n\nVideo Codecs:\n- HEVC, H.264, ProRes\n\nVideo Dynamic Range:\n- SDR8, SDR10, HDR (Dolby Vision), Apple Log  (Only supports iPhone 15 Pro and above models)\n\nVideo Color Mapping:\n- LTM, GTM\n\nVideo Quality:\n- Low (30Mbps), Standard (60Mbps), High (100Mbps), Extreme (150Mbps)\n\nVideo Storage Formats:\n- MOV, MP4\n\nAudio Settings:\n- Microphone Position (Bottom, Front, Rear)\n- Audio Encoding Format (AAC, PCM)\n- Audio Sampling Frequency (44.1 kHz, 48 kHz)\n- Stereo Recording\n- Mute Recording\n\nOther Settings:\n- Assist Lines (Thirds, Crosshairs, Visual Safe Area, Golden Spiral, Golden Ratio, Golden Triangle)\n- Stabilization Support (Standard, Film, Extreme)\n- Video Storage Locations (Local, System, Dual Storage)\n\nMulti-Camera Shooting Features:\n- Picture in Picture (Displays a small window in the corner of the main screen containing the image captured by another camera)\n- Split Screen (Divides the screen into two parts, each displaying the image captured by different cameras)\n- Independent Storage (In multiple camera shooting mode, the image captured by each camera can be stored independently in different media files)\n\nTime-Lapse Photography Features: \n- Supports 8K resolution (Only supports iPhone 14 Pro and above models)\n\nFilm Camera Features:\n- Film presets\n- Photo paper\n\n— About Subscription —\nAnnual Subscription: $9.99 / Year\n\nAbout the subscription: After the trial period ends, it will automatically convert to a paid subscription. You can cancel the subscription before the trial period ends.\nPayment: When confirming the purchase, payment will be charged to your iTunes account.\nAuto-Renewal: The subscription will automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.\nCanceling Renewal: To cancel the renewal, please manually turn off the auto-renewal feature in the iTunes/Apple ID settings management at least 24 hours before the current subscription period expires.\n\nPrivacy Policy:\nhttp://www.movieoff.com/privacypolicy.html\nUser Agreement:\nhttp://www.movieoff.com/termsofuse.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/dslr-camera-manual-camera/id1670798243?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "64772096",
+   "languageCodesISO2A": [
+    "EN",
+    "ZH",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 19
+   }
+  },
+  {
+   "trackId": 951399974,
+   "trackName": "Yamera (Manual Camera)",
+   "bundleId": "com.appmadang.Yamera",
+   "artistName": "AppMadang",
+   "sellerName": "AppMadang",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.53936,
+   "userRatingCount": 597,
+   "releaseDate": "2015-01-27T17:21:52Z",
+   "currentVersionReleaseDate": "2026-09-30T05:02:41Z",
+   "version": "5.7",
+   "description": "* Custom exposure for your iPhone/iPad Camera\n* Full independent control of Focus, Exposure and White Balance\n\n--------------------------------------\nYamera - Full Manual Camera\n\n【Introduction】\n\n* Yamera is a powerful camera app with full control over your image.\n* Quickly and simply adjust all parameters of your image.\n* No more tapping and hoping automatic can understand what you want.\n\n\n【Full Manual Control】\n\n* Shutter\n* ISO\n* White Balance\n* Focus\n* Exposure Compensation\n* Gray Card : Place a gray card in the center of the screen (more than 50% size). It will automatically adjust White Balance parameters.\n\n\n【Photo Camera Features】\n\n* Auto/Manual control of Focus/Exposure/WhiteBalance\n* Timer Shot\n* Digital zoom (6x)\n* Stabilization\n* Date Stamp\n* EXIF metadata\n* GeoTag\n* Flash (On/Off/Auto)\n* Front-camera mirroring\n\n\n【Video Camera Features】\n\n* 4K video recording\n* Slo-mo video recording\n* Take a photo while recording a video\n* Auto/Manual control of Focus/Exposure/WhiteBalance\n* Digital zoom (6x)\n* Stabilization\n* Max frame-rate recording\n* App Library (see the below)\n\n\n【Tip】\n\n* URL Scheme = Yamera://\n\n\n【App Library】\n\n* In any situation, your photo/video is safe.\n* If something goes wrong, the photo/video is automatically saved into 'App Library'.\n* One of the following reasons can cause an error.\n- First, the app cannot access Photos. In this case, please go to Settings -> Choose the app -> Grant Photos access rights.\n- Second, there is no enough disk space. Please check the space.\n\n\n【App Library - How to Use】\n\n* You can extract files stored in App Library. Please follow the below steps.\n[1] Connect your iPhone/iPad to PC via USB cable.\n[2] Run  iTunes.\n[3] Select iPhone/iPad on the menu.\n[4] Select Application on the menu.\n[5] Select the app on the bottom menu.\n[6] Files will be displayed on the right-side. Please copy the files to your PC.",
+   "trackViewUrl": "https://apps.apple.com/us/app/yamera-manual-camera/id951399974?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "6382592",
+   "languageCodesISO2A": [
+    "EN",
+    "JA",
+    "KO"
+   ],
+   "screenshotCount": 3,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 14
+   }
+  },
+  {
+   "trackId": 1643676119,
+   "trackName": "xZoom Cam - PRO Camera",
+   "bundleId": "com.mobndev.xZoom-pro",
+   "artistName": "Slava Plisko",
+   "sellerName": "Slava Plisko",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.4344,
+   "userRatingCount": 564,
+   "releaseDate": "2022-12-11T08:00:00Z",
+   "currentVersionReleaseDate": "2026-05-23T15:55:51Z",
+   "version": "1.1.424",
+   "description": "Take an extra digital zoom performance for your camera. \nPhotos and Videos on a larger scale.\nAt the Concert Hall or at the Football Stadium, xZoom.app will not be superfluous.\nMeet the new horizons with xZoom.app\n\n\nFREE FEATURES\n  • Extended digital Zoom In for Photo and Video\n  • Photo, 4K, FullHD, HD\n  • JPEG, HEIC, TIFF, Raw and ProRAW\n  • Extended video formats \n  • Extended Video stabilization modes \n  • Pro Active color space mamagment\n  • Video Frame Rate control\n  • Dolby Vision support\n  • \"Flashlight\" for Photo mode\n\n\nADVANCED FEATURES\n\nISO, AWB, SS, Manual Lens Focus are available in PRO mode (only for Physical cameras). \n\n • F - Manual Focus, sets the Lens Position to get the perfect camera focus\n • SS - Shutter Speed, camera exposure time \n • ISO - Sensitivity, camere sensor sensitivity to light\n • AWB - White Balance\n\nUse the full potential of your camera to get amazing photos and videos.\n\n\nPRO MODE ACTIVATION\n\nSubscription:\n\n  • Weekly plan\n  • Monthly plan\n  • Annual plan\n\nPurchase:\n\n  • \"Lifetime\" Pro\n\n\nThe \"Weekly\" plan has 3 day free trial period. You could activate it and use it until the trial period ends free. \nTo cancel the activated plan, please, follow to iPhone Settings -> Your Apple Id -> Subscription Management\nYou could cancel it anytime free, before the trial period ends. \nIf you do not cancel it during the free trial period the price for \"Weekly\" plan will be charged automatically.\n\n\nPLEASE NOTE\n\n  • Subscriptions are renewable\n  • Hybrid Zoom is effective if you have the Telephoto camera\n  • The 189× is a maximum zoom factor.\n  • The digital zoom is accomplished by cropping an image down to an area with the same aspect ratio as the original, and scaling the image up to the dimensions of the original.\n  • The more zoom factor you have the less quality you get. Find the compromise zoom value for you.\n  • The 48 MP Wide camera sensor gives you the better zoom result.\n  • The maximum digital zoom value may be different for the each video format.\n\n\nSupported Codecs: \n  • ProRes, HEVC, MPEG, HEIC, JPEG\n\nSupported Devices:\n  • iPhone 7 and newer\n\nSupported iOS version:\n  • iOS 15 and newer\n\nTerms of Service - https://xzoom.app/terms\n\nPrivacy Policy - https://xzoom.app/privacy\n\nSupport: hello@xZoom.app",
+   "trackViewUrl": "https://apps.apple.com/us/app/xzoom-cam-pro-camera/id1643676119?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "36144128",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "EL",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "UK"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 23
+   }
+  },
+  {
+   "trackId": 730352755,
+   "trackName": "Slow Shutter Fast Cam",
+   "bundleId": "com.vojtec.slowcam",
+   "artistName": "Inited Solutions s.r.o.",
+   "sellerName": "INITED Solutions s.r.o.",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.77528,
+   "userRatingCount": 534,
+   "releaseDate": "2013-11-11T08:00:00Z",
+   "currentVersionReleaseDate": "2022-11-28T20:55:01Z",
+   "version": "1.3.10",
+   "description": "An amazing free camera app the offers slow shutter control and a full set of effects and filters. \n\nBuilt to create beautiful and unique photos, Slow Shutter Insta Camera for Instagram includes dozens of features for your device, including:\n\n- Capture Mode (Automatic, Manual, Light Trail)\n- Shutter Speed (0.5 up to 15 seconds)\n- Self-timer (up to 10 seconds)\n- Screen shutter controls \n- Auto save controls\n- Freeze controls (-100% up to 100% change)\n- Contrast controls \n\nEven better, unlike other slow shutter apps, this will allow you to share your photo on Facebook, Twitter, and Email right inside your app! Save to your camera roll for easy access later on. \n\nThis is a full package app! Please enjoy this camera app and upload pics straight to Instagram to share them with your friends!",
+   "trackViewUrl": "https://apps.apple.com/us/app/slow-shutter-fast-cam/id730352755?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "30892032",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 12
+   }
+  },
+  {
+   "trackId": 1543743256,
+   "trackName": "Manual Camera – Focus, ISO, WB",
+   "bundleId": "com.vdugnist.mcamera",
+   "artistName": "Vladislav Dugnist",
+   "sellerName": "Vladislav Dugnist",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.33406,
+   "userRatingCount": 452,
+   "releaseDate": "2020-12-08T08:00:00Z",
+   "currentVersionReleaseDate": "2025-09-25T21:32:17Z",
+   "version": "1.12.1",
+   "description": "With mcamera you can control parameters that are not available in the standard camera app:\n- Focus distance\n- ISO sensitivity\n- Shutter speed\n- White balance\n\nWith manual control of shutter speed you can keep ISO as low as possible which will give you less noise on the photos. Long shutter speed would also give you opportunity to take photos with smeared elements such as car lights or smooth river water.\n\nTerms of service: https://vdugnist.com/mcamera_tos.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-camera-focus-iso-wb/id1543743256?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "26721280",
+   "languageCodesISO2A": [
+    "EN",
+    "JA",
+    "ZH",
+    "ES",
+    "UK"
+   ],
+   "screenshotCount": 3,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 1
+   }
+  },
+  {
+   "trackId": 916568801,
+   "trackName": "Manual Camera 4",
+   "bundleId": "com.kenditech.manualcamera",
+   "artistName": "Kenneth Kao",
+   "sellerName": "Kenneth Kao",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Utilities"
+   ],
+   "price": 3.99,
+   "formattedPrice": "$3.99",
+   "averageUserRating": 4.60641,
+   "userRatingCount": 343,
+   "releaseDate": "2014-09-19T01:01:26Z",
+   "currentVersionReleaseDate": "2025-10-21T14:22:44Z",
+   "version": "4.9.7",
+   "description": "Capture photos and videos with precise control over focus, exposure, ISO, shutter speed, white balance, and flash level.\nManual Camera gives you DSLR-like control with an intuitive, easy-to-use interface.\n\nAlso includes:\n• RAW photo capture\n• Real-time histogram\n• Focus peaking\n• Lock exposure, focus, and white balance\n• Manual lens selection\n• Quick video format switching\n• HDR (Dolby Vision / HLG) on iPhone 12 and later\n• 4K at 60p / 24p, and slow motion on supported devices\n• Ultra Wide and Telephoto lens support\n• Audio level meter\n• Photo and video filters\n• Live shutter speed preview in viewfinder\n• Cinematic video stabilization\n• Timer\n• Smooth focus transitions while recording\n• Save photos and videos directly to the camera roll — browse and delete within the app\n• Geotagging\n• Wide-gamut color capture\n• Face-driven autofocus\n• Apple ProRAW capture on iPhone 12 Pro and later\n• Apple ProRes recording on iPhone 13 Pro and later\n• 48MP resolution support on iPhone 14 Pro and later",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-camera-4/id916568801?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "2634752",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 15
+   }
+  },
+  {
+   "trackId": 917146276,
+   "trackName": "Manual – RAW Camera",
+   "bundleId": "co.shootmanual.manual",
+   "artistName": "Will Global",
+   "sellerName": "William Wilkinson",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 3.99,
+   "formattedPrice": "$3.99",
+   "averageUserRating": 4.17626,
+   "userRatingCount": 278,
+   "releaseDate": "2014-09-23T06:31:46Z",
+   "currentVersionReleaseDate": "2020-01-28T03:05:32Z",
+   "version": "3.1",
+   "description": "Custom exposure for your iPhone camera. A simple intuitive interface for powerful controls, saving images in the RAW DNG format to your camera roll.\n\nFeatured in the NYTimes \"If you like to manually adjust camera settings, you’ll love Manual\".\n\nA powerful camera app with full control over your image. Quickly and simply adjust all parameters of your image. Every control a professional needs to take a photo is within reach. No more tapping and hoping automatic can understand what you want. Take control.\n\nFull independent control of\n\n• Shutter\n• ISO\n• Focus\n• Exposure Compensation\n\nCool Things®\n\n• RAW DNG and/or HEIF format\n• Focus Zoom\n• Histogram\n• Level\n• Timer\n• Depth Capture\n• Fill Flash Mode (Flashlight)\n• Grid Overlays (Thirds, Square)\n• Light & Dark Themes\n• EXIF Viewer\n\nIf you're a photographer tired of trying to tap your way to the exposure you want, then this is the app for you. Fighting to get the sweet spot between a blown out background and a silhouetted subject? Stop tapping and just set the ISO and shutter yourself – you know how, stop letting your silly pocket computer decide what looks good to you.\n\nBe better than automatic. Shoot Manual.\n\n—\n\nRequires iOS 11 or later.  RAW capture available on iPhone SE, 6s and above. HEIF capture is available iPhone 7 and above.\n\n—\n\nMade by William Wilkinson & Deepak Mantena\n@shootmanual\nhttp://shootmanual.co",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-raw-camera/id917146276?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "12425216",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 28
+   }
+  },
+  {
+   "trackId": 1579306989,
+   "trackName": "Obscura — Pro Camera",
+   "bundleId": "com.benricemccarthy.obscura-3",
+   "artistName": "Ben McCarthy",
+   "sellerName": "Ben McCarthy",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.01879,
+   "userRatingCount": 266,
+   "releaseDate": "2022-02-16T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-18T14:53:50Z",
+   "version": "2026.5",
+   "description": "Obscura V is a camera app packed full of features to help you take incredible photos. Obscura pairs a stunning design with intuitive controls that make taking photos a delight.\n—\n\nOver its 10+ years on the App Store, Obscura has been featured numerous times around the world, including as Editors’ Choice and App of the Day.\n—\n\nDesign\n\nObscura squeezes a bunch of powerful features into simple controls anyone can master. The interface balances aesthetics, ergonomics, and intuitiveness. You won’t want to use anything else. Controls can be reached with one thumb, and gestures and haptics combine to create a tactile experience that lets you stay focused on your subject.\n—\n\nCapture Modes & Formats\n\nObscura captures photos, videos, Live Photos, and portraits. Photos can be captured in RAW, ProRAW, HEIC, and JPEG (on supported devices, see http://obscura.camera/compatibility).\n\nCapture images in multiple different aspect ratios, or apply filters live in camera for a wide variety of styles.\n—\n\nCamera Settings\n\nObscura gives you control over exposure, focus, white balance, ISO, shutter speed, and flash, with intuitive controls that make you feel in control of your device’s camera.\n—\n\nLive Filters\n\nObscura includes a bunch of great filters to give your photos instant style but you can also create your own and use them live in-camera. It’s very cool and very powerful.\n—\n\nView Options\n\nObscura lets you display a grid, a spirit level, a histogram, focus peaking, a focus loupe, and exposure clipping highlights to help you understand every detail of what you’re shooting.\n—\n\nPhoto Library\n\nObscura has its own interface for browsing, rating, editing, and sharing images, but it’s fully integrated with your system photo library, so images captured with Obscura are available everywhere.\n—\n\nObscura Ultra\n\nObscura is free to use, with an annual subscription for premium features. See http://obscura.camera/ultra for full details.\n—\n\nI hope you love using Obscura as much as I’ve loved designing and building it. If you do, please consider subscribing to Ultra, leaving a review, or just sharing with a friend.\n\nAll the best,\nBen\n\n————\n\nPrivacy Policy: http://obscura.camera/privacy\nTerms of use: http://obscura.camera/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/obscura-pro-camera/id1579306989?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "181416960",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 22
+   }
+  },
+  {
+   "trackId": 1617117224,
+   "trackName": "Lumina: Manual Camera",
+   "bundleId": "org.salvatorepolito.AlphaLumina",
+   "artistName": "Salvatore Polito",
+   "sellerName": "Salvatore Polito",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73864,
+   "userRatingCount": 88,
+   "releaseDate": "2023-01-24T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T13:31:34Z",
+   "version": "2.0.1",
+   "description": "Take control of your iPhone camera, without getting in its way.\n\nLumina puts exposure, focus, white balance and image processing in your hands. Its interface is built around the frame, keeping the image at the center of the shooting experience.\n\nShoot RAW, ProRAW and 48MP photos with the controls you need, without unnecessary complexity.\n\nMANUAL CONTROLS\n\nSet ISO and shutter speed yourself, focus by hand and adjust white balance when automatic settings are not what you want.\n\nRAW, ProRAW AND 48MP\n\nChoose the format that fits the shot.\n\nCapture RAW or ProRAW when you want more room for editing, or shoot at 48MP on supported iPhones when resolution matters.\n\nCONTROL THE PROCESSING\n\niPhone cameras normally make a lot of decisions after you press the shutter.\n\nLumina lets you reduce some of that automatic processing when you want a more natural image and more control over the final result.\n\nFOCUS YOUR WAY\n\nSwitch to manual focus whenever autofocus is not enough.\n\nFocus peaking helps you see which areas are in focus while composing the shot, making precise adjustments easier.\n\nBRACKETING\n\nCapture a sequence of exposures around your chosen settings.\n\nUseful for difficult lighting, exposure blending and HDR workflows, without giving up manual control over the shot.\n\nHISTOGRAM\n\nCheck luminance and RGB information while composing.\n\nThe live histogram gives you another way to judge exposure before pressing the shutter.\n\nMACRO\n\nOn supported iPhones, Lumina gives you direct access to macro shooting while keeping the same camera controls available.\n\nLumina is designed to stay out of the way while you shoot. Use automatic settings when they work, take manual control when they don't, and keep your attention on the frame.\n\nProfessional controls. Made simple.",
+   "trackViewUrl": "https://apps.apple.com/us/app/lumina-manual-camera/id1617117224?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "15047680",
+   "languageCodesISO2A": [
+    "EN",
+    "IT"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 3
+   }
+  },
+  {
+   "trackId": 369884874,
+   "trackName": "NetcamViewer Mobile",
+   "bundleId": "nl.arkasis.NetcamViewer",
+   "artistName": "NetcamViewer.com",
+   "sellerName": "Arkasis B.V.",
+   "primaryGenreName": "Business",
+   "genres": [
+    "Business",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.23438,
+   "userRatingCount": 64,
+   "releaseDate": "2010-06-08T17:58:16Z",
+   "currentVersionReleaseDate": "2014-09-22T20:15:29Z",
+   "version": "3.1.5",
+   "description": "NetcamViewer Mobile is an advanced application for viewing, controlling and managing both small and large collections of network cameras. NetcamViewer Mobile supports a large variety of IP cameras. Furthermore any JPEG or Motion JPEG can be added manually.\n\nNetcamViewer Mobile contains features that are indispensable for surveillance, process monitoring and tourism, such as:\n* High frame rate live feeds over both WiFi and 3G.\n* Easy PTZ-control using intuitive gestures\n* Dual and Quad-Views\n* Network Camera detection using Bonjour\n* Grouping cameras in folders\n\nNetcamViewer Mobile comes with a free license for two cameras. An unlimited cameras license is available as an In App Purchase. \n\nNetcamViewer Mobile supports cameras from the following manufacturers*:\n- ABS\n- ABUS\n- Airlink101 (PTZ)\n- Allnet\n- Arecont Vision\n- Astak\n- ASUS\n- AVIOSYS\n- Axis (PTZ)\n- Axis Video Server (PTZ)\n- Basler\n- Bewan\n- BlueStork\n- Bosch\n- Brickcom\n- Canon\n- Compro\n- Convision Video Server\n- Custom\n- D-Link (PTZ)\n- Edimax\n- EvoCam\n- Fitivision\n- Foscam (PTZ)\n- Gadspot (PTZ)\n- Genius\n- Grand\n- IPX\n- IQeye\n- Level 1 (PTZ)\n- Linksys (PTZ)\n- Loftek (PTZ)\n- Mobotix\n- NeuFusion\n- Orite\n- Panasonic (PTZ)\n- Pixord\n- Planet\n- Sanyo (PTZ)\n- Sharx\n- Solwise\n- Sony\n- TomTop (PTZ)\n- Toshiba\n- Trendnet\n- Trust\n- Vivotek\n- Zavio\n- And others\n\n* Some manufacturers use different communication protocols for different camera models. We cannot guarantee that all cameras will work. Please contact us if the manufacturer of your camera is listed but the camera is not supported",
+   "trackViewUrl": "https://apps.apple.com/us/app/netcamviewer-mobile/id369884874?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "2589696",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "DE"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 34
+   }
+  },
+  {
+   "trackId": 6476597455,
+   "trackName": "ProCam:Professional RAW Camera",
+   "bundleId": "well.pro.majorcam",
+   "artistName": "BRAND CELLAR HOLDINGS PTE LTD",
+   "sellerName": "BRAND CELLAR HOLDINGS PTE LTD",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.71154,
+   "userRatingCount": 52,
+   "releaseDate": "2024-01-29T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-28T21:14:48Z",
+   "version": "1.0.12",
+   "description": "ProCam is a professional camera application that provides users with an excellent photography and recording experience. Whether you are a professional photographer or a camera enthusiast, ProCam can help you unleash your creativity and capture excellent photos and videos.\n\n【 Main functions 】\n\n1. Manual control: ProCam allows users to fully manually adjust camera settings, including focal length, exposure, ISO, shutter speed, and white balance. This allows users to have precise control based on the needs of the scene and obtain fully customized photo and video effects.\n\n2. RAW shooting: ProCam supports RAW image capture, taking the photographer's creativity to a whole new level. By shooting RAW, users can make more adjustments, embellishments, and edits in post-processing to obtain higher quality images.\n\n3. Professional editing tools: ProCam comes with a powerful set of built-in editing tools, allowing users to easily edit and decorate photos and videos within the application. Users can adjust parameters such as color, contrast, and exposure, as well as add filters, trim images, and add watermarks.\n\n4. Camera settings: ProCam provides a variety of camera settings options that can be personalized according to user preferences and needs. Users can save custom settings and switch as needed, ensuring that each shot accurately meets the requirements.\n\nProCam is the most comprehensive and convenient choice for professional camera applications. It can meet various needs from beginners to professional photographers, helping users take impressive photos and videos. Download ProCam and unleash your creativity!",
+   "trackViewUrl": "https://apps.apple.com/us/app/procam-professional-raw-camera/id6476597455?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "81942528",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 3,
+   "subtitle": null,
+   "matchedTerms": [
+    "pro camera"
+   ],
+   "ranks": {
+    "pro camera": 15
+   }
+  },
+  {
+   "trackId": 1623484541,
+   "trackName": "ProCam: Manual Camera Lens",
+   "bundleId": "com.kaanozge.cameraapp",
+   "artistName": "Kaan Yildiz",
+   "sellerName": "Kaan Yildiz",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.35294,
+   "userRatingCount": 34,
+   "releaseDate": "2022-05-12T07:00:00Z",
+   "currentVersionReleaseDate": "2025-12-16T00:41:00Z",
+   "version": "1.2.4",
+   "description": "ProCam is the most powerful camera for iPhone, combining  a pro shooting experience with an elegant design and a powerful editor enabling vast possibilities.\n\nThis is a revolutionary app combining high-end photography with highly capable editing tools. The interface is designed from ground up to be more usable and , and a beautiful interface designed from scratch for the latest iPhones and inspired by the controls of professional cameras.\n\nUse haptic sliders in ProCam to change exposure, iso and manual focus with a swipe, or switch from its powerful automatic mode to manual shooting.\n\n\nFeatures:\n- Beautiful, intuitive interface with straightforward controls\n- Manual focus, and powerful tools like a Focus Loupe and Focus Peaking\n- Advanced features such as live Histogram\n- Smart automatic mode, optimizing settings for the best photo\n- Full manual exposure controls including shutter speed, ISO, Focus and Exposure Gain\n- Unparalleled Semi manual exposure control: If needed, you can put every manual control to be automatic based on your inputs.\n- Captures the best quality shots\n- Grid overlay\n- State of the Art Editor: Edit every aspect of your photo with our full blown image editing suite\n- A large library of color schemes, useful for every situation from Landscapes to portraits, to exquisite night shots.\n- Grid overlay\n- Private by Design: ProCam works completely offline and does not include any trackers or tracking, does not collect data or photos, and never transmits any information.\n\nSubscription service is needed to unlock the features in the app. These features include:\n1. Automations and Automation Timers\n2. White Balance Adjustments\n3. Image Aspect Ratio adjustment while shooting\n4. Some of the continually added filters and contents\n\nPayment models for ProCam Subscription\n• ProCam Monthly: $1.99 per month,\n• ProCam Yearly: $17.99 per year\n\n• Payment will be charged to iTunes Account at confirmation of purchase.\n• Account will be charged for renewal within 24-hours prior to the end of the current subscription period.\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.\n• Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.\n\n\nTerms of Use: https://hiappsco.wordpress.com/2022/05/11/procam-terms-of-use/\nPrivacy Policy: https://hiappsco.wordpress.com/2022/05/11/procam-privacy-policy%ef%bf%bc/",
+   "trackViewUrl": "https://apps.apple.com/us/app/procam-manual-camera-lens/id1623484541?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "182752256",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 2,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 23
+   }
+  },
+  {
+   "trackId": 893229199,
+   "trackName": "Manual Cam",
+   "bundleId": "com.lofopi.manualcam",
+   "artistName": "LOFOPI",
+   "sellerName": "Lofopi Ltd",
+   "primaryGenreName": "Photo & Video",
+   "genres": [
+    "Photo & Video"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.68,
+   "userRatingCount": 25,
+   "releaseDate": "2014-09-17T17:36:20Z",
+   "currentVersionReleaseDate": "2016-12-21T18:31:10Z",
+   "version": "1.4",
+   "description": "*** Topped No.1 Paid App in several countries! *** \n\nTake full manual control of your iPhones camera and take your photography to a whole new level! All the photo's you see in the screenshots are all taken with Manual Cam straight out of the camera! ..with no further adjustments or post processing! See Apple's Pinterest Page for more info.. \n\n\n\"...one of the best implementations of manual control on the iPhone we've seen so far.\" dpreview.com\n\nFeatured in 'Best New Apps' and 'Shoot Beautiful Photos' by Apple.\n\n \"App of the Week\" appadvice.com\n\n\nHaving full creative control of your camera allows you to get incredible pictures that were just not previously possible.\n\nUse our beautiful precision crafted interface with adjustment wheel for full manual control over ISO, Shutter Speed, White Balance and Focus, or use gestures across the whole screen. See an uncluttered view of your photo in the viewfinder with a choice of, minimal to no info at all.\n\nEasy to use interface with customizable levels of detail for novices and pros alike. Mix and match fully automatic modes and individually lock / adjust just the ones you want. E.g. you can have fully automatic exposure and only adjust manual focus.\n \n\n\nCONTROL\n\n- White Balance :  for richer more accurate colors - especially skin tones.\n- Exposure Compensation : stop images being too dark or too bright, or just make an artistic choice for more beautiful light.\n- Focus to exactly the part at the picture you want or lock to create close up macro shots easier.\n- ISO : get much sharper images in the dark, or much clearer photos in normal light with less noise.\n- Shutter Speed : for fast action shots, or lower to produce cool effects like motion blur.\n\n\n\nFILTERS\n\nLive filters! See the world live through your chosen filter BEFORE you take the picture.\nOur professional grade filters are based on the same technology used in cinema post-production.\nEasily swipe left or right to change filter or use the browser. \n\n\n\nSETTINGS\n\n- Timer : set a photo to be taken hands free after a delay of 2 or 10 seconds after you press the shutter.\n- Grid : overlay a grid over the viewfinder to aid composition.\n- Format : choose from square or normal 4:3 sized photos.\n- Zoom On Focus : the viewfinder will automatically zoom the view to aid accurate focusing.\n- User Interface Color : personalise the color of your camera from Silver, Black or Low contrast Grey.\n- Optional GPS Geotagging (Jpeg only)\n \n\nUSER GUIDE is available on our website at www.lofopi.com\n\n\n* Please note that all iPhone and iPad cameras have a fixed aperture so it's not possible for the app to have any aperture controls.",
+   "trackViewUrl": "https://apps.apple.com/us/app/manual-cam/id893229199?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "13661184",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "manual camera"
+   ],
+   "ranks": {
+    "manual camera": 8
+   }
+  }
+ ]
+}

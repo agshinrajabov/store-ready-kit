@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "SnapCal Beta",
+    "slug": "snapcal",
+    "ios": {
+      "bundleIdentifier": "com.example.snapcal",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app needs location."
+      }
+    },
+    "android": {
+      "permissions": ["CAMERA", "ACCESS_FINE_LOCATION"]
+    },
+    "plugins": ["expo-router", "expo-camera"]
+  }
+}

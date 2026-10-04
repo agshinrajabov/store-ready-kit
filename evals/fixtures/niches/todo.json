@@ -1,0 +1,1915 @@
+{
+ "source": "itunes-search-api",
+ "fetchedAt": "2026-10-04T18:33:40Z",
+ "country": "us",
+ "terms": [
+  "to do list",
+  "task manager"
+ ],
+ "count": 40,
+ "apps": [
+  {
+   "trackId": 1108187841,
+   "trackName": "Reminders",
+   "bundleId": "com.apple.reminders",
+   "artistName": "Apple",
+   "sellerName": "Apple Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.82984,
+   "userRatingCount": 1024184,
+   "releaseDate": "2016-05-23T20:59:07Z",
+   "currentVersionReleaseDate": "2026-09-14T20:10:53Z",
+   "version": "2.6",
+   "description": "Reminders makes it easier than ever to remember the things you need to do. You can use it for all of life's to-dos, including grocery lists, projects at work, or anything else you want to track. And with iCloud, it's easy to keep all your devices in sync, so you’ll always have your reminders with you.\n\nFeatures \n\nFast and easy to use\n• Use Siri to create reminders with your voice, or add Reminders to your Control Center or iPhone Action Button to quickly create a reminder on the go.\n• Create, edit, and complete scheduled reminders from within the Calendar app.\n• Add a widget to your Home Screen on iOS and iPadOS, or Notification Center on macOS, to view and complete reminders. \n• Make shopping easier with grocery lists that automatically group related items into sections like dairy and produce. \n\nPowerful organization\n• Smart Lists - Today, Scheduled, Flagged, All, and Assigned to Me, and Completed - automatically organize and display upcoming reminders. \n• Organize your reminders with tags to make them easy to find.\n• Custom Smart Lists automatically include reminders that matter most to you by gathering to-dos based on tags, dates, times, locations, flags, and priority.\n• Use subtasks to add additional detailed tasks to a reminder.\n• Organize reminders within a list by creating section headers; tap Auto-Categorize at the top of a list to have Apple Intelligence organize your reminders into sections by related categories. You can also try viewing sections in column view to arrange them across your screen. It’s a powerful way to visualize tasks, or even make simple kanban boards. \n• Save a list as a template to reuse it for routines, packing lists, and more. Share templates with others via a link, or download templates that others have shared. \n\nBe reminded when and how you want \n• Set reminders to repeatedly remind you daily, weekly or at custom intervals.\n• Trigger reminders by specific locations, for example when you arrive at home or work, or when you get in your car.\n• Tag people in a reminder to get a reminder the next time you chat with them in Messages.\n\nCollaborate with others\n• Share and collaborate on a list of reminders - everyone with access to the shared list will be able to add or complete reminders. \n• Assign reminders to people with whom you share lists.\n\nIntelligence\n• Share a webpage, note, or any text to the Reminders app and Apple Intelligence will suggest relevant tasks and grocery items from what you’re looking at. \n• Natural language support allows you to type phrases to create reminder settings. Try something like “Jog every other morning” for a specific, recurring reminder.\n\nReminders for Apple Watch\n• Get notified and mark reminders as complete right from your wrist and automatically sync across your iPhone, iPad, Mac, or Apple Vision Pro with iCloud.\n• View reminders and create new ones directly on your Apple Watch.\n\nCertain features are available only in select languages and regions.",
+   "trackViewUrl": "https://apps.apple.com/us/app/reminders/id1108187841?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "9391104",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 15
+   }
+  },
+  {
+   "trackId": 1212616790,
+   "trackName": "Microsoft To Do",
+   "bundleId": "com.microsoft.to-do",
+   "artistName": "Microsoft Corporation",
+   "sellerName": "Microsoft Corporation",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.72208,
+   "userRatingCount": 268058,
+   "releaseDate": "2017-04-19T12:44:06Z",
+   "currentVersionReleaseDate": "2026-07-06T05:06:19Z",
+   "version": "2.177",
+   "description": "Stay organized and manage your day-to-day with Microsoft To Do. Make shopping lists or task lists, take notes, record collections, set reminders and more to improve your productivity and focus on what matters.\n\nMicrosoft To Do is the task management app that makes it easy to stay organized and manage your life. Accomplish what’s important to you each day with My Day and Suggestions, personalized day planner tools. Intelligent suggestions recommend tasks from across your lists that may be relevant each day.\n\nQuickly capture and retrieve your lists and tasks across devices by syncing reminders and tasks with Microsoft 365 to access them anywhere. For lists in personal accounts, you can collaborate with anyone with updated notifications for any changes to your to-do lists.\n\nCapture tasks from different Microsoft apps and services and sync them with Microsoft To Do, from flagging emails as tasks in Outlook to lists from Cortana. Your tasks and lists are hosted securely on the Microsoft 365 service.\n\nMake your lists unique with customizable features like emoji, colorful themes, dark mode and more. Stay connected and collaborate with friends and family by sharing lists that stay synced as changes are made.\n\nMicrosoft To Do Features:\n\nDaily planner\n• Stay focused with My Day, a personalized daily planner with suggested tasks\n• Get your lists anywhere, on any device\n• Share your list with anyone and work together \n• Add notes to any task\n\nTask manager\n• Share lists and tasks with your friends, family, colleagues, and classmates\n• Get notified when others create, complete or remove tasks in shared lists\n• Personalize your lists by choosing theme colors or backgrounds\n• Set one-time or recurring due dates and reminders\n• Break your tasks into manageable steps\n• Attach up to 25MB of files to any task\n\nTo-do lists for any purpose\n• Bill planner\n• Shopping lists\n• Set reminders\n• Task management\n• Business calendar\n• Note taking\n• And more\n\nMicrosoft 365 Integration\n• Sync your tasks between Outlook and To Do\n• Host lists and tasks with the reliability and security of Microsoft 365\n• Compile tasks from across your Microsoft 365 apps and services\n\nWhether it's for work, school, or home, To Do helps you organize and simplify your plans. To Do is free and available on all your devices.\n\nLearn more: https://to-do.microsoft.com\nFollow us on Twitter: @MicrosoftToDo\nHave an idea or feature suggestion? https://go.microsoft.com/fwlink/?linkid=2171952\nNeed support?  https://go.microsoft.com/fwlink/?linkid=2156547\n\nBy installing Microsoft To Do, you agree to the Microsoft Terms of Use: https://go.microsoft.com/fwlink/?linkid=842575",
+   "trackViewUrl": "https://apps.apple.com/us/app/microsoft-to-do/id1212616790?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "167581696",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 2,
+    "task manager": 5
+   }
+  },
+  {
+   "trackId": 1596403446,
+   "trackName": "Me+ Lifestyle Routine",
+   "bundleId": "alarm.smart.awake.sleep.health",
+   "artistName": "Enerjoy Pte. Ltd.",
+   "sellerName": "ENERJOY PTE. LTD.",
+   "primaryGenreName": "Health & Fitness",
+   "genres": [
+    "Health & Fitness"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.79879,
+   "userRatingCount": 248243,
+   "releaseDate": "2022-01-07T08:00:00Z",
+   "currentVersionReleaseDate": "2026-06-29T05:18:12Z",
+   "version": "2.8.9",
+   "description": "“We are what we repeatedly do. Excellence, then, is not an act but a habit”, This quote from Aristotle goes to the heart of our philosophy. We believe establishing good daily habits and healthy routines are necessary to thrive. This is what we aim to achieve: to help our users develop good habits and daily routines, like following a morning exercise routine or tidying their rooms, and to consistently repeat those actions until they become habits integrated into their lifestyle. This will enable people to lead a wholesome and fulfilling life.\n\nOf course, accessibility is important. This is why Me+ now provides a daily routine planner and self-care schedule to establish a healthy habit and help with your daily routine. By repeating good actions daily and following your planner and self-care schedule, you will gain a new outlook, confidence, and strength. Obstacles that seemed unsurpassable will soon be overcome and forgotten.\n\nEnjoy and utilize our self-care systems:\n· Daily Routine Planner and Habit Tracker\n· Mood and Progress Tracker\n\nThe systems in our app make it easier to seize the day and begin self-development by planning your daily routines and habits.\n\nHere are some great things you can do with the new daily routine features:\n-Create your own daily and morning routines.\n-Track your self-care plan, daily habits, mood, and progress daily.\n-Set friendly reminders in your daily planner for your to-do list.\n-Get comprehensive evidence-based self-care information on establishing habits and healthy routines.\n\nPotential benefits of Me+:\n-Boosts energy: Exercise, healthy eating, and sleep habits in your Me+ daily planner energize your body and provide motivation for self-care.\n-Improves mood: relieve stress and increase happiness through your daily healthy habits and routines.\n-Increases focus: Sleep habits and nutritious food improve your concentration, productivity, and motivation.\n\nBuild your own self-care schedule and daily routine planner with the icons and colors you choose! Record your daily goals, habits, mood, and more in your Me+ app to celebrate the success and growth of your healthy routines!\n\nHOW TO START SELF-CARE:\n-Use the professional Me+ planning template and daily habit tracker: Take the MBTI test to find the routine and habits that suit you best.\n-Find a role model: Set a goal to become the person you aspire to be through developing habits and daily self-care routines\n\nTens of millions of self-care advocates choose Me+ to improve physical and mental health, promote weight loss, experience anti-aging benefits, and more through developing healthy daily habits and self-care routines. Fill your days with self-care habits and meet your best self! Don’t wait for tomorrow; start your healthy routines today!\n\nSubscription Information:\nMe+ offers an auto-renewing subscription at $39.99/year and $9.99/month to provide you with unlimited access to the VIP features. Your payment will be charged to your iTunes Account as soon as you confirm your purchase. You can manage your subscriptions and turn off auto-renewal from your Account Settings after the purchase. Your subscription will renew automatically unless you turn off auto-renew at least 24 hours before the end of the current period. The cost of renewal will be charged to your account in 24 hours prior to the end of the current period. When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but the current subscription will not be refunded. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription.\n\nFor the End User License Agreement (EULA), please visit https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nTerms of service: https://enerjoy.life/alarm-ios/TermsofService.html\nPrivacy policy: https://enerjoy.life/alarm-ios/PrivacyPolicy.html\nFeedback email: meplus_ios@support.enerjoy.life",
+   "trackViewUrl": "https://apps.apple.com/us/app/me-lifestyle-routine/id1596403446?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "408832000",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 13
+   }
+  },
+  {
+   "trackId": 1499198946,
+   "trackName": "Structured: Daily Planner Todo",
+   "bundleId": "com.leomehlig.today",
+   "artistName": "unorderly GmbH",
+   "sellerName": "unorderly GmbH",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Education"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.79408,
+   "userRatingCount": 166976,
+   "releaseDate": "2020-04-09T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T16:19:30Z",
+   "version": "4.6.4",
+   "description": "Plan your day visually. Stay focused. Get things done.\n\n400,000+ five-star ratings · Trusted by 1.5 million active users\n\nThe daily planner built for how your brain actually works. Map your tasks and calendar onto a visual timeline, block your time with intention, and finally build a routine that sticks — whether you have ADHD or just a lot on your plate.\n\nWHY STRUCTURED WORKS\n\nMost planners give you a blank page. Structured gives you a timeline. You see your whole day laid out, with every task, event, and routine in order. It's time blocking made simple.\n\nBuilt for ADHD minds, busy professionals, and students who need more than a to-do list.\n\nFREE FEATURES\n\n- Visual day planner with an intuitive drag-and-drop timeline\n- Inbox to capture ideas fast and sort them later\n- Syncs across iPhone, iPad, Apple Watch, and Mac\n- Break big projects into sub-tasks with notes\n- Pomodoro focus timer, Live Activities, and interactive widgets\n- Color-coding and hundreds of icons to personalize your schedule\n- Accessibility built in: VoiceOver, Voice Control, dyslexia-friendly font, and multiple languages\n\nSTRUCTURED PRO\n\n- Connect your calendars and Reminders for a complete daily schedule organizer\n- Build recurring tasks and routines\n- AI-powered day planning: draft your schedule in seconds\n- Replan: automatically reschedules missed or forgotten tasks\n- Custom notifications to match your workflow\n\nPERFECT FOR\n\n- ADHD-friendly daily planning that actually sticks\n- Time blocking your work and study sessions\n- Morning routine and evening routine planning\n- Students managing class timetables and study tasks\n- Anyone who wants a simple to-do list app with a timeline view\n- Habit tracking alongside your daily task planner\n\nYOUR DAY, YOUR WAY\n\nStructured isn't just a task manager or a habit tracker. It's the daily planner that puts everything in one place — so you can plan your day, build better habits, and get things done without the overwhelm.\n\nStructured Pro is available monthly, annually, or as a lifetime purchase.\n\nTerms & Privacy: https://structured.app/legal",
+   "trackViewUrl": "https://apps.apple.com/us/app/structured-daily-planner-todo/id1499198946?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "290918400",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 4,
+    "task manager": 4
+   }
+  },
+  {
+   "trackId": 1438388363,
+   "trackName": "Habit Tracker",
+   "bundleId": "com.davetech.habit",
+   "artistName": "InnerGrow",
+   "sellerName": "Inner Grow Limited",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Health & Fitness"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.79188,
+   "userRatingCount": 147562,
+   "releaseDate": "2019-01-31T09:10:14Z",
+   "currentVersionReleaseDate": "2026-08-15T15:18:18Z",
+   "version": "2.14.23",
+   "description": "Habit Tracker: A simple daily planner to schedule and track your routine, making it easy to build lasting habits. \nJoin 15M+ happy users, achieve your goals, and make every day count!\nMore than a self-care companion, it lets you share with others to grow and improve together. \n\n----Useful Features----\n\nSync with Apple Health: Track water intake, steps, sleep, exercise, and calories to seamlessly monitor your wellness journey.  \n\nBuild & Quit Habits: Create positive routines or break free from bad habits with tailored tracking.\n\nFlexible Goal Tracking: Measure progress with specific units (e.g., minutes, glasses of water), not just checkmarks.  \n\nGroup Habits: Stay motivated by building, reminding, and tracking habits with friends or loved ones.  \n\nInsightful Stats: Get detailed analytics to evaluate and celebrate your progress.  \n\nHabit Reports: Weekly, monthly, and yearly reports to visualize your growth.  \n\nMood Tracking: Monitor your mental wellness to stay balanced and mindful.  \n\nSmart Reminders: Set time- or location-based reminders to stay on track effortlessly.\n\nMultiple Reminders: Add as many reminders as needed for any habit.  \n\nCustom Sounds: Record or import unique reminder sounds for a personal touch.  \n\nWidgets for Easy Access: Use Home Screen & Lock Screen to log habits instantly without opening the app.\n\nHRV Stress Monitor: Track your heart rate variability (HRV) to measure stress levels and gain insights into your well-being\n\nHabit Diary: Jot down notes to reflect on your journey in a personal habit memo.  \n\nFocus Timer: Stay focused with natural sounds & create a calming, distraction-free environment\n\nCloud Sync: Back up and sync your data across devices for seamless access.  \n\nDaily Inspiration: Enjoy motivational wallpapers and quotes to keep you inspired.  \n\nPrivacy Protection: Secure your data with FaceID or TouchID.  \n\nFriendly Competition: Compete with friends to see who’s crushing their habits.  \n\nADHD Planner: ADHD friendly plans built-in to help.\n\nDark Mode: Sleek design for a comfortable experience, day or night.  \n\nHabit Tracker helps you simplify your daily routine, clear your mind, stay on track with your goals, and build a better life.\nDownload now! Perfect for ADHD users, this app simplifies planning and tracking to help you stay focused, build routines, and thrive with ease.\n\n\n\nNOTE: Habit reads data for some habits from Apple Health app (Steps, energy, walking, running ..etc). No data is being sent outside of your device. Health app access required.\n\nEULA: https://www.eulatemplate.com/live.php?token=MRcYNs6U8BXMLSDWG0BzEqLPPtL2Vc46",
+   "trackViewUrl": "https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "339836928",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 16,
+    "task manager": 6
+   }
+  },
+  {
+   "trackId": 572688855,
+   "trackName": "Todoist: To Do List & Calendar",
+   "bundleId": "com.todoist.ios",
+   "artistName": "Todoist Inc.",
+   "sellerName": "Todoist Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80317,
+   "userRatingCount": 129466,
+   "releaseDate": "2012-11-18T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-01T16:15:29Z",
+   "version": "26.9.26",
+   "description": "You have enough on your plate without fighting your productivity tools. Todoist is the task manager that bridges personal and professional productivity, without the complexity tax.\n\nJoin 50 million+ people and teams who trust Todoist as their second brain to organize work, life, and everything in between.\n\n→ Turn chaos into clarity.\nClarity doesn’t come from bloated software with a bunch of bells and whistles; it comes from getting everything out of your head and into a tool that’s easy to set up and easy to use. Todoist helps you organize what matters so you can focus on doing, not configuring.\n\n→ Capture naturally.\nYour brain is for having ideas, not holding them.\n\n› Ramble to record: Don’t type, talk! Describe your task in natural language, and watch Todoist instantly structure it in the right projects with the right due dates.\n› Quick Add: The fastest way to add a new task, complete with dates, labels, reminders, and more. Just type \"Submit report every Friday at 4pm #Work\" and Todoist handles the rest.\n\n→ Professional power, no overhead. \nGet the professional tools you need without the \"enterprise\" learning curve. \n\n▪ Flexible views: View any project as a list for quick scanning, as a board for visual workflow, or as a calendar to plan your week. Switch between views instantly to match how you think and work.\n▪ Recurring tasks: Build powerful habits. From \"Pay rent on the 1st\" to \"Team Sync every Monday,\" never let a commitment slip.\n▪ Project clarity: Organize anything from a home renovation to a product launch with sub-tasks and sections. Use labels to filter across projects, and set priorities to focus on what matters.\n\n→ Lightweight teamwork. \nMost project tools require an education to use. Todoist is intuitive from day one.\n\n+ Delegate with Ease: Share projects with anyone, assign tasks, and set deadlines. Everyone sees what to do and when.\n+ Stay in Sync: Real-time comments and file uploads keep communication all in one place, not scattered across emails, text messages, docs, and DMs.\n\n→ Built For iOS.\nAdd tasks via Siri, check your tasks from your home screen, save links as you browse, and capture ideas from your Apple Watch. Location-based reminders make sure nothing slips through the cracks.\n\n→ Works Where You Work. \nTodoist syncs instantly across iPhone, iPad, Apple Watch, Mac, and every other device, browser or email add-on you use. Capture ideas on your phone, plan on your tablet, and execute on your desktop with everything always in sync. \n\n–\nQuestions? Visit our extensive help center at todoist.com/help",
+   "trackViewUrl": "https://apps.apple.com/us/app/todoist-to-do-list-calendar/id572688855?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "384505856",
+   "languageCodesISO2A": [
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 3,
+    "task manager": 8
+   }
+  },
+  {
+   "trackId": 608834326,
+   "trackName": "Calendars: Schedule Planner",
+   "bundleId": "com.readdle.CalendarsLite",
+   "artistName": "Readdle Technologies Limited",
+   "sellerName": "Readdle Technologies Limited",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.72225,
+   "userRatingCount": 121989,
+   "releaseDate": "2013-03-05T00:43:57Z",
+   "currentVersionReleaseDate": "2026-10-01T16:49:18Z",
+   "version": "5.39.4",
+   "description": "Calendars by Readdle is the all-in-one calendar, task manager, daily planner, and habit tracker — seamlessly working across all your Apple devices: Mac, iPhone, iPad, and Apple Watch.\nPlan your day, build better habits, boost productivity, and stay organized with powerful features and smooth sync between all your devices.\nWhat you can do with Calendars:\n • View and manage your calendar with daily, weekly, and monthly views\n • Create events, set reminders, and never miss important dates\n • Use the built-in agenda planner to focus on what matters most\n • Organize your to-do list and manage your tasks with ease\n • Quickly add events or to-do items using natural language\n • Build routines and track your habits to stay consistent\n • Take a guided productivity course to improve time management and focus\n • Sync across devices with Google Calendar, iCloud, and more\n • Customize your planner calendar with color coding and widgets\n • Join Zoom, Google Meet, or GoToMeeting directly from your calendar\n • Stay in control of your time, wherever you are\nWhether you're planning a busy workday, building new habits, or working on personal growth, Calendars brings everything together to help you own your time — across all your Apple devices.\n\nPrivacy Policy: https://readdle.com/calendars/legal/privacy\nTerms of Service: https://readdle.com/calendars/legal/terms\n\nHave questions, comments, or issues? Don’t hesitate to reach out to us at http://readdle.com/contact",
+   "trackViewUrl": "https://apps.apple.com/us/app/calendars-schedule-planner/id608834326?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "430920704",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "UK"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 12
+   }
+  },
+  {
+   "trackId": 1353634006,
+   "trackName": "Google Tasks: Get Things Done",
+   "bundleId": "com.google.tasks",
+   "artistName": "Google",
+   "sellerName": "Google LLC",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80004,
+   "userRatingCount": 106950,
+   "releaseDate": "2018-04-27T21:26:14Z",
+   "currentVersionReleaseDate": "2026-09-30T06:44:13Z",
+   "version": "26.39.0",
+   "description": "Get more done with Google Tasks. Manage, capture, and edit your tasks from anywhere, at anytime, with to-dos that sync across all your devices. Integrations with Gmail and Google Calendar help you get tasks done—faster.\n\nQuickly capture tasks anywhere\n• Create task lists with your most important to-dos\n• View, edit, and manage tasks on the go, from any device\n• Manage tasks created in Gmail or Calendar on the web from your mobile device\n\nAdd details and create subtasks\n• Break down your tasks to subtasks\n• Add details about the work you need to focus on\n• Edit details about any task as your work progresses\n\nView tasks created from emails\n• Create a task directly from an email in Gmail\n• View your tasks in the side panel of Gmail\n• Trace a task back to its source email\n\nStay on track with due dates and notifications\n• Set a due date for every task to help you achieve your goals\n• Organize your tasks by date or prioritize using drag-and-drop\n• Receive due date notification reminders to keep your  tasks on track\n\nPart of Google Workspace\n• Bring Google's suite of powerful, intelligent apps to your business\n• Leverage Google’s AI to bring data insights and analysis to every employee\n• Connect with your team seamlessly using one suite: Gmail, Tasks, Calendar & more\n\nTake control of your task management and install Google Tasks. Start managing your to-do list on the go with the Tasks planner app from Google.",
+   "trackViewUrl": "https://apps.apple.com/us/app/google-tasks-get-things-done/id1353634006?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "172113920",
+   "languageCodesISO2A": [
+    "AF",
+    "AR",
+    "EU",
+    "BN",
+    "BG",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "GL",
+    "DE",
+    "EL",
+    "GU",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "IT",
+    "JA",
+    "KN",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "ML",
+    "MR",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "ZU"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 10,
+    "task manager": 1
+   }
+  },
+  {
+   "trackId": 571626623,
+   "trackName": "Lists To do",
+   "bundleId": "com.ThomasTsopanakis.Lists",
+   "artistName": "Thomas Tsopanakis",
+   "sellerName": "Thomas Tsopanakis",
+   "primaryGenreName": "Utilities",
+   "genres": [
+    "Utilities",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80484,
+   "userRatingCount": 106242,
+   "releaseDate": "2012-11-02T01:15:26Z",
+   "currentVersionReleaseDate": "2026-08-29T06:53:14Z",
+   "version": "3.1",
+   "description": "ORGANISE ALL YOUR TASKS, LISTS AND TO-DO \n\nPunch of productivity \n------------ \n• Managing tasks, lists, to-dos and checklists has never been this easy. \n• Keep tracks of all your lists : shopping lists, work items, grocery lists and more. \n\nIntuitive Design \n------------ \n• Lists To do was designed with simplicity and functionality. \n• stunning graphics make capturing ideas easy and awesome. \n• more than 150 category icons\n• switch between light, dark & dark blue mode\n\nIntelligent features \n------------ \n• delete all completed/uncompleted tasks immediately\n• sort lists alphabetically, inverse alphabetically, by date created, by dated created inverse or manually\n• duplicate lists\n• move items between lists\n• use the red badge icon of the app to show how many unchecked items are left for a list or for all your lists combined\n• check/uncheck a whole list\n• keep checked items at the bottom, separated from the unchecked items\n• get statistics for your lists (percent filled, number of unchecked things, etc.)\n• pin items or lists on top to easily access the important ones\n• universal search to find the list or list item you want\n• manage recently deleted items to instantly recover them\n\nReminders \n------------ \n• need to set a reminder for a lists item? Lists To do notifies you, so you’ll never miss an important task again!!\n• setup recurring reminders for things you need to do (daily, weekly, monthly, quarterly or annually)\n• import reminder dates from calendar\n• view all your upcoming items, based on the reminders you have set, for all your lists combined in one feed\n\nRed Badge Icon\n------------\n• use the red badge icon of the app to show how many unchecked items a list has\n• the red badge icon updates automatically every time you perform a task!\n\niCloud \n------------ \n• synchronise automatically your lists between your iOS devices, signed-in with the same iCloud account. You don’t have to do any setup!!! \n• stay organised from all your devices \n\nShare lists \n------------ \n• share your lists from right inside the app \n• take a screenshot of the whole list automatically and share it or set it as a lock-screen background\n• print your lists using AirPrint\n\nLists Statistics\n------------ \nView the progress of all your lists combined, as well as each list individually. You have to check every last task to get that 100%!!!\n\nCreate a list for anything you want, highly flexible!!! \n------------ \n• shopping lists \n• to do \n• checklists \n• bucket lists \n• quick notes \n• anything you can think of ..... \n\nLOVED BY USERS: \n------------\nGreat app! \nSimply great! Easy to use simple big text love love love !!! \n\nEasy \nThis was exactly what I needed... Simple and easy! \n\nPerfect \nSimple to use. Exactly what I need it \n\nAwesome\nPractical. Super easy to use. \n\nSo simple to use\nLove how easy this app is use.",
+   "trackViewUrl": "https://apps.apple.com/us/app/lists-to-do/id571626623?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "37422080",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 9
+   }
+  },
+  {
+   "trackId": 983826477,
+   "trackName": "Productive - Habit Tracker",
+   "bundleId": "com.beHappy.Productive",
+   "artistName": "Mosaic S.r.l.",
+   "sellerName": "Mosaic S.r.l.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Health & Fitness"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59624,
+   "userRatingCount": 91069,
+   "releaseDate": "2015-06-02T06:38:06Z",
+   "currentVersionReleaseDate": "2026-03-19T09:48:03Z",
+   "version": "3.26.39",
+   "description": "Meet Productive - the app that helps you build positive life-changing habits. With Productive, you can set personal goals, track your progress, and focus on what makes you healthier, happier and more productive!\n\nFEATURES\n\nHABIT MANAGEMENT\nCreate, complete, stop, or pause habits whenever it is convenient for you. Add notes to your habits to highlight the main points during the day.\n\nPROGRAMS\nСhoose your goal, receive daily habit tips, reflection check-ins, and motivation prompts to get the boost you need.\n\nCHALLENGES\nImprove your daily routine by completing guided tasks and competing with other users from all over the world.\n\nARTICLES\nGrow awareness of your own productivity and motivation with personalized expert insights.\n\nCUSTOMIZATION\nCustomize the app the way you want! You can name your habit, choose a unique icon, and even pick its color.\n\nSTATISTICS\nTrack your habits and analyze progress by building motivating chains of completed habits and perfect days. The longer your chain of completed habits, the more likely you will keep the streak going.\n\nNOTIFICATIONS\nSet up smart reminders, and personalize the app to get notifications of what's scheduled for each part of the day.\n\nADHD ASSISTANCE\nManage distractions and deal with ADHD by concentrating on a focused daily routine.\n\nPREMIUM FEATURES\n- Unlimited number of habits\n- Endless motivation with various challenges\n- Full-text articles to draw inspiration \n- Improved reminders for individual habits\n- Location-based reminders\n- Motivating stats for each habit\n- Habit trends with week-by-week data\n\nSUBSCRIPTION INFORMATION\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nIf you have any questions or suggestions on how we can improve the application, please do not hesitate to contact us at productive@bendingspoons.com\n\nPrivacy Policy: http://www.apalon.com/privacy_policy.html\nEULA: http://www.apalon.com/terms_of_use.html\nAdChoices: http://www.apalon.com/privacy_policy.html#4\nCalifornia Privacy Notice: https://apalon.com/privacy_policy.html#h",
+   "trackViewUrl": "https://apps.apple.com/us/app/productive-habit-tracker/id983826477?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "345735168",
+   "languageCodesISO2A": [
+    "DA",
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 30
+   }
+  },
+  {
+   "trackId": 1232780281,
+   "trackName": "Notion: Notes, Tasks, AI",
+   "bundleId": "notion.id",
+   "artistName": "Notion Labs, Incorporated",
+   "sellerName": "Notion Labs, Incorporated",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.77559,
+   "userRatingCount": 90308,
+   "releaseDate": "2017-09-14T19:07:31Z",
+   "currentVersionReleaseDate": "2026-10-02T19:17:03Z",
+   "version": "1.7.344",
+   "description": "Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place. Whether you’re tracking personal to-do lists, writing and organizing class notes, or managing projects with a team, Notion helps users plan work, stay organized, and achieve goals.\n\n\"AI's everything app\" — Forbes\n\nNotion is a productivity app where you can write, plan, and organize your notes, projects, tasks and more. Ask Notion AI about project updates, upcoming tasks, and suggestions for a more streamlined workflow.\n\nSimplify writing notes, project and task management, and collaboration. Whether for personal, student or professional use, Notion scales to meet your individual needs with customization tools for everyone.\n\nNEW features:\n• AI Meeting Notes: Perfect meeting memory. Your notetaker catches every detail and delivers actionable summaries, right where you work.\n• Maps View: Turn databases into interactive maps. Use the new Place property to pin restaurants, trips, offices, clients, and more.\n\nFREE FOR PERSONAL USE\nIndividuals manage day-to-day tasks, notes, and personal organization.\n• Create as many notes, docs, and content as you want.\n• Use one of thousands of templates to get started.\n\nFREE TO TRY WITH YOUR TEAM\nTeams run on Notion every day, from next-generation startups to established enterprises.\n• Import Google Docs, PDFs, and other content types easily to get started\n• Write and organize meeting notes, or transcribe with AI.\n• Collaboration and team work at your fingertips, in one connected workspace.\n• Connect tools like Figma, Slack, and GitHub to Notion.\n\nFREE FOR STUDENTS\nStudents organize notes, assignments, and study plans in one place.\n• Your study planner, class notes, to do lists and more, your way. Loved by millions of students worldwide.\n• Get organized for your best school year yet with beautiful, customizable templates created by students, for students.\n\nNOTES & DOCS\nCommunication is made efficient with Notion's flexible building blocks.\n• Create docs with beautiful templates, images, to-dos, and 50+ more content types.\n• Meeting notes, projects, design systems, pitch decks, and more.\n• Find exactly what you need using Search with powerful filters to find content across your workspace.\n\nTASKS & PROJECTS\nCatch all details big and small in any workflow.\n• Workflow manager: Create your own priority labels, status tags, and automations to choose the exact info you want to track.\n• Capture every detail in a table. Break projects into manageable tasks to get the work done.\n\nAI\nOne tool that does it all - search, generate, analyze, and chat - right inside Notion.\n• Create notes. Transcribe meeting notes with AI.\n• Turn databases into interactive maps. Use the new Place property to pin restaurants, trips, offices, clients, and more.\n• Write better. Use Notion AI to help write and brainstorm.\n• Get answers. Ask Notion AI questions about all your content and get answers in seconds.\n• Autofill tables. Notion AI turns overwhelming data into clear, actionable information  — automatically.\n\nSYNCS WITH BROWSER, MAC, AND WINDOWS APPS.\n• Pick up on mobile where you left off on desktop.\n\nMORE PRODUCTIVITY. FEWER TOOLS.\n• Track to-dos, write notes, create docs, and manage projects in one connected workspace.\n\nTHINK IT. MAKE IT.",
+   "trackViewUrl": "https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "722954240",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PT",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 9
+   }
+  },
+  {
+   "trackId": 497328576,
+   "trackName": "Any.do: To do list & Planner",
+   "bundleId": "com.anydo.AnyDO",
+   "artistName": "Any.DO",
+   "sellerName": "Any.DO inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.62459,
+   "userRatingCount": 50529,
+   "releaseDate": "2012-06-04T05:47:29Z",
+   "currentVersionReleaseDate": "2026-08-25T07:05:07Z",
+   "version": "5.66.4",
+   "description": "Join over 50 million people who rely on Any.do to organize their life, work and get more done. \"IT'S A MUST HAVE APP\" (NYTimes, WSJ, USA Today & Lifehacker). It's the perfect combo of a task list, calendar, planner & reminders all-in-one app.\n\nTHE #1 TO DO LIST & TASK LIST\nSYNCS SEAMLESSLY between your mobile, desktop, web, and tablet. Keeps all your to do list, tasks, reminders, calendar & agenda always in sync so you’ll never forget a thing\nGET REMINDERS for a scheduled time, when you reach a particular location or set recurring reminders so you never miss a thing\nWORK TOGETHER with shared lists and assigned tasks to collaborate and get more done, with anyone. \nWidget with simple and powerful features to keep your to do list and calendar events always at hand\n\nSIMPLE & POWERFUL CALENDAR OUTLOOK\nEASILY VIEW your events and to-do list & Tasks for the day, week & month\nSYNC SEAMLESSLY in real-time with your phone’s calendar, google calendar, Facebook events, outlook calendar, or any other calendar so you don’t forget an important event\n\nALL-IN-ONE APP FOR GETTING THINGS DONE\nTo easily create reminders we added voice entry so you can just speak your mind and we’ll add it to your to do list. For better task management flow we added a calendar integration to keep your agenda always up to date. To enhance your productivity we added cross-platform support for recurring reminders, location reminders, sub-tasks, notes & file attachments. To keep your to-do list always up to date, we’ve added a one-of-a-kind daily planner.\n\nTO DO LIST, CALENDAR & REMINDERS MADE SIMPLE\nAny.do was designed to keep you on top of your to do list and calendar with no hassle. Thanks to the intuitive drag and drop of tasks, swiping to mark to-do's as complete, and shaking your device to remove completed from your to do list - you can keep yourself organized and enjoy every minute of it.\n\nPOWERFUL TASK LIST MANAGEMENT\nLooking for more? Add a to do list item straight from your email inbox by forwarding do@any.do. Attach files from your computer, Dropbox, or Google Drive to your tasks. \n\nLIFE ORGANIZER & DAILY PLANNER\nAny.do is a to do list, a calendar, an inbox, a notepad, a checklist, task list, a board for post its or sticky notes, a project management tool, a reminders app, a daily planner, a family organizer, and overall the simplest and most useful productivity tool you will ever have. \n\nSHARE LISTS & ASSIGN TASKS\nTo plan & organize projects has never been easier. Now you can share lists between family members, assign tasks to each other, chat and much more. Any.do will help you and the people around you stay in-sync and get reminders so that you can focus on what really matters, knowing you had a productive day and crossed off your to do list\n\nGROCERY LIST & SHOPPING LIST\nAny.do task list is also great for shopping at the grocery store. Right there on your to do list is a handy shopping list option that you can share with others. Forgot to buy post-it notes? Want reminders? Simply create a list on Any.do, share it with your loved ones and see them adding their shopping items in real-time. You won’t believe how you’ve done shopping or grocery lists before\n\nAuto-Renewable subscription payment will be charged to iTunes Account at confirmation of purchase. Unless auto-renew is turned off at least 24-hours before the end of the current period, your account will be charged for renewal within 24 hours prior to the end of the current period. Your account will be charged at the cost of the subscription plan you chose:\n\n$9.99 - monthly plan\n$26.99 - 6 months plan\n$59.99 - 12 months plan with 7 days trial (50% OFF)\n\nYou can manage and cancel the auto-renew subscription at any time from the account settings on iTunes (post-purchase), but we are unable to issue refunds for any pay periods that have already been billed. \n\n*Please note we do not support Family Sharing at the moment.*\nTerms: www.any.do/legal/app-license-agreement\nPrivacy: www.any.do/legal/privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/any-do-to-do-list-planner/id497328576?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "349257728",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "CY"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 14,
+    "task manager": 12
+   }
+  },
+  {
+   "trackId": 1290128888,
+   "trackName": "monday.com - AI Work Platform",
+   "bundleId": "com.monday.monday",
+   "artistName": "monday.com Ltd.",
+   "sellerName": "monday.com Ltd.",
+   "primaryGenreName": "Business",
+   "genres": [
+    "Business",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.8252,
+   "userRatingCount": 48090,
+   "releaseDate": "2017-10-10T07:13:39Z",
+   "currentVersionReleaseDate": "2026-10-04T08:02:26Z",
+   "version": "5.74",
+   "description": "Make monday.com your central work hub and \njoin 70,000+ teams who get more done, together!\n \nNo. 1 Productivity App (2019 Webby Award Winner)\n \n“With thousands of customers... it’s becoming a major player in the collaboration and project management space.” \n- PC Mag\n \n“monday.com is a great addition and a direct extension of our team today. The mobile app is also really excellent.”\n- Tina S. (verified review from G2)\n \nWhy choose monday.com:\n \nTeamwork Game Changers\n \n• Keep everyone in the loop with real-time updates\n• Contact the right people (call or @mention)\n• See how your work fits into the big picture \n• Sync with your favorite tools\n• Quick setup & adoption\n \nManage for Success\n \n• Know where things stand at a glance\n• Track time and progress\n• Visually analyze your data with multiple views\n• Assign owners with ease\n• See who’s working on what\n \nProductivity Hacks\n \n• Prioritize with custom notifications\n• Automate repetitive work\n• Access your work anytime, anywhere\n• Get a head start with pre-made templates\n• Sync data in real time \n• Invite teammates to view your progress\n \nSo Customizable\n \n• Pick a template & edit any section \n• Add everything that needs to get done\n• Organize it (drag & drop) and get started \n   … It’s that easy!\n\nQuestions? We’re here to help! \nAccess customer support 24/7",
+   "trackViewUrl": "https://apps.apple.com/us/app/monday-com-ai-work-platform/id1290128888?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "212604928",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ES",
+    "SV",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 17
+   }
+  },
+  {
+   "trackId": 993066159,
+   "trackName": "To Do List MinimaList & Widget",
+   "bundleId": "com.davetech.todo",
+   "artistName": "InnerGrow",
+   "sellerName": "Inner Grow Limited",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.77297,
+   "userRatingCount": 47999,
+   "releaseDate": "2015-12-09T02:04:57Z",
+   "currentVersionReleaseDate": "2026-09-29T01:56:42Z",
+   "version": "2.27.1",
+   "description": "​MinimaList, a simple productive app featured on App Store home page.\nIt's a to do list, a reminder, a checklist, a schedule planner and a task manager that helps you to get things done, available for iPhone, iPad, and Mac). \n----Main Features----\n- Intuitive lists: different lists for different purposes\n- Colored lists: assign different colors to different tasks\n- Customizable theme: color/pic background & font style/size/color\n- Shared lists: simplest way to share the same list with others (Share link must be opened in Safari)\n- Grocery lists: simple shopping list\n- Widgets: Home Screen and Lock Screen widgets\n- Reminders: repeated time-based and location-based reminders \n- Memo & Sub-Task: description and sub-tasks\n- Smart input: automatically detect time in a phrase and set it as a reminder\n- Auto-snooze: you can set a reminder auto snooze three times (change the time interval in setting - more option)\n- Focus Timer: Pomodoro, count down and count up timer, with amazing sound effects\n- Today Widget: create and complete tasks in Today Widget\n- Cloud Syncing: same lists for all devices (iPhone,iPad, Mac)\n- TouchID/FaceID: privacy is protected now\n- Siri ready: remind me to go shopping at 3 pm on MinimaList \n- Custom setting: your notification sounds, your font, your background\n- Calendar syncing: syncing with Apple calendar\n- Continuous Reminder  (Notification action, force touch on your notification - where you snooze a reminder)\n- Supports iPhone iPad and Mac\n- Url Scheme supports: to create a task: minimalist://x-callback-url/create?list=valueList&content=valueContent&date=yyyy-mm-dd&time=HH:mm&x-success=valueCallback\nto open a list:   minimalist://x-callback-url/open?list=valueList\n(valueList is the name of the list, valueContent is the task content, valueList and valueContent must be url encoded first,valueCallback is the callback app's url scheme name)\n\nMinimaList, a simple list to solve big problems.\n\nLess is More.\n\n\nTerms of Use：http://intuitive.studio/minimalist/terms\nTerms of Use(EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy：http://intuitive.studio/minimalist/Privacy\n\nMinimaList is free but you can also upgrade to Premium for full access to premium features for $0.99 a month or $5.99 a year (price in usd) through an auto-renewing subscription.\n\nSubscriptions for Pro account will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24-hours before the end of the current period. You will not be able to cancel a subscription during the active period. You can manage your subscriptions in the Account Settings after purchase.\nAny unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.",
+   "trackViewUrl": "https://apps.apple.com/us/app/to-do-list-minimalist-widget/id993066159?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "125834240",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 1,
+    "task manager": 2
+   }
+  },
+  {
+   "trackId": 626144601,
+   "trackName": "TickTick:To-Do List & Calendar",
+   "bundleId": "com.TickTick.task",
+   "artistName": "Appest Limited",
+   "sellerName": "Appest Limited",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.85591,
+   "userRatingCount": 46179,
+   "releaseDate": "2013-06-19T21:04:34Z",
+   "currentVersionReleaseDate": "2026-09-29T01:04:09Z",
+   "version": "8.2.20",
+   "description": "TickTick is a powerful to-do & task management app with seamless cloud synchronization across all your devices. Whether you need to schedule an agenda, make memos, share shopping lists, collaborate in a team, or even develop a new habit, set countdown for birthdays, TickTick is always here to help you get stuff done and keep life on track. \n\nKey features of TickTick:\n•\tSync tasks across all devices\n•\tMultiple reminders\n•\tFlexible calendar views\n•\tIntegrate with calendar application\n•\tSet flexible recurring tasks\n•\tCreate checklists\n•\tShare task lists for collaboration\n•\tAdd task via email\n•\tUpload attachments to tasks\n•\tClassify tasks with tags\n•       Keep track of birthdays, anniversaries with countdown\n\nMore functions to help you get focused and boost productivity:\n•\tUse Siri to create tasks faster and easier\n•\tEnable Pomo Timer to stay concentrated\n•\tSet a Goal to develop a Habit\n•\tInstant time & location reminder\n•\tFour priority levels\n•\tDifferent sort options (by order/date/name/priority)\n•\tAdd description/comments to tasks\n•\tBatch edit tasks\n•\tQuick search tasks\n\nTickTick is always free, while you could also upgrade to Premium account to enjoy full access to the most advanced features. \n•\tMore lists and tasks: 299 lists, 999 tasks in each list, 199 subtasks in each task\n•\tAdd up to 5 reminders to each task \n•\tShare a task list to up to 29 members for better collaboration \n•\tUpload up to 99 attachments every day \n•\tSubscribe calendars in TickTick \n•\tGrid view of calendar \n•\tCustom Smart List \n•\tAdd more than 5 habits\n•\tAdd more than 5 countdowns\n\nHow TickTick makes you more productive?\n•\tGet all things done\n•\tNever miss a schedule \n•\tCollaborate more efficiently\n•\tSync across multiple platforms\n•\tSave efforts for stuff that really matters\n\nAbout billing of Premium:\nAuto-Renewable subscription payment will be charged to your iTunes account as soon as purchase is confirmed. Any unused portion of Premium period you upgraded via other platforms will be forfeited at the same time. Your subscription will get auto renewed unless cancelled at least 24 hours before the end of the current period. Please feel free to manage or cancel the auto-renew subscription at any time from the account settings on iTunes after purchase.\n\nTickTick has integrated HealthKit, you can sync your focus time data to Apple Health.\n\n\nOur Privacy Policy: https://www.ticktick.com/about/privacy\nOur Terms of Use: https://www.ticktick.com/about/tos\n\nFor questions, feedback, or tips, we're happy to help you at support@ticktick.com \n\nConnect with us: \n\nTwitter: @ticktick\nInstagram: @ticktickapp\nFacebook: @TickTickApp \nReddit: r/ticktick",
+   "trackViewUrl": "https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "328939520",
+   "languageCodesISO2A": [
+    "AR",
+    "BE",
+    "BG",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SV",
+    "TA",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "CY"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 8,
+    "task manager": 7
+   }
+  },
+  {
+   "trackId": 904237743,
+   "trackName": "Things 3",
+   "bundleId": "com.culturedcode.ThingsiPhone",
+   "artistName": "Cultured Code GmbH & Co. KG",
+   "sellerName": "Cultured Code GmbH & Co. KG",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 9.99,
+   "formattedPrice": "$9.99",
+   "averageUserRating": 4.81747,
+   "userRatingCount": 27985,
+   "releaseDate": "2017-05-18T15:10:30Z",
+   "currentVersionReleaseDate": "2026-09-22T11:02:19Z",
+   "version": "3.24.2",
+   "description": "Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delightful interface that never gets in the way of your work.”\n—Wirecutter, The New York Times\n\n\nKEY FEATURES\n\n• Your To-Dos\nYour basic building block is the almighty To-Do—each a small step toward a great accomplishment. You can add notes, tag it, schedule it, and break it down into smaller steps.\n\n• Your Projects\nCreate a Project for any big goal, then add the to-dos to reach it. Use headings to structure your list as you outline your plan. There’s also a place to jot down your notes, and a deadline to keep you on schedule.\n\n• Your Areas\nCreate an Area for each sphere of your life, such as Work, Family, Finance, and so on. This keeps everything neatly organized, and helps you see the big picture as you set your plans in motion.\n\n• Your Plan\nEverything on your schedule is neatly laid out in the Today and Upcoming lists, which show your to-dos and calendar events. Each morning, see what you planned for Today and decide what you want to do. The rest is down to you :)\n\n\nMORE THINGS TO LOVE\n\nAs you dive deeper, you’ll find Things packed with helpful features. Here are just a few:\n\n• Reminders — set a time and Things will remind you.\n• Repeaters — automatically repeat to-dos on a schedule you set.\n• This Evening — a special place for your evening plans.\n• Calendar integration — see your events and to-dos together.\n• Tags — categorize your to-dos and quickly filter lists.\n• Quick Find — instantly find to-dos or switch between lists.\n• Magic Plus — drag the + button to insert to-dos anywhere in a list.\n• Share extension — create to-dos with content from other apps.\n• Widgets — see lists on your home/lock screens.\n• Mail to Things — forward an email to Things; now it’s a to-do.\n• Markdown — structure & style your notes.\n• And much more!\n\n\nMADE FOR IPHONE\n\nThings is tailored to the iPhone with deep system integrations as well. A great example is the Share extension, which allows you to create to-dos with content from other apps, such as a link to a website you want to get back to.\n\nYou can also enjoy a beautiful dark mode at sunset, connect your calendars, add a variety of widgets, create to-dos via Siri, import from Reminders—Things can do it all! There’s even Shortcuts integration if you want to automate your workflows.\n\n\nMADE FOR APPLE WATCH\n\nThings comes with a great app for Apple Watch. Just raise your wrist to glance at your Today list, mark to-dos complete as you go, and dictate new ones on the fly—all synced instantly with your iPhone, iPad, and Mac.\n\n\nAWARD-WINNING DESIGN\n\nMade in Stuttgart, with two Apple Design Awards to its name, Things is a fine example of German engineering: designed not only to look fantastic, but to be perfectly functional as well. Every detail is thoughtfully considered, then polished to perfection.\n\n“It’s like the unicorn of productivity tools: deep enough for serious work, surprisingly easy to use, and gorgeous enough to enjoy staring at.”\n—Apple\n\n\nGET THINGS TODAY\n\nWhatever it is you want to accomplish in life, Things can help you get there. Install the app today and see what you can do!\n\n• Things is also available for Mac, iPad, and Apple Vision Pro (sold separately).\n• Sync is provided for free via our Things Cloud service.\n• A free trial is available for Mac: www.things.app\n\nIf you have any questions, please get in touch. We provide professional support and will be glad to help you!",
+   "trackViewUrl": "https://apps.apple.com/us/app/things-3/id904237743?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "123567104",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 15
+   }
+  },
+  {
+   "trackId": 421819675,
+   "trackName": "Do! – Simple To Do List",
+   "bundleId": "com.newsu1.doiap",
+   "artistName": "SIMPLERION Co., Ltd",
+   "sellerName": "SIMPLERION Co., Ltd",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73004,
+   "userRatingCount": 26182,
+   "releaseDate": "2011-03-09T19:20:10Z",
+   "currentVersionReleaseDate": "2026-10-01T02:01:43Z",
+   "version": "7.7.2",
+   "description": "Jot it down.\nEnjoy checking it off.\n\nGroceries on the way home. A deadline you don't want to miss. A habit you'd like to keep. Do! gives your everyday to-dos a simple home: add a task, then double-tap when it's done.\n\n■ A thought, a note, a satisfying checkoff\nCatch a task while it's on your mind. Finished? Double-tap to mark it done. Even a small task deserves that little moment of satisfaction.\n\n■ Make it a list you like coming back to\nChoose your themes and fonts, with sounds inspired by pen and paper. Like picking a favorite notebook, make your daily list feel like yours.\n\n■ A place for every part of your day\nKeep work, study and shopping in their own groups. Add color to tell things apart, and pin the tasks you want to keep in sight.\n\n■ Less to remember, every time around\nSet tasks to repeat daily, weekly, monthly or yearly. Add reminders for the things you don't want to miss.\n\n■ A quick look from your home screen\nKeep your to-dos close with home screen widgets. Check your list during a busy morning without opening the app.\n\n■ Put your keyboard to work\nUse an external keyboard to add tasks and give longer notes room to breathe.\n• Add a task: Command(⌘) + N\n• Insert a line break: Option(⌥/Alt) + Enter\n\n■ Your list, on your other devices\nUse the same app and sign in with the same account to sync your tasks across devices. Pick up your familiar list when you switch devices.\n\n■ App lock and backups\nLock access to the app with a passcode or Face ID on supported devices. Back up your data through Dropbox or email and restore it when needed.\n\nIt doesn't have to be a big plan.\nStart with one thing you'd like to do today.\n\n■ About ads\nThis app includes ads. An in-app purchase is available to remove them.\n\nQuestions and suggestions: do@simplerion.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/do-simple-to-do-list/id421819675?uo=4",
+   "contentAdvisoryRating": "9+",
+   "fileSizeBytes": "157413376",
+   "languageCodesISO2A": [
+    "EN",
+    "DE",
+    "JA",
+    "KO",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 5,
+    "task manager": 23
+   }
+  },
+  {
+   "trackId": 1480220328,
+   "trackName": "Tiimo: To-Do List Planner",
+   "bundleId": "com.tiimo.app",
+   "artistName": "tiimo",
+   "sellerName": "tiimo ApS",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59269,
+   "userRatingCount": 20510,
+   "releaseDate": "2019-10-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T10:50:58Z",
+   "version": "3.67.0",
+   "description": "*  iPhone App of the Year 2025\n*  Apple Design Awards Finalist 2024\n*  Best Assistive Technology 2022 (Neurodiversity Awards)\n*  4+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains you.\nJoin 1+ million users who trust Tiimo as their neurodivergent-friendly planner.\n\nKEY FEATURES\n\nAI Co-Planner: A personal planning assistant that supports you in creating, prioritizing and planning tasks that works for you, so you can focus on what matters.\nVisual Schedule Planner: Color-coded daily overview with easy drag-and-drop tasks.\nTo-Do List: Brain dump your tasks, prioritize them in a click with the AI priority grouping.\nFocus Timer: A calming countdown to guide your time, and stay on track.\nSync with Apple Calendar and Reminders: Keep all your schedules and plans in one place.\nWidgets: Your key tasks and timers always in view on your home or lock screen.\nShare up to 5 profiles with family\n\nSUPPORTING TOOLS\n\nNeuroinclusive Courses: Expert guides on productivity and habits\nCommunity Hub: Tips from neurodivergent teens and adults\nPersonal insights: Stats that support your growth and helping you stay on task.\n\nUSER TESTIMONIALS\n\n“Tiimo I love you- you’ve pretty much changed my life!! I didn’t think I could be organized. But this week, I completed 94 tasks. This app def deserves the five stars!\"\n“I struggle with adhd and have tried multiple apps to help me focus. This has been the only one that has actually helped!”\n“This has kept me the most productive I’ve been in years. Worth every penny.”\n\nWHAT SETS US APART\n\nCo-designed with ADHD/Autism experts\n100% ad-free forever\nCopenhagen-based team fighting for neurodivergent empowerment\n\nFREE TRIAL & PRICING\n\nStart your 7-day trial of Tiimo Pro ( only applies to the yearly subscription) for full features and access to our web version.\nFree version includes: Basic planner, limited AI chats, 1 profile.\nAuto-renewal can be canceled anytime via Apple settings.\n\nTerms of Use: https://www.tiimoapp.com/terms-of-use",
+   "trackViewUrl": "https://apps.apple.com/us/app/tiimo-to-do-list-planner/id1480220328?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "250195968",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IS",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 24
+   }
+  },
+  {
+   "trackId": 1551532207,
+   "trackName": "Smile Todo - Time Management",
+   "bundleId": "emmo.smileTodo",
+   "artistName": "EMMO Corp.",
+   "sellerName": "EMMO Corp.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.85899,
+   "userRatingCount": 19034,
+   "releaseDate": "2021-02-03T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T01:27:55Z",
+   "version": "1.7.2",
+   "description": "Harvest smiling faces with self-discipline. Even small dreams require daily effort.\n\nThe Smile List adheres to the minimalist and fresh design of Emmo Corp. There are no flashy ICONS, only a clear daily list.\n\nThere is no noisy socializing here, face yourself, know yourself.\n\nIt is very easy to punch in here. Plan your daily activities in advance. You just need to swipe right or gently press the habit, and your punch is finished.\n\nShake, switch different punching styles.\n\nYou can, of course, add a clock log, which will make it more intuitive when you review your schedule.\n\nWhen you complete more than 60 percent of your daily habits, you get a smiley face, a nice card that you can click on and write your thoughts on the back of your life, and a cute Tracker to save or share your smile with your friends.\n\nI can't wait to see your smiling faces. Let's work together to make a better life with a little effort and self-discipline.\n\nAbout a subscription service for Smiling Todo Premium\n\n\nThe service is a subscription-based service, and you can choose to use it on an annual, buyout basis.\n\n\nPremium (by the year) is a paid service on a subscription basis, which means you will be paid in advance for future subscription use. Currently you have the option to use the service on an annual basis. At the end of each subscription period, your subscription will be automatically renewed by default unless you cancel the automatic renewal at your own discretion or we cancel the service.\n\n\n- cost:\n\nPlease check the internal page of smiling Todo for price details\n\n\n- a refund:\n\nCurrent subscriptions and one-time buyout fees will not be refundable. Make sure the feature service meets your needs.\n\n\n- Unsubscribe:\n\nIf you want to cancel the renewal, please cancel at least 24 hours in advance. You can unsubscribe by opening System Settings - click Apple ID - click Subscribe - select Smile Todo Subscribe and unsubscribe.\n\n\nTerms of use: https://gist.github.com/AUDILIGITHUB/e0496ef6d8ec201fac55b6278b1fe85c\n\nPrivacy policy: https://gist.github.com/AUDILIGITHUB/fbca36d687ea7c7d218359dfeda7c559",
+   "trackViewUrl": "https://apps.apple.com/us/app/smile-todo-time-management/id1551532207?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "92568576",
+   "languageCodesISO2A": [
+    "EN",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 20
+   }
+  },
+  {
+   "trackId": 489969512,
+   "trackName": "Asana: Work Management",
+   "bundleId": "com.asana.Asana",
+   "artistName": "Asana, Inc.",
+   "sellerName": "Asana, Inc.",
+   "primaryGenreName": "Business",
+   "genres": [
+    "Business",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.66601,
+   "userRatingCount": 15650,
+   "releaseDate": "2011-12-21T17:00:32Z",
+   "currentVersionReleaseDate": "2026-09-28T14:41:58Z",
+   "version": "26.38.0",
+   "description": "Asana is the easiest way to manage team projects and your individual tasks. From the small stuff to the big picture, Asana organizes work so you and your teams are clear on what to do, when to do it, and how to get it done.\n\nUSE ASANA WHEREVER YOU ARE \nAccess Asana on mobile or on the web. Project management doesn’t stop at your desk—no matter where you are, stay focused and keep your team’s work on track. \n\nGET ORGANIZED \nSet up different projects to bring your team’s work together in one shared space.  Break the workload down into manageable tasks  and give them a clear owner and due date.  Choose a project view that suits your style—lists, kanban boards, or calendar.\n\nIMPROVE FOCUS\nBoost your productivity with My Tasks, where you can see all the work that’s been assigned to you in one to-do list. Prioritize your work easily—drag & drop tasks into Asana’s built-in sections, create your own custom checklist sections, or sort by different dimensions.  \n\nSTAY CONNECTED\nKeep collaboration going, wherever you are. Communicate with your teammates by liking, commenting, or attaching files directly to tasks.  And get automatic updates about the projects and tasks that matter to you delivered directly to your Inbox.  \n\nAND DO EVEN MORE— ALL WITH ONE TOOL\nVisit the web app to see how all of your projects are progressing with Portfolios. Personalize task management with Custom Fields to capture important information about your tasks. Choose timeline view for projects to see a Gantt chart with task dependencies. And unlock the ability to track company goals and milestones with Goals.\n\nJoin more than 100,000 organizations and millions of users worldwide who trust Asana to stay organized and in control of their work. \n\nAsana’s WORK GRAPH represents every task, project, and goal in your organization. Which means the Work Graph creates integrity, visibility, and coordination between every team and every department. All in one place.\n\nDownload the Asana work management app now.  \n\nBy downloading Asana, you agree to our Terms of Service, which you can find at https://asana.com/terms.",
+   "trackViewUrl": "https://apps.apple.com/us/app/asana-work-management/id489969512?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "149932032",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "ES",
+    "SV",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 11
+   }
+  },
+  {
+   "trackId": 1632352471,
+   "trackName": "Digital Planner – Task Journal",
+   "bundleId": "com.softwings.DigitalPlanner",
+   "artistName": "ToolStyle",
+   "sellerName": "TULSTAIL, OOO",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.28301,
+   "userRatingCount": 14321,
+   "releaseDate": "2022-07-01T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T19:42:40Z",
+   "version": "1.13.7",
+   "description": "Have you ever dreamed of a handy daily planner that can be a useful organizer and a tool to express your creativity at the same time? Today is your lucky day!\n\nPLAN EVERYTHING\nCreate habit trackers, plan your day, make to-do lists and more! Boost your knowledge with reading and movie lists. Besides, to help you keep all your agenda in order, we added everything you may need during the day so that you don’t have to use several planning apps for different tasks anymore. \n\nUSE YOUR CREATIVITY \nUse a variety of colorful, cute and creative templates. Try incredible page designs, stickers, brushes for a neat and pretty handwriting. Give your every page a unique style or create one distinctive look for everything! Dive into this magic world of bright colors and vivid imagination!\n\nTURN IDEAS INTO AI ART\nGet creative with the AI-powered feature that lets you effortlessly generate cartoon-style images by text prompts. Add them to your planner pages and transform them into stunning stickers with automatic background cropping. \n\nEXPERIENCE A NEW LEVEL OF A CREATIVE PLANNER \nThis is one of a kind app that combines a pragmatic approach to life and creativity! It’s a new way to keep a planner and have fun at the same time. Every tool is designed to burst your routine with individuality and inspiration!\n\nJoin us today!\n\nhttps://tool-style.com/privacy\nhttps://tool-style.com/tos",
+   "trackViewUrl": "https://apps.apple.com/us/app/digital-planner-task-journal/id1632352471?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "453736448",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "VI"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 19
+   }
+  },
+  {
+   "trackId": 1532165568,
+   "trackName": "To Do List Widget",
+   "bundleId": "com.tapuniverse.Todo-List",
+   "artistName": "TAPUNIVERSE LLC",
+   "sellerName": "TAPUNIVERSE LLC",
+   "primaryGenreName": "Business",
+   "genres": [
+    "Business",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.7586,
+   "userRatingCount": 13811,
+   "releaseDate": "2020-10-15T07:00:00Z",
+   "currentVersionReleaseDate": "2026-03-14T03:39:59Z",
+   "version": "3.1.11",
+   "description": "Create unlimited To Do lists and add to your Home Screen.\nYou can open and edit to list directly.\n\nFollow these 3 simple steps to get started:\n1. Create a list in the app.\n2. Add a widget in your preferred size.\n3. Long press to configure the widget.\n\nFEATURES:\n- Create unlimited To Do lists.\n- Add and Edit lists directly from Home Screen.\n- Change colors & font size.\n- Support 3 different color styles.\n- Support 2 different layouts\n\nTo Do List+:\n\n• You can subscribe to unlock all features and create unlimited notes.\n• Subscription auto-renew at the end of current period, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.\n\nTerms of use: https://tapuniverse.com/terms/\nPrivacy policy: https://tapuniverse.com/policy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/to-do-list-widget/id1532165568?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "314547200",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 7
+   }
+  },
+  {
+   "trackId": 6472804752,
+   "trackName": "Daily Planner, To-Do List",
+   "bundleId": "com.planner.journal",
+   "artistName": "jinal alagiya",
+   "sellerName": "jinal alagiya",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.76321,
+   "userRatingCount": 11382,
+   "releaseDate": "2024-01-31T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-21T22:37:16Z",
+   "version": "4.84",
+   "description": "Plan your day, organize your to-do list, and stay on top of everything with PlanWiz Daily Planner.\n\nPlanWiz is a simple daily planner and to-do list app made for busy people who have a lot to manage. Organize your daily tasks, work schedule, family responsibilities, appointments, priorities, and personal goals in one beautiful place.\n\nWhether you're a busy mom managing your family, an entrepreneur running a business, a working professional planning a packed day, a teacher organizing school tasks, or a nurse managing a busy schedule, PlanWiz helps you plan your day with less effort.\n\nDAILY PLANNER FOR BUSY LIFE\n\nHave too much to remember?\n\nUse your daily planner to organize everything that needs your attention today.\n\n* Create a daily to-do list\n* Plan your daily schedule\n* Organize important tasks\n* Set daily priorities\n* Plan appointments\n* Manage work tasks\n* Organize family activities\n* Keep personal tasks in one place\n* Plan tomorrow before the day begins\n\nSpend less time figuring out what to do next and more time getting things done.\n\n2000+ DAILY PLANNER TEMPLATES\n\nNo need to build a planner from scratch.\n\nChoose from 2000+ customizable planner templates and quickly create a planner that works for your schedule.\n\nFind a template for:\n\n* Daily Planner\n* Daily To-Do List\n* Weekly Planner\n* Monthly Planner\n* Daily Schedule\n* Work Planner\n* Family Planner\n* Mom Planner\n* Teacher Planner\n* Business Planner\n* Productivity Planner\n* Goal Planner\n* Task Planner\n* Schedule Planner\n\nTO-DO LIST FOR EVERYDAY TASKS\n\nKeep your daily tasks organized with an easy-to-use to-do list.\n\nCreate a:\n\n* Daily To-Do List\n* Work To-Do List\n* Family To-Do List\n* Personal To-Do List\n* Priority List\n* Task List\n* Weekly To-Do List\n* Monthly To-Do List\n\nKeep work, home, family, and personal responsibilities organized without relying on scattered notes.\n\nDAILY PLANNER FOR BUSY MOMS\n\nManage your day and your family schedule in one place.\n\nPlan:\n\n* Family activities\n* Kids schedules\n* School activities\n* Appointments\n* Meal planning\n* Grocery tasks\n* Household tasks\n* Work responsibilities\n* Personal priorities\n* Weekly family plans\n\nCreate a daily routine that helps you see what needs to get done without making planning complicated.\n\nPLANNER FOR ENTREPRENEURS AND PROFESSIONALS\n\nTurn a busy workday into an organized plan.\n\nCreate a clear daily plan so you can focus on the work that matters most.\n\nDAILY PLANNER FOR TEACHERS\n\nKeep your school day organized with a planner built around your schedule.\n\nKeep school and personal responsibilities organized in one customizable planner.\n\nDAILY PLANNER FOR NURSES\n\nOrganize a busy schedule around work and everyday life.\n\nKeep your work schedule and personal to-do list easy to see and manage.\n\nCUSTOMIZE YOUR PLANNER\n\nMake your daily planner fit your life.\n\n* Choose a planner template\n* Customize colors and fonts\n* Change layouts\n* Add a to-do list\n* Add task sections\n* Add notes\n* Add photos and stickers\n* Customize planner covers\n* Organize sections your way\n\nDAILY, WEEKLY AND MONTHLY PLANNING\n\nPlan today and prepare for what's coming next.\n\n* Daily Planner for today's priorities\n* Weekly Planner for the week ahead\n* Monthly Planner for important dates\n* Yearly Planner for long-term planning\n\nEXPORT, PRINT AND SHARE\n\n* Export as PDF\n* Save as PNG\n* Print your daily planner\n* Print your to-do list\n\nDownload PlanWiz Daily Planner and To-Do List and start planning your day your way.\n\nIf you choose to subscribe to any PlanWiz Pro subscription, payment will be charged to your iTunes Account at confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage your subscription and turn off auto-renewal in your account settings after purchase.\n\nQuestions? Contact us at [info@planwiz.app](mailto:info@planwiz.app)\n\nTerms of Use\nhttps://planwiz.app/terms-of-service.html\n\nPrivacy Policy\nhttps://planwiz.app/privacy-policy.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/daily-planner-to-do-list/id6472804752?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "238870528",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 11
+   }
+  },
+  {
+   "trackId": 1442758709,
+   "trackName": "To Do List|",
+   "bundleId": "com.todo.todotasklist",
+   "artistName": "EverAppsLLC",
+   "sellerName": "Ever Apps LLC",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.40048,
+   "userRatingCount": 11289,
+   "releaseDate": "2019-02-24T08:00:00Z",
+   "currentVersionReleaseDate": "2024-07-29T05:39:36Z",
+   "version": "6.2",
+   "description": "Now get accurate with To do list  and calendar planner!\n\nTo do planner is smart task list for everyday use.\nIt is truly usable with great user experience.\nNo matter who you are and what you do - you will be better organized!\nAt home, at work and in your free time - you will focus on really important things!\nTo do planner is powerful in its simplicity and convenience of use.\n\nKey Features\n• User friendly task management\n• Assigning categories to tasks\n• Add priorities to your each task\n• different notifications for tasks\n\nSubscription:\nWeekly: $2.99/week\nMonthly: $7.99/month with 3 days free trial\n\n• Payment will be charged to iTunes Account at confirmation of purchase\n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn of the auto-renew subscription from iPhone setting\n• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable To Do app adds the great features above and are available through an auto-renewing subscription. Subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless cancelled at least 24 hours before the end of your current subscription, and you can cancel a subscription during the active period. You can manage your subscription at any time, either by viewing your account in iTunes from your Mac or PC, or Account Settings on your device after purchase.\n\nGet the app and stay accurate!\n\n• Privacy Policy: https://to-do-lists.com/privacy-policy.html\n• Terms of use: https://to-do-lists.com/terms-of-use.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/to-do-list/id1442758709?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "52173824",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 26
+   }
+  },
+  {
+   "trackId": 318095638,
+   "trackName": "Errands To-Do List",
+   "bundleId": "com.yoctoville.errands",
+   "artistName": "Yoctoville",
+   "sellerName": "David Mandell",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.64954,
+   "userRatingCount": 10666,
+   "releaseDate": "2009-09-12T19:59:14Z",
+   "currentVersionReleaseDate": "2017-10-02T15:12:55Z",
+   "version": "5.0.1",
+   "description": "Errands is a task manager with a pleasing design and is easy to learn and use. Crafted with a blend of basic and advanced features: Folders, Checklists, Task Images, Scheduling & Repeating, Alerts (alarms), Automatic Badge Updating, Calendar View, Mail Tasks, Multiple View Modes, Search and more!\n\nKEY BENEFITS AND FEATURES\n\n• The overall user interface is tastefully designed with careful attention to detail and functionality.\n\n• A universal app with full support for the iPhone and iPad\n\n• Supports iCloud Sync (Premium). This allows you to keep Errands in sync on multiple iOS devices (iPhone, iPad).\n\n• Alerts (reminders) for tasks, with choice of sound and several repeat options. Plus automatic updating of the app icon badge. Both of these work even when Errands is not actively running.\n\n• Customizable folders, so you can organize your tasks to best suit your needs (for example, Work, Home, Errands).  You can have as many folders as you wish and folder attributes (name, icon, checkbox) are fully customizable.\n\n• A Focus Folder which is based on a \"star\" system. You can toggle the \"star\" state for any task by tapping on the star icon. When a task comes due it will be auto-starred. This makes the Focus Folder very useful for quickly glancing at what you need to do NOW. The badge icon will reflect the number of tasks in the Focus Folder, keeping you up-to-date on what tasks need attention.\n\n• A monthly calendar view for tasks with due dates. To access it, tap on the calendar icon on the bottom toolbar. The calendar displays items based on the current folder you are in. To see all tasks, choose the calendar from the All Tasks folder.\n\n• View options allows you to switch between normal view (4 tasks per screen) and condensed view (8 tasks per screen).\n\n• Mail tasks (single tasks as well as entire folders).\n\n• You can select from a built-in collection of image icons, choose a photo from your library, or take a new photo to customize your tasks.\n\n• A unique feature allows notes to be viewed as a checklist.  This is particularly handy for small shopping lists, multi-step tasks, etc.\n\n• Tasks can be scheduled with a due date / time.  There is a full range of repeating options.\n\n• A convenient Recycle Bin allows you to easily create new tasks from previously completed entries.  This is a big time-saver given that many tasks are things that are done again (and again).  And saving data-bits from the virtual landfill makes you feel good!\n\n• Tasks can be sorted by various schemes as well as arranged manually.\n\n• Each task has a title along with separate detail and notes fields.\n\n• Customize Errands to fit your tastes using the in-app Settings.\n\nABOUT THE PREMIUM UPGRADE\n\nErrands is NOT a lite version or crippled in any way. It is the complete app! If you enjoy it, please consider purchasing the Premium Upgrade. It will provide food for me and my dog as well as support continued development. Thanks for your support!\n\nHOW TO GET THE MOST FROM ERRANDS\n\n• Explore the app, play around with its features and settings.\n\n• There is a Mini User's Guide in the Settings.\n\n• Please visit yoctoville.com for answers to Frequently Asked Questions and other support info.",
+   "trackViewUrl": "https://apps.apple.com/us/app/errands-to-do-list/id318095638?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "15768576",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 32
+   }
+  },
+  {
+   "trackId": 1227402276,
+   "trackName": "Actions: To Do List Organizer",
+   "bundleId": "com.moleskine.actions",
+   "artistName": "Bonobo",
+   "sellerName": "Bonobo Pte Ltd",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.64476,
+   "userRatingCount": 9754,
+   "releaseDate": "2018-02-14T18:41:05Z",
+   "currentVersionReleaseDate": "2026-09-28T07:00:44Z",
+   "version": "3.10.1",
+   "description": "Keep on top of everything in your head, whether it’s movies to watch or the details of your next big project. Designed for busy people who live by making lists to stay on track at work and home, the digital card based design is a clutter-free way to visualise everything that needs doing.\n\nCollect your thoughts in a calm interface with simple natural language like “Water the plants every Saturday” then let Actions take care of reminding you automatically.\n\n–––FEATURES–––\n\n• Create Action Cards to note things you do not want to forget.\n• Type naturally like “Post status report every second Friday” and Actions takes care of the scheduling, reminders and notifications.\n• Drag and drop your Action Cards into custom Lists to organise them intuitively\n• Colour code each list to further personalise your productivity system\n• Use the Schedule to see all of the Actions coming up\n• Swipe on Action Cards to complete them, delete them and set reminders.\n• Add free-form notes to Action Cards for extra details like phone numbers\n• Get push notifications, you can quickly choose reminders for the Morning, Afternoon, Evening or custom times\n• Create repeating actions with advanced rules like “Call Sam every second Tuesday in June”\n• Automatically and securely sync all of your Actions to the cloud instantly\n• To keep your lists manageable, Actions will automatically suggest Action Cards that should be rescheduled or deleted\n• Use the iOS Share extension to bring lists from other apps into Actions easily\n• Use Siri to manage your actions for hands-free productivity!\n\nActions is a sophisticated app for getting things done, but it’s even more powerful if you have Timepage. With Timepage installed, your calendar events will automatically appear in the Schedule screen in Actions so you can see everything in context.  In Timepage, you can see scheduled actions alongside your events. Master your calendar events and your to-dos with the ultimate productivity app duo!\n\n\n–––MEMBERSHIP–––\n\nActions is a membership service with a free trial. Download the app free to try it out without restriction or registration.  After the trial period you can choose to purchase a membership which allows unlimited use across all of your devices.\n\nWithout an active membership, you can still use the app in read-only mode.\n\n• Unlimited access on all your devices.\n• Both monthly and annual options available.\n\nPrice may vary by location. Subscriptions will be charged to your iTunes Account at confirmation of purchase. Your subscription will automatically renew unless automatic renewal is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period. You can manage your subscriptions and automatic renewal status in Account Settings after purchase. Any unused portion of the free trial peri​od will be forfeited when you purchase a subscription.\n\nPrivacy Policy: https://bonobolabs.com/privacy\nTerms of Service: https://bonobolabs.com/terms\n\n\n–––QUESTIONS?–––\n\nIf you’ve got a question or something isn’t working quite right, you can contact us directly from the Menu > Help > Contact Support.\nGot a feature idea?  Let us know at https://bonobo.canny.io/actions\n\n\n–––THANK YOU–––\n\nWe have put thousands of hours into creating Actions. We read every single one of your reviews. If you enjoy using Actions please take a minute to leave us a nice review, thank you!",
+   "trackViewUrl": "https://apps.apple.com/us/app/actions-to-do-list-organizer/id1227402276?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "270638080",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 38,
+    "task manager": 28
+   }
+  },
+  {
+   "trackId": 1220679578,
+   "trackName": "List Maker ◎",
+   "bundleId": "co.apstudio.kitchenwall",
+   "artistName": "AP Studio, LLC",
+   "sellerName": "AP Studio, LLC",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Shopping"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.82996,
+   "userRatingCount": 7910,
+   "releaseDate": "2017-04-26T01:04:54Z",
+   "currentVersionReleaseDate": "2025-12-12T01:50:52Z",
+   "version": "3.2.2",
+   "description": "Introducing List Maker, the app for making lists and sharing them with people. Sharing is at the heart of what we do. Whether it's a grocery list, keeping track of the daily to-do list, or letting your kids manage their own chores, List Maker is the app your whole family will actually use.\n\n“It's easier than pencil and paper and I love the trendy design of the chalkboard! I recently used it with my husband to check our spring break packing checklist. It's also a lifeline in the grocery store. - Kerri (a real user and mom)\n\n\nDESIGNED FOR THE WHOLE FAMILY\n\n• Super moms who handle all the daily details\n• Men who want to be good husbands and follow the honey do list\n• Children who want to take charge of their own to-do lists\n• Families who want to work * together * to get things done!\n \n\nLIST FEATURES\n\n• Share lists with a single click, watch lists update instantly on an unlimited number of devices\n• Use colored chalk to prioritize, group or personalize your lists\n• Drag and drop items, tap to edit, insert items in the middle of a list. Effortless and simple.\n• Be productive anywhere, even offline\n\nSUBSCRIPTIONS\n\nList Maker is a Premium product and a subscription is required to use the app. When you subscribe to the List Maker Premium service, payment will be charged to your iTunes account at the time you confirm your purchase. Your account will be charged for renewal 24-hours prior to the end of the current period. Auto-renewal can be turned off at any time by going to your settings in the iTunes Store after purchase. Prices and currencies may vary from country to country depending on exchange rates. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription.\n\nList Maker Privacy Policy and Terms of Service:\nhttps://www.listmakerapp.com/privacy\nhttps://www.listmakerapp.com/tos",
+   "trackViewUrl": "https://apps.apple.com/us/app/list-maker/id1220679578?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "99787776",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "ES"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 37
+   }
+  },
+  {
+   "trackId": 461504587,
+   "trackName": "Trello: Daily Task Tracker",
+   "bundleId": "com.fogcreek.trello",
+   "artistName": "Trello, Inc.",
+   "sellerName": "Trello, Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.33914,
+   "userRatingCount": 7009,
+   "releaseDate": "2011-09-13T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T14:52:15Z",
+   "version": "2026.20",
+   "description": "Work smarter and do more with your personal productivity powerhouse, Trello. Capture, organize, and tackle your to do checklist from anywhere. No more chaotic schedules, lost sticky notes, or searching for bookmarked messages across apps. Stay organized and efficient with Trello Inbox, Boards, and Planner. Every personal or work-related to-do, idea, or responsibility—no matter how small—finds its place, keeping you at the top of your game. Smarter task list management, all from your mobile device.\n\nTrello lets you create a daily planner of tasks, ideas, and notes right from your phone into a Trello board, card, or to-do list. Add due dates, comments, checklists, descriptions, files, and more to your task dashboard. Save messages from popular work apps like Slack or Microsoft Teams, snap a photo, and forward emails within Trello. Paid subscriptions have access to features that use AI to summarize your saved to-dos into a Trello card so that nothing slips through the cracks.\n\nEverything captured lands as a card in your Trello Inbox, making it easy to review, prioritize, and organize your work across boards. Plan your day around your schedule; view what’s booked on your Google or Outlook calendars right from your task board. Standard and Premium users can also enable Planner to schedule focus time for completing saved to-dos.\n\nGet reminders that work for you by setting up push notifications for your personal tasks and daily to dos. Get timely alerts for the updates you care about, like due dates or changes to your card.\n\nCreate beautiful, flexible Trello boards. Organize your captured cards into customizable kanban boards and lists, tailored to your workflow. Trello’s tactile, visual mobile interface, with drag-and-drop gestures and smooth transitions between boards offers a natural way to plan your work on a mobile device.\n\nTASK MANAGEMENT MADE EASY\n- Capture, edit and sort your to do checklists.\n- Seamlessly enable Trello with your Google or Outlook calendar.\n- See what you have scheduled with your daily planner (and set aside focus time on what you’ve captured in Trello cards to get done later).\n- Use the Trello widget to add more to your checklists without ever opening the app.\n- View all your to-dos from multiple boards in one place.\n\nSCHEDULE ORGANIZER & DAILY PLANNER\n- Add reminders, forward emails, and save messages in your Trello Inbox.\n- No-code automation is built into every Trello board for intelligent task management.\n- Place your top tasks into your calendar, and make time for what truly matters in your daily planner. \n- Custom Kanban board views to visualize your way.\n- Get timely alerts for the updates you care about, like due dates or changes to your card.\n- Capture notes or ideas, and update boards even without internet. Your changes sync automatically when you’re back online for seamless task management.\n- Subscriptions can unlock features that summarize your saved to-dos into a Trello card and streamline daily planning.\n\nPERSONAL PRODUCTIVITY TOOLS\n- Task dashboard tools allow you to manage tasks with ease.\n- Create a plan of action, a checklist, or simply gain clarity on what needs to be done.\n- Generate, summarize, and improve spelling and grammar of work, copywriting, or personal content.\n- You can even go beyond a daily planner and task organizer. Paid subscriptions can access AI tools that allow you to brainstorm new content based on topics you provide.\n\nDownload Trello and experience a new era of personal productivity management. It’s free!\n\nWhen you use features that require your device’s photos, camera, microphone, or contacts, we will request permission before accessing that data.",
+   "trackViewUrl": "https://apps.apple.com/us/app/trello-daily-task-tracker/id461504587?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "213504000",
+   "languageCodesISO2A": [
+    "CS",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HU",
+    "IT",
+    "JA",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 10
+   }
+  },
+  {
+   "trackId": 1476063010,
+   "trackName": "Sticky Notes & Color Widget",
+   "bundleId": "appsoftheday.stickynotes",
+   "artistName": "Hive 5 Studio DOO",
+   "sellerName": "Hive 5 Studio DOO",
+   "primaryGenreName": "Utilities",
+   "genres": [
+    "Utilities",
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.56906,
+   "userRatingCount": 6632,
+   "releaseDate": "2020-01-12T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T23:53:29Z",
+   "version": "3.10.2",
+   "description": "Stick it, pin it, organize it! Our Sticky notes are great for quick memos, ideas, to-dos and all other brainstorming ideas you can think of.\nOrganize your ideas by color, pictures, create notes by typing or by using your voice, inside the app or more conveniently as a widget.\n\nFeatures:\n- Creating memos\n- Creating checklists\n- Creating reminders\n- Customizing your notes\n- Add note as a widget to homescreen\n- Sync notes with iCloud\n\nYou can sync your notes with iCloud and access it anytime, anywhere or lock the app and prevent any unauthorized access. Personalize your ideas and notes in a way it wasn't possible before. Our amazing sticky planner is always prominent and guarantees that you will never forget any chores and will be able to keep up with your fast ideas and thoughts.\n\nOur Sticky Notes offer a subscription plan with a 1-week free trial so you can get a glimpse at all the pro features which are at your fingertips.\n\n------------\n\nPro Pack Subscription Conditions:\n\n- Your subscription lasts 1 month, 6 months, or 1 year, depending on the subscription level chosen at the time of purchase.\n\n- You will be charged $2.99 for 1 month (includes free trial for 7 days), $11.99 for 6 months (includes free trial for 7 days), $19.99 for 1 year (includes free trial for 7 days), depending on the subscription level chosen at the time of purchase.\n\n- Payment will be charged to your iTunes Account at confirmation of purchase.\n\n- Your subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current subscription.\n\n- Your account will be charged for a renewed subscription within 24 hours prior to the end of current subscription. You will be charged $2.99 for 1 month, $11.99 for 6 months, or $19.99 for 1 year, depending on your subscription level.\n\n- You can manage your subscription and switch off the auto-renewal by accessing your account settings after purchase.\n\n- You cannot cancel the current subscription during the active subscription period.\n\n- Any unused part or time-span of a free trial period will be forfeited, as soon as you purchase a subscription.\n\n- You can view our Privacy Policy here: https://www.hive5.studio/privacy-policy/\n\n- You can view our Terms of Use here: https://www.hive5.studio/terms-and-conditions/",
+   "trackViewUrl": "https://apps.apple.com/us/app/sticky-notes-color-widget/id1476063010?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "210334720",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 31
+   }
+  },
+  {
+   "trackId": 1640609657,
+   "trackName": "Todo List & Reminder - Todoery",
+   "bundleId": "com.betterapp.todolist",
+   "artistName": "BetterApp Tech Co., Limited",
+   "sellerName": "BetterApp Tech Co., Limited",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.60864,
+   "userRatingCount": 5670,
+   "releaseDate": "2022-09-02T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T13:57:05Z",
+   "version": "3.9.9",
+   "description": "Have you ever forgotten some important things? Have you forgotten important moments or anniversaries for your family? Don't worry, use this effective and free tasks tracker and to-do list & task manager free to help you manage time and enjoy an easy life.\n\n“To-do List - Tasks Reminders” is a free and easy online to-do list & task manager and schedule planner app which can be used to manage your time.\n \nTo-do List - Tasks Reminders, as a To Do List productivity planner app, is dedicated to helping users track things to do, and make daily plans free and provide important tasks reminders. Keep your life and work well organized. Come and have a try now.\n \nREASONS FOR CHOOSING THIS TO DO LIST\n1. Easy to use\nThe interface of the To-do List - Tasks Reminders is simple and efficient. You can create multiple tasks and lists with only 2 steps.\nSet up daily To Do List Widgets to let you check today's To Do List and schedule planner  quickly.\n“To-do List - Tasks Reminders” provides a variety of theme colors. It makes you feel more comfortable when managing to do lists and completing tasks.  This to-do list & task manager can manage all your task reminders for free. To Do List Task Manager supports managing your to.do.list and daily schedule planners in the Dark Mode  (Some themes are for Premium)\n\n2. Set daily tasks reminders with alarm, never miss important to.do.list\nYou can set tasks reminders with alarm for important checklists to avoid forgetting.\nIt supports repetitive to.do.list reminders, like drinking water everyday. For recurring tasks, turn on recurring tasks’ reminders to simplify to.do.list tasks management.\n\n3. Manage checklists with categories\nWith this “To-do List - Tasks Reminders”, you can set to.do.list categories easily, such as work, personal, birthday, wishlist etc. You can mark priorities and todos’ progress for the tasks to manage the To.do.list and daily reminders efficiently. And you can also star the tasks, making important things more outstanding.\nAlso you can add sub-tasks for to.do.list, making all checklists well organized.\n\n4. Clear calendar view\n“To-do List - Tasks Reminders ”, to-do list & task manager provides a calendar perspective, which makes it easier for users to have a general view of daily schedule planners, weekly/monthly tasks planners and futural day planners. \n\n5. Intimate Work & Life daily planners App\n“To-do List - Tasks Reminders” is a free daily planner app. You can use it to record various schedule planners, including life planners, work planners, study planners, productivity planners, fitness day planners, wishlist planners, etc. \nYou can also use To Do List Task Manager as a personal day planner free app to record birthdays and anniversaries. Don’t forget to set a daily schedule planner with reminders. It gives you on-time task reminders.\nUsers will be able to customize their own ringtones. (for Premium)\n\n6. Tracking daily tasks' completed status, you will get better.\nTake some time on this To Do List Task Manager to check the to.do.list completed status of your daily planners on the \"MINE\" page. You will find that your life gets well organized during the days using this to-do list & task manager.\n\nIn summary, “To-do List - Tasks Reminders” is a free productivity application that keeps your work, life and study organized. It is definitely worth installing, come and try it!\n\n“To-do List - Tasks Reminders” is a free productivity application, and most of its features are free. Additional features, including advanced tasks repetition settings, themes, ringtones, etc., can be unlocked through the \"To-Do List\" premium membership.\n\nIf you have any questions or want feedback, contact us:\nEmail: todolist.ios@betterapptech.com\nPrivacy Policy: http://www.betterapptech.com/about-us/privacy-policy/\nTerms of use: http://www.betterapptech.com/about-us/terms-of-service/\n------------------------------",
+   "trackViewUrl": "https://apps.apple.com/us/app/todo-list-reminder-todoery/id1640609657?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "211628032",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 6
+   }
+  },
+  {
+   "trackId": 493136154,
+   "trackName": "Clear: To Dos & Reminders",
+   "bundleId": "com.realmacsoftware.clear",
+   "artistName": "Impending",
+   "sellerName": "Impending, Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.60605,
+   "userRatingCount": 5120,
+   "releaseDate": "2012-02-15T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T23:14:14Z",
+   "version": "2.8.0",
+   "description": "Over 270 million tasks checked off in Clear. Here's why so many find it uniquely productive:\n\nBEAUTIFULLY MINIMAL\nZero on-screen clutter. Just you and your thoughts, as it should be.\n\nFORM & FUNCTION\nClear's colorful heatmap is stylish and useful, highlighting your most important tasks for triage.\n\nPERSONALIZABLE\nMake Clear perfectly yours with color themes, icons, font options and more.\n\nFLUENT GESTURES\nSwipe to check off to ascending musical chimes and see why Clear's trademark gestures make it frictionless to dump the clutter in your head into its heat mapped lists.\n\nSIMPLE & FLEXIBLE\nThere’s a whole world of listing past the iconic daily to-do or grocery list. Anything cluttering your head is likely perfect to store in a tidy list in Clear:\n\nDaily Kanban (Today, Tomorrow, Next Day lists to drag & drop between)\nUpcoming Reminders\nRoutines List\nPriority Lists\nErrands & Chores\nBucket List\nTreat Yourself\nWork Project Checklist\nWatch List (Shows & Movies)\nPlay List (Video Games)\nSubscriptions & Budgeting Lists\nRead List\nTier Lists or Top 10 Lists\nRecipes Lists\nSimple Journal or Notes\nTrip & Event Plans\nGym Workout List",
+   "trackViewUrl": "https://apps.apple.com/us/app/clear-to-dos-reminders/id493136154?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "203685888",
+   "languageCodesISO2A": [
+    "EN",
+    "JA"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 23
+   }
+  },
+  {
+   "trackId": 1498145730,
+   "trackName": "Smart Tasks - Lists Made Easy",
+   "bundleId": "com.francesco.Smart-Tasks",
+   "artistName": "Francesco Prospato",
+   "sellerName": "Francesco Prospato",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Education"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73988,
+   "userRatingCount": 4498,
+   "releaseDate": "2020-03-20T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-14T09:15:09Z",
+   "version": "3.6",
+   "description": "Featured in App Store's \"Hot This Week\" for multiple weeks.\n\nWelcome to Smart Tasks: a simple, yet powerful way to get things done!\n\nSee your whole week in a minimalistic and interactive design. Write down everything from your time-sensitive work to things you just don’t want to forget about. Keep yourself from worrying about what you have to do and start getting things done.\n\nSimple. Fast. Intuitive. Built for you!\n\nFEATURES\n• Simple and highly interactive design\n• Drag and drop to quickly add, reorder, delete, and import tasks\n• Swipe on any task, category, or date to access quick actions to get things done quicker\n• Choose between 42 aesthetically pleasing colors for categories\n• Home screen quick actions\n• Export/import tasks and categories\n\nAPPLE SPECIFIC FEATURES\n• Widgets\n• Siri AI\n• Dark mode\n• Notification quick actions\n• Add, edit, delete, and view Apple Calendar events\n• Import reminders from the Apple Reminders app\n• Control Center and Action Button controls support\n• Device Handoff when adding tasks and categories\n• Full VoiceOver support\n• Smart Notifications\n• Dynamic font support\n• App Shortcuts\n\nPREMIUM FEATURES\n• iCloud sync\n• Reminders in tasks\n• Daily, weekly, monthly, and after completion routines\n• Notes in tasks\n• Week layout\n• Unlimited categories\n• Change app’s icon color\n• Special configuration options\n• Custom swipe actions\n• Duplicating tasks\n• Prioritize today\n• Link, email, and phone number detection in titles and notes\n\niPad SPECIFIC FEATURES\n• Multiple window support for categories and tasks\n• Keyboard Shortcuts\n• Right-click for quick actions\n• Drag and drop task files for quick importing\n• Drag and drop multiple task files\n\nSUBSCRIPTION\nSmart Tasks has a subscription service for premium features. No sign-up needed. Upgrade anytime to Smart Tasks +.\n\nWithout Smart Tasks +, users will only have access to a limited amount of features.\n\nSubscriptions from Smart Tasks + will be charged to your card connected to your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You can manage your subscription in your account settings after purchase. Any unused time left in a given free trial will be forfeited when purchasing a subscription.\n\nFor more details please look at:\nPrivacy Policy: https://smarttasksapp.com/privacy/\nTerms of Service: https://smarttasksapp.com/terms/\n\nThank you for using Smart Tasks! I'm constantly updating the app to make it better.",
+   "trackViewUrl": "https://apps.apple.com/us/app/smart-tasks-lists-made-easy/id1498145730?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "91699200",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 27,
+    "task manager": 33
+   }
+  },
+  {
+   "trackId": 1519999420,
+   "trackName": "Daily Routine Planner - Brite",
+   "bundleId": "io.konveier.timo",
+   "artistName": "Brite Technologies",
+   "sellerName": "Brite Technologies LLC",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.56778,
+   "userRatingCount": 3681,
+   "releaseDate": "2020-10-15T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-04T13:18:15Z",
+   "version": "25.0.30",
+   "description": "Brite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n\nDiscover the all-in-one solution that helps you tackle your daily tasks, stay organized, and achieve your goals with ease. With Brite Daily Planner, we've combined the essential features all in one user-friendly app, allowing you to focus on what truly matters and replace the need for multiple apps.\n\nWho is Brite Daily Planner for?\n\nBrite Daily Planner is designed for a wide range of users who want to consolidate their organization and productivity tools into one app, including:\n\n* Busy professionals seeking to manage their work tasks and personal life more efficiently\n* Students aiming to stay organized with their schoolwork, extracurricular activities, and personal goals\n* Freelancers looking to manage their projects, clients, and deadlines effectively\n* Parents striving to balance family life, work, and personal growth\n* Individuals seeking to improve their emotional well-being and mindfulness through mood and meditation tracking\n* Anyone who wants to be more organized, productive, and focused in their daily life, without the distraction of switching between multiple apps\n\n*Key Features of Brite Daily Planner\n\n**Manage your time and schedule:**\nFull-featured Calendar - Sync with Google and Apple calendars for a seamless scheduling experience\nDaily Planner - Organize and prioritize your day effortlessly\nReminders - do not lose important events.\nCountdowns - Create a countdown to track time until important events\n\n**Track and achieve personal and professional goals:**\nTask Manager - Keep track of personal and business tasks, complete with reminders and AI tags\nHabit Tracker - Build healthy habits and track your progress\nGoal Tracker - Set and achieve your goals with a library of pre-built goals to choose from\nProjects - Collaborate on projects, with integrated tools like timeline, storage, groups, finances, and chat\n\n\n**Improve your emotional well-being and mindfulness:**\nMood Journal - Reflect on your emotions, track your mood, and access a library of mind techniques to improve your overall well-being\nMeditation Tracker - Monitor your meditation practice and track your progress\nCollaborate on projects with others:\n\n**Organize and store your thoughts and ideas:**\nNotes - Jot down your thoughts, ideas, and insights, and integrate them with tasks and group chats\nStorage - Save, manage, and share your files and ideas with ease\nTimeline - Plan, view, and manage your tasks on a day-to-day basis\n\nBrite Daily Planner is available on iPhone, iPad, Mac, Apple Watch, and the Web, allowing you to manage your productivity from anywhere.\n\nWith over 500,000 downloads and 7,000 reviews worldwide, Brite Daily Planner boasts an average rating of 4.8 out of 5 stars. The app supports 30 languages, making it accessible to users around the globe.\n\nBy using Brite Daily Planner, you'll no longer need to switch between multiple apps and lose focus. Everything you need for a productive workday and a happier life is right at your fingertips.\n\nOur mission is to create an ideal environment that helps you maximize your personal and professional potential. We understand how work and personal affairs can be intertwined, and we believe that minimizing distractions, like switching between apps, is key to achieving a balanced and productive life.\n\nWith Brite Daily Planner, we aim to provide the perfect space for you to grow, develop, and collaborate with like-minded individuals. Start your journey to a more organized and productive life today with Brite Daily Planner.\n\nFor any feedback: hello@britetodo.com\n\nLicense Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/daily-routine-planner-brite/id1519999420?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "53805056",
+   "languageCodesISO2A": [
+    "CA",
+    "CS",
+    "DA",
+    "EN",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TR",
+    "UK"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 14
+   }
+  },
+  {
+   "trackId": 1476066606,
+   "trackName": "To Do List - Reminders & Tasks",
+   "bundleId": "app.monelyze.ToDo",
+   "artistName": "Monelyze Inc.",
+   "sellerName": "Monelyze Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.68766,
+   "userRatingCount": 3224,
+   "releaseDate": "2019-08-16T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-21T20:25:37Z",
+   "version": "7.5.3",
+   "description": "\"To Do List\" is a simple, intuitive reminder app that’s free to use, with no ads and no sign-up required! Manage everything from shopping lists to work tasks; see due dates at a glance with the calendar view and change dates quickly with drag and drop. Use widgets and notifications to stay on track, and customize the app with colors and icons.\n\nBuilt for iOS, iPadOS, and macOS, it delivers smooth performance and a beautiful design.\n\nEven in the free version, \"To Do List\" shows no ads and performs no tracking. If you like it, please consider upgrading to Premium.\n\n● Main Features\n- Simple interface and clean design\n- Free to use, with no ads or tracking\n- Customizable colors and icons\n- Calendar view to see due dates at a glance\n- Easy-to-read widgets\n- Works on iPhone, iPad, and Mac\n- iCloud sync (Premium)\n\n● Premium\nPremium unlocks all features. You can choose between a subscription or a one-time purchase (lifetime access). Prices vary by country or region.\n\nPremium Features\n- iCloud sync to share data across devices\n- Add notes to reminders for more details\n- Repeating reminders\n- Detailed calendar view\n- All themes and app icons\n- All list icons\n\n*Please check the app for details on pricing and features.\n*Prices and features may change without notice.\n\nTerms of Use: https://monelyze.app/en/terms/\nPrivacy Policy: https://monelyze.app/en/privacy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/to-do-list-reminders-tasks/id1476066606?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "53430272",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 17,
+    "task manager": 18
+   }
+  },
+  {
+   "trackId": 428249408,
+   "trackName": "gTasks for Google Tasks",
+   "bundleId": "com.katans.genesis",
+   "artistName": "JulyApps Ltd",
+   "sellerName": "JulyApps Ltd",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59382,
+   "userRatingCount": 2819,
+   "releaseDate": "2011-04-01T23:11:23Z",
+   "currentVersionReleaseDate": "2023-10-24T13:36:51Z",
+   "version": "4.9.43",
+   "description": "SYNC your tasks with Google/Gmail and across your Mac, iPhone & iPad devices.\nNever liked your tasks app? You’ll love this one :)\n\nMAIN FEATURES\n● Sync your tasks with Google Tasks.\n● Sync tasks between your iPhone & iPad devices.\n● View your tasks and calendar events in one place.\n● Keep your tasks organized with subtasks.\n● Location based reminders such as when you leave your office.\n● Set repeating tasks such as “Pay bills” every month.\n● Universal app, designed both for iPhone and iPad.\n\nGOOGLE TASKS\n● Naturally integrating into Google Calendar.\n● No permanent internet connection required. The app will sync updated tasks as soon as an internet connection is available.\n● Your tasks are backed up.\n● Manage your tasks conveniently on your home/office PC, and have them synced to your iPhone/iPad and vice versa.\n● Share tasks with your colleagues.\n\ngTasks can be freely used up to 2 accounts, 2 lists per account and 7 tasks per list. \n\ngTasks allows you to manage and sync unlimited amount of tasks through an auto-renewing subscription.\nSubscriptions will be charged to your credit card through your iTunes account.\nYour subscription will automatically renew unless cancelled at least 24 hours before the end of the current period\nYou will not be able to cancel a subscription during the active period. You can manage your subscriptions in the Account Settings after purchase.\n\nTerms of use: http://www.katans.com/terms-of-use\nPrivacy policy: http://www.katans.com/privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/gtasks-for-google-tasks/id428249408?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "27892736",
+   "languageCodesISO2A": [
+    "AR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 26
+   }
+  },
+  {
+   "trackId": 1036135343,
+   "trackName": "Do.List: To Do List Organizer",
+   "bundleId": "com.DG-Apps.Do-List",
+   "artistName": "DG Apps, Inc.",
+   "sellerName": "DG Apps, Inc.",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.67847,
+   "userRatingCount": 2457,
+   "releaseDate": "2015-10-13T03:25:22Z",
+   "currentVersionReleaseDate": "2026-06-21T17:12:09Z",
+   "version": "4.2.0",
+   "description": "HOW IT WORKS: Plan your tasks into Today, Tomorrow, and Later lists. Use Life Lists to organize everything else!\n\nMAIN LISTS\nA new model for people with busy lives! Prioritize using three lists:\n○  Today\n○  Tomorrow\n○  Later\n\nLIFE LISTS\nOrganize your life with the popular \"Life Lists\" feature:\n○  Grocery lists\n○  Shopping lists\n○  Reminders\n○  Daily lists (repeatable tasks)\n○  Books to read \n○  Idea lists\n○  Bucket lists\n○  Or create your own!\n\nAFFORDABLE\nNo ads\nAll major features come with the app\nNo account / registration needed, syncing uses iCloud\n\nGREAT REVIEWS\nMore than 97% of reviewers give Do.List 3-5 stars!\nOver 93% of reviewers give Do.List 4 or 5 stars!\n\nCOOL FEATURES\n ○  A powerful Grocery List!\n ○  Easy drag and drop to prioritize your tasks\n ○  Make new lists\n ○  iPhone / iPad syncing\n ○  Simple designs, zero confusion!\n ○  iCloud backup\n ○  Apple Watch support\n ○  Today widget\n ○  A badge to show number incomplete \n\nIT'S BUILT FOR YOU\nDo.List is a task management app for people. I'm not building for an enterprise corporate client. I design for normal lives. \n\nSIMPLE - START IN SECONDS\nThe design is simple enough that it's intuitive. Use the tutorial to get started or skip it and explore!\n\nSCHEDULING\nWhen you need to give a task a due date, add it to the \"Reminders\" list and you'll get a reminder!\n\nFOCUS\nWhen you open Do.List, the home screen is \"Today\". That helps keeps the focus on what's important.\n\n\"Do.List is a minimalist app empowering focus.\"\n-AppPicker.com\n\nMOTIVATION\nChoose the notifications that work for you: \n ○  Get daily quotes\n ○  Productivity tips\n ○  \"Sunday Night Prep\" reminders to prepare for the week\n ○  \"Monday Morning Pep\" motivation\n\n\"Personally, I love this app... I encourage anyone who needs to organize their life and loves doing it with lists to use this.\"\nInsideHerHead.net\n\nPROTECTION FROM YOURSELF\nLong lists are overwhelming. If your Today list goes over five tasks, you'll get a message encouraging you to shorten your list!\n\nDATA BACKUP\nAll data saved locally on phone, plus just tap \"Backup\" in Settings to backup to iCloud. \n\n\n****************************************\n\nOTHER LIFE LISTS\n - Grocery List\n - Gift ideas\n - Movies to See\n - Bucket Lists\n - Yard Tasks\n - Trip Packing Lists\n - And more!\n\nSummary of Lists\n> Three main to-do lists: Today, Tomorrow, Later\n> 30+ Life Lists for various non-urgent task management\n> Daily, Weekly, & Monthly lists for repetitive tasks \n\nStats\n> Get Daily & Weekly \"Done\" stats after each completed task \n> From the \"Done\" list, view your completed stats\n\n\nPLEASE READ WHAT DO.LIST IS NOT:\n- Do.List is not a calendar and will not offer that functionality in the foreseeable future.\n\n- Do.List's design encourages going deadline-free. Instead, it encourages you to focus and look at your list often.\n\n- Do.List does not allow you to sync lists. It is not an enterprise app for teams, it's for people and their lives!\n\n- Do.List is iPhone only. There's no syncing, so it doesn't require an account.\n\n\n●●● Do.List Goals ●●●\nDeliver a new level of organization within an intuitive interface. Avoid task pile ups. Keep lists short and motivation high. \n\n\n●●● Do.List Terms of Service ●●●\nTo read about the Do.List terms of use, please visit the below URL:\nhttps://davegetman.com/terms-of-use\n\n●●● Privacy ●●●\nDo.List does not require an account! The app collects aggregated numbers, such as how many tasks are added or completed. Your tasks, descriptions, and photos never leave the phone unless you yourself back them up or enable syncing.\n\n\nTwitter: @YourDoList\nFacebook: facebook.com/YourDoList/\nWebsite: YourDoList.com\nGeneral inquiries: Dave@YourDoList.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/do-list-to-do-list-organizer/id1036135343?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "25888768",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "IT",
+    "JA",
+    "ES"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list"
+   ],
+   "ranks": {
+    "to do list": 28
+   }
+  },
+  {
+   "trackId": 1068039220,
+   "trackName": "GoodTask: To Do List & Planner",
+   "bundleId": "com.hahainteractive.GoodTask3",
+   "artistName": "haha Interactive",
+   "sellerName": "haha Interactive",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59446,
+   "userRatingCount": 2022,
+   "releaseDate": "2016-03-24T08:12:27Z",
+   "currentVersionReleaseDate": "2026-09-30T21:59:28Z",
+   "version": "8.4.7",
+   "description": "Plan your day with the reminders and calendars you already use. GoodTask builds on Apple Reminders and Calendar, bringing your to-do lists, schedule and projects together.\n\n\"a masterful blend of power-user task management features and the inherent simplicity of Reminders.\"\n- Federico Viticci, MacStories, on GoodTask for iOS (2018)\n\nStart with a simple checklist. Add Smart Lists, flexible views and Quick Actions as your needs grow. Use iCloud to keep your reminders and calendar events in sync across devices.\n\nPLAN A DAY THAT WORKS\nChoose what to work on in Today Page without changing your tasks' due dates. See your calendar events alongside your plan, then use Next Page to focus on one task or subtask at a time. Set a focus timer and look back on completed work and daily notes in Reports.\n\nFIND WHAT NEEDS YOUR ATTENTION\nCreate Smart Lists that bring together tasks from different lists. Filter by dates, priorities, tags and more to see what matters now: overdue work, errands or the next steps in a project. Update a task wherever you find it, and the change stays with the original reminder.\n\nSEE YOUR WORK YOUR WAY\nSwitch between list, day, week and month views. Organize tasks in kanban-style boards by date, priority, list or tag. Use Matrix View to compare priorities in four customizable quadrants, or Project View to follow tasks and events across dates.\n\nSPEND LESS TIME ORGANIZING\nCapture tasks with presets and text snippets. Customize Quick Actions to reschedule work, change priorities, move tasks between lists or add tags. Make changes to several tasks at once with bulk actions.\n\nSIMPLIFY RECURRING WORK\nBreak tasks into subtasks, set flexible repeating schedules and save reusable Templates for routines such as a weekly review or packing for a trip.\n\nKEEP YOUR PLAN CLOSE\nPersonalize colors, fonts and task displays. On iPhone and iPad, use widgets to keep your lists in sight. On supported iPhones, follow a focus session with Live Activities on the Lock Screen and Dynamic Island. The Apple Watch companion lets you check tasks and add new ones from your wrist when used with an iPhone.\n\nRECOGNITION\nGoodTask for iOS was named Federico Viticci's App of the Year in MacStories Selects 2018 and featured in the App Store's Apps We Love.\n\nFULL ACCESS\nTry GoodTask for 14 days without starting a subscription. To continue afterward, choose the one-time Unlock Everything in-app purchase or the optional GoodTask Supporter subscription. The Mac app is sold separately.\n\nABOUT SUBSCRIPTIONS\n- GoodTask Supporter is an optional auto-renewing subscription with a one-year term. It provides full access while active and supports continued development.\n- The subscription price is shown before purchase. Payment will be charged to your Apple Account at confirmation of purchase.\n- Your subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.\n- Your account will be charged for renewal within 24 hours before the end of the current period, at the applicable annual subscription price.\n- You can manage your subscription and turn off auto-renewal in your App Store account settings after purchase.\n\nLearn more: https://goodtaskapp.com\nSupport: contact@hahaint.com\nTerms of Use: https://hahaint.com/tos.html\nPrivacy Policy: https://hahaint.com/privacy.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/goodtask-to-do-list-planner/id1068039220?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "300193792",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HU",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "UK"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 32
+   }
+  },
+  {
+   "trackId": 918099883,
+   "trackName": "MeisterTask - Task Management",
+   "bundleId": "com.meisterlabs.meistertask",
+   "artistName": "MeisterLabs",
+   "sellerName": "MeisterLabs",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.64696,
+   "userRatingCount": 1810,
+   "releaseDate": "2015-04-23T15:57:10Z",
+   "currentVersionReleaseDate": "2026-09-21T20:29:16Z",
+   "version": "6.11.0",
+   "description": "Transform your team's productivity and collaboration with MeisterTask - The Ultimate Task Management Tool. Whether you’re looking to track tasks and todos or lead full-scale projects to success, MeisterTask offers a simple yet powerful project management and task management tool that takes you seamlessly from web to mobile and back again. \n\nWhy Choose MeisterTask?\n\nSeamless Integration Across Platforms. \nExperience the perfect blend of simplicity and power with MeisterTask. Designed to synchronize flawlessly with our comprehensive web application, our mobile app brings robust project management right to your fingertips.\n\nEmpower Collaboration with Kanban-Style Boards. \nEffortless organization and dynamic teamwork in your pocket. MeisterTask's intuitive Kanban-style boards are tailored for managing projects of all scales, enabling you and your team to visualize progress and streamline workflows with ease.\n\nStay on Top of Team Communication with Smart Notifications. \nKeep the pulse of your projects at your fingertips. With timely notifications and customizable due dates, MeisterTask ensures you're always in sync with your team's activities, helping you to stay focused and never miss a beat.\n\nA Secure Hub for All Your Project Needs. \nMore than just a task manager, MeisterTask is a secure vault for your project essentials. Access, share, and manage all your project-related information in one place, ensuring every team member is aligned and informed.\n\nWhere Work Meets Fun. \nDiscover the joy in productivity. MeisterTask's engaging interface and user-friendly features make managing tasks not just efficient but enjoyable. It's where work transforms into an experience that teams look forward to every day.\n\nGet Started for Free with MeisterTask Today. \nJoin the community of teams who are achieving more with less stress. Download MeisterTask now and elevate your project management experience to new heights!\n\nReach Your Team's Potential. \nUnlock the full power of task management with our Pro and Business plans. Experience advanced features designed for dialed efficiency and scalability – tailor-made for those who seek excellence in team collaboration and project execution.\n\n\nNote: \nMeisterTask requires a free account registration. If you already have an account, using the mobile app causes no additional costs. Not all features of MeisterTask are available on Mobile. To learn more about MeisterTask’s Plans and Pricing, check out our pricing page: https://www.meistertask.com/pricing\n\nThe Basic version of MeisterTask is free. You can try the Pro Plan free once for two weeks after signing up. If you enjoy your Pro trial, do nothing, and your membership will automatically continue as an auto-renewing month-to-month subscription. You can cancel anytime via the app store. \n\n\nIf you subscribe via the App Store:\n\nPayment will be charged to your App Store Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of your selected plan above.\n\nSubscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings on the device.\n\nIf you haven’t subscribed through the App Store, you can manage your subscription through MeisterTask.\n\nPrivacy Policy: https://www.meisterlabs.com/privacy\n\nTerms of use: https://www.meisterlabs.com/terms-conditions/",
+   "trackViewUrl": "https://apps.apple.com/us/app/meistertask-task-management/id918099883?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "143108096",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 20
+   }
+  },
+  {
+   "trackId": 1505964697,
+   "trackName": "Mindlist — To Do List & Tasks",
+   "bundleId": "com.novaocean.mindlist",
+   "artistName": "Nova Ocean",
+   "sellerName": "Pronin Vladimir Igorevich",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.69487,
+   "userRatingCount": 1619,
+   "releaseDate": "2020-04-12T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T21:26:07Z",
+   "version": "6.11",
+   "description": "Mindlist is a simple, beautiful, and powerful to-do list app designed to help you stay focused, organized, and in control of your day.\n\nPlan your tasks, manage your schedule, create checklists, set reminders, and organize everything that matters — without unnecessary complexity. Whether you are managing work, study, errands, personal goals, chores, or daily routines, Mindlist gives you a calm and minimal space to keep everything clear.\n\nNo complicated setup. No clutter. No ads. Just your tasks, your plans, and a simple way to get things done.\n\nMindlist is built for everyday productivity. Add a task in seconds, set a date, create a reminder, organize your lists, and see what needs your attention. The app is fast, intuitive, and easy to use from the first launch.\n\nKEY FEATURES\n\n• Minimalist design\nA clean, distraction-free interface that helps you focus on what matters.\n\n• iCloud sync\nKeep your tasks, lists, reminders, and plans in sync across iPhone, iPad, and Mac.\n\n• No ads\nStay focused without distractions, pop-ups, or intrusive advertising.\n\n• Smart reminders\nNever miss important tasks, meetings, appointments, deadlines, or daily routines.\n\n• Calendar planning\nView your schedule clearly and plan your day, week, and upcoming tasks with ease. Recurring tasks are now shown directly in Calendar, so your routines are easier to see and manage.\n\n• Recurring tasks\nCreate repeating tasks for habits, routines, chores, bills, workouts, study sessions, and more. Set an end date for recurring tasks when a routine or plan should not repeat forever.\n\n• Custom task lists\nPersonalize your lists with colors, icons, and display options that match the way you work.\n\n• Simple and fast task creation\nQuickly add tasks, set dates, enable reminders, and organize your plan in just a few taps.\n\n• Organized lists\nDrag, reorder, and arrange your lists so everything stays exactly where you need it.\n\nMindlist is perfect for:\n\n• Daily to-do lists\n• Work tasks\n• Study and homework planning\n• Personal goals\n• Shopping lists\n• Chores and home organization\n• Habit tracking\n• Appointments and deadlines\n• Simple project planning\n• Family and personal routines\n\nMindlist is free to use, with optional Premium features available for users who want to unlock even more functionality. Premium is a one-time purchase, giving you lifetime access to all premium features.\n\nDownload Mindlist today and turn your plans into progress — one task at a time.",
+   "trackViewUrl": "https://apps.apple.com/us/app/mindlist-to-do-list-tasks/id1505964697?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "26179584",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "SL",
+    "ES",
+    "ZH",
+    "TR",
+    "UK"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "to do list",
+    "task manager"
+   ],
+   "ranks": {
+    "to do list": 22,
+    "task manager": 22
+   }
+  },
+  {
+   "trackId": 1107872631,
+   "trackName": "Focus Matrix – Task Manager",
+   "bundleId": "com.xwavesoft.prioritymatrix",
+   "artistName": "Denys Ievenko",
+   "sellerName": "Denys Ievenko",
+   "primaryGenreName": "Productivity",
+   "genres": [
+    "Productivity",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.58897,
+   "userRatingCount": 1596,
+   "releaseDate": "2016-06-21T08:21:34Z",
+   "currentVersionReleaseDate": "2026-06-26T06:56:59Z",
+   "version": "2.1.1",
+   "description": "Focus Matrix is a smart personal organizer based on the so-called Eisenhower box, a personal productivity strategy created by Dwight Eisenhower, the 34th President of the United States. The principle uses a special priority matrix that helps break your tasks into several groups depending on their urgency and importance, and work your way through your daily agenda in the most efficient way possible. This app will help you focus on what really matters, and get rid of the things that can be painlessly delegated to others or postponed indefinitely until you have time for them.\n\nTask Organization\n\n•\tTwo views: Matrix and List of Sections\n•\t“Unsorted” section to hold incoming tasks until you categorize them\n•\tMove tasks between sections using drag-and-drop\n•\tMaximize sections to focus on specific content\n\nTask Scheduling and Reminders\n\n•\tAssign due dates to tasks\n•\tSet “All day task” for whole-day planning\n•\tCreate recurring tasks with customizable repeat options\n•\tSet reminders to never miss an important deadline\n\nAdvanced Task Features\n\n•\tAutomatically move a task to 'Urgent' as its deadline approaches, with timely notifications\n•\tAutomatically move a task to 'Urgent' when a linked task is completed\n•\tTrack task creation and completion dates for detailed management\n•\tPaste multiline text as individual tasks to speed up input\n\nSorting, Filtering, and Tags\n\n•\tSort tasks by title, due date, or manually\n•\tUse tags to organize tasks effectively\n•\tFilter tasks by tags and statuses (completed/uncompleted)\n•\tSave and quickly apply custom filter presets for easy navigation\n\nSynchronization and Integration\n\n•\tSync data across all your devices\n•\tSync tasks with Calendar\n•\tIntegrate with Be Focused*: Sync tasks between apps and start timer in Be Focused directly from Focus Matrix\n\nExporting and Reporting\n\n•\tExport task lists to PDF or print them for offline use\n•\tConfigurable statistics and reports for completed tasks\n\nSecurity and Privacy\n\n•\tPassword and Face ID protection for secure task management\n\nPlatform Compatibility\n\n•\tFully available for Mac and iOS\n\nPro Version Features\n\n•\tCross-device synchronization\n•\tSynchronization of tasks with Calendar\n•\tIntegration with Be Focused*: Sync tasks between apps and start timer in Be Focused directly from Focus Matrix\n\nFocus Matrix is free to download and use forever. However, if you want to access the Pro features on all your iPhones, iPads, and Macs, you can upgrade to the Pro version. The Pro subscription comes in three different options: Monthly, Yearly with a 7-day trial, and Lifetime (one-time payment).\n\nPayment will be charged to your App Store account and will automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Subscription may be managed and auto-renewal may be turned off in your App Store account settings.\n\nPrivacy Policy: https://xwavesoft.com/privacy-policy.html\nTerms of Use: https://xwavesoft.com/terms-of-use.html\n\n* Be Focused helps you get things done by breaking up individual tasks among discrete intervals. It’s available for Mac and iOS devices in App Store. Integration with Be Focused requires the Pro version of Be Focused, sold separately.",
+   "trackViewUrl": "https://apps.apple.com/us/app/focus-matrix-task-manager/id1107872631?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "34674688",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "task manager"
+   ],
+   "ranks": {
+    "task manager": 19
+   }
+  }
+ ]
+}

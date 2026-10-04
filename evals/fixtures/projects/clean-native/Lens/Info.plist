@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleName</key>
+  <string>Lens</string>
+  <key>NSCameraUsageDescription</key>
+  <string>Lens uses the camera to photograph a receipt so it can be added to this month's expenses.</string>
+</dict>
+</plist>

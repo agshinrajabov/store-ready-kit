@@ -1,0 +1,1911 @@
+{
+ "source": "itunes-search-api",
+ "fetchedAt": "2026-10-04T18:33:12Z",
+ "country": "us",
+ "terms": [
+  "dating",
+  "dating app"
+ ],
+ "count": 40,
+ "apps": [
+  {
+   "trackId": 389638243,
+   "trackName": "Plenty of Fish : Dating App",
+   "bundleId": "com.pof.mobileapp.iphone",
+   "artistName": "PlentyOfFish",
+   "sellerName": "Plentyoffish Media Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.28592,
+   "userRatingCount": 1808836,
+   "releaseDate": "2010-09-17T02:54:10Z",
+   "currentVersionReleaseDate": "2026-08-18T21:15:30Z",
+   "version": "29.10",
+   "description": "The best dating app to let you really be you and choose how you want to date online.\n\nForget the days of awkward online dating and become a POF member, where you can come exactly as you are. We’re here to help you create the same magic online that you would IRL.\n\nWe know online dating isn’t one-size-fits-all, so we let you choose your own adventure and connect with other singles in a way that feels right for you. Whether you’re new to dating or just seeking a fresh start, we’ve got lots of options to make finding your person actually fun.\n\nWhat you can do on POF is what makes us different:\n- Selfie Verification so you can see who’s really behind the profile\n- Search for exactly what you want\n- Restrict your first message count so you don't get 1 and 2 word intros\n- Come as you are and find other real, down-to-earth people like you\n\nJust click that install button to get started!\n\nPOF is part of the Match Group portfolio which also includes Tinder, Match.com, Hinge, OkCupid, Meetic, The League, BLK, Chispa, Upward, Stir and OurTime.\n\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/plenty-of-fish-dating-app/id389638243?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "85226496",
+   "languageCodesISO2A": [
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "NB",
+    "PL",
+    "PT",
+    "ES",
+    "SV"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 5,
+    "dating app": 5
+   }
+  },
+  {
+   "trackId": 930441707,
+   "trackName": "Bumble Dating App: Meet & Date",
+   "bundleId": "com.moxco.bumble",
+   "artistName": "Bumble Holding Limited",
+   "sellerName": "Bumble Holding Limited",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.31629,
+   "userRatingCount": 1764859,
+   "releaseDate": "2014-11-19T02:18:55Z",
+   "currentVersionReleaseDate": "2026-10-01T16:44:05Z",
+   "version": "5.481.2",
+   "description": "MAKE YOUR MOVE\nBumble is the women-first dating app designed to create safer, more respectful connections and conversations that lead to better in-person dates and relationships.\n\nHOW WE SUPPORT YOUR DATING JOURNEY\nWe empower you to show up as your most authentic self, so you can move confidently toward meeting in real life by:\n\n- Focusing on you as a person, not a profile. When you write your bio and prompts, or update your photos, we’ll share personalized tips that help highlight the unique qualities that make you stand out.\n\n- Showing you people who match your energy. Just set your Intentions and Looking For to find people who want to date the way you do. Or, add Interest Badges to find people who are into what you’re into.\n\n- Empowering women to message first. Once a match is made, women send the first chat, and their match has 24 hours to reply before the connection expires.\n\n- Prioritizing safety at every step of your dating journey. Get ID Verified early-on (like the majority of our community), try Share Date to drop location details with the group chat, or use Block and Report, Unmatch, or the Safety Center for extra support.\n\n- Giving your chats a boost. Our built-in guidance helps keep your exchanges kind and respectful, while chat and video options make it easier to progress your connection, without ever leaving the app.\n\n- Adapting to your needs. If you want to take a step back from meeting new people, enable Snooze Mode to take a break from dating without losing your current matches.\n\nLooking for even more options? Try Bumble Boost, Bumble Premium, and Premium+. Bumble is free, but these premium services give you even more flexibility and dating options, with advanced filters, extended matches, Incognito Mode, and Travel Mode.\n\nADDITIONAL INFO\nYour personal data is securely processed in line with our privacy policy and applicable laws.\n\nSupport: https://bumble.com/contact\nTerms of Service: https://bumble.com/en/terms\nPrivacy: https://bumble.com/en/privacy\n\nBumble Inc. is the parent company of Bumble, Badoo, and BFF.",
+   "trackViewUrl": "https://apps.apple.com/us/app/bumble-dating-app-meet-date/id930441707?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "334072832",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 2,
+    "dating app": 2
+   }
+  },
+  {
+   "trackId": 547702041,
+   "trackName": "Tinder Dating App: Date & Chat",
+   "bundleId": "com.cardify.tinder",
+   "artistName": "Tinder LLC",
+   "sellerName": "Tinder LLC",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.19895,
+   "userRatingCount": 1753182,
+   "releaseDate": "2012-08-03T01:43:39Z",
+   "currentVersionReleaseDate": "2026-10-03T15:42:30Z",
+   "version": "17.37.2",
+   "description": "Tinder is the place to meet someone new and see where a spark might lead. With millions of people nearby and around the world, Tinder makes dating fun and helps you find someone who matches your vibe, interests, and intentions.\n\nHOW IT WORKS\nMeeting new people on Tinder feels easy and natural. Every match is a chance to meet someone interesting and enjoy the kind of dating experience that feels fun, relaxed, and right for you. Conversations unfold at your pace and help you figure out who you genuinely connect with.\n\n* Explore profiles that fit what you're looking for\n* Match with people nearby or around the world\n* Answer prompts that help you share more of your personality\n* Add photos and interests to show your style and what you care about\n* Go on a Double Date and bring a friend along for the fun\n* Let a friend know when you're meeting someone so you feel confident going out\n* Chat with tools designed to help you feel safe and in control\n\nDating here is about exploring possibilities, connecting with people who catch your attention, and sparking conversations that grow.\n\nA PLACE TO BE YOURSELF\nTinder is where your personality can shine—your humor, your interests, your quirks, your style. When you share the things that make you who you are, it becomes easier to meet people who genuinely appreciate your vibe.\n\nWe bring together people who are open to meeting someone interesting and trying something new. It’s a place where a simple match can turn into a great chat, a fun first date, or something unexpectedly meaningful.\n\nSAFETY YOU CAN TRUST\nYour comfort matters to us. We include multiple ways to verify profiles, added safety tools, and features that help you stay in control of how and when you meet new people.\nLearn more:\nhttps://www.gotinder.com/privacy\nhttps://www.gotinder.com/terms\n\nUPGRADE YOUR EXPERIENCE\nChoose a plan to access more ways to explore, match, and express yourself—only if and when it feels right.\n\nTRY TINDER FOR FREE\nSend Likes, match, and chat at your own pace. See what's out there and spark something new.\n\n---------------\nIf you choose to purchase Tinder Plus®, Tinder Gold™, or Tinder Platinum™ payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Tinder Plus®, Tinder Gold™, or Tinder Platinum™, you can simply continue using Tinder for free.\n\nAll photos are of models and used for illustrative purposes only.\n\nPrivacy: https://www.gotinder.com/privacy\nTerms: https://www.gotinder.com/terms\nVisit: https://www.tinderlove.com/",
+   "trackViewUrl": "https://apps.apple.com/us/app/tinder-dating-app-date-chat/id547702041?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "453379072",
+   "languageCodesISO2A": [
+    "AF",
+    "SQ",
+    "AR",
+    "AZ",
+    "EU",
+    "BN",
+    "BS",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "GL",
+    "KA",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "LO",
+    "LV",
+    "LT",
+    "MK",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 3,
+    "dating app": 3
+   }
+  },
+  {
+   "trackId": 595287172,
+   "trackName": "Hinge Dating App: Match & Date",
+   "bundleId": "co.hinge.mobile.ios",
+   "artistName": "Hinge, Inc.",
+   "sellerName": "Hinge, Inc.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.40607,
+   "userRatingCount": 1125896,
+   "releaseDate": "2013-02-06T06:50:22Z",
+   "currentVersionReleaseDate": "2026-09-28T14:24:10Z",
+   "version": "10.6.0",
+   "description": "HINGE, DESIGNED TO BE DELETED\nHinge is the dating app for people who want to get off of dating apps. With profiles that show your personality through text, photos, video, and voice, you have unique conversations that lead to great dates. \n\nHOW WE GET YOU OFF HINGE\nWhen it comes to online dating, people are so busy matching that they’re not actually connecting, in person, where it counts. Hinge is on a mission to change that. So we built an app that’s designed to be deleted. Here’s how:\n\n* We quickly learn your type. You’ll only be introduced to the best people for you.\n\n* We give you a sense of someone’s personality. You’ll get to know potential dates through their unique answers to prompts, as well as information like religion, height, politics, dating intentions, relationship type, and much more.\n\n* We make it easy to start a conversation. Every match begins by someone liking or commenting on a specific part of your profile. Our latest feature, Convo Starters, offers personalized ideas inspired from someone’s Prompt answers and photos to help you spark engaging conversations from the start. \n\n* We want you to feel confident about meeting people in person. Selfie Verification makes it easier for daters on Hinge to ensure that they are who they say they are.\n\n* We ask how your dates are going. After exchanging phone numbers with a Match, we’ll follow up to hear how your date went so we can make better recommendations in the future.\n\nThe app is free to use. Members looking to see everyone who likes them or send unlimited likes can upgrade to Hinge+. To access additional features, including enhanced recommendations and priority likes, we offer HingeX.\n\nPRESS\n\"It's the go-to dating app for many people looking for love.\" - The Daily Mail\n“Hinge’s CEO says a good dating app relies on vulnerability, not algorithms.” - Washington Post\n\"Hinge is the first dating app to actually measure real-world success\" - TechCrunch\n\nSUBSCRIPTION INFO\nPayment will be charged to Apple Account at confirmation of purchase\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\nAccount will be charged for renewal within 24-hours prior to the end of the current period\nSubscriptions may be managed and auto-renewal may be turned off by going to Account Settings after purchase\n\nSupport: hello@hinge.co\nTerms of Service: https://hinge.co/terms.html\nPrivacy Policy: https://hinge.co/privacy.html\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/hinge-dating-app-match-date/id595287172?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "316445696",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "NB",
+    "PL",
+    "PT",
+    "ES",
+    "SV"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 1,
+    "dating app": 1
+   }
+  },
+  {
+   "trackId": 1253586891,
+   "trackName": "BLK: Black Singles Dating App",
+   "bundleId": "com.affinityapps.blk",
+   "artistName": "Affinity Apps, LLC",
+   "sellerName": "Affinity Apps, LLC",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.57286,
+   "userRatingCount": 555358,
+   "releaseDate": "2017-08-07T21:14:49Z",
+   "currentVersionReleaseDate": "2026-10-02T14:21:40Z",
+   "version": "12.17.1",
+   "description": "BLK\n\nLook.Match.Chat.\n\nBLK is the #1 Dating app made for Black Singles with a simple mission: To create an exclusive community where Black men and Black women can find meaningful connections with people who share similar likes and interests.\n \nBLK is easy and fun to use: \n• Simply scroll through a personalized list of profiles. \n• If you're interested, slide the profile to the right to give the person a ‘Yeah’, or click the 'Heart' icon. \n• If the feeling's mutual, then you're a match and can start chatting in our app right away. \n• Not interested? Slide the profile to the left to give the person a ‘Nah’, or click the ‘X’ icon. \n \nRight when you join, all members can: \n• Become part of an exclusive community for single black men and black women\n• Customize who and what they’re looking for\n• Receive a personalized group of profiles to look through every day\n• Chat with other members if they’ve liked you back\n \nGo Premium and you can also:\n• Send 5 Super Likes per week to stand out from the crowd and let people know that you're really interested \n• Rewind on people to give them a second chance\n• Boost your profile each month to be one of the top profiles in your area for 30 minutes\n• Send unlimited amount of likes to other members\n• Have an uninterrupted experience with no ads!\n\nBecome Elite and you can:\n• Get all of the Premium benefits PLUS \n• Remove the mystery and See Who's Liked You for instant matches!\n\n\nSo what now? Join the community, spread the word, find a match, and have fun! \nAnd don't forget! Check us out every day! We're growing fast and there's someone new to match with every day!\n\nPrivacy Policy: https://www.blk-app.com/en/privacy-policy Terms & Conditions: https://www.blk-app.com/en/terms-of-use \n\nIf you choose to purchase a subscription, payment will be charged to your iTunes account, and your account will be charged for renewal within 24-hours prior to the end of your subscription. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Current subscription starts at 9.99, and one-month, 3-month, and 6-month packages are available. Prices are in U.S. dollars, may vary in countries other than the U.S. and are subject to change without notice. If you don’t choose to purchase a subscription, you can simply continue to use BLK.\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/blk-black-singles-dating-app/id1253586891?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "278808576",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 16,
+    "dating app": 15
+   }
+  },
+  {
+   "trackId": 358899126,
+   "trackName": "Tagged Dating: Chat & Go Live!",
+   "bundleId": "com.tagged.meetme",
+   "artistName": "Ifwe Inc.",
+   "sellerName": "Ifwe Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.48473,
+   "userRatingCount": 461295,
+   "releaseDate": "2010-03-17T23:54:55Z",
+   "currentVersionReleaseDate": "2026-09-17T06:33:32Z",
+   "version": "234.1",
+   "description": "Tagged is your place for you to vibe with new people, match with singles, meet dates, and connect with friends through livestream. With millions of community members, you’re bound to find someone you like on the Tagged dating app.\n\nThe app is FREE! With a single swipe you can:\n - Make a quick connection with single ladies and single guys nearby\n - Match with people just like you to find your next relationship\n - Chat and chill with new friends and see who matches your energy\n - Connect with real people in video chats on Tagged LIVE\n - Shoot your shot by sending a gift in livestream\n\nOn Tagged, we keep it real. You can do you and be accepted for who you are. Your search for love, dates, and friends may have just started, but we’re here to show you that the Tagged dating app hits different. We’ve got years of experience connecting people through chats, dates, livestreams, events, and more. \n\nSo what are you waiting for? Download the dating app to show people what you’re about. \n\nJoin our Tagged fam now!\n\n__________________________\n\nWe look out for you too! We take your privacy very seriously. Your exact location and personal information will NEVER be given without your permission. YOU decide if, when, and how you want to connect.\n__________________________\n\nTagged's terms of use is located here: https://web.tagged.com/en/termsandconditions/\n\nTagged's Privacy Policy is located at: https://web.tagged.com/en/privacypolicy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/tagged-dating-chat-go-live/id358899126?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "347951104",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 27,
+    "dating app": 29
+   }
+  },
+  {
+   "trackId": 319881193,
+   "trackName": "Grindr - Gay Dating & Chat",
+   "bundleId": "com.grindrguy.grindrx",
+   "artistName": "Grindr LLC",
+   "sellerName": "Grindr LLC",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.45045,
+   "userRatingCount": 388294,
+   "releaseDate": "2009-06-25T01:15:02Z",
+   "currentVersionReleaseDate": "2026-10-01T18:54:24Z",
+   "version": "26.19.0",
+   "description": "Grindr is the world’s #1 free dating app serving the LGBTQ community. If you’re gay, bi, trans, queer, or even just curious, Grindr is the best and easiest way to meet new people for friendships, dates, and whatever else you’re looking for. \n\nOn a trip? Grindr is an indispensable tool for LGBTQ travelers—log in to meet locals and get recommendations for bars, restaurants, events, and more. With Grindr in your pocket, you’ll always be connected to other LGBTQ people around you and have your finger on the pulse of what’s happening.\n\nReady to get started? Creating your profile is easy, and you can share as much or little about yourself as you like. Within minutes you’ll be ready to connect, chat, and meet up with people near you.\n\nGrindr is faster and better than ever:\n\n• See people nearby based on your location\n• Chat and share private photos\n• Add tags to share your interests\n• Search tags to find others based on their interests\n• Create private albums to share (and unshare) multiple photos at once\n• Filter your search to find what you want\n• Star your favorites and block others\n• Report people easily and safely\n\nLooking for even more? Upgrade your Grindr experience to XTRA for more features, more control, and more fun:\n\n• No 3rd party ads\n• See up to 600 profiles at once\n• View only people who are online now\n• View only profiles with a photo\n• Filter by position, relationship status, and more\n\nWant the ultimate Grindr experience? Upgrade to Grindr Unlimited for our most premium features:\n\n• Unlimited profiles\n• Full access to your Viewed Me list\n• Incognito mode - browse profiles without being seen\n• Unsend messages and photos\n• All XTRA features\n\nNeed help? If you are experiencing any issues, you can get support by contacting us through https://help.grindr.com\n\nGrindr Ads:\n\nGrindr (excluding XTRA and Unlimited accounts) includes third-party advertising, which involves the sharing of limited data with our Ad/Marketing partners as described in our privacy policy. Grindr does not share any of your Grindr profile information with Advertising or Marketing partners. You can adjust your third-party advertising privacy settings within the app at any time. \n\nGrindr Subscriptions:\n\nYour subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your iTunes account will automatically be charged at the renewal price within 24 hours prior to the end of the current period unless you change your subscription preferences in your App Store account settings. You can manage your subscriptions at any time through your App Store account settings after purchase. Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.\n\nGrindr, Grindr XTRA & Grindr Unlimited are for adults 18 years and older only. Profile photos depicting nudity or sex acts are strictly prohibited.\n\nTerms of Service: www.grindr.com/terms-of-service/\nPrivacy Policy: www.grindr.com/privacy-policy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/grindr-gay-dating-chat/id319881193?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "551454720",
+   "languageCodesISO2A": [
+    "CS",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 24,
+    "dating app": 28
+   }
+  },
+  {
+   "trackId": 1250946975,
+   "trackName": "Hily Dating App: Meet. Date.",
+   "bundleId": "com.hily.ios",
+   "artistName": "Hily Corp.",
+   "sellerName": "Hily Corp.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.39504,
+   "userRatingCount": 377026,
+   "releaseDate": "2017-08-14T21:27:38Z",
+   "currentVersionReleaseDate": "2026-09-29T13:30:32Z",
+   "version": "6.89.0",
+   "description": "Hily is a dating app for real connections — chat, flirt, and meet local singles as yourself, no filters, no personas.\n\nGetting started is simple. Build a profile that shows your actual personality, then match with people who share your energy. Not sure how to break the ice? Icebreakers and compatibility checks make the first move easy.\n\nTop features on Hily:\n\n• Compatibility Quiz — answer a few questions to find matches who fit your vibe on a deeper level\n• Zodiac Synastry Score — see how your stars align with a match\n• Profile Verification & Safety Team — every profile is checked, so you can date with confidence\n• Personalized Icebreakers — smart conversation starters, tailored to you\n\nUse Hily to:\n\n• Find a serious relationship\n• Date casually, no pressure\n• Meet people after moving to a new city\n• Make local friends\n• Start dating again, on your own terms\n\nHily is a dating app for people who want to date as themselves - real profiles, real conversations, real connections.\n\nStay in touch:\n• Feedback: apps@corp.hily.com\n• Terms of Service:https://hily.com/terms\n• Privacy Policy: https://hily.com/privacypolicy",
+   "trackViewUrl": "https://apps.apple.com/us/app/hily-dating-app-meet-date/id1250946975?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "156860416",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "ZH",
+    "ES",
+    "SV",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 8,
+    "dating app": 8
+   }
+  },
+  {
+   "trackId": 1289684085,
+   "trackName": "Chispa: Dating App for Latinos",
+   "bundleId": "com.affinityapps.chispa",
+   "artistName": "Affinity Apps, LLC",
+   "sellerName": "Affinity Apps, LLC",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.53169,
+   "userRatingCount": 375161,
+   "releaseDate": "2017-11-16T18:22:40Z",
+   "currentVersionReleaseDate": "2026-10-02T14:19:25Z",
+   "version": "12.17.1",
+   "description": "CHISPA\n\nLook.Match.Chat.\n\n\nChispa is the app for Latino single men and Latina single women with a simple mission: To create an exclusive community where all Latinos can find meaningful connections with people who share similar likes and interests.\n\n\n • Chispa is easy and fun to use:\n • Simply scroll through a personalized list of profiles.\n • If you're interested, slide the profile to the right to give the person a ‘Like’, or click the 'Heart' icon.\n \n • If the feeling's mutual, then you're a match and can start chatting in our app right away.\n • Not interested? Slide the profile to the left to see the next person, or click the ‘X’ icon.\n\n\nRight when you join, all members can:\n • Become part of an exclusive community for single Latino men and Latina women\n • Customize who and what they’re looking for\n • Receive a personalized group of profiles to look through every day\n • Chat with other members if they’ve liked you back\n\n\nGo Premium and you can also:\n • Send 5 Super Chispas per week to stand out from the crowd and let people know that you're really interested \n • Rewind on people to give them a second chance\n • Boost your profile each month to be one of the top profiles in your area for 30 minutes\n • Send unlimited amount of likes to other members\n • Have an uninterrupted experience with no ads!\n\nBecome Elite and you can:\n • Get all of the Premium benefits PLUS \n • Remove the mystery and See Who's Liked You for instant matches!\n\n\nSo what now? Join the community, spread the word, find a match, and have fun!\n\n\n\nAnd don't forget! Check us out every day! We're growing fast and there's someone new to match with every day!\n\n\nPrivacy Policy: https://www.chispa-app.com/en/privacy-policy Terms & Conditions: https://www.chispa-app.com/en/terms-of-use\n\n\nIf you choose to purchase a subscription, payment will be charged to your iTunes account, and your account will be charged for renewal within 24-hours prior to the end of your subscription. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Current subscription starts at 9.99, and one-month, 3-month, and 6-month packages are available. Prices are in U.S. dollars, may vary in countries other than the U.S. and are subject to change without notice. If you don’t choose to purchase a subscription, you can simply continue to use Chispa.\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/chispa-dating-app-for-latinos/id1289684085?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "263618560",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 18,
+    "dating app": 12
+   }
+  },
+  {
+   "trackId": 372648912,
+   "trackName": "MeetMe: Go Live & Meet People",
+   "bundleId": "com.myYearbook.MyYearbook",
+   "artistName": "The Meet Group Inc.",
+   "sellerName": "The Meet Group Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.2924,
+   "userRatingCount": 373830,
+   "releaseDate": "2010-05-28T04:56:10Z",
+   "currentVersionReleaseDate": "2026-09-30T13:56:37Z",
+   "version": "235.0",
+   "description": "Meet New People, Chat & Livestream on Meetme! \n\nMeetMe is a free social app where you meet new people, make friends, live stream, watch live video streams and chat instantly with others nearby! It’s fun, friendly, and free! Connect with nearby local people who want to chat now using text, video chat, and live video streaming features—all inside an active social community built around conversation and making real connections. MeetMe makes it easy to find and meet people nearby for free!\n\nDiscover & Connect with Your Community\nJoin millions of people who use MeetMe to find new friends, explore connections from across the globe, and hangout with local people who share your hobbies, interests, and vibe! Find your tribe and socialize with like minded people like yourself, and start chatting via text, video, or livestreams.\n\nBroadcast Yourself & Go Live\nThere’s always something happening on MeetMe Live! Become a creator, build your following, and climb the leaderboard in our passionate livestreaming community. Express yourself, share your personality, and connect with fans in real time. Send and receive gifts, battle, and even go on dates.  MeetMe empowers creators on Live!\n\nWatch Streamers & Join the Fun\nNot ready to go live yourself? Tune in and watch streamers from around the world on MeetMe Live! Discover entertaining creators, join live conversations, react in real time, send gifts, and connect with communities built around shared interests and good vibes. You can also enjoy hours of entertainment from watching our featured Live shows, and maybe even start your own Live show!\n\nUnlimited Chat & Instant Messaging\nBreak the ice with people nearby or around the world. Unlike some other apps, on MeetMe, messaging is always free and unlimited. Start a conversation with someone near you, connect through video chat, or keep things casual with instant text messages. Whether you’re looking for friendship, genuine connections, casual dating or online chat rooms, MeetMe supports authentic social interactions and makes starting a conversation with strangers simple.\n\nFind Friends, Dates & Everything in between\nMeetMe is designed for all types of social discovery. It doesn’t matter if you’re just looking to chat and make friends, looking for a casual date, or looking for your soulmate – you’ll find them on MeetMe. What are you waiting for?\n\nMeetMe Premium Features\n- Unblur profiles to see who likes you\n- Boost your profile to the top for 2 hours\n- Discover new people in your area before everyone else\n- Undo swipes and rediscover likes you’ve given \n- Get more likes and views due to higher visibility\n- No Ads\n\nTestimonials \n“I’m very grateful for MeetMe because I never would have thought in a million years that it would help me … have friends that I have learned to love, and people from here that I want to attend my wedding because that’s how close we are, and then meeting the love of my life too, it’s so crazy how it’s done all these things for me.” - Gabe\n\n“This has allowed me to stay home, still be social - but then I can blend it with the real world. Now I’ve started meeting all these amazing people I’ve met on MeetMe and they’ve now become some of my great friends” - Blake Premer\n\n“When I downloaded MeetMe and got into livestreaming - I’m able to hold conversations now and I feel more confident as a person” - Charlie (CharmCharlie)\n\n“MeetMe was the first place that I was really able to start to grow. Where on those other platforms people were into my message and my story, silliness and positivity, but MeetMe really granted me the opportunity to get directly to a lot more people and grow that family and that community on a much larger scale than I could before” - Katy B.\n“Every corner of the world I now have friends in those places and it’s because of the MeetMe platform” - Choff\n\n--\nCheck out our Terms of Service:\nhttps://www.meetme.com/terms.php\nCheck out our Privacy Policy:\nhttps://www.meetme.com/privacy.php",
+   "trackViewUrl": "https://apps.apple.com/us/app/meetme-go-live-meet-people/id372648912?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "349304832",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 35,
+    "dating app": 34
+   }
+  },
+  {
+   "trackId": 1038653883,
+   "trackName": "Yubo: Chat Meet & Make Friends",
+   "bundleId": "co.yellw.Yellow",
+   "artistName": "Twelve APP",
+   "sellerName": "Twelve APP",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.51848,
+   "userRatingCount": 373413,
+   "releaseDate": "2015-10-12T03:11:03Z",
+   "currentVersionReleaseDate": "2026-09-30T09:03:53Z",
+   "version": "4.237.0",
+   "description": "Welcome to Yubo – the ultimate social platform for making new friends all over the world! With millions of users worldwide, we’re all about connecting you with like-minded people in a fun and safe place! \n\nFEW THINGS YOU NEED TO KNOW ABOUT YUBO\n\n1) SWIPE TO MAKE NEW FRIENDS: Use our swipe feature to find new friends who are online and share the same interests! With just a swipe, you could meet your new bestie!\n\n2) CHAT WITH FRIENDS WORLDWIDE: One of the coolest things about Yubo is that you can chat with people from all over the world! Whether you're feeling silly, want to sing, dance, or chat about your day, Yubo has got you covered!\n\n3) FIND YOUR TRIBE: At Yubo, finding your tribe is key to making lasting connections! Thanks to the Tags, you can find other people into gaming, beauty, sports, music, dance, and so much more! So, whether you’re a gamer, a makeup artist, or just looking for like-minded friends, Yubo has got you covered!\n\n4) IT’S FREE: Yubo is totally free to use! \n\n5) IT’S SAFE: We take your safety seriously. That's why we've designed many features and tools to ensure you can use Yubo safely. \n\nSo, what are you waiting for? \n\nAnd, as always, feel free to contact us on Instagram (@yubo_app) or Twitter (@yubo_app) with any questions or feedback!\n\nYubo is free to download and use, which will never change for our main features. However, if you want to get the most from Yubo, you can subscribe to one of our optional products, the Yubo Power Pack or Yubo Elite Pack.\nWe offer weekly, monthly, and 3-month subscriptions, giving discounts on the weekly price. The prices may vary per country and are subject to change without notice. Prices are clearly displayed in the app.\n\n* Payment will be charged to your iTunes account at confirmation of purchase.\n* Your subscription will automatically renew itself unless auto-renewal is turned off at least 24 hours before the end of the current period.\n* Your account will be charged for renewal within 24 hours before the end of the current period.\n* You can manage your subscriptions and turn off auto-renewal by going to your Account Settings in the iTunes Store.\n* If offered, if you choose to use our free trial, any unused portion of the free trial period will be forfeited when you purchase a subscription to that publication, where applicable\n* If you don’t choose to purchase Yubo Power Pack or Yubo Elite Pack, you can continue using and enjoying Yubo for free.\n\n\nYour personal data is securely stored on Yubo - be sure to read our privacy policy and terms and conditions:\nhttps://yubo.live/legal/privacy \nhttps://yubo.live/legal/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/yubo-chat-meet-make-friends/id1038653883?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "137261056",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "NB",
+    "PL",
+    "PT",
+    "ES",
+    "SV"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 20,
+    "dating app": 19
+   }
+  },
+  {
+   "trackId": 1482681335,
+   "trackName": "Wink Dating: Meet, Chat & Date",
+   "bundleId": "co.9count.wink",
+   "artistName": "Euphorica Inc",
+   "sellerName": "Euphorica, Inc.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.466,
+   "userRatingCount": 309382,
+   "releaseDate": "2019-11-10T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-22T06:44:23Z",
+   "version": "12.5.0",
+   "description": "Meet people who want the same thing as you.\n\nWink is a new way to connect — powered by AI, built for real life.\n\nMeet your people.\nThe ones who want to go to a music festival, hit a rave, play basketball, try pilates, or just vibe the same way you do.\n\nMeet Wink AI — your digital friend\nChat with Wink AI about everything, it learns what you like, how you think, and what you’re into — then helps you connect with people who match your energy.\nAI for deepen connection — not automate distraction. That every person deserves to feel understood, supported, and genuinely connected.\n\n Features you’ll love:\n\nCreative Profiles:\nEvery profile starts strong. A dynamic, creative collage, gives each person a standout visual identity — no boring layouts, no copy-paste bios.\n\nAI-Generated Bios:\nNo awkward bio writing. During onboarding, you answer on a quick questions, and Wink AI instantly creates a bio that matches:\n- your personality\n- your tone\n- your interests\n\nAuthentic, effortless, and very you.\n\nBetter connections:\nSwipe, match, and chat instantly with people who already share your intentions. Based on their personality, what they are looking for and common interests! No swipes - just talk to Wink AI and find your people.\n\nNearby or worldwide\nMeet like-minded people near you — or anywhere in the world.\n\nLet's vibe together!\nVibes are more than just reactions — they’re collectible, personality-packed digital items that spark real conversations.\n\nSafe, fun, and real\nWink is a global community built on trust. All profiles are virifed and real. The safety of our users is one of our top priorities, we implemented various safeguards to protect our community.\n\nLearn more:\n\n* Safety: https://www.getwinkapp.com/safety/ \n* Community Guidelines: https://www.getwinkapp.com/community/ \n* Terms: https://www.getwinkapp.com/terms/ \n* Policy: https://www.getwinkapp.com/privacy/ \n\nNeed help?\nsupport@getwinkapp.com\n\nFree to start. Extra perks if you want.\n\nWink is free to download and use.\nUpgrade to Wink+ or Ultra for more ways to connect better and faster.",
+   "trackViewUrl": "https://apps.apple.com/us/app/wink-dating-meet-chat-date/id1482681335?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "283592704",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 31,
+    "dating app": 31
+   }
+  },
+  {
+   "trackId": 1452906710,
+   "trackName": "Wizz App - chat now",
+   "bundleId": "com.vlbapps.wizz",
+   "artistName": "VLB",
+   "sellerName": "VLB",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.19044,
+   "userRatingCount": 303675,
+   "releaseDate": "2019-02-24T11:07:56Z",
+   "currentVersionReleaseDate": "2026-09-29T14:29:51Z",
+   "version": "11.8.0",
+   "description": "Welcome to Wizz, where fun comes from the unexpected. Wizz is a safe space where you can let loose and meet new friends from all over the world. With over 15 million downloads and counting, you’re sure to find your people!\n\nTOP 5 THINGS TO KNOW ABOUT WIZZ\n\n1). SWIPE TO FIND FRIENDS: Swipe through the app to find people who are online when you are.\n\n2). CHAT LIVE: One of the most exciting things about Wizz is that you can instantly chat with people all around the world.\n\n3). AGE-MATCHED CHATTING: Engage in conversations with peers your own age, ensuring a safer and more relatable experience.\n\n4). IT’S FREE: Yup, Wizz is totally free to use.\n\n5). IT’S SAFE: We take your safety very seriously. That’s why we have an age gate, plus additional safety features for any users.\n\nMeet new people. Let loose. Belong together.\n\nWizz is for positive vibes only! If you post inappropriate content, you'll be automatically banned.\n\nTerms of Use: https://www.wizzapp.com/terms-and-conditions\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://wizzapp.com/privacy-policy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/wizz-app-chat-now/id1452906710?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "415855616",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "NB",
+    "ES",
+    "SV"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 25,
+    "dating app": 21
+   }
+  },
+  {
+   "trackId": 338701294,
+   "trackName": "OkCupid Dating: Date Singles",
+   "bundleId": "com.okcupid.app",
+   "artistName": "Match Group Americas, LLC",
+   "sellerName": "Match Group Americas, LLC",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.31853,
+   "userRatingCount": 289032,
+   "releaseDate": "2009-11-25T20:52:52Z",
+   "currentVersionReleaseDate": "2026-08-17T10:11:32Z",
+   "version": "116.0.0",
+   "description": "Get the best online dating app experience and match-up based on who you really are and what you love. OkCupid is all about inclusive online dating for every single person!\n\nThe dating app that lets you experience real adult dating for those who know what they want!\n\nWith OkCupid, you can meet new friends online or find serious relationships, date and make meaningful connections. Find your match and a date for tonight!\nThis matchmaking app cares about you. We’ve created an exciting online dating environment for every single person. Try it now and start your journey towards better relationships.\n\nPersonalize your dating profile with your interests, what your dating expectations are and leave the rest to the matching algorithm!\nGreat Romantic dates come from true matches - that’s why the OkCupid online dating app shows off who you are beyond a photo.\nMeet cute singles, build connections and find love! You deserve it all!\n\n• Love is inclusive, and so is OkCupid. Create a free dating profile that highlights what makes you special and unique.\n• Find your soulmate from over 60 different gender identities and sexual orientations: Gay, Lesbian, Bisexual, pansexual, queer and more. Gay marriage can be more than just a dream.\n• She/her, he/him, they/them - highlight your gender pronouns and meet locals near you!\n• Go on great dates, and find your match by giving your own unique answers!\n• Round it off with your cutest profile picture and you’re ready to meet new people, find love or go on a great date tonight. \n• Meaningful connections can come in many shapes and sizes - create new friendships, chat with new and interesting people, find a new exciting romance, or a serious relationship!\n\nOkCupid isn’t just another online app for dates. Our free dating app helps you meet singles, connect, chat or have a deep conversation through our one-of-a-kind messaging system. Focus on the connections you’re interested in without the ones you’re not. Then, plan to meet up and go on great dates - whether you’re looking for local dating, virtual dating or anything in between!\n\nTake the stress out of online dating. OkCupid can help you find your match, whether you want casual dating, marriage, or just to find your love story – YOU choose what matters. Match with people with similar interests and receive a personalized match percentage when you answer our unique questions. We’re here to help you find relationships on your terms. \nFlirt, find love, build connections and go on great dates with OkCupid, the best free dating app! Download now!\n\nMATCH, CONNECT AND MEETUP \n• Meet new people and find relationships with our unique messaging system\n• Local dating features help you meet people nearby\n\nDATING APP UPGRADE \nOkCupid is a free dating app for everyone, but we offer an optional premium subscription that unlocks exclusive features. Additional premium dating features include:\n• See who likes you without having to like them first\n• Send unlimited likes for more date matches!\n• Set Dealbreakers so you can find just who you're looking for, and match on what matters\n\nMeet singles and find great connections – download OkCupid and enjoy the best online dating app today!\n\nPrivacy: https://okcupid-app.zendesk.com/hc/en/articles/22780694078491\nTerms: https://okcupid-app.zendesk.com/hc/en/articles/23941864418203",
+   "trackViewUrl": "https://apps.apple.com/us/app/okcupid-dating-date-singles/id338701294?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "138942464",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "ID",
+    "ES",
+    "SV",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 12,
+    "dating app": 10
+   }
+  },
+  {
+   "trackId": 305939712,
+   "trackName": "Match Dating App: Chat & Meet",
+   "bundleId": "com.match.match.com",
+   "artistName": "Match Group Americas, LLC",
+   "sellerName": "Match Group Americas, LLC",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.86691,
+   "userRatingCount": 240996,
+   "releaseDate": "2009-03-27T01:30:46Z",
+   "currentVersionReleaseDate": "2026-09-11T15:53:43Z",
+   "version": "26.16.00",
+   "description": "Match – The Dating App for Real Relationships and Real People.\n\nLooking for something real? Welcome to Match – the dating app designed for singles who know what they want. For over 25 years, Match has helped millions of men and women find meaningful relationships through authentic conversations, expert-backed guidance, and a safe, trusted platform.\n\nWhether you're searching for love, exploring local dating, or ready to meet someone new, Match makes it easy to connect with real people near you who are looking for the same thing.\n\nWe believe being honest about who you are and what you’re looking for isn’t being picky – it’s being confident. Match is here to help you date like an adult: with intention, clarity, and the tools to make meaningful connections.\n\nWhy Match Stands Out\n\nMatch goes beyond swipes and surface-level chats. It’s a dating experience built on trust, safety, and real human connection.\n\n- Real Singles, Serious Intentions: Our members are here to find something meaningful – not just kill time.\n\n- Expert Dating Support: From profile tips to first date advice, our team of dating experts is here to help.\n\n- Verified Profiles: We take safety seriously, so you can focus on getting to know people without second guessing.\n\n- Advanced Matching Tools: Get specific with your preferences and discover matches that really align with your goals.\n\nFeatures Designed for Real Connections\n\n- Customized Search Filters: Set your criteria and explore singles who meet your relationship goals.\n\n- Conversation Starters: From trending topics to easy prompts, Match helps you break the ice effortlessly.\n\n- Local Events – Online & IRL: Meet singles in your area at fun, low-pressure events designed to make dating easier.\n\n- Expert Tips & Insights: Optimize your profile and improve your approach with advice from real dating professionals.\n\n- Safe, Verified Community: Every profile goes through checks to help keep the platform authentic and respectful.\n\nFree to Start, Easy to Explore\n\nIt’s free to download and start matching right away. With no subscription required, you can:\n\n- Create your profile and upload photos\n\n- Browse and receive daily match suggestions\n\n- Chat with recommended matches\n\n- Join virtual and in-person singles events\n\nWant more control and visibility? Go Premium.\n\nUnlock exclusive tools and benefits:\n\n- See unlimited profiles\n\n- Use advanced filters to find exactly what you're looking for\n\n- Reconnect with profiles you passed on\n\n- Boost your profile to get seen faster\n\n- Get premium-level dating advice and tips\n\nWhether you’re looking for a serious relationship or just want to meet quality singles near you, Match gives you the tools and confidence to make it happen.\n\nReal people. Real relationships. Real dating.\n\nJoin Match today and discover a dating experience that’s honest, safe, and made for adults who are done playing games.\n\nDownload Match and start connecting – it’s free to try.\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/match-dating-app-chat-meet/id305939712?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "210442240",
+   "languageCodesISO2A": [
+    "EN",
+    "JA",
+    "KO",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 17,
+    "dating app": 16
+   }
+  },
+  {
+   "trackId": 1282966364,
+   "trackName": "Taimi LGBTQ+ Dating & Chat App",
+   "bundleId": "com.taimi.ios",
+   "artistName": "Social Impact Inc.",
+   "sellerName": "Social Impact Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.42026,
+   "userRatingCount": 213482,
+   "releaseDate": "2017-09-18T08:46:48Z",
+   "currentVersionReleaseDate": "2026-09-25T05:40:20Z",
+   "version": "5.1.422",
+   "description": "DISCOVER TAIMI – THE ULTIMATE LGBTQ+ DATING APP\n\nLooking for love, friendship, or meaningful connections in the LGBTQ+ community? Taimi is more than just a queer dating app, it's a fully inclusive LGBTQ+ dating app with 37M+ members where people of all genders and sexualities can meet and connect safely. Whether you're exploring gay, lesbian, trans, bisexual, or queer dating, Taimi helps you find the right matches near you or anywhere in the world.\n\nWHAT IS TAIMI?\n\nTaimi is an all-in-one LGBTQ+ dating app designed for adults 18 and older. From casual conversations to long-term relationships, Taimi is your safe space to express yourself and meet people who understand you. Our platform offers a modern and inclusive dating experience for LGBTQ+ users.\n\nINCLUSIVE LGBTQ+ DATING ON TAIMI\n\nTaimi celebrates every shade of the rainbow. Whether you identify as gay, lesbian, bisexual, trans, non-binary, asexual, or polyamorous, you'll find others looking for friendship, dating, or love. Our LGBTQ+ chat and social features let you connect with real people who share your interests, identity, and values. Taimi is a space where everyone can feel seen and celebrated.\n\nKEY FEATURES\n\n- Taimi AI Dating Assistant – A built-in assistant that can automatically like relevant profiles and send initial messages on your behalf based on your preferences, helping you connect faster and more effortlessly.\n- Inclusive Matching – Find mutuals based on sexuality, gender identity, and interests, including gay, lesbian, bisexual, trans, non-binary, and asexual dating.\n- Advanced Filters – Search by location, interests, or specific LGBTQ+ identities, whether you're looking for casual dating, friendship, or long-term love.\n- Global & Local Dating – Explore local mutuals or meet queer people around the world.\n\nWith Taimi's premium subscription you can gain access to premium features such as:\n\n- Premium filters\n- See your visitors\n- Infinity likes\n- Profile preferences\n- Custom location\n\nThe premium subscription allows for more exclusive access to the queer dating world. Giving you access to LGBTQ+ dating outside of your current location and an unlimited potential of new connections.\n\nSAFE & INCLUSIVE COMMUNITY\n\nTaimi is committed to creating a safe, supportive, and respectful environment for all users. Every profile is verified, and our moderation ensures harassment-free interactions. Taimi fosters meaningful connections without compromising safety. Everyone, from new explorers to experienced daters, is welcome to join!\n\nSTART MEETING, CHATTING, AND DATING TODAY\n\nWhy wait to find love, friendship, or your next adventure? Download Taimi now to:\n\n- Chat safely with other users\n- Explore gay dating, lesbian dating, trans dating, and bisexual dating\n- Discover your perfect match, near or far\n\nCheck out more details about OUR PRIDE at Taimi.com:\nhttps://taimi.com/wiki\nhttps://taimi.com/terms\nhttps://taimi.com/privacy-policy\nsupport@taimi.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/taimi-lgbtq-dating-chat-app/id1282966364?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "202790912",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "PL",
+    "PT",
+    "RO",
+    "ES"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 19,
+    "dating app": 20
+   }
+  },
+  {
+   "trackId": 1498407272,
+   "trackName": "Boo Dating App: Date & Friends",
+   "bundleId": "enterprises.dating.boo",
+   "artistName": "Boo Enterprises, Inc.",
+   "sellerName": "Boo Enterprises, Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.16848,
+   "userRatingCount": 210304,
+   "releaseDate": "2020-02-22T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T15:29:04Z",
+   "version": "1.13.139",
+   "description": "Boo is for connecting with compatible and like-minded souls. Date, chat, match, make friends and meet new people by personality.\n\nJoin over a million souls on Boo and find your best match faster, for dating or friendship. \n\nWe’re your tour guide through the strange landscape of another’s heart and mind. We use personality psychology to help you find dates and friends that'll effortlessly love, appreciate, and understand you for who you naturally are.\n\nFind your soulmate or your best friend.\n\nOUR FEATURES\n\n1. SOCIAL DATING + FRIEND-FINDING \nPost in interest communities and meet new people by shared values and interests. Chat casually with people on funny, interesting, and insightful topics.\n\n2. FLIRTING TIPS\nGet in-depth dating tips and personality analysis with cutting-edge personality psychology. \n\nUnderstand anyone’s\n1. Compatibility\n2. Strengths\n3. Weaknesses\n4. Attracted By\n5. Pet Peeves\n6. Likely Interests\n7. Love Languages\n8. What You'll Love\n9. Potential Conflicts\n10. Love Philosophy\n11. Mating Call\n12. Ideal Date\n13. Flirting Tips\n14. Relationship Material\n15. Relationship Fear\n16. Secret Desire\n17. Enneagram\n18. Zodiac\n\n3. VERIFIED PROFILES\nGet verified and meet other verified users using the verified filter. No more catfishes and bots.\n\n4. PRACTICE LANGUAGES\nMake new friends and meet new people around the world. Translate profiles and messages, and send messages in any language with cutting-edge translation.\n\nOUR VALUES\n\n1. LOVE, KINDNESS, EMPATHY\nBoo is an accepting, tolerant, and judgment-free space for everyone. Unlock functionalities by being a good person and earning love, our social credit system.\n\n2. AUTHENTICITY\nBe yourself. That’s the only way you’ll attract the right people. Embracing your authentic self starts when you realize that every personality has its flaws, that there are others who share your same personality, and that you are not alone. \n\n3. TRANSPARENCY\nUnderstand yourself and others like never before in human history. Understand anyone deeply instantly, not 3 weeks, months, or years into a failed relationship. \n\n4. EMPOWERMENT\nAttraction, compatibility, and succeeding in dating and making friends have always been a black box. With personality insight, you are empowered to understand how it all works for yourself, make the right decisions, and set yourself up for success.\n\nWe were using all the dating apps. It was always the same result–going on dates with people we had no chemistry with. We were exhausted from all the wasted time and effort. We made Boo because we knew there was a better way.\n\nOur mission is to create a future in which personality enables our greatest potential, starting with our relationships.\n\nWe hope you like it,\nThe souls at Boo\n\nhttps://boo.world/terms-and-conditions",
+   "trackViewUrl": "https://apps.apple.com/us/app/boo-dating-app-date-friends/id1498407272?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "191245312",
+   "languageCodesISO2A": [
+    "AF",
+    "SQ",
+    "AR",
+    "HY",
+    "AS",
+    "AZ",
+    "EU",
+    "BE",
+    "BN",
+    "BS",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "NY",
+    "CO",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "GL",
+    "KA",
+    "DE",
+    "EL",
+    "GU",
+    "HT",
+    "HA",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "IG",
+    "ID",
+    "GA",
+    "IT",
+    "JA",
+    "JV",
+    "KN",
+    "KK",
+    "RW",
+    "KO",
+    "KU",
+    "KY",
+    "LV",
+    "LT",
+    "LB",
+    "MK",
+    "MG",
+    "MS",
+    "ML",
+    "MT",
+    "MI",
+    "MR",
+    "MN",
+    "NE",
+    "OR",
+    "PS",
+    "FA",
+    "PL",
+    "PT",
+    "PA",
+    "RO",
+    "RU",
+    "SM",
+    "SR",
+    "SN",
+    "ZH",
+    "SD",
+    "SI",
+    "SK",
+    "SL",
+    "SO",
+    "ES",
+    "SU",
+    "SW",
+    "SV",
+    "TG",
+    "TA",
+    "TT",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "TK",
+    "UG",
+    "UK",
+    "UR",
+    "UZ",
+    "VI",
+    "CY",
+    "XH",
+    "YI",
+    "YO",
+    "ZU"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 26,
+    "dating app": 22
+   }
+  },
+  {
+   "trackId": 1042814349,
+   "trackName": "HUD™ Casual Dating: Chat. Meet",
+   "bundleId": "com.hookupdating",
+   "artistName": "HUD STUDIO LIMITED",
+   "sellerName": "HUD STUDIO LIMITED",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.11219,
+   "userRatingCount": 208182,
+   "releaseDate": "2015-10-29T11:23:47Z",
+   "currentVersionReleaseDate": "2026-10-02T01:19:56Z",
+   "version": "9.3.32",
+   "description": "Join the HUD™ casual dating community and meet more than 20 million open-minded adult singles worldwide.\n\nHUD™ - Revolution in Casual Dating\nHUD™ App is a casual dating app that is honest about the realities of online dating. A safe space for like-minded people to connect, and explore dating freely.\n\nWhether you're new to open relationships or simply looking to explore dating on your own terms, HUD App provides an inclusive, respectful and empowering experience for anyone wanting to meet new people without pressure.\n\nWe believe dating should be fun, flexible, and transparent — and that you should be able to express yourself freely while feeling safe and respected. HUD App is designed to help you explore relationships in a judgment-free space where honesty, consent and communication come first.\n\nFind and connect with locals\n\nDiscover dating your way:\nMeet like-minded individuals looking for meaningful, pressure-free connections.\nExplore open relationships in a safe and honest environment\nConnect based on what really matters: personality, preferences, and boundaries.\nEnjoy real-time features like video chat, private photo sharing, and profile customisation.\n\nCasual Connections & Dates with HUD™\n- Safe, discreet & fully customizable\n- Live Video Verification\n- Female-friendly chat features\n- Video dating app with auto blur safety feature\n- Send and receive videos, photos, and voice messages\n- Photo Protection Blur\n- Advanced match filters\n\n--------------------------------\n\nSubscription service terms & conditions:\n\nIf you choose to purchase HUD Premium, payment will be charged to your iTunes account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase.\nPrices are in U.S. dollars, may vary in countries other than the U.S. and are subject to change without notice.\nNo cancellation of the current subscription is allowed during the active subscription period.\nAny unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.\nIf you don’t choose to purchase HUD Premium, you can simply continue using HUD for free.\n\n\nPrivacy Policy: https://www.hudapp.com/#/privacy\nTerms: https://www.hudapp.com/#/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/hud-casual-dating-chat-meet/id1042814349?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "267370496",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 7,
+    "dating app": 7
+   }
+  },
+  {
+   "trackId": 302324249,
+   "trackName": "Skout Dating App & Live Chat",
+   "bundleId": "com.skout.SKOUT",
+   "artistName": "Skout, Inc.",
+   "sellerName": "Skout, Inc.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.37064,
+   "userRatingCount": 188782,
+   "releaseDate": "2009-02-10T04:11:54Z",
+   "currentVersionReleaseDate": "2026-09-25T06:02:23Z",
+   "version": "235.0",
+   "description": "Instantly meet people near you or around the world! See who is broadcasting in Live broadcast yourself and feel the love! Discover new friends nearby or around the globe. Millions of people are connecting and meeting through Skout every day. Use exciting in-app features to increase your chances of finding friends or chatting!\n\nStart Skouting and make new friends, or meet new people, anytime, anywhere.  \n\nFeatures: Meet people by preference and proximity, chat, broadcast yourself and watch others’ streams, see who checked you out, get updates from nearby users, save your favorite users, browse profiles and pictures, promote your profile with in-app features.\n\nDownload and join Skout now!\n\nhttps://www.skout.com/en/termsandconditions/",
+   "trackViewUrl": "https://apps.apple.com/us/app/skout-dating-app-live-chat/id302324249?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "339564544",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating app"
+   ],
+   "ranks": {
+    "dating app": 38
+   }
+  },
+  {
+   "trackId": 1499137942,
+   "trackName": "Upward Dating: Meet Singles",
+   "bundleId": "com.affinityapps.twozerofour",
+   "artistName": "Affinity Apps, LLC",
+   "sellerName": "Affinity Apps, LLC",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.34435,
+   "userRatingCount": 162162,
+   "releaseDate": "2020-03-04T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T14:20:23Z",
+   "version": "12.17.1",
+   "description": "Upward. The dating app built for modern courtship, where shared values, clear intentions, and real effort can lead to marriage.\n\nJoin a values-first community of singles who know what they want and aren’t afraid to say it.\n\nIf you’re over casual dating and ready for a relationship with real direction, you belong here. Upward brings together values-driven singles who are ready to build something lasting.\n\nOur mission is simple: Bring back courtship and conviction. A way of dating where people lead with their values, show genuine interest, and follow through.\nBecause love is worth courting.\n\nWhether you lead with faith, family, loyalty, integrity, or simply a clear sense of what matters most, Upward helps you meet someone who wants the same kind of future.\n\nModern courtship, made clear\nCreate your dating profile and share what matters most to you from day one.\nChoose your Core Values so potential matches can see what shapes your life, your relationships, and the future you want to build.\nAdd your Marriage Timeline to be clear about your goals and meet people moving toward the same kind of future.\nTurn on Chivalry Mode for a more intentional way to connect. Men take the lead by making the first move. Women choose what happens next. Both show up with clear intention.\nMeet singles who are dating with intention and looking for a lasting relationship that can lead to marriage.\nSwipe right to like someone or left to pass.\nMake a mutual connection and chat with like-minded singles near you for FREE!\n\nMarriage is the goal\nFind someone who shares your values, matches your effort, and wants to build a life together.\nDownload Upward today and find the one who’s Wanted for Life.\n\nGo Premium and you can also:\n• Send 5 Super Likes per week to stand out from the crowd and let people know that you're really interested \n• Rewind on people to give them a second chance\n• Boost your profile each month to be one of the top profiles in your area for 30 minutes\n• Send unlimited likes to other singles who share your values and relationship goals\n• Enjoy an uninterrupted experience with no ads!\n\nBecome Elite and you can:\n• Get all of the Premium benefits PLUS \n• Remove the mystery and See Who's Liked You for instant matches!\n\n\nCheck us out every day — we're growing fast and there's someone new to connect with every day, making it easier to find values-based relationships built on what truly matters.\n\n\nHere we grow! Share Upward with your family and friends.\n\nPrivacy Policy: https://www.upward-app.com/en/privacy-policy Terms & Conditions: https://www.upward-app.com/en/terms-of-use\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/upward-dating-meet-singles/id1499137942?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "268146688",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 22,
+    "dating app": 24
+   }
+  },
+  {
+   "trackId": 1164067996,
+   "trackName": "3Fun: Couples & Singles Dating",
+   "bundleId": "com.makesuperdream.3fun",
+   "artistName": "3Fun Limited",
+   "sellerName": "3Fun Limited",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.43401,
+   "userRatingCount": 149544,
+   "releaseDate": "2016-10-28T07:38:44Z",
+   "currentVersionReleaseDate": "2026-09-23T03:57:56Z",
+   "version": "3.8.3",
+   "description": "3Fun - The Leading Dating App For Singles & Couples To Meet Like-Minded People! \n\n‘Makes it much easier to meet like-minded people’ - TheSun.co.uk\n\n- We secure all your photos with presigned URLs and APIs have been highly encrypted.\n- Send Unlimited private messages with your matches for FREE!\n- Chat synchronously with one couple account!\n- Invite your partner/matches to Group Chat!\n- Hide your distance and profile!\n- Only your matches can see your private photos!\n- With verified photos, we make sure your dates look like their photos!\n- See who have already liked you so you won't miss a match!\n- Whether you are a gay, lesbian, bisexual, pansexual, polysexual, queer or transgender, we've got you covered!\n\nAre you ready? Go 3Fun now!\nThe 3Fun Team\nsupport@Go3fun.co\n\nTop cities where 3Fun used the most in US: New York, Los Angeles, Chicago, Houston, Phoenix, San Antonio, San Diego, Philadelphia, Dallas, San Jose, San Francisco, Las Vegas, Washington, D. C.\n\n----------------------\nThe 3Fun VIP Service subscription price starts from $29.99/mo. If you choose to purchase 3Fun VIP, payment will be charged to iTunes Account at confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current one month period. Auto-renewal may be turned off by going to the user’s iTunes Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period. Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication.\n\n- Privacy: https://go3fun.co/privacy_policy\n- Terms:  https://go3fun.co/terms_of_use\n- You must be at least 18 years of age to access and use 3Fun.",
+   "trackViewUrl": "https://apps.apple.com/us/app/3fun-couples-singles-dating/id1164067996?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "72761344",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 23,
+    "dating app": 25
+   }
+  },
+  {
+   "trackId": 351331194,
+   "trackName": "Badoo Dating: Meet New People",
+   "bundleId": "com.badoo.Badoo",
+   "artistName": "Badoo Software Ltd",
+   "sellerName": "Badoo Software Ltd",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.57601,
+   "userRatingCount": 149061,
+   "releaseDate": "2022-01-19T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T09:08:30Z",
+   "version": "5.481.1",
+   "description": "Boost your dating confidence with Badoo— the dating app that makes it easy to express your true self.\n \nIt’s an encouraging, safe space that’s designed to help you make more meaningful connections.\n \nHow? By keeping it simple, helping you take action with confidence, and giving you the features and support you need to find whatever you’re searching for. Whether that’s dates, a long-term relationship, new friends, or chats.\n\nPlus, with our latest tech that aims to block fake, scam, and spam accounts, you can say hello to a fun and authentic dating experience. \n \nDownload Badoo to take your dating confidence to another level.\"\n\nBack yourself\nOn Badoo, it’s all about celebrating you and staying true to your needs. With our various features, it’s easy to put yourself out there with confidence.\nTrust your experience\nBadoo is a platform that prioritises authenticity. Profile photos can be verified and there are strict user guidelines in place.\n\nHow Badoo works\nFocusing on who you are and what you want, here are some features making it easier for you to meet your kind of people:  \n-Advanced Filters: Finesse your search, and save your time\n-Profile Questions: Easily champion your personality\n- People Nearby: Meet daters around you\n- Encounters: Straight forward swiping, right to connect and left for skip\n- Video Chat: Connect with your matches through face to face video calling\n- Verified profiles: We have a three-step verification process which, once completed, you can choose to only interact with other verified profiles and find friends\n- Blur intimate photos: Using AI, our Private Detector feature detects explicit photos and will let you decide if you want to view or block the image\n- Deception Detector: Our new tech that aims to block fake, scam, and spam accounts, so you can have a fun and authentic dating experience\"\n\nGo Premium\nMaximise your dating experience. When you upgrade to Badoo Premium, you’ll unlock plenty of features that will make it even easier to find meaningful connections:\n\n- See who's already liked you\n- Find exactly what you’re looking for with unlimited Advanced Filters\n- Get your messages read first\n- Send unlimited likes\n - Control who sees your profile with Invisible Mode\n- Undo accidental left swipes  \n- And much more...\n\nThe price varies by country and may change without notice, but you can always see the exact price in the app. We will charge your card and your subscription will be automatically renewed unless you deactivate the automatic recharge a minimum of 24 hours before the end of your current subscription period. Badoo Premium is flexible and adapts to your needs - you can cancel your subscription at any time.\n \nFor more information, read our Privacy Policy and Terms of Use:\nhttps://www.badoo.com/privacy\nhttps://badoo.com/terms\n \n\nBumble Inc. is the parent company of Badoo, along with Bumble and Fruitz",
+   "trackViewUrl": "https://apps.apple.com/us/app/badoo-dating-meet-new-people/id351331194?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "246513664",
+   "languageCodesISO2A": [
+    "SQ",
+    "BS",
+    "BG",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "GL",
+    "DE",
+    "EL",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 10,
+    "dating app": 11
+   }
+  },
+  {
+   "trackId": 1595390736,
+   "trackName": "Instinct: Casual Dating App",
+   "bundleId": "com.instinct.dating.unl",
+   "artistName": "Instinct Dating Company",
+   "sellerName": "WISEDIGITAL OU",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.8768,
+   "userRatingCount": 137406,
+   "releaseDate": "2021-11-24T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T09:34:21Z",
+   "version": "9.65.0",
+   "description": "Instinct is a perfect space to meet the people who share your interests — or desires. Will it be a fiery night or a conversation over a drink on a Friday night? You decide!\n\nWhat makes Instinct unique?\n- Meet people who want the same\n- Instant private chats\n- Advanced search based on your current wishes\n\nWe care about the privacy of your data and never share it with third parties. You can easily delete your account at any time.\n\nTo use Instinct, you must be at least 18 years old.\n\nPayment will be charged to your iTunes account at confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within the 24 hours prior to the end of the current period. You can manage your subscription and switch off auto-renewal by accessing your iTunes & App Store Account Settings after purchase. All personal data is handled under the terms and conditions of Instinct privacy policy. More details can be found here https://instinctdate.app/legal/policy/ and here https://instinctdate.app/legal/terms/.",
+   "trackViewUrl": "https://apps.apple.com/us/app/instinct-casual-dating-app/id1595390736?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "68096000",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 9,
+    "dating app": 9
+   }
+  },
+  {
+   "trackId": 601174087,
+   "trackName": "DOWN: The Casual Dating App",
+   "bundleId": "com.bwf.BWF",
+   "artistName": "Down App, Inc.",
+   "sellerName": "Down App, Inc.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.31614,
+   "userRatingCount": 129517,
+   "releaseDate": "2013-05-01T06:03:46Z",
+   "currentVersionReleaseDate": "2026-09-29T09:23:56Z",
+   "version": "83.1",
+   "description": "Your search is over: this is where curiosity and honesty meet to create magical dates! 19+ million open-minded singles exploring and keeping it real.\n\nNo matter what kind of relationship you're seeking, you're in control—express openly whether you're looking for something SERIOUS or CASUAL.\nDOWN is the most honest dating app for open-minded singles to connect, express themselves freely, and find what they truly want.\n\nDiscover your dating life in a safe space.\nYour privacy and safety are our top priorities. We employ robust measures, including photo verification, to proactively identify and mitigate inauthentic accounts and scammers—creating a safe environment for you to match and chat with nearby singles. To enhance safety and provide a more authentic experience, all users must now be photo-verified. We’re committed to combating inauthentic accounts to improve your experience, and we verify all users from the start.\n\nDOWN is the perfect app for singles seeking casual relationships, long-term commitments, or anything in between.\nFind attractive singles near you. Flirt, meet, date, and have fun every day!\nJoin our community of over 19 million users, be straightforward and date the honest way: If you're seeking casual fun, say \"GET DOWN.\" If you're looking for something more serious, say \"GET DATE.\" It's that simple—you choose!\n\nHow DOWN Works:\nSign up once with a Mobile Number, Apple ID, or Facebook to verify your identity (don't worry—we NEVER post to your Facebook wall!).\nLike singles nearby: We will only inform them if they’re interested in you too!\nWhen we confirm you’re both interested in chatting or ready to date, we’ll notify you so you can meet!\nThe app is free to download and use. We also offer an optional subscription package called DOWN Private Membership.\n\nSubscribe to access DOWN's premium features and enjoy all the advantages—giving you the best chances of success.\nPayment will be charged to your iTunes Account upon purchase.\nIf you choose the subscription option, it will automatically renew unless auto-renew is disabled at least 24 hours before the end of the current period.\nYour account will be charged for renewal within 24 hours before the end of the current period, which will outline the renewal cost.\nSubscriptions can be managed by the user, and auto-renewal can be turned off through the user's Account Settings after purchase.\nNo cancellation of the current subscription is allowed during the active subscription period.\nAll personal data is handled in accordance with DOWN's privacy policy. More details can be found here: https://www.downapp.com/privacy.\n\nTerms and Conditions can be found here: https://www.downapp.com/terms.",
+   "trackViewUrl": "https://apps.apple.com/us/app/down-the-casual-dating-app/id601174087?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "189475840",
+   "languageCodesISO2A": [
+    "EN",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 4,
+    "dating app": 4
+   }
+  },
+  {
+   "trackId": 1571274697,
+   "trackName": "Kismia - Dating App & Chat",
+   "bundleId": "com.kismia.app",
+   "artistName": "Kismia Group Limited",
+   "sellerName": "KISMIA GROUP LIMITED",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.52377,
+   "userRatingCount": 109538,
+   "releaseDate": "2021-08-12T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-22T06:13:53Z",
+   "version": "1.10.15",
+   "description": "Looking for a dating app to meet new people? Kismia is one of the safest dating apps to meet singles and find love. Whether you want to date singles locally or globally, Kismia helps you find serious relationships, casual dating, or new friendships. \n\n\nJoin over 100 million people searching for a perfect match on our free dating app. With advanced algorithms, profile verification, and personalized recommendations, Kismia is your final pit stop among endless dating sites—because the next stop is love.\n\n\n_______________\n\n\nWHY CHOOSE KISMIA?\n\n\nAmidst the sea of dating apps, Kismia is the lifesaver for your romantic journey! Enjoy an intuitive interface, superb security, round-the-clock support, and much more:\n\n\n• Smart Matching: Our algorithms analyze your preferences to find the perfect match.\n• Safety First: Verified profiles and 24/7 moderation.\n• Custom Filters: Personalize your experience to connect with like-minded singles.\n• Free Messaging: unlimited chatting after a match.\n• Fun Chats: Connect instantly and send virtual gifts.\n• Large Database: Over 100 million profiles to explore.\n\n\n\nSoulmate isn’t just an empty word—it’s a feature! \n\nKismia’s smart matchmaking algorithms connect you with people who match your vibe. By analyzing personality, interests, and goals, it links you with those who truly share your values, turning dating into an easy win!\n\n\nIcebreakers: Warming up conversations, one chat at a time!\n\nStruggling to start a conversation? Kismia’s Icebreakers make it easy to connect and spark meaningful chats in no time:\n\nSmart Messages  –  AI-powered suggestions that make first messages smooth and engaging.\n\nVirtual Gifts  –  A creative way to show interest and make a lasting impression.\n\nQuick Questions — Pre-set questions to ignite lively conversations.\n\nMessage reactions  –  Show interest with a single tap before diving into a full chat.\n\n\n\nHOW KISMIA WORKS\n\n\n\n1. Create Your Profile\nUpload your best photo, share a little about yourself, and start dating right away.\n\n2. Talk and Connect\nMeet new people and enjoy real-time messaging in our user-friendly chat.\n\n3. Find Your Match\nUse our dating algorithms and advanced filters to connect with users based on marital status, relationship goals, local dating preferences, personality traits, and more.\n\n\nKISMIA FACTS\n\n\n  →   Connecting hearts around the globe since 2012\n\n  →  One of the fastest-growing dating apps in the USA and Latin America\n\n  →  Most users are 30+\n\n  →  Every day, 10,000 people find their match on Kismia\n\n\nFREE & PREMIUM FEATURES\n\n\nKismia is free to download, and you can chat with users without any limitations after a match. However, upgrading to Premium helps you find matches faster and unlocks additional features.\n\n◆ Free: Profile creation, browsing, chatting after a match, advanced filters, and limited profile views.\n\n◆ Premium: Unlimited chats, access to the \"Likes\" list, and exclusive features like reaction reverses.\n\n◆ VIP status: Profile highlighting, faster match finding, and additional profile boosts.\n\n\n_______________\n\n\nTired of searching for love? Join Kismia dating app and let love find you today!\n\nTerms of Use: https://mobapi.kismia.com/assets/57/terms.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/kismia-dating-app-chat/id1571274697?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "215161856",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "PL",
+    "PT",
+    "RU",
+    "ES",
+    "UK"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating app"
+   ],
+   "ranks": {
+    "dating app": 36
+   }
+  },
+  {
+   "trackId": 873518909,
+   "trackName": "Luxy - Selective Dating App",
+   "bundleId": "US.Luxy.Luxy",
+   "artistName": "Luxy Inc.",
+   "sellerName": "LUXY LIMITED",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.72063,
+   "userRatingCount": 105027,
+   "releaseDate": "2014-05-20T19:43:53Z",
+   "currentVersionReleaseDate": "2026-09-20T02:03:24Z",
+   "version": "7.34.2",
+   "description": "A brilliant way to meet high-quality people around the world. If you do have beautiful expectations of your life, Luxy is the app for you.\nProfiles are verified in real-time to help keep the community SAFE and FUN!\n\nJOIN THE LUXY SELECTIVE DATING APP\nNEVER SETTLE. Designed for selective singles who demand a higher standard of love.\nEveryone has their own version of love, while we believe that YOU deserve better. Join the Luxy app and start connecting with people online.\n\nAS SEEN ON \nBBC, Business Insider, Daily Mail, CNN, Financial Times, and more... Since its launch in 2014, Luxy has garnered significant attention and featured prominently in numerous international media outlets.\n\nNO MORE ENDLESS SWIPING\nWe care about what really matters to you and will introduce you to remarkable individuals.\nWe value your time. All profiles are reviewed to pass - Luxy executes the most accurate and reliable verification process to ensure a quality dating experience for its members. \n\nHOW YOU MEET FRIENDS AND POTENTIAL DATES ON LUXY\nLuxy brings you free access to a number of easy-to-use features:\n- Swipe to like and pass\n- Browse to connect with high-quality people nearby\n- Message freely with your matches\n- Send free virtual gifts to the ones you care and keep the conversation flowing\n\nLUXY PREMIUM\nTo perfect your dating experience online, we offer subscription options as well.\n\nYou can enhance your dating experience by upgrading to the exclusive membership – Luxy BLACK:\n* Invisible Mode. Curious about someone while wanna keep it a secret? Switch to the invisible mode.\n* Do Not Disturb Mode. You’ll be only introduced to people you’re really interested in.\n* Double Batch Swipes. Get more potential matches each day!\n* Advanced Filters. Use advanced search feature to find someone worth meeting.\n* BLACK Messages. You can skip swiping and start conversations with anybody you like. \n* More advanced features...\n\nMORE WAYS TO MAXIMIZE YOUR RESULTS\nLuxy PLATINUM Membership:\n- Enjoy all benefits included in the Luxy BLACK membership\n- Make your profile the top priority to be shown\n- Boost your profile for free\n*Only seven spots available in each city.\n\nSUBSCRIPTION INFO\nIf you choose to purchase Luxy BLACK or Luxy PLATINUM, the payment will be charged to your iTunes account, and your account will be charged for renewal within 24-hours prior to the end of the current period.\n\nAuto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. Current Luxy BLACK subscription prices start at $99.99 USD/month, one month, six months and twelve-month packages are available. The current Luxy PLATINUM subscription is $999 USD for three months.\n\nPrices are in U.S. dollars, prices may vary in different countries and are subject to change without notice. If you don’t choose to purchase Luxy BLACK or Luxy PLATINUM, you can simply continue using Luxy for free!\n\nYOUR PRIVACY AND SAFETY MATTER!\nLuxy is secure and safe. Your privacy is always the most important thing for us. To view our Privacy Policy and Terms, please visit the following links:\nhttps://www.onluxy.com/page?path=privacy\nhttps://www.onluxy.com/page?path=terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/luxy-selective-dating-app/id873518909?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "282372096",
+   "languageCodesISO2A": [
+    "EN",
+    "DE",
+    "IT",
+    "PT",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating app"
+   ],
+   "ranks": {
+    "dating app": 37
+   }
+  },
+  {
+   "trackId": 1673723000,
+   "trackName": "Duet Dating App: Chat & Meet",
+   "bundleId": "next.bondee.tech",
+   "artistName": "WINK TECH LIMITED",
+   "sellerName": "WINK TECH LIMITED",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.57698,
+   "userRatingCount": 104852,
+   "releaseDate": "2023-02-26T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-01T01:21:47Z",
+   "version": "2.84.0",
+   "description": "Ready to find that special connection? Welcome to Duet - a new dating app featuring REAL profiles for all kinds of interests. Whether you're a gamer, fitness enthusiast, foodie, fashionista, cat person, meme expert, cinephile or a bookworm, you'll find someone whose interests and passions strike a chord with you.\n\nBREW UP CONNECTIONS, NO HASSLE\nDuet’s Meet-up Assistant takes the stress out of planning—automatically suggesting coffee date times when one user shows interest in meeting up, syncing with your calendar, and sending reminders, so meeting up in real life feels easy and natural.\n\nNO SCAMMERS WITH DUET'S VERIFIED PROFILES\nTired of endless swiping only to fall prey to scammers and catfish? Duet introduces our enforced face verification system as reliable as banking security. No more fake profiles — we love authenticity and real connections, just like you.\nPlus, Duet's 24/7 moderation team is always on alert, tackling any scam reports swiftly.\n\nDISCOVER YOUR PERFECT MATCH WITH DUET'S SMART TAG\nDuet's Smart Tag digs deeper than superficial similarities, covering your interests, traits, opinions, and habits. This multifaceted self-description enhances connections and guarantees a match based on an in-depth understanding of each person.\n\nSHARE YOUR VOICE WITH DUET'S VOICE PROMPT\nVoices are full of emotion and depth — share your 30-second story, open up about yourself, and invite meaningful conversations with one another.\n\nDISCOVER LIKE-MINDED PEOPLE IN UNIQUE WAYS\nHad enough of swiping? Duet Blind Date connects you with similar individuals through engaging new features.\n► Duet's Dating Quiz matches users who pick similar answers, breaking the ice and encouraging further conversation.\n► Duet's Personality Test unveils your romance compatibility score and relationship strengths.\n► Duet Clic randomly pairs you with someone based on your location and zodiac sign compatibility, letting fate take the wheel!\n\nUPGRADE TO DUET PREMIUM FOR EXCLUSIVE FEATURES\n► See Who Likes You: Instantly match and chat with your secret admirers.\n► Unlimited Likes: Enjoy Duet without any limits on likes you send.\n► Unlimited Rewind: Accidentally swiped left? Get a second chance.\nUnlock more premium perks for the ultimate dating journey!\n\nJOIN THE DUET SUPREME CLUB TO ENJOY YOUR PERSONAL FILTER\nDuet Supreme includes all 9 Duet Premium privileges with extra exclusive privileges:\n► Message Before Matching: You can send 3 Praises directly to people you like\n► Advanced Filters: You can filter by height, education, purpose and popularity to only see your type\n► Daily Picks: Duet will pick the most popular users and recommend to you everyday\n\nDuet Premium and Supreme purchases are charged to your iTunes account and will be auto-renewed unless disabled in-app 24 hours before the current period ends.\n\nWe appreciate your feedback! Contact us at support@duetapp.net for any questions or comments.\n\n- Terms: https://duetapp.net/terms\n- Privacy: https://duetapp.net/privacy\n- Website: https://duetapp.net/",
+   "trackViewUrl": "https://apps.apple.com/us/app/duet-dating-app-chat-meet/id1673723000?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "103264256",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 6,
+    "dating app": 6
+   }
+  },
+  {
+   "trackId": 1462163015,
+   "trackName": "Casual Dating & Flirt - Kasual",
+   "bundleId": "com.pinkmatch.yumi",
+   "artistName": "YUMI LIMITED",
+   "sellerName": "YUMI LIMITED",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.46541,
+   "userRatingCount": 102617,
+   "releaseDate": "2019-05-03T03:09:03Z",
+   "currentVersionReleaseDate": "2026-09-10T07:32:58Z",
+   "version": "5.7.1",
+   "description": "Kasual – The Best Casual Dating App\n\nKasual helps you meet open-minded people in an effortless way. Keep things light, explore local vibes, and enjoy real conversations.\n\nWhy You’ll Love Kasual\n* Privacy First: No Facebook, phone number, or email required.\n* Flip to Discover: Kasual Cards make finding local people fun and spontaneous.\n* Voice Vibe: Match through voice first. If you both like what you hear, unlock profiles and start chatting.\n* Free Chat: Message people you’ve flipped or your mutual matches instantly.\n* Everyone’s Welcome: Open to all adults (18+), singles or couples, of any orientation.\n\nKasual is a safe community for casual dating, chatting, and meeting new people. Download Kasual now and find your vibe today!\n\nSUBSCRIPTION OPTIONS\n1 month for $29.99 USD\n3 months for $59.99 USD ($19.99 USD per month)\n6 months for $89.99 USD ($14.99 USD per month)\n\nITUNES SUBSCRIPTION INFO\n– Payment will be charged to iTunes Account at confirmation of purchase.\n– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n– Account will be charged for renewal within 24-hours prior to the end of the current period.\n– Subscriptions may be managed and auto-renewal may be turned off by going to Account Settings after purchase.\n\nSupport: hello@kasualapp.com\nTerms of Use: https://www.kasualapp.com/terms\nPrivacy Policy: https://www.kasualapp.com/privacy",
+   "trackViewUrl": "https://apps.apple.com/us/app/casual-dating-flirt-kasual/id1462163015?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "178725888",
+   "languageCodesISO2A": [
+    "AR",
+    "BG",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HU",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "ZH",
+    "TR",
+    "UK"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 30,
+    "dating app": 30
+   }
+  },
+  {
+   "trackId": 887914690,
+   "trackName": "Feeld: Dating for the Curious",
+   "bundleId": "com.3nder.threender",
+   "artistName": "Feeld Ltd",
+   "sellerName": "Feeld Ltd",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.30283,
+   "userRatingCount": 101196,
+   "releaseDate": "2014-06-29T05:07:31Z",
+   "currentVersionReleaseDate": "2026-09-21T08:04:45Z",
+   "version": "9.13.0",
+   "description": "Feeld was made for you to connect with open-minded people looking to explore dating and relationships in a safe and private way. Chat & connect on an alternative dating app created for anyone and everyone. Feeld is open to anyone looking for an exciting, new type of dating experience.\n\nDiscover a space to be your true self and let the people looking for you find you. Join Feeld to explore virtual or other locations and connect with like-minded individuals worldwide. Connect openly in a diverse community open to all genders and sexual identities as you redefine your relationships to self and others on Feeld.\n\nDiscover an open-minded dating experience when you download today.\n\n\nFEELD FEATURES\n\nCHAT & CONNECT\n• Meet open-minded humans and start up a conversation\n• Connect with people closest to you, or explore 20+ of our most popular cities around the world\n• Find people looking to connect and discover a new way to date\n\nA DATING APP MADE FOR EVERYONE\n• Choose from over 20 gender identities\n• Pick from a list of 20+ sexualities to personalize your Feeld experience\n\nDATE YOUR WAY\n• Explore safely on a secure and private dating platform\n• Connect with curious Feeld members and explore your desires\n• Chat with open-minded Feeld members for meaningful experiences\n\nAs seen in: New York Times, The New Yorker, Dazed & Confused, Cosmopolitan and Vanity Fair.\n\nBecome Majestic for the full Feeld experience. With a Majestic membership, you can enjoy enhanced features such as seeing who liked you on the app, adding private photos visible only to your Connections, one free Ping a day, and more.\n\nDownload Feeld, a place to explore curiosity and desires, and date in a different way. Connect with other people around the world that are ready for a new, exciting way to date.\n\n______\n\nYou must be at least 18 years of age to access and use Feeld.\n\nThe app is free to download and use.\n\nAdditional features are available when you join the Majestic Membership, an optional paid subscription service that funds the app’s development.\n\nSubscriptions must be managed by the members and auto-renewal may be turned off by going to the App Store Subscriptions screen after purchase. \n\nWhen a trial subscription is offered, the trial period begins when a member signs up for the subscription through their App Store account. The subscription will be charged on the last day of the trial unless the member cancels at least 24 hours before trial ends.\n\nAny unused portion of a free trial period will be forfeited when the member purchases a subscription.\n\nTo cancel the Membership, members must cancel directly through their App Store account.\n\nCancellations begin at the end of the current subscription period.\n\nAll purchases are billed to the payment method that you designate when you sign up for an Apple ID as part of your App Store account and will appear as Apple on your App Store statement.\n\nAll personal data is handled under the Terms of Use of Feeld Privacy Policy. More details can be found here: https://feeld.co/about/privacy.\n\nTerms of Use can be found here: https://feeld.co/about/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/feeld-dating-for-the-curious/id887914690?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "250062848",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 13,
+    "dating app": 17
+   }
+  },
+  {
+   "trackId": 690661663,
+   "trackName": "PURE: Open-Minded Dating App",
+   "bundleId": "org.getpure.pure-iphone",
+   "artistName": "Online Classifieds AG",
+   "sellerName": "Online Classifieds AG",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.25495,
+   "userRatingCount": 85979,
+   "releaseDate": "2013-10-25T20:35:27Z",
+   "currentVersionReleaseDate": "2026-09-17T10:16:58Z",
+   "version": "3.33.0",
+   "description": "PURE is a dating app for curious people to show up in their most playful version of themselves. It’s a space to be honest with your intentions and clear in your boundaries.\n\nConnect with like-minded community to create and explore new exciting experiences in a safe and supportive space.\n\nLet your imagination go wild and get ready for amazing dates!\n\n* HOW PURE WORKS?\nEverything starts with Personal Ads. To see other people in the feed, you need to post your Ad. Write what kind of experience you are looking for and find someone who would share the same experience with you. Be creative and original with your ads, that's always appealing.\n\n* IN PURE ALL BORDERS ARE OPEN\nParis, New-York or London? You can check any city worldwide and meet people from PURE community from around the globe.  \n\n* WHAT HAPPENS IN PURE STAYS IN PURE\nPhotos self-destruct right after being seen, and in case someone takes a screenshot, you will get a notification about that. Also, all chat messages, including photos and audio, shared in chats cannot be saved to the phone's gallery.\n\n* OUR MISSION IS TO KEEP PURE A PURE EXPERIENCE\nSafety of our community is one of our key priorities. We are constantly improving our algorithms to find and get rid of scam and spam accounts, also our system sends automatic alerts on trigger words that might be used by scammers, so don't be surprised in case you will get a warning. \nKeep chatting via PURE and do not switch to other messengers. You know what they say: better safe than sorry. \n\nPURE uses auto-renewing subscriptions — you have to subscribe to get inside.\nHere’s what you should know about PURE subscriptions:\n\n- If you choose to purchase a weekly, monthly or annual subscription you will be able to go online and interact via chats with other users during the chosen subscription period. The prices may vary per country and are subject to change with a notice. Prices are clearly displayed in the app.\n- All subscriptions renew automatically unless you cancel at least 24 hours before the end of the current subscription period without any limitations.\n- Auto-renewal can be canceled at any time by going to your settings in the Apple Store after the purchase.\n- All personal data is handled under PURE’s privacy policy https://pure.app/content/en/privacy\n- Terms and conditions: https://pure.app/terms/",
+   "trackViewUrl": "https://apps.apple.com/us/app/pure-open-minded-dating-app/id690661663?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "132411392",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR",
+    "UK"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 15,
+    "dating app": 14
+   }
+  },
+  {
+   "trackId": 1080102131,
+   "trackName": "Wild: Adult Casual Dating App",
+   "bundleId": "com.superdreammake.wild",
+   "artistName": "Wild Limited",
+   "sellerName": "Wild Limited",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.41279,
+   "userRatingCount": 67799,
+   "releaseDate": "2016-03-09T02:45:38Z",
+   "currentVersionReleaseDate": "2026-09-28T05:45:12Z",
+   "version": "2.9.8",
+   "description": "WILD - The Fast & Safe way to meet & date Verified Singles! Forget other dating apps/sites, Wild is the only Free dating app you'll ever need! We have included all of your favorite features into one app and even more:\n\nFree Chat - It's 100% FREE to chat with your matches.\nSend unlimited Messages to anyone before Matching if you become a SVIP.\n\nReal People - We use Amazon Rekognition Face Liveness to ensure every profile belongs to a real person.\n\nMeetup - Create/Join local events to meet potential matches based on your hobbies.\n\nPowerful Search Filter - You can look for Long-term Relationship, Casual Encounters, and Friendship! No need to waste time on people with different intentions! \n\nAnonymous - You can anonymously browse with just a private photo! Only your matches can see your private photos! And you can hide your account with Incognito Mode. \n\nPrivacy Protect - We use AI to block Scammers. All the profiles will be reviewed Manually.\n\nWild is not just a Dating app but also a friend finder for adults. You can find friends by similar interests. No matter you are for straight, bisexual, lesbian or gay dating, we've got you covered!\n\nReady to have some fun? What are you waiting for? Download the OFFICIAL Wild Dating app and start browsing, chatting & dating for free now!\n\n- Privacy Policy: https://www.justbewild.com/privacy_policy\n- Terms: https://www.justbewild.com/terms_of_use \n- Dating Tips: https://www.justbewild.com/wild-blog \n\n- You must be at least 18 years of age to access and use Wild.",
+   "trackViewUrl": "https://apps.apple.com/us/app/wild-adult-casual-dating-app/id1080102131?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "72734720",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 33,
+    "dating app": 32
+   }
+  },
+  {
+   "trackId": 1011085984,
+   "trackName": "Curvy Dating App: WooPlus",
+   "bundleId": "com.teamn.wooplus",
+   "artistName": "DATING OASIS LIMITED",
+   "sellerName": "DATING OASIS LIMITED",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.5392,
+   "userRatingCount": 59392,
+   "releaseDate": "2015-10-20T07:44:23Z",
+   "currentVersionReleaseDate": "2026-10-03T16:35:37Z",
+   "version": "9.13.1",
+   "description": "WooPlus is a body-positive dating app designed to create a safe, inclusive, and respectful space for everyone who's ever felt overlooked or judged elsewhere to feel respected, seen, and valued. We embrace diverse beauty and celebrate every body, and believe that connection goes beyond appearances.\nCome as you are—and meet people who see and value you for the real you.\nWhether you're seeking meaningful conversations, lasting relationships, or simply authentic connections, WooPlus provides an inclusive space where you are embraced, free, and confident to be your unfiltered self and enjoy love.\nWith over 12 million members around the world, WooPlus is one of the most welcoming and inclusive dating communities—and it's growing every day.\n\nHow WooPlus Works\n\n- Create Your Story\nCraft a profile that highlights your personality, passions, and what makes you unique. Real people. Real stories.\n\n- Match & Connect\nSay hi, start chatting, and build genuine connections based on kindness, honesty, and shared values.\n\n- Express Yourself\nShow your real self with videos and photos—because confidence is more attractive than any filter. Here, we honor individuality and encourage you to shine with your own unique beauty.\n\n- Real Profiles\nEvery profile is reviewed to keep WooPlus a safe, respectful, and authentic community.\n\n- Local & Global Connections\nFind like-minded singles near you, or explore global matches who appreciate authenticity over appearances.\nWe respect all kinds of bodies, backgrounds, and identities—because beauty comes in every shape.\n\nWhy Choose WooPlus\n\n- Body Positive Community\nWe embrace diversity in all its forms, creating a space where confidence thrives and kindness leads the way.\n\n- Genuine Conversations\nStart chatting without complicated rules—just honest, meaningful talks.\n\n- Safety First\nProfiles are professionally checked, and respectful behavior is our priority—making a safe space where all bodies are respected.\n\n- Ally Recognition\nMembers who help foster kindness and inclusivity earn our Ally Badge.\n\n- No Ads\nEnjoy an uninterrupted experience focused purely on building real connections.\n\nA Global Community That Celebrates You\n\nFrom the US to the UK, Canada to Australia, Germany, and beyond, WooPlus welcomes people of all sizes, identities, and backgrounds. Here, everyone deserves to be seen, respected, and loved—just as they are.\n\nPremium Upgrade\n\nWooPlus also offers premium online dating services for VIP members. WooPlus has multiple In-app purchase subscription options to choose from:\n- 1 month: 18.99 USD\n- 6 months: 58.99 USD\n- 12 months: 98.99 USD\n· Payment will be charged to your iTunes Account at confirmation of purchase.\n· Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.\n· Your account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal.\n· You can manage your subscription and switch off the auto-renewal by accessing your Account Settings after purchase.\n· You cannot cancel the current subscription during the active subscription period.\n· Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication.\n\n\nJoin WooPlus today and meet amazing people who truly appreciate the real you.\n\nFollow us on Instagram and TikTok: @wooplus_dating\n- Terms of Service: https://www.wooplus.com/terms/\n- Privacy Policy: https://www.wooplus.com/privacy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/curvy-dating-app-wooplus/id1011085984?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "243789824",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 14,
+    "dating app": 13
+   }
+  },
+  {
+   "trackId": 996916233,
+   "trackName": "BBW Dating & Curvy Meet: Bustr",
+   "bundleId": "com.maxma.bbw",
+   "artistName": "GoMatch Limited",
+   "sellerName": "GoMatch Limited",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.27707,
+   "userRatingCount": 58192,
+   "releaseDate": "2015-12-08T15:06:42Z",
+   "currentVersionReleaseDate": "2026-09-17T11:22:04Z",
+   "version": "4.2.24",
+   "description": "Bustr – The Ultimate BBW Dating App\nLooking for a space where you can truly be yourself? Bustr is the premier community for plus-size people, BBW, BHM, and their admirers to meet someone new and ignite real chemistry. More to love, more to hold—discover a judgment-free world where your confidence and authenticity lead the way.\n\nBustr is a vibrant, inclusive community built on the belief that everyone deserves to feel seen and valued. Whether you're here for a spontaneous spark, a new friend, or a fresh connection, we provide a welcoming environment for curvy singles and those who celebrate them. No labels, no pressure—just real vibes.\n\nHow It Works:\nExpress Yourself: Set up your profile and showcase your personality. Let the community know what kind of connection you're looking for.\n\nFind Your Tribe: Use our tailored filters to discover local singles who share your energy and values.\n\nVerify & Connect: Use our video tools to ensure you're meeting real people, creating a safe space for genuine sparks to fly.\n\nFor BBW & BHM Singles\nStep into a community that celebrates your confidence. Bustr is designed for those who are proud of who they are and want to meet people who appreciate their authentic selves. Enjoy a space where you can feel empowered to explore connections on your own terms.\n\nFor Admirers & Allies\nStop scrolling and start connecting with people who resonate with your vibe. Meet thousands of active, engaging BBW and BHM singles in your area. Our platform is open to everyone—straight, gay, lesbian, bi, trans, singles, etc. If you value genuine connections, you belong here.\n\nWhat Makes Bustr Stand Out?\nVideo Verification: Connect with trust! Our verification process ensures you're meeting real people, creating a secure environment for authentic interactions.\n\nA Culture of Respect: We maintain a judgment-free zone with zero tolerance for body-shaming or disrespectful behavior.\n\nAdvanced Discovery: Filter by location, interests, and relationship goals to find exactly who you're looking for.\n\nSafety First: Our features are designed to give you full control over your experience, ensuring a comfortable and secure environment.\n\nPure Connection: Enjoy an ad-free experience, allowing you to focus entirely on building meaningful sparks.\n\nExciting Features to Explore\nVerified Profiles: Look for the checkmark! Connect with verified users to ensure your safety and peace of mind.\n\nSee Who Liked You: Take the guesswork out of dating. Identify mutual interests instantly and make your move with confidence.\n\nVideo Profiles: Bring your profile to life! Share a short video to let your personality shine and stand out from the crowd.\n\nBustr Premium Membership\nWhile Bustr is free to use, you can upgrade to Bustr Premium for exclusive features like enhanced visibility, unlimited messaging, and more.\n\n1 Month: $14.99 USD\n3 Months: $39.99 USD\n6 Months: $54.99 USD\n\nPayment will be charged to your App Store account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription in your App Store Account Settings.\n\nAvailable Worldwide\nJoin a global movement of self-love and connection. From the US and UK to Canada and Australia, Bustr is the trusted destination for curvy singles to find love, fun, and everything in between.\n\nFollow us on Instagram and Facebook: @bustrdating\n-Privacy Policy: https://www.bbwdatingapp.net/privacy.html\n-Terms of Use: https://www.bbwdatingapp.net/terms.html\n-Contact Us: https://www.bbwdatingapp.net/#Mailtous",
+   "trackViewUrl": "https://apps.apple.com/us/app/bbw-dating-curvy-meet-bustr/id996916233?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "110610432",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating"
+   ],
+   "ranks": {
+    "dating": 37
+   }
+  },
+  {
+   "trackId": 893653132,
+   "trackName": "The League: Intelligent Dating",
+   "bundleId": "karisma.dstaten.LeagueMVP",
+   "artistName": "The League App, Inc",
+   "sellerName": "The League App, Inc",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.21033,
+   "userRatingCount": 55792,
+   "releaseDate": "2014-07-15T13:28:31Z",
+   "currentVersionReleaseDate": "2026-09-15T17:41:57Z",
+   "version": "3.1.0",
+   "description": "High standards? Keep them that way. The League is a selective dating app offering its members a curated “Batch” of potentials each day, rather than an unlimited stream of profiles. Designed for motivated daters who would rather be single than settle, The League strongly believes that 3 quality matches are better than 100 bad ones. So say goodbye to endless swiping and keep those standards sky-high— because while your mother might call you picky, we call you self-aware.\n\n\nThe League uses an application process to ensure a well-balanced, highly engaged community of people with real motivation to find a meaningful long-term relationship. You can use The League for free or upgrade to a subscription to unlock additional benefits. Subscribers see more profiles each day, and thus, enjoy 40% more matches on average.\n\nSubscription Details: Payment will be charged to Apple Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed and auto-renewal may be turned off by going to Account Settings after purchase. \n\nSee our terms of service at https://www.theleague.com/terms-of-service-en/ and and privacy policy at https://www.theleague.com/privacy-policy-en/\n\nAll photos are of models and used for illustrative purposes only.",
+   "trackViewUrl": "https://apps.apple.com/us/app/the-league-intelligent-dating/id893653132?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "228166656",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 36,
+    "dating app": 33
+   }
+  },
+  {
+   "trackId": 1051198166,
+   "trackName": "Cougar Dating App - CougarD",
+   "bundleId": "com.pzdate.cougard",
+   "artistName": "GoMatch Limited",
+   "sellerName": "GoMatch Limited",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.21963,
+   "userRatingCount": 50443,
+   "releaseDate": "2016-03-21T02:41:09Z",
+   "currentVersionReleaseDate": "2026-07-30T17:52:16Z",
+   "version": "3.5.81",
+   "description": "CougarD: The Largest Cougar Dating app!®\n\nCougarD isn't just another dating app - it's where mature, confident women and dynamic younger men meet for genuine connections. We're dedicated to providing a serious, efficient, and enjoyable platform for age-gap relationships.\n\nCougarD stands out because IT REALLY WORKS! No matter if you are looking to meet one local single for dating, marriage, long-term relationship, or even fun and spontaneous moments that spark genuine connection, CougarD can get you there in a very short time. Whether you're into mature silver singles, Latina beauties, or vibrant connections, there's always someone ready to stand by for a meetup. Explore connections where passion meets genuine care - meet, chat, and connect with mature singles near you, from the east to the west, and redefine modern dating on your terms.\n\nWhy 5 Million+ Members Choose Us\n\n-World's Largest Cougar Dating Community\n100M+ Connections Made Since 2014 • 5K+ Daily Matches with 100K+ Messages per Day • 100+ New Members Every Minute\n\n-Smart Features for Modern Dating\nAdvanced search filters • Priority message boosts • Private browsing\n\n-Get Noticed Instantly - Free\nGet featured on our homepage within seconds. No paywalls, just real attention from real people.\n\n-100% Verified Profiles\nEvery profile is manually verified by our team to prevent scams and bots. Female members are 100% video verified for authenticity.\n\nExciting connections are just a tap away! Join now to explore, chat, and match with like-minded people. Download the OFFICIAL CougarD app today and start your journey!\n\nUnlike other dating apps, CougarD is only available for those straight men and straight women, but members varied from all religions and regions are welcomed.\n\nWe offer 3 subscription options for VIP membership services with prices ranging from $23.33 per month to $29.99 per month, for you to choose based on your needs.\n\n1. 1-month auto-renewal VIP membership subscription for the price of $29.99 per month\n\n2. 3-month auto-renewal VIP membership subscription for the price of $28.35 per month\n\n3. 6-month auto-renewal VIP membership subscription for the price of $23.33 per month\n\n**Prices are in U.S. dollars; these may vary in countries other than the U.S. and are subject to change without notice.\n\nA reminder for all subscriptions purchased:\nPlease be aware that there are no cancellations allowed during your current subscription while it is still active\n- Payments will be charged to your iTunes account at the confirmation of your purchase\n- Subscriptions are automatically renewed unless auto-renew is turned off at least 24 hours before the end of the current subscription period\n- Your account will be charged automatically within 24 hours of the end of your current subscription period, and you will be notified of the cost of the renewal\n\nPlease feel free to view our Terms of Use Agreement below for more information on our cancellation policy.\n\nPrivacy Policy:\nhttp://cougard.net/policy.html\n\nTerms of use:\nhttp://cougard.net/terms.html\n\nContact us:\nhttp://cougard.net/contact.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/cougar-dating-app-cougard/id1051198166?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "132099072",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 21,
+    "dating app": 18
+   }
+  },
+  {
+   "trackId": 458272450,
+   "trackName": "eharmony: dating & real love",
+   "bundleId": "com.eharmony.singles.SinglesRelease",
+   "artistName": "eHarmony.com",
+   "sellerName": "eHarmony.com",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.05922,
+   "userRatingCount": 49137,
+   "releaseDate": "2011-09-08T18:15:13Z",
+   "currentVersionReleaseDate": "2026-09-22T07:57:13Z",
+   "version": "10.93",
+   "description": "With eharmony, dating is about more than just meeting new people – it’s about building a meaningful, lasting relationship. As the No.1 trusted dating app* we’ve helped over 2 million couples find real love. Download and join free to find out why compatibility matters.\n\nHOW DOES THE EHARMONY DATING APP WORK? \nWhen it comes to dating, compatibility matters. That’s why we’ve created our unique Compatibility Matching System to ensure each of your Matches are based on qualities that are important to you. Compared to other dating apps, we make finding love simple. We’ll guide you through the process in easy steps:\n\nSTEP 1: TELL US ABOUT YOURSELF\nYour  journey on our dating app starts with the Compatibility Quiz. Your answers help us understand exactly what you’re looking for and what matters most to you in a relationship.\n\nSTEP 2: FILL OUT YOUR PROFILE \nThe next step to finding love is setting up your profile. We provide thoughtful prompts that help you show what makes you, you. We make online dating as enjoyable as possible by having richly detailed profiles that are easy to digest. That’s why eharmony is the dating app with the highest-rated user profiles**. \n\nSTEP 3: EXPLORE SINGLES THAT MATCH YOUR PERSONALITY\nBased on your answers to the Compatibility Quiz, eharmony’s matching algorithm determines which singles are the best fit for you. You can see how well you match based on your matching score. The higher the score, the greater the chance of falling in love.\n\nSTEP 4: START A CONVERSATION\nIt’s time to connect! Show your interest with a Like and send a first message. Once you get a Like in return, it’s a Match. With Premium memberships you can now swap messages and get to know each other better.\n\nWHAT OUR DATING APP OFFERS TO YOU TO FIND A PARTNER \n• We focus on serious intentions: that’s why every profile must be at least 50% complete.\n• Our unique Compatibility Matching System helps you meet singles who are truly compatible with you: when it comes to love, we rely on our matching system rather than pure chance.\n•We’re committed to providing a trusted space for online dating: with thoughtful safeguards, clear guidance, and a dedicated Trust and Safety team, you can connect with confidence.\n\nTHE REVIEWS ARE IN \n\"If you're in your 40s and ready to commit, like really commit, eharmony is where you want to be.\" (Mashable)\n\"Best dating app for long-term relationships.\" (GQ)\n\nSTART YOUR NEXT CHAPTER WITH OUR DATING APP \nThe Basic Membership is your default free membership upon joining, where you can gain some online dating experience and understand the app before upgrading to Premium. Some limitations may apply.\n\nThe Premium Membership is not free, but it is worth it. This gives you full access to all of eharmony’s features and capabilities, making it much easier to find a connection with your ideal partner.\n\nMembership structure – Online dating is a journey that shouldn’t be rushed. We believe that shorter plans don’t give you the time to properly get to know your matches, which is why our Premium Membership is available in different durations.\n\nDownload our dating app today and find real love.\n\nOur terms & conditions:\nPrivacy Policy: https://www.eharmony.com/privacypolicy/\nTerms & Conditions: https://www.eharmony.com/termsandconditions/\nSupplemental Privacy Policy: https://www.eharmony.com/privacypolicy/#pp15\n\n*Based on 2022 Survey of 1,300 Respondents from the US, UK, Canada and Australia\n** 2023 survey of 2,807 dating app users in the U.S., UK, Canada and Australia",
+   "trackViewUrl": "https://apps.apple.com/us/app/eharmony-dating-real-love/id458272450?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "123888640",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating"
+   ],
+   "ranks": {
+    "dating": 11
+   }
+  },
+  {
+   "trackId": 489185828,
+   "trackName": "happn: dating app",
+   "bundleId": "fr.ftw-and-co.whoozer",
+   "artistName": "HAPPN SAS",
+   "sellerName": "HAPPN SAS",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.34572,
+   "userRatingCount": 48528,
+   "releaseDate": "2012-03-07T23:04:15Z",
+   "currentVersionReleaseDate": "2026-10-02T08:03:47Z",
+   "version": "2026.20.0",
+   "description": "Like - Crush - Chat - Date\n\nStep into the world of happn, the dating app, that reinvents the way to meet people from your daily life! With over 140 million users across the globe, happn is your ultimate companion in connecting with people you meet in your usual spots. It can be any situation in your daily life, where you missed your chance at meeting your next date; at work, in your favourite café, or even out for a casual stroll. \n\nDate and meet people\n\nOur expertise at the dating app happn, is our ability to create meaningful connections with those you unknowingly share your daily routine with. \nhappn creates connections based on geographical proximity and the places you frequently visit. Want to find someone to date? Find love? Meet real people? The app encourages interactions in familiar environments, and promotes relaxed and authentic connections. So say goodbye to the stress of first approaches and start dating! Use our icebreaker suggestions or chat about your common favourite spots, which can also serve as a great first date location!\n\nCrush with peace of mind...\n\nSafety first! We know that safety is important for you while online dating, so we let you decide, who can see you, and what information you share. At the happn dating app, privacy is our priority: your location remains invisible to other members, only your crossing points are indicated, and you will never receive messages from someone you are not interested in.\n\n... with relevant profiles, while having fun!\n\nLooking for singles who share your taste and passion? No problem! With Teasers and Hobbies you can discover a new way to uncover the personality of your Crushes through short glimpses of fun and genuine life moments.\nYou can also play CrushTime where you try guessing who already liked you! \n\nMake it happn\n\nWhen you cross paths with a happn user in real life, their profile appears on your app. Seen someone you fancy? Secretly like their profile. We promise, they won't know, unless they like you too. Want to stand out? Send them a SuperCrush by catching their attention! If you've both liked each other, then it's a Crush! You can now chat and date; we count on you to come up with your best pick-up line, and bring out the best, most authentic, side of yourself.\n\nDownload the happn date app now and start using it for free. Make sure you've added your favourite photos and set your filters to find exactly what you are looking for. \nIf you want access to more benefits, you can subscribe to happn Premium! This way, you can access the list of people who have already liked you, or enjoy more SuperCrushs, to notify your Crushes and stand out.\n\nThere are many dating apps in the us, but there is only one place where it’s really happn-ing!\nSo download happn now, get out the house and date !\n\nhttps://www.happn.com/en/trust/\nhttps://www.happn.com/en/privacy-basics/",
+   "trackViewUrl": "https://apps.apple.com/us/app/happn-dating-app/id489185828?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "211243008",
+   "languageCodesISO2A": [
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "NB",
+    "PT",
+    "ES",
+    "SV",
+    "TE",
+    "TR"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 29,
+    "dating app": 27
+   }
+  },
+  {
+   "trackId": 1478870872,
+   "trackName": "FET: Kinky BDSM Dating App",
+   "bundleId": "de.ideawise.fet",
+   "artistName": "Ideawise Ltd.",
+   "sellerName": "Ideawise Ltd.",
+   "primaryGenreName": "Social Networking",
+   "genres": [
+    "Social Networking",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.31627,
+   "userRatingCount": 24707,
+   "releaseDate": "2019-11-13T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-24T21:50:13Z",
+   "version": "15.0.0",
+   "description": "Tired of the same dating apps? At FET, you'll find an open-minded community where people can explore alternative lifestyles, discover shared interests, and connect with others who understand their perspective.\n\nDISCOVER LIKE-MINDED PEOPLE\n\nFinding and staying in touch with community members is easy with our newsfeed, messaging, forum, and live chat features. Join conversations, exchange ideas, and build meaningful connections with people who share your interests and values.\n\nLEARN, EXPLORE, AND CONNECT\n\nWhether you're completely new to alternative lifestyles or already part of the community, FET offers a welcoming space to learn and grow. Explore articles, discussions, and community-created content covering a wide range of topics, experiences, and perspectives.\n\nFIND EVENTS AND COMMUNITY ACTIVITIES\n\nDiscover local gatherings, social meetups, workshops, and community events. Meet people who share your interests, expand your network, and explore new experiences in a respectful and supportive environment.\n\nCREATE YOUR PROFILE\n\nBuild a profile that reflects who you are. Share photos, tell your story, highlight your interests, and connect with others who appreciate authenticity and openness.\n\nPRIVACY AND SAFETY FIRST\n\nWe believe trust is essential. Profile verification helps members show they're genuine, while privacy controls and message filters give you control over your experience. Choose how you interact, what you share, and who can contact you.\n\nWELCOME TO FET\n\nOur vision is to be the world's most trusted community for alternative lifestyles. We provide a welcoming space for experienced members and the curious alike, helping people connect, learn, and explore in an environment built on respect, consent, and inclusion.\n---\n\nThe app is free to download and use. FET also offers an optional subscription package.\n\nSubscription Service Conditions:\n • The membership costs 18.49 USD / 19,99 EUR / 17.99 GBP for 1 month; 63.99 USD / 69,99 EUR / 63.99 GBP for 6 months; and 90.99 USD / 99,99 EUR / 90.99 GBP for 12 months (Prices may vary slightly depending on location and currency). • Payment will be charged to your iTunes Account at confirmation of purchase \n• Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period \n• Your account will be charged for renewal within 24-hours prior to the end of the current period \n• You can manage your subscription and switch off the auto-renewal by accessing your Account Settings after purchase \n• You cannot cancel the current subscription during the active subscription period\n• Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication. \n\nMore details here: https://www.fet-app.com/en/terms\nAll personal data is handled under the terms and conditions of FET's privacy policy. More details can be found here: https://www.fet-app.com/en/privacy",
+   "trackViewUrl": "https://apps.apple.com/us/app/fet-kinky-bdsm-dating-app/id1478870872?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "207732736",
+   "languageCodesISO2A": [
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HU",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "ES",
+    "SV",
+    "TR"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 28,
+    "dating app": 23
+   }
+  },
+  {
+   "trackId": 6502307144,
+   "trackName": "Coffee Meets Bagel: Dating App",
+   "bundleId": "io.cmbus.app",
+   "artistName": "Coffee Meets Bagel, Inc",
+   "sellerName": "Coffee Meets Bagel, Inc.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.33793,
+   "userRatingCount": 21895,
+   "releaseDate": "2024-06-24T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-02T19:52:15Z",
+   "version": "10.6.3",
+   "description": "JOIN DATING APP COFFEE MEETS BAGEL (*North America & Caribbean)\n\nReady to ditch the dating games and find something serious? You'll be in good company at Coffee Meets Bagel, where 91% of our daters are looking for a serious relationship. That means less swiping, and more matching, chatting, and *actual* dating. \n\nWe've made over 150 million matches and counting. Ready to meet yours? \n\n...\n\nCURATED COMMUNITY\nLooking for something casual? You’re welcome to join, but you won’t find that here. We ask upfront what you’re looking for and only deliver daily batches of highly curated matches – that way, everyone is actually dating with intention.\n\nDETAILED PROFILES\nDo they want kids? What’s their relationship goal? Do they share your values? Every CMB date should be relationship-potential, so we’ve made sure all the important details like education, interests, and family plans are upfront.\n\nCHATS MADE FOR MEETING\nWe’ll help you get the conversation rolling with Icebreakers, then help you move the conversation to real life with Seven-Day Chat Limit. Because small talk is cool and all, but face-to-face is the real deal.\n\nMORE WAYS TO MEET\nStick to our daily picks in Suggested, explore more in Discover, or match instantly in Likes You. Wherever you choose to start on CMB, there’s always someone worth meeting.\n\n...\n\nMEET CMB PREMIUM\nCoffee Meets Bagel is a free dating app, but you can always upgrade to Premium for special features. Plus, Premium members get up to 2x more dates. Premium features are subject to change, but here are the current perks you can enjoy:\n\n- Unlimited Suggested: Like and pass on as many suggested profiles as you want.\n- See all your likes: Why wait? Unblur all your likes and match instantly.\n- 8 flowers a month: Send a virtual bouquet in Suggested or Discover to stand out and be seen sooner.\n- Premium Preferences: Set relationship goals, smoking habits, and more in Suggested.\n- 1 Boost a month: All eyes on you! Boost your profile for up to 5x more views.\n- Activity Reports: See who’s worth your time with activity and chat statistics.\n- Read Receipts: Know when your messages are read, so you’re never left in the dark.\n- Unlimited Rewinds: Change your mind? Undo passes on suggested profiles in History.\n\n...\n\nWHAT PEOPLE ARE SAYING\n\n\"One of the best dating apps for relationships, according to real people who found success\" – Yahoo Finance\n\"Best for setting up real dates\" – Mashable\n\"Best app if you're trying to Marie Kondo your dating life.\" – Women's Health\n\"Screw endless browsing: CMB focuses on in-depth profiles and only sends curated matches.\" – Mashable\n\n...\n\nPRIVACY\n1. Permissions to access notifications are strongly suggested. If access is denied, you will not be notified in real-time when you have new Matches and messages.\n2. Permissions to access location are strongly suggested. If access is denied, we will not be able to Match you with users near you.\n3. Permissions to access your Photos are strongly suggested. If access is denied, you will not be able to upload pictures saved in your Photos to your profile.\n\nBy downloading or using the CMB app, you agree to the Terms of Service and Privacy Policy, available at https://coffeemeetsbagel.com/privacy-terms/",
+   "trackViewUrl": "https://apps.apple.com/us/app/coffee-meets-bagel-dating-app/id6502307144?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "88114176",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 32,
+    "dating app": 26
+   }
+  },
+  {
+   "trackId": 6446203952,
+   "trackName": "Cuffed: Dating & Relationships",
+   "bundleId": "com.cuffedapp.dating",
+   "artistName": "Eden Tech, Inc.",
+   "sellerName": "Eden Tech, Inc.",
+   "primaryGenreName": "Lifestyle",
+   "genres": [
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.53433,
+   "userRatingCount": 9191,
+   "releaseDate": "2024-03-20T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T13:32:59Z",
+   "version": "7.1.16",
+   "description": "CUFFED: EXCLUSIVE DATING, EXCLUSIVE MATCHES\n \nWelcome to Cuffed, a members-only dating app where you match with one match at a time. Our acceptance rate is low, but our match-to-meetup rate is high.\n \nWe vet every member of our community to make sure you’re only swiping on people you’d actually be excited to go on a date with.\n \nWhen you match with someone on Cuffed, you’re only talking to each other—helping you date intentionally by letting you focus exclusively on the other person. No distractions, no endless small talk, no more treating dating like an email job. A dating app for authentic people with busy lives who don’t have time for endless swiping. Match and meet up, and if the vibes aren’t right, you can end the conversation or wait for the match timer to run out.\n \nMembership to Cuffed includes access to our singles events at our favorite bars &amp; lounges.\n \nMEMBERSHIP OPTIONS:\nOnce accepted, members have the option to purchase a 3 or 6 month auto-renewing membership and will have full functionality of the entire service while their subscription is active.\n \nSUBSCRIPTION INFO:\nPayment will be charged to Apple Account at confirmation of purchase\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period Subscriptions may be managed and auto-renewal may be turned off by going to Account Settings after purchase\n \nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+   "trackViewUrl": "https://apps.apple.com/us/app/cuffed-dating-relationships/id6446203952?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "219693056",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "dating",
+    "dating app"
+   ],
+   "ranks": {
+    "dating": 34,
+    "dating app": 35
+   }
+  }
+ ]
+}

@@ -1,0 +1,1824 @@
+{
+ "source": "itunes-search-api",
+ "fetchedAt": "2026-10-04T18:34:08Z",
+ "country": "us",
+ "terms": [
+  "logic puzzle",
+  "train puzzle"
+ ],
+ "count": 40,
+ "apps": [
+  {
+   "trackId": 512939461,
+   "trackName": "Subway Surfers",
+   "bundleId": "com.kiloo.subwaysurfers",
+   "artistName": "Sybo Games ApS",
+   "sellerName": "Sybo Games ApS",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Casual",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.6453,
+   "userRatingCount": 3845422,
+   "releaseDate": "2012-05-24T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T07:49:36Z",
+   "version": "3.69.2",
+   "description": "DASH as fast as you can!\nDODGE the oncoming trains!\n\nHelp Jake, Tricky & Fresh escape from the grumpy Guard and his dog.\n\n- Grind trains with your cool crew!\n- Colorful and vivid HD graphics!\n- Hoverboard Surfing!\n- Paint powered jetpack!\n- Lightning fast swipe acrobatics!\n- Challenge and help your friends!\n\nJoin the App Store's most daring chase!\n\nA Universal App with HD optimized graphics for retina resolution.\nOriginally co-developed by SYBO and Kiloo.",
+   "trackViewUrl": "https://apps.apple.com/us/app/subway-surfers/id512939461?uo=4",
+   "contentAdvisoryRating": "9+",
+   "fileSizeBytes": "427330560",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH",
+    "TR"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 11
+   }
+  },
+  {
+   "trackId": 1451295827,
+   "trackName": "Impulse - Brain Training",
+   "bundleId": "gen.tech.impulse",
+   "artistName": "GMRD Apps Limited",
+   "sellerName": "GMRD Apps Limited",
+   "primaryGenreName": "Education",
+   "genres": [
+    "Education",
+    "Health & Fitness"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.74756,
+   "userRatingCount": 849994,
+   "releaseDate": "2019-02-20T00:21:49Z",
+   "currentVersionReleaseDate": "2026-09-25T07:12:18Z",
+   "version": "1.55.1",
+   "description": "100+ million downloads \n4.7 worldwide rating \nApp of the Day in 50+ countries\n\nTrain your brain. Discover yourself. Become sharper.\nImpulse is more than a brain training app — it's a complete toolkit for understanding how your mind works and building it into its strongest version.\n\nStruggle to stay focused? Forget things easily? Feel like your brain could do more? That’s where Impulse comes in.\n\nTRAIN WHAT YOUR BRAIN NEEDS MOST\nImpulse builds a personalized daily training plan tailored to the brain areas you need most:\n- Memory & Processing speed\n- Attention & focus\n- Mental math\n- Problem-solving \nOur science-inspired games are challenging enough to keep you progressing and simple enough to enjoy every day — at any age or skill level.\n\nDISCOVER YOUR COGNITIVE PROFILE\nGo deeper with a library of self-discovery tests that reveal how your mind truly works:\n- IQ tests & Cognitive strengths\n- Personality type and archetype insights\n- Emotional intelligence and self-awareness tests\nEach test comes with personalized recommendations so you know exactly which areas to focus on and how to grow.\n\nTRACK YOUR GROWTH\n- See your performance trends over time\n- Get actionable insights — not just scores\n- Stay motivated with streaks and progress reports\n\nWHY IMPULSE\nMost brain apps just give you games. Impulse also gives you deeper understanding of yourself. \nTrain smarter and stay sharp for life.\nJoin 100 million people worldwide who've made Impulse part of their daily routine.\n\nImpulse offers a 3-day free trial with full access to all games - no ads, no interruptions. If you choose to subscribe, the fee will be shown in the app before you complete the payment. Payment will be charged to your iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period. You may manage your subscription and turn off auto-renewal at any time in your iTunes Account Settings.\n\nTerms of Service: https://brainimpulse.me/app/tos.html\nPrivacy Policy: https://brainimpulse.me/app/privacy_policy.html\nContact: support@brainimpulse.me",
+   "trackViewUrl": "https://apps.apple.com/us/app/impulse-brain-training/id1451295827?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "261934080",
+   "languageCodesISO2A": [
+    "AR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 20
+   }
+  },
+  {
+   "trackId": 1496354836,
+   "trackName": "Woodoku - Wood Block Puzzles",
+   "bundleId": "com.tripledot.woodoku",
+   "artistName": "Tripledot Studios",
+   "sellerName": "Tripledot Studios Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Strategy"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.71551,
+   "userRatingCount": 663964,
+   "releaseDate": "2020-03-11T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T05:17:22Z",
+   "version": "4.15.02",
+   "description": "Woodoku: a wood block puzzle game meets sudoku grid. Woodoku is a relaxing yet challenging wood-block-puzzle that you’ll be addicted to in no time!\n\nRelax & test your IQ with our logic puzzle game for adults! Place blocks in the 9x9 board & fill rows, columns, or squares to clear the board. Try not to run out of space to beat your high score in this brain training game. Play hours of addictive logic puzzles with Woodoku! \n\nHow to play:\n* Drag the puzzle pieces onto the grid\n* Fill a row, column, or square to clear wood blocks from the board\n* Merge blocks on every turn to earn points\n* Earn as many points as you can to beat your highest score.\n\nFeatures:\n* Beautiful graphics & satisfying sound effects\n* Doesn’t take up space on your device\n* Playable offline so you can enjoy hours of woody puzzle fun anywhere!\n* 100’s of new wood block puzzles & daily puzzle solving games every week \n\nWoodoku is a highly addictive wood block puzzle game offering a unique twist on the classic Sudoku game. It will keep you engaged & entertained for hours. Download Woodoku now & see for yourself why millions love our games!",
+   "trackViewUrl": "https://apps.apple.com/us/app/woodoku-wood-block-puzzles/id1496354836?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "237424640",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "LA",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TR"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 13
+   }
+  },
+  {
+   "trackId": 526641427,
+   "trackName": "Flow Free",
+   "bundleId": "com.bigduckgames.flow",
+   "artistName": "Big Duck Games LLC",
+   "sellerName": "Big Duck Games LLC",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Board"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.78346,
+   "userRatingCount": 405658,
+   "releaseDate": "2012-06-07T00:44:26Z",
+   "currentVersionReleaseDate": "2026-01-16T17:28:00Z",
+   "version": "4.9",
+   "description": "Flow Free® is a simple yet addictive puzzle game.\n\nConnect matching colors with pipe to create a Flow®. Pair all colors, and cover the entire board to solve each puzzle. But watch out, pipes will break if they cross or overlap!\n\nFree play through hundreds of levels, or race against the clock in Time Trial mode. Gameplay ranges from simple and relaxed, to challenging and frenetic, and everywhere in between. How you play is up to you. So, give Flow Free a try, and experience \"mind like water\"!\n\n*** Flow Free features ***\n\n* Content\n- Over 2,500 free levels available in Free Play mode, and new Daily Puzzles every day!\n- 10 different board sizes\n- Free Classic, Bonus, Bridges, Mania, Extreme, and Jumbo level packs\n- Additional level packs available for purchase\n\n* Challenge\n- Game Center achievements as you solve levels and complete packs\n- Track your completion of each level in Free Play mode\n- Strive for accuracy in Free Play using the fewest, most efficient moves\n- Strive for speed in Time Trial for the most and fastest solves\n- 20 scored Time Trial variants to choose from by board size and duration\n\n* Look & Feel\n- Smooth, polished touch interaction\n- Colorful UI\n- Fun sound effects\n- Clean vector graphics and animations\n- Labels available for color impaired players\n\nEnjoy.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flow-free/id526641427?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "69665792",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 10
+   }
+  },
+  {
+   "trackId": 1671991909,
+   "trackName": "Math Puzzle Games - Crossmath®",
+   "bundleId": "math.puzzle.games.crossmath.number.puzzles.free",
+   "artistName": "Guru Smart Holding Limited",
+   "sellerName": "Guru Smart Holding Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.94014,
+   "userRatingCount": 258513,
+   "releaseDate": "2023-06-06T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T06:02:31Z",
+   "version": "4.16.0",
+   "description": "The best Math Puzzle Games - Cross Math Game for you! Relax and train your brain now! Play it anywhere, anytime!\n\nCrossmath game is a fun and engaging math puzzle game that tests your problem-solving skills. The game features a variety of levels and difficulty settings, so you can find the perfect challenge for your math skill level. \n\nTo play, you'll need to solve a series of math problems, using addition, subtraction, multiplication, and division. You'll also need to use logic and critical thinking skills to figure out the best way to solve each puzzle. Crossmath is a great way to get your brain working and improve your math skills! \n\nKey Features\n- Use addition, subtraction, multiplication, and division to complete the math puzzle\n- Multiplication or Division should be calculated first, and then addition or subtraction\n\nHighlights\n- You can choose the difficulty of levels - Easy, Medium, Hard, and Expert.\n- Daily Challenge. One cross math puzzle a day keeps the neurologist away.\n- Endless mode. In this mode, errors will not be checked before you finally submit your answers. The more levels completed in two mistakes, the higher score you will get.\n\nCrossmath Math Puzzle Game is the perfect way to test your problem-solving skills and have fun while doing it. So what are you waiting for? Give Crossmath a try today!\n\nCrossmath also features a variety of power-ups that can help you solve puzzles faster. These power-ups can give you hints, advanced notes, etc. With all these features, this cross math puzzle game is sure to provide you with hours of fun and challenge. So why not give it a try? You can quickly master the game and become a Crossmath pro and math master in no time!\n\nEnjoy the math puzzle games and train your brain now! Download and Play this math puzzle game!\n\nPrivacy Policy: https://crossmath.gurugame.ai/policy.html\nTerms of Service: https://crossmath.gurugame.ai/termsofservice.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/math-puzzle-games-crossmath/id1671991909?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "216236032",
+   "languageCodesISO2A": [
+    "AF",
+    "SQ",
+    "AM",
+    "AR",
+    "HY",
+    "AZ",
+    "EU",
+    "BE",
+    "BN",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "GL",
+    "KA",
+    "DE",
+    "EL",
+    "GU",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "IT",
+    "JA",
+    "KN",
+    "KK",
+    "KO",
+    "KY",
+    "LO",
+    "LV",
+    "LT",
+    "MK",
+    "MS",
+    "ML",
+    "MR",
+    "MN",
+    "NE",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "PA",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SI",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TL",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "ZU"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 25
+   }
+  },
+  {
+   "trackId": 1452992954,
+   "trackName": "Nonogram.com - Number Games",
+   "bundleId": "com.easybrain.nonogram",
+   "artistName": "Easybrain Ltd",
+   "sellerName": "Easybrain Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.63035,
+   "userRatingCount": 195395,
+   "releaseDate": "2019-03-08T19:57:25Z",
+   "currentVersionReleaseDate": "2026-09-11T08:15:29Z",
+   "version": "5.25.0",
+   "description": "Nonogram.com is an addictive logic game with a vast collection of picture cross puzzles. Due to their simple yet challenging gameplay, nonograms have become popular with people of all different ages. Join players all around the world, solve puzzles based on numerical clues and uncover the hidden picture!\n\nNonogram.com features thousands of puzzles with different levels of difficulty and in various categories, which are regularly updated to make sure the game never gets boring. Whether you just started playing nonograms or are already an experienced player, this game can definitely provide you with lots of fun and a pleasant pastime. Challenge your mind while solving nonogram puzzles and become a real Nonogram.com master!\n\nPlaying nonograms is also a good way to relax after a busy day and calm your mind. Escape from your daily routine and dive into a world of captivating puzzles! Enjoy the process of creating a picture from scratch based on numerical clues.\n\nLet's start with the basic rules and logic behind picture cross puzzles:\n\n• Color the squares and reveal the hidden picture.\n• Use clues and numbers to solve the puzzles.\n• Numbers above the columns are read from top to bottom.\n• Numbers to the left of the rows are read from left to right.\n• If you figure out that a square should not be shaded, mark it with an X.\n• Get extra lives if you make a mistake.\n\nNonogram.com features:\n\n• Plenty of nonogram puzzles with non-repeating images to color.\n• Seasonal Events: complete time-limited events by solving nonograms of several difficulty levels. Reveal and collect all the unique postcards. Follow our updates to never miss a single event!\n• Daily Challenges: solve puzzles every day and get a special monthly trophy!\n• Tournaments: compete with other players and color as many nonogram pictures as you can. Choose a more difficult puzzle to practice your skills, earn more points, and win the top prize!\n• Use hints if you get stuck while solving nonograms.\n• Auto-crosses help you fill the grid on the lines where the squares are already correctly colored.\n\nNonograms are easy to learn and quite addictive once you start playing. Challenge yourself and enjoy hours of fun with Nonogram.com!",
+   "trackViewUrl": "https://apps.apple.com/us/app/nonogram-com-number-games/id1452992954?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "235912192",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 35
+   }
+  },
+  {
+   "trackId": 1466292431,
+   "trackName": "Train Taxi",
+   "bundleId": "com.train.taxi",
+   "artistName": "SayGames LTD",
+   "sellerName": "SayGames LTD",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Simulation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.60796,
+   "userRatingCount": 130655,
+   "releaseDate": "2019-06-11T16:02:52Z",
+   "currentVersionReleaseDate": "2026-07-09T23:29:04Z",
+   "version": "1.5.41",
+   "description": "Collect all the people to complete a level. The more passengers you have, the longer the train gets! Be aware of your tail, avoid the crash!\n\nSubscription Terms:\n\nVIP MEMBERSHIP Access offers a weekly subscription, you will have a 3-days FREE trial period, after this period you will be charged $5.99/week.\nAfter buying this subscription, you will unlock following features: exclusive VIP trains, free 100 gems every day, free 1000 coins every day, no ads. \nThis is an Auto-renewable subscription. The payment is charged to your account after confirmation. The subscription is renewed unless you turn it off 24 hours before the period ends. Your account will be charged for renewal as well. \n\nEnd of trial and subscription renewal:\n\n• The payment is charged to your account after a confirmation of purchase.\n• The subscription is renewed unless you turn it off 24 hour before the end of the current period.\n• The account will be charged for renewal within 24 hours before the end of the current period at the cost of the weekly subscription.\n• The user may manage the subscription and auto-renewal have to be turned off by going to the user’s account settings after purchase in the Store.\n• No cancellation of the current subscription is allowed during the active subscription period.\n\nCanceling a trial or a subscription:\n\n• If you want to cancel a subscription during its free trial, you have to cancel it through your account in the Store. This must be done at least 24 hours before the end of the free trial period to avoid being charged.\n\nFor more information, please visit https://support.apple.com/HT207865 for more information\n\nIf there is questions contact us info@saygames.by\n\nPrivacy Policy: https://say.games/privacy-policy\nTerms of Use: https://say.games/terms-of-use",
+   "trackViewUrl": "https://apps.apple.com/us/app/train-taxi/id1466292431?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "260984832",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 13
+   }
+  },
+  {
+   "trackId": 6754450031,
+   "trackName": "Redirect It! - Logic Puzzle",
+   "bundleId": "com.arrows.escape",
+   "artistName": "SayGames LTD",
+   "sellerName": "SayGames LTD",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Casual",
+    "Entertainment",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.66995,
+   "userRatingCount": 100131,
+   "releaseDate": "2025-10-25T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-18T15:05:10Z",
+   "version": "1.14.0",
+   "description": "► FOLLOW THAT ARROW\n\nGet your mind and fingers set to untangle mazes of arrows in the fun take on a traditional maze escape game. Each level you’ll square off against an increasingly tangled knot of arrows, and you’ll need to put all of your logic skills to the test as you figure out which order to remove them, thus clearing the way for the rest. Fear not though, this puzzle is minimalistic and relaxing, not cluttered and stressful. \n\n► MASTER THE MAZE\n\nColorful arrows twist and turn around each other, and it’s up to you to figure out which way they’re headed and help them escape from the puzzle grid, making way for others to be moved as well. Levels start off with just a few arrows, and quickly work up to more and more, keeping things interesting. While the puzzle required you to use your logic skills and brain, it still manages to be relaxing and just the perfect level of challenging.\n\nYou’ll love:\n\n● The minimalistic design – Black background, colorful arrows, and no crazy animations or over-the-top graphics – focus on the puzzle without worrying about what might pop up next. The bright arrows stand out well from the background making it easier to see how the maze all fits together, and adding a touch of whimsy to the game. Easily toggle the music and haptic on or off depending on your mood, and don’t worry about tons of popups and events cluttering your game.\n\n● The relaxing gameplay – Each level is short and sweet, meaning you can easily squeeze one in whenever you need a distraction. Plus there’s no countdown clock to put pressure on you, so if you get stuck you can easily step away and come back to finish later when you’ve got the time and energy. Last but not least boosters are available in case you can’t quite get past a tricky level.\n\n● The mental stimulation – While the puzzles might seem simple at first, you’ll find that they start getting challenging fast! More arrows, more twists, and more fun await as you graduate from levels with just a handful of arrows to those with dozens. All those extra colors and crazy shapes and patterns will really stimulate your brain to start looking for patterns, which can be super helpful in real life.\n\n► A CHALLENGING ESCAPE\n\nReady to take on an a-maze-ing arrow puzzle that will both relax and challenge your brain? With its simple design and fun graphics you won’t feel a lick of stress as you take on this logic puzzle and help the arrows escape.\nDownload Redirect It! today and see how many levels of twisty, knotted up arrows you can detangle before getting stuck.\n\nPrivacy Policy: https://say.games/privacy-policy\nTerms of Use: https://say.games/terms-of-use",
+   "trackViewUrl": "https://apps.apple.com/us/app/redirect-it-logic-puzzle/id6754450031?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "375758848",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 30
+   }
+  },
+  {
+   "trackId": 6477849277,
+   "trackName": "Crowd Express: Boarding Puzzle",
+   "bundleId": "com.feelcrafters.buspuzzle",
+   "artistName": "Rollic Games",
+   "sellerName": "Rollic Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59237,
+   "userRatingCount": 87002,
+   "releaseDate": "2024-02-27T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T17:39:40Z",
+   "version": "4.8.0",
+   "description": "Get ready to master the ultimate car and bus puzzle challenge with Crowd Express! Dive into colorful, brain-teasing puzzles where your quick thinking and strategy skills will shine. Escape chaotic traffic jams, organize stations, and sort passengers in this exciting, addictive puzzle adventure.\n\nUnleash your inner traffic mastermind as you shuffle buses, cars, and passengers through intricate levels filled with tricky obstacles. Every decision matters—can you clear the jam-packed stations without breaking a sweat? With vibrant visuals, escalating challenges, and satisfying solutions, Crowd Express is the perfect game for fans of car parking, color sorting, and traffic escape puzzles.\n\n\nKey Features:\n\n- Solve Traffic Chaos: Strategically navigate buses and cars to untangle traffic jams and clear stations.\n- Color Sort Fun: Match passengers to their color-coded buses for the ultimate organizing satisfaction.\n- Brain-Teasing Gameplay: Challenge your problem-solving skills with clever puzzles and exciting twists.\n- Relaxing Yet Addictive: Perfectly blends relaxing gameplay with strategic depth for endless fun.\n- Fun Challenges: Conquer parking and traffic management puzzles across varied, vibrant levels.\n- Compete & Progress: Beat your best times, climb the ranks, and prove you’re the ultimate traffic pro.\n\nWhether you’re a fan of parking puzzles, matching games, or relaxing yet challenging brain teasers, Crowd Express offers a fresh twist on classic car and bus games. Get ready to manage the madness, escape the jams, and bring order to the chaos. Play now and shuffle your way to victory!",
+   "trackViewUrl": "https://apps.apple.com/us/app/crowd-express-boarding-puzzle/id6477849277?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "599916544",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 20
+   }
+  },
+  {
+   "trackId": 6532601126,
+   "trackName": "That’s My Seat – Logic Puzzle",
+   "bundleId": "com.game.thatsmyseat",
+   "artistName": "ROOFTOP GAMES OYUN TEKNOLOJILERI ANONIM SIRKETI",
+   "sellerName": "ROOFTOP GAMES OYUN TEKNOLOJILERI ANONIM SIRKETI",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Word",
+    "Entertainment",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.89248,
+   "userRatingCount": 77360,
+   "releaseDate": "2024-07-22T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-21T07:45:00Z",
+   "version": "2.6.0",
+   "description": "Can you seat them all?\nWelcome to That’s My Seat – Logic Puzzle, the hit game where every level is a fun brain teaser! Your challenge: place each character in the correct seat by following clever rules. Easy to start, but only the sharpest minds will master them all.\nWhy over 25 million players love it:\n- More than 1000 puzzles and special levels with tricky challenges, endless pop culture references, and celebrity-inspired cameos.\n- Funny & diverse characters: celebrities, cartoon-style figures, animals, even planets and emotions! Every level surprises with fresh imagination and non-repetitive characters.\n- Variety of settings: from wizard classrooms to bus puzzles, haunted theaters to trendy restaurants, outer space, and parody scenes inspired by pop culture.\n- Rule-based logic: think carefully, every level has a solution. Can you solve them by process of elimination and find everyone’s seat?\n- Relaxed gameplay: no time limits, play at your own pace. Enjoy the cute characters, clever setups, and satisfying “aha!” moments.\n- Compete if you want: climb the leaderboards, join weekly challenges, and earn rewards while testing your skills against others.\n- Special monthly events: discover unique mini-games, unlock exclusive rewards, and keep your puzzle journey fresh every month.\nPerfect for puzzle fans of all ages, That’s My Seat combines adorable visuals with brain-twisting fun. Whether you want a quick challenge or a full puzzle session, it’s always the right seat for your mind — and a free IQ test for your brain.",
+   "trackViewUrl": "https://apps.apple.com/us/app/thats-my-seat-logic-puzzle/id6532601126?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "367202304",
+   "languageCodesISO2A": [
+    "AR",
+    "BN",
+    "BR",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "PA",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UR",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 8
+   }
+  },
+  {
+   "trackId": 6446649479,
+   "trackName": "Draw To Smash: Logic puzzle",
+   "bundleId": "com.smashing.draw2",
+   "artistName": "HYPERCELL SIA",
+   "sellerName": "HYPERCELL SIA",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.51217,
+   "userRatingCount": 59879,
+   "releaseDate": "2023-03-25T07:00:00Z",
+   "currentVersionReleaseDate": "2026-05-24T20:38:36Z",
+   "version": "1.31.0",
+   "description": "Passionate about brain teasers? Want to challenge your logical skills? Then take a look at Draw To Smash —  a logic puzzle game in which you should draw a line, scribbles, figures or doodles to smash all the bad eggs. \n\nDraw To Smash is an amusing logic game that will test your IQ and raise your intellectual abilities to a new level. Plan every step, estimate a possible outcome and build tactical strategies. Solve logical puzzles, pass interesting levels and open bonus levels.\n\nСollect golden keys — use them to open the treasure chest. Gold coins and skill stars will be inside. These stars will help you to increase your rating in the game. The more you play, the more stars you have and the higher your rating is. Train your brain and pass the way from a beginner to a guru in the world of teasers and physics games.\n  \nJoyful music and fun voices will cheer everyone up, and emotional faces won't leave anyone indifferent. You will never get bored with this game: it is constantly updated with interesting levels, characters and accessories for them. \n \nTake a break from the hustle and bustle of everyday life — have fun and enjoy.",
+   "trackViewUrl": "https://apps.apple.com/us/app/draw-to-smash-logic-puzzle/id6446649479?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "487272448",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 34
+   }
+  },
+  {
+   "trackId": 6474659972,
+   "trackName": "NumMatch: Number Logic Puzzles",
+   "bundleId": "com.brainworks.nummatch",
+   "artistName": "BRAINWORKS PUBLISHING PTE. LTD.",
+   "sellerName": "BRAINWORKS PUBLISHING PTE. LTD.",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Board",
+    "Family"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.74057,
+   "userRatingCount": 58103,
+   "releaseDate": "2024-01-30T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-09T04:02:34Z",
+   "version": "1.41.0",
+   "description": "NumMatch - Logic puzzle is the perfect relaxing number game. \n\nImmerse yourself in the world of math number games! Playing this game will let you relax, especially after a work day; solving a free puzzle every day will train your brain and maths skills. Become a match number master!\n\nHOW TO PLAY:\n\n- The goal is to clear all the numbers from the board.\n\n- Find pairs of equal numbers (1 and 1, 7 and 7) or pairs that add up to 10 (6 and 4, 3 and 7) on the number grid.\n\n- The pairs can be cleared vertically, horizontally, and even diagonally when there is no barrier between them and at the end of one line and the beginning of the next.\n\n- When no matches are on the board, you can tap to add new numbers on the puzzle pages.\n\n- If you get stuck in this logic game, Hints are available to help you progress \n\n- Try to clear the numbers on the board to achieve the highest score\n\nDAILY CHALLENGE AND GIFT \n\nFor extra fun, we have prepared something special for you. Play Nummatch Journey with 100 new block puzzle games every week for free! Each NumMatch puzzle has a different goal: collect gems and excellent awards!\n\nEnjoy your daily achievements and unlock cool badges, which will cheer you up!\n\n FEATURE:\n\n- Play easy with no pressure or time limit.\n\n- Unlimited free Hints - Stuck? No worries, easily continue with one tap!\n\n- Play every day and complete daily challenges or seasonal events to get unique trophies.\n\n- Gorgeous visuals paired with delightful sound effects.\n\n- Update hundreds of new puzzles every week\n\n- Play anytime and anywhere. No WiFi connection is required!\n\nNumMatch Logic Puzzle is the perfect way to test your problem-solving skills and train your brain. So what are you waiting for? Experience the addictive NumMatch today!\n\nIf you have any questions or concerns, please do not hesitate to contact us at support@matchgames.io",
+   "trackViewUrl": "https://apps.apple.com/us/app/nummatch-number-logic-puzzles/id6474659972?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "509789184",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 32
+   }
+  },
+  {
+   "trackId": 1641732564,
+   "trackName": "Logic Puzzles - Clue Game",
+   "bundleId": "com.easybrain.cross.logic.puzzle",
+   "artistName": "Easybrain Ltd",
+   "sellerName": "Easybrain Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Board"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.49498,
+   "userRatingCount": 58094,
+   "releaseDate": "2023-02-15T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-22T06:21:35Z",
+   "version": "1.11.0",
+   "description": "Welcome to a brand-new logic game from the developer of the prominent Sudoku.com and Nonogram.com free puzzle games. Dive into exciting stories with cross logic puzzles, challenge your brain, and unravel mysteries!\n\nThis fun yet challenging brain puzzle game with simple rules may help to strengthen logical thinking and deductive reasoning. Try to solve all the smart riddles grouped into thematic stories that are sure to delight. Help Detective Grapes investigate a necklace theft, participate in vacation planning for a young couple, or even go on a space expedition. You will find many mind-bending stories with varied plots and tricky solutions. If you are interested in solving logic problems, play this engaging game and have hours of fun!\n\nHow to play a logic puzzle game:\n• Each puzzle contains several categories and an equal number of parameters within each category\n• The goal of these brain teasers is to match all parameters in the grid correctly\n• Each parameter can be matched to only one other parameter in each category\n• A logic grid puzzle is solved by making conclusions based on a limited number of clues\n• Read clues and put ticks in the table accordingly\n• Rule out incorrect options and place crosses\n• Use reasoning, elimination, and pure logic to fill the remaining cells and deduce the whole brain puzzle!\n\nWhat you get:\n• Easy to learn logic grid puzzles\n• Tons of free brain-teasing logic riddles for you to enjoy\n• Unique puzzle pages grouped into various entertaining stories for every taste\n• Hints to help you reach the goal faster\n• No time limit, take your time and focus on the details playing cross logic riddles\n• Top-notch quality from a top puzzle developer!\n\nTry Logic Puzzles now, put your gray matter to work, and have fun!",
+   "trackViewUrl": "https://apps.apple.com/us/app/logic-puzzles-clue-game/id1641732564?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "240498688",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 2
+   }
+  },
+  {
+   "trackId": 1561830495,
+   "trackName": "Cross Logic Puzzle Game",
+   "bundleId": "com.hitapps.logicgram.game",
+   "artistName": "Hitapps Inc",
+   "sellerName": "Hitapps Inc.",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.39496,
+   "userRatingCount": 49344,
+   "releaseDate": "2021-04-29T07:00:00Z",
+   "currentVersionReleaseDate": "2025-04-02T08:35:52Z",
+   "version": "1.19.3",
+   "description": "Engage your brain and get your tapping finger at the ready. It's time to solve the logic puzzles and win the game. \n\nThis is Cross Logic, a brain game that will entertain you for ages. And that's not all! Logic puzzles are like taking your mind to the gym. Boost your brainpower, and have fun at the same time. Play brain puzzles, solve logical mysteries and complete the levels to win the game.\n\nHow does this logic game work?\n\n\n- Download and open the app\n- Solve brain puzzles and grid riddles\n- Progress through the levels (there's lots of them to play!)\n- Boost your brainpower\n- Win the game!\n\nSimple!\nNow, you can forget all about dull brain puzzles! Because here you'll discover only the best logic puzzles that will challenge and entertain you at the same time. \n\nFEATURES \n\n- Logic puzzles galore \n- Tests and quizzes \n- Clues and mysteries \n\nIn Cross Logic, you'll never get bored or tired of playing brain puzzles. Not convinced? Just open the app and try the exciting logic puzzles for yourself. Get Cross Logic now! \n\nPrivacy Policy: https://gismart.com/privacy-policy/\nTerms of Service: https://gismart.com/terms-of-services/",
+   "trackViewUrl": "https://apps.apple.com/us/app/cross-logic-puzzle-game/id1561830495?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "247723008",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 3
+   }
+  },
+  {
+   "trackId": 6453159988,
+   "trackName": "Family Tree! - Logic Puzzles",
+   "bundleId": "com.regulusstudio.familytree",
+   "artistName": "Lion Studios Plus",
+   "sellerName": "Lion Studios Plus LLC",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Word",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.56287,
+   "userRatingCount": 47002,
+   "releaseDate": "2023-08-14T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-22T16:40:33Z",
+   "version": "2.1.3",
+   "description": "Play the ultimate brain puzzle game and boost your IQ! \n\nFamily Tree is a logic puzzle game where you can flex your brain, train your focus, and elevate your memory. Unlock the intricate branches of different families with the help of clues and build big towns. Family Tree word puzzle game will challenge your IQ, logic, and word-solving skills while immersing you in an engaging story. \n\nLogic puzzles and challenges of Family Tree provide mental stimulation, encouraging critical thinking, problem-solving, and logic skills, which is especially beneficial for cognitive health. Family Tree logic game combines the excitement of solving puzzles, building towns, and unlocking various family stories. Family Tree IQ game allows users to collect clues related to their ancestors or historical events. These clues are used to unlock new branches of the family tree and reveal hidden secrets.\n\nGame Features: \n\n► Family Tree Exploration: Embark on a captivating journey through generations of a family tree, solving word puzzles that reveal the hidden tales and secrets of ancestors. As you progress, the story unfolds, offering the entire family a unique and enriching experience.\n\n► Word Puzzle Challenges: Test your brain with an array of challenging word puzzles that require logical thinking and creativity to solve. Each level presents a new riddle to crack, making every moment an opportunity to learn and think critically.\n\n► Nonogram Artistry: Immerse yourself in the world of nonogram puzzles, where clues guide your path to uncover stunning family portraits and historical artifacts. It's not just a game; it's a creative journey.\n\n► Clue Collection: Dive deep into the enigmatic past of a family tree as you gather clues to unlock its mysteries. Pay close attention to every detail, as each clue is a piece of the larger puzzle waiting to be solved.\n\n► Level Up Your IQ: Watch your IQ soar to new heights as you progress through the game's challenging levels. Family Tree is designed to entertain and enrich your mind with each passing level.\n\nAre you ready to embark on a word puzzle adventure that will challenge your intellect, sharpen your logic, and reveal the captivating story of a family's past? Family Tree is not just a game; it's an educational journey that brings family history to life, one puzzle at a time. \n\nPlay now and get ready to think, learn, and solve your way through the generations!",
+   "trackViewUrl": "https://apps.apple.com/us/app/family-tree-logic-puzzles/id6453159988?uo=4",
+   "contentAdvisoryRating": "17+",
+   "fileSizeBytes": "449337344",
+   "languageCodesISO2A": [
+    "AF",
+    "AR",
+    "AN",
+    "AZ",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ND",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 5
+   }
+  },
+  {
+   "trackId": 919571269,
+   "trackName": "Logic Grid Puzzles",
+   "bundleId": "com.eggheadgames.logicpuzzleseducation",
+   "artistName": "Egghead Games LLC",
+   "sellerName": "Egghead Games LLC",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Education",
+    "Word",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.84488,
+   "userRatingCount": 39060,
+   "releaseDate": "2014-09-30T19:30:39Z",
+   "currentVersionReleaseDate": "2026-07-20T15:59:39Z",
+   "version": "5.7.1",
+   "description": "Learn and enjoy Logic Puzzles with 100 unique puzzles of increasing difficulty and multiple sizes. Decode written clues & fill in the grid to solve each puzzle. Work your way up from from beginner to master! Use the unlimited Smart Hints to see exactly which clue applies to the current board and why. Start with small 3×4 puzzles and challenge yourself with huge 4×7 cell puzzles.\n\nSmart Hints examine your solution so far and explain how to fill in another cell by referencing your current board position and telling you what clue to use next (internet access required). \n\nOther features include Auto-X for faster entry and multi-level Undo. These make it easier and quicker to focus on the logic! If you're completely stuck, you have the ability to check the grid for errors. \n\nThere are never any ads or nags or gimmicks. The app supports iOS iCloud sync and accessibility features, including VoiceOver, Larger Text and Dark Mode. \n\nIf you run out of puzzles there are multiple \"100 packs\" of new puzzles available for purchase. These are in the same size & quantity as the original free puzzles: 30 each of 3×4 & 30 3×5, and 10 each of 4×4, 4×5, 4×6 & 4×7.\n\nAlternatively, you can purchase an Unlimited Puzzles monthly subscription for $4.99 USD per month (or similar for your country).  \n\nSubscription payment will be charged to your  iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal at the same price as the initial month within 24-hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase or using the “Manage Subscriptions” link. There is no free trial.\n\nLogic Grid Puzzles’ privacy and terms of use policies: https://eggheadgames.com/legal\n\nEmail: support@eggheadgames.com\nFacebook: https://www.facebook.com/EggheadGames\nWeb: https://eggheadgames.com\n\nThe puzzles are licensed from the popular Puzzle Baron websites.",
+   "trackViewUrl": "https://apps.apple.com/us/app/logic-grid-puzzles/id919571269?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "21554176",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 1
+   }
+  },
+  {
+   "trackId": 6755428492,
+   "trackName": "Drop Escape : Block Puzzle",
+   "bundleId": "com.fiogonia.drop",
+   "artistName": "Fiogonia Games",
+   "sellerName": "FIOGONIA LIMITED",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.8478,
+   "userRatingCount": 38726,
+   "releaseDate": "2026-01-08T08:00:00Z",
+   "currentVersionReleaseDate": "2026-07-20T10:03:49Z",
+   "version": "1.3.2",
+   "description": "Enjoy a truly relaxing, NO-TIMER puzzle experience with absolutely NO PAY-TO-WIN. Drop Escape: Block Puzzle lets you think, plan, and solve at your own pace. No countdowns, no pressure, no forced purchases-just pure, satisfying color-matching gameplay.\n\nIf you love color sort puzzles, gravity puzzles, marble drop games, block puzzles, or brain-training logic challenges, this fresh drop-and-match mechanic will feel instantly addictive.\n\nMove colorful holes around the board, match them with marbles of the same color, and drop each marble into place. Clear all holes, solve the puzzle, and progress through hundreds of handcrafted, smartly designed levels. Easy to understand, deeply satisfying to master, and perfect for players who enjoy calm, clever puzzles without stress.\n\nHow to Play:\n- Drag holes anywhere on the board\n- Match hole colors with marbles of the same color\n- Move a hole under a marble to drop it instantly\n- Clear holes by collecting all matching marbles\n- Finish each level by removing every hole\n- Use boosters for tricky situations\nSimple to learn. Surprisingly strategic. Always relaxing.\n\nGame Features:\n- Unique Drop-and-Match Gameplay\nA new puzzle mechanic where YOU move the holes. Drop marbles, match colors, and solve smart puzzles using clever planning.\n\n- Brain-Training Logic Challenges\nFrom beginner-friendly puzzles to multi-step logic challenges that reward strategy and smart thinking.\n\n- NO TIMER - Play at Your Own Pace\nThink, plan, and solve without rush. No countdowns. No turn limits. No stress. Enjoy pure, relaxing puzzle flow.\n\n- NO PAY-TO-WIN - Fair & Fun\nNo forced boosts, no pressure to buy power-ups, no skill walls. Every level is designed to be solved with logic, not spending.\n\n- Beautiful, Clean Visuals\nSmooth animations and vibrant colored marbles make every move satisfying and easy on the eyes.\n\n- Special Hole Types for Extra Challenge\nIce Holes, Mystery Holes, Crates and more keep gameplay fresh and varied through hundreds of handcrafted levels.\n\n- Helpful Power-Ups\nUse the Claw to transport a marble instantly, the Magnet to pull marbles together, or the Shrinker to shrink holes for tight spaces. Fully optional, never required.\n\n- Offline Play Supported\nEnjoy your favorite color-matching puzzle anywhere-no Wi-Fi needed.\n\nRelaxing. Clever. Fair. Always Fun.\n\nDownload Drop Escape: Block Puzzle and enjoy the most satisfying no-timer, no-pay-to-win puzzle adventure!\n\nElevate your Drop Escape experience with a VIP Subscription! Enjoy an ad-free game and unlock extra daily spins for more chances to play and win. Choose from subscription terms of one week, one month, six months, or one year. The weekly cost is $4.99, the monthly cost is $9.99, and the one-year cost is $49.99. Prices may vary and actual charges may be converted to other currencies depending on your country of residence.\nPayment will be charged to your iTunes account upon confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage or turn off auto-renewal through your iTunes account settings (https://support.apple.com/HT202039).\nWhen your current trial or subscription period expires, you will be unsubscribed. Active subscription periods cannot be canceled. Once your subscription expires, you will no longer have access to VIP features, including ad-free gameplay and extra daily spins.\nTerms of Service: https://fiogonia.com/terms/\nPrivacy Policy: https://fiogonia.com/privacy/",
+   "trackViewUrl": "https://apps.apple.com/us/app/drop-escape-block-puzzle/id6755428492?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "366558208",
+   "languageCodesISO2A": [
+    "BG",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "LV",
+    "LT",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TR",
+    "UK"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 39
+   }
+  },
+  {
+   "trackId": 6608973267,
+   "trackName": "Clue Master - Logic Puzzles",
+   "bundleId": "com.regulusstudio.lexicard",
+   "artistName": "Lion Studios Plus",
+   "sellerName": "Lion Studios Plus LLC",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Word",
+    "Puzzle",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.58674,
+   "userRatingCount": 27733,
+   "releaseDate": "2024-10-05T07:00:00Z",
+   "currentVersionReleaseDate": "2026-03-17T15:32:45Z",
+   "version": "1.12.0",
+   "description": "Clue Master: Solve Crimes, Uncover Secrets, and Find the Criminal!\n\nEnter the gripping world of Clue Master, a unique blend of brain games and logic puzzles where your deduction skills are put to the ultimate test. Dive into challenging mysteries to identify criminals, protect the innocent, and unravel complex webs of romance, family, and friendship entangled with betrayal. This is the perfect brain game for adults looking to challenge their IQ and enjoy cryptic crosswords, word puzzles, and mystery games all in one!\n\nFeatures:\n\n- Immersive Logic Puzzles: Each level presents unique clues, requiring sharp logic and deduction skills to piece together. Identify criminals, clear the innocent, and make tough calls that could save lives.\n  \n- Betrayal and Loyalty: Navigate puzzles where personal relationships play a central role—discover secrets of romance and betrayal, unravel tangled family trees, and uncover friends who deceive.\n\n- Heart-Pounding Mysteries: Engage in suspense-filled scenarios with hidden hints that reveal not only the culprit but also motives of love, envy, and revenge, perfect for fans of detective games and clue games.\n\n- Strategic Clue Gathering: Read clues carefully, pick up on subtle details, and think critically to solve each mystery. Whether you’re into problem-solving or riddles, one wrong move could lead to the wrong suspect or missed danger.\n\n- Intense Crime-Solving Missions: Track down cunning criminals, gather evidence, and make careful decisions to bring them to justice. Each solved case brings you closer to becoming a master detective!\n\n- Diverse Gameplay: With gameplay inspired by IQ tests, cross logic, and crypto brain puzzles, you’ll enjoy puzzles with increasing complexity that keep you guessing and thinking deeply.\n\n- Captivating Storyline & Characters: Experience the thrill of finding \"the one\" who betrayed, dealing with the consequences, and exploring character stories woven with gossip, secrets, and romance.\n\nReady to solve the toughest cases, uncover hidden betrayals, and use your logic to save lives? Download Clue Master now and start your journey with cryptograms, memory games for adults, and word puzzles designed to challenge your brain!\n\nAre you prepared to face the truth? Enter Clue Master and discover the secrets that lie beneath!\n\nVisit https://lionstudios.cc/contact-us/ if you have any feedback, need help on beating a level, or have any awesome ideas you would like to see in the game!\n\nFrom the Studio that brought you Hexa Sort, Family Tree, Wordle!, Match 3D, and many, many more!\n\nFollow us to get news and updates on our other Award-Winning titles:  \nhttps://lionstudios.cc/  \nFacebook.com/LionStudios.cc  \nInstagram.com/LionStudioscc  \nTwitter.com/LionStudiosCC  \nYoutube.com/c/LionStudiosCC",
+   "trackViewUrl": "https://apps.apple.com/us/app/clue-master-logic-puzzles/id6608973267?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "330639360",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 10
+   }
+  },
+  {
+   "trackId": 1319623038,
+   "trackName": "Block Puzzle -Glow Puzzle Game",
+   "bundleId": "com.changchunteng.blockpuzzle",
+   "artistName": "Mindgo limited",
+   "sellerName": "Mindgo Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.57287,
+   "userRatingCount": 27355,
+   "releaseDate": "2017-12-02T23:40:36Z",
+   "currentVersionReleaseDate": "2021-11-03T15:00:37Z",
+   "version": "3.0",
+   "description": "Block Puzzle! Glow Puzzle Game\n\nIt’s fun, Let’s play this Glow puzzle block which is incredibly intuitive and simple for all ages and skill levels.\n\nThe and horizontally. the more glow blocks eliminated you can, the more scores you will get. The ranking will be reset each week, You can challenge players all over the word.\nFrom now on, Let's enjoy a simple and addictive glow coloring puzzle game! once you start, you'll be hooked. you can play games for free!\n\nGlow Puzzle Game Features:\n.Glow coloring themed puzzle\n.Simple but fun game\n.intuitive one-touch controls\n.Elegantly design\n.Weekly ranking\n\nHOW TO PLAY\n• Drag the blocks to move them.\n• Try to fit them all in the row or column. Then the block will be clear and you get the point. Game will be over if there are no room for any the shapes below the grid.\n• Blocks can't be rotated.\n\nYou can play anytime and anywhere! We really hope you enjoy it!\nQuickly, let's try the game.\n\nPLEASE NOTE\nNetwork connection is required.\nBlock puzzle-Glow block game is free to download and play. Some in-app items can also be purchased for real money. In-app purchases can be disabled through your device’s settings.\nBy downloading this app, you agree to our privacy policy and terms of use.\n\nhttps://sites.google.com/site/glowprivacypolicy/\nhttps://sites.google.com/site/glowtermsofuse/\n\nContact: leyoo_soph@yeah.net\n\nIf you subscribe to any of the VIP Subscription via iTunes, payment will be charged to your iTunes Account at confirmation of purchase and your subscription automatically renews for the same price and period unless auto-renewal is turned off at least 24 hours before the end of the current subscription period. Your account will be charged for renewal within 24 hours prior to the end of each period at the cost of the selected package. Subscriptions can be managed and auto-renewal can be turned-off through your iTunes Account Settings after purchase .\n\nYou may cancel a subscription during its free trial period via subscription setting in your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. In case of subscription cancelation, all the privilege you are entitled to, will be invalid.\nAny unused portion of a free trial period, will be forfeited when the user purchases a subscription to that publication.\n\nAll prices are subject to change without notification. We occasionally run promotion prices as incentives or limited time opportunities for qualifying purchases made during the promotional time period. Due to the time sensitive and promotional nature of these events, we are unable to offer price protection or retroactive discounts or refunds for previous purchases in the event of a price reduction or promotional offering.",
+   "trackViewUrl": "https://apps.apple.com/us/app/block-puzzle-glow-puzzle-game/id1319623038?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "72458240",
+   "languageCodesISO2A": [
+    "EN",
+    "JA",
+    "ZH",
+    "ZH"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 21
+   }
+  },
+  {
+   "trackId": 6464049923,
+   "trackName": "Match Junk: Triple Tile Puzzle",
+   "bundleId": "games.match.junk",
+   "artistName": "SayGames LTD",
+   "sellerName": "SayGames LTD",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Casual",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.6249,
+   "userRatingCount": 24708,
+   "releaseDate": "2023-10-31T07:00:00Z",
+   "currentVersionReleaseDate": "2026-07-21T13:30:12Z",
+   "version": "1.10.0",
+   "description": "I spy, with my little eye…\n\nReady to try your hand (and eye) at this fantastic matching game? Match Junk has got everything you’re looking for in a triple match game and more with tons of fun items, unique gameplay and even the ability to play offline. Come see if you can spot and match all the items before the timer runs out!\n\nBegin the game with a variety of objects scattered all across the screen; identify three identical ones and tap on them to connect. Continue hunting for and matching items in groups of three tiles until you’ve cleared the panel in as little time as possible, since you’ll need to work fast to beat the timer. Don’t worry though, this game is anything but stressful – Match Junk has tons of cool features to really enhance your gaming experience, such as:\n\n• Fun and useful boosters – Make use of the shuffle feature to switch up the item placement, as well as tons of cool boosters that let you quickly organize and triple match objects to fly through the levels. Difficult levels and sneakily hidden items won’t stand a chance against you with these under your belt.\n\n•Unique gameplay – Test your strategy and logic skills as you try and match all the tiles before the time runs out. By making this game triple match as opposed to the usual single, we’ve upped the fun and possibility to learn something from the game. As you hone your spotting skills, you’ll also be training your brain and eyes – now that’s a win-win!\n\n•Charming level design – No one likes playing games where the graphics are glitchy or the levels are poorly designed. Enjoy great 3D objects and fun puzzles that appeal to the young and young-at-heart alike as you take a break from reality and spend a few relaxing minutes (or hours, shh we won’t tell!) matching items.\n\n•Offline play – Maybe you’re traveling and need a distraction, have limited data that you don’t want to use up, or are just having trouble getting your phone to connect to the spotty Wi-Fi. Match Junk doesn’t require an internet connection, so you’ll be able to keep matching to your heart’s content no matter the situation!\n\nA match made in heaven\n\nWhether you’re looking to just have some fun or to give your brain a little push, Match Junk is the triple match puzzle for you. Zoom through levels as you identify matching tiles on the screen and meet your objectives, all while enjoying the great design and ability to disconnect from the internet while you play. Download today to get the fun ball rolling!\n\nPrivacy Policy: https://say.games/privacy-policy\nTerms of Use: https://say.games/terms-of-use",
+   "trackViewUrl": "https://apps.apple.com/us/app/match-junk-triple-tile-puzzle/id6464049923?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "328404992",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 28
+   }
+  },
+  {
+   "trackId": 1594607267,
+   "trackName": "Logic Riddle-Puzzle Games",
+   "bundleId": "com.dream.crosslogic",
+   "artistName": "Wuhan Dream Space Studio Co., LTD",
+   "sellerName": "Wuhan Dream Space Studio Co., LTD",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Word",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.74172,
+   "userRatingCount": 23518,
+   "releaseDate": "2021-11-11T08:00:00Z",
+   "currentVersionReleaseDate": "2024-09-06T07:43:25Z",
+   "version": "1.9.7",
+   "description": "Enjoy logic puzzles and train your brain in Logic Riddle!\n\nDecode written clues and fill in the grid to solve each puzzle. Some words may contain two or more clues. Find hidden logics and use hints when necessary!\n\nThere are thousands of unique puzzles with increasing difficulty.  From easy to expert, work your way up and become a logic master! \n\nNot easy at first but super fun and satisfying when you solve them. \n\nSUBSCRIPTION PRICING AND TERMS \n\nSubscription Options \nIn our game, we have the following subscription option: \n\n- Diamond Membership offers subscription service at $4.99 per week. With this subscription, you can get 2500 coins, 2 hints and 2 magnifiers instantly, 1200 coins every day starting from the second day, unlock all puzzles and remove pop-up Ads.\n\n- End of trial and subscription renewal\nThis price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Payment will be charged to Apple Store Account at confirmation of purchase without free trial.\n\nSubscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period. The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. \n\nSubscription may be managed by the user and auto-renewal may be turned off by going to the user's Apple Store Account Settings after purchase. \n\n- Subscription is not a must in our game\nUsers can choose whether to subscribe to our game or not. Except for elements offered in the Subscription option, users who do not make a subscription will still have access to the basic elements in our game. \n\n- Subscription Cancellation\nIf you would like to cancel your subscription, go to ‘Settings’ on your iOS device --> ‘iTunes & App Store’ --> tap ‘Apple ID’ and then ‘View Apple ID’. Enter ‘Account Settings’, tap ‘Subscriptions’ --> ‘Manage’ and select the subscription for ‘Archero’ to cancel it.\n\n\n- User Agreement and Privacy Policy\n\nPrivacy Statement https://dreamsst.com/privacy\n\nUser Agreement https://dreamsst.com/termsOfSubscription\n\n\nIf you have any questions or comments, feel free to contact us at support@dreamsst.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/logic-riddle-puzzle-games/id1594607267?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "260236288",
+   "languageCodesISO2A": [
+    "CA",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle",
+    "train puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 6,
+    "train puzzle": 31
+   }
+  },
+  {
+   "trackId": 1063740276,
+   "trackName": "Logic Daily: Grid Puzzles",
+   "bundleId": "com.twinwizards.logicpuzzles",
+   "artistName": "Twin Wizards",
+   "sellerName": "Twin Wizards Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Word",
+    "Puzzle",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.51025,
+   "userRatingCount": 19261,
+   "releaseDate": "2016-03-23T00:11:57Z",
+   "currentVersionReleaseDate": "2026-09-17T08:53:19Z",
+   "version": "2.2.4",
+   "description": "Now over 4,000 Puzzles!\nLogic Puzzle fans, meet your nemesis! Created by a team of puzzlers who have been completing these grid-based logic problems for decades, the Logic Professor challenges you to work your way through level after level of his brain-teasers. Can you beat his time for each logic puzzle and win bragging rights, or will you be the recipient of another of his intellectual wisecracks?\n\n5 STARS from AmyVitalo. Love this. So addicted been waiting for a decent logic app for a long time A+++++\n\n5 STARS from Claudiama. Best Logic Puzzle App. This is the best logic grid puzzle app in the App Store for the variety and complexity of their puzzles.\n\n5 STARS from JaneE41. Great logic puzzle app! I love logic problems and this app really delivers. Great game play, lots of difficulty levels and the Professor character is very entertaining - highy recommended!\n\n5 STARS from KahiaL Way more puzzles than other apps! This game has way more puzzles than any of the other logic apps I've tried. Love that it has a daily puzzle too.\n\nThe game starts you off with more than a hundred free logic puzzles, with new puzzles added every day as part of our Daily Challenge feature. Enjoy a new, free brain-teasing logic problem every day direct to your iPhone or iPad or build your collection with one of our puzzle pack add-ons.  \n\nUse logic and deduction to solve your way through the Professor's Logic University with the difficulty level of the puzzles rising with each completed logic problem. Global leaderboards mean you can measure your performance against players from all over the world - or invite your Facebook friends and see if you can beat their times for each grid!  \n\nThe Professor has even prepared a load of logical achievements for you to master - for example, can you beat him twice in a row, or how about five times? He thinks it is unlikely...\n\n  The gameplay is simple but addictive and Logic Puzzle Daily boasts all the latest logic puzzle features, including Auto X, Hints, Error Checker and Multi-Level Undo. For the harder logic puzzles you can use the Notes section to help you work through the clues and solve the puzzle.  \n\nThese logic puzzles are all brand new and created especially for this app, not licensed or published before somewhere else.  \n\nEmail: support@twinwizards.com \nFacebook: facebook.com/twinwizardsapps \nWebsite: logicpuzzlesdaily.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/logic-daily-grid-puzzles/id1063740276?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "70860800",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 7
+   }
+  },
+  {
+   "trackId": 1551787372,
+   "trackName": "Braindoku: Sudoku Block Puzzle",
+   "bundleId": "com.murka.braindoku.sudoku.block.puzzle",
+   "artistName": "Murka Games Limited",
+   "sellerName": "Murka Games Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Entertainment",
+    "Casual"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.70068,
+   "userRatingCount": 19000,
+   "releaseDate": "2021-03-01T08:00:00Z",
+   "currentVersionReleaseDate": "2025-07-22T14:48:31Z",
+   "version": "3.10.0",
+   "description": "Embark on an epic adventure like no other with Braindoku, the ultimate block puzzle game that will put your IQ and puzzle-solving skills to the test!\n\nJourney through mesmerizing fantasy worlds, each filled with untold riches and captivating mysteries. As you travel, you'll encounter diverse landscapes and unique backgrounds, immersing yourself in the enchanting realms of Braindoku. But beware, challenges lie ahead, and only the sharpest minds can overcome them!\n\nIn this addictive game, you hold the key to unlocking the treasures of each world. Strategically place blocks on the 9x9 board to fill rows, columns, or squares and witness the magic unfold. Every clever move will clear the path to adventure, earning you precious points and unlocking new horizons to explore.\n\nCustomize your surroundings by unraveling intricate Sudoku block puzzles. Can you master the art of puzzling and claim the grand prizes at the end of each world?\n\nBut Braindoku isn’t just a game; it's an odyssey of the mind. Prepare to enhance your mental agility and elevate your IQ as you delve deeper into these captivating realms. Suitable for adventurers of all ages, this brain-training experience promises an immersive and addictive way to improve your cognitive prowess.\n\nAre you ready to embark on this extraordinary journey? Download Braindoku today and set forth on an adventure that will challenge and delight you at every turn!\n\nOur Features:\n- Adventure Journey World\n- Quick to understand rules, easy to control\n- Play with friends\n- Get rewarded big\n- Game for all ages\n- Small game size\n- Playable offline\n\nBy downloading this application, you are accepting Terms of Service & updated Privacy Policy:\nhttp://murka.com/#terms-of-service\nhttp://murka.com/#privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/braindoku-sudoku-block-puzzle/id1551787372?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "375595008",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 29
+   }
+  },
+  {
+   "trackId": 1523148570,
+   "trackName": "Brain Games : Logic Puzzles",
+   "bundleId": "com.wisdomlogix.braingames.logic.tricky.iqpuzzles",
+   "artistName": "Wisdomlogix Solutions Private Limited",
+   "sellerName": "Wisdomlogix Solutions Private Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.59635,
+   "userRatingCount": 18127,
+   "releaseDate": "2020-07-26T07:00:00Z",
+   "currentVersionReleaseDate": "2026-06-11T19:18:21Z",
+   "version": "1.2.19",
+   "description": "Brain game surely out your brain and increase you memory power with IQ puzzles, Tricky & Logic puzzles, Concentration and Multitasking.\n\nLooking for a fun and challenging way to exercise your mind? Look no further than Brain Games, the ultimate collection of brain-teasing puzzles and games!\n\nWith a variety of small games, including water sort puzzle, DOT Game, Sudoku, Pattern recognition, Quick Search number, Left vs Right brain, Concentration, and Multitasking, there's something for everyone to enjoy. \n\nWhether you're looking to improve your memory, sharpen your problem solving skills, or just give your brain a workout, Brain Games has got you covered.\n\nWater Sort Puzzle : Fun and addictive puzzle game! A challenging yet relaxing game to exercise your brain!\n\nDOT Game : Best tricky game that forces your brain to work when you look at the clock.\n\nSudoku : Solve classic sudoku puzzles, train your brain, and have fun.\n\nPattern : Cool pattern memory game to improve memory power.\n\nQuick Search : Bubble game with number search puzzle, Easy tap and play game.\n\nConcentration : Free brain concentration game to improve visuals, focus and memory power.\n\nMultitasking : Awesome brain teasers to test your maths power.\n\nWith Brain Games, you can improve your brain power and train your mind in a fun and engaging way. \n\nBrain challenge level: Higher the level, higher the difficulty.\n\nBrain game can be played offline: Just download and play anytime.\n\nDownload the best brain game with uniquely designed challenges.",
+   "trackViewUrl": "https://apps.apple.com/us/app/brain-games-logic-puzzles/id1523148570?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "434037760",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 38
+   }
+  },
+  {
+   "trackId": 1617401370,
+   "trackName": "Sort Em All - Water Puzzle",
+   "bundleId": "water.sort.free.puzzle.game.relax",
+   "artistName": "Metajoy",
+   "sellerName": "Metajoy Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Board"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80004,
+   "userRatingCount": 16168,
+   "releaseDate": "2022-04-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-07-17T03:20:14Z",
+   "version": "0.0.91",
+   "description": "Welcome to Sort Em All - Water Puzzle, a colorful sorting game experience that combines the joy of water sorting with the relaxation of flowing water. Dive into the world of sorting puzzle games and let the soothing sounds of flowing water wash away your worries.\n\nIn Sort Em All - Water Puzzle, your mission is to finish the water sorting levels. Sort and merge the same color water in tubes with various shapes, using your strategic skills to solve each sorting game level. As you progress, the water puzzle games become more challenging, adding to the sorting puzzle joy while putting your brain to the ultimate game test. Exercise your mental muscles and logic as you relax and fill the bottles with the right combinations of water.\n\nGame Goal:\nThere are several glasses, tubes, and bottles filled with colorful water. Your goal is to tap the glasses, tubes, or bottles to merge the same color water in the same container. It's all about sorting and merging in this engaging water puzzle sorting game.\nTip:\nIf you get stuck while playing a water sorting game, you can restart the game at any time instead of stressfully trying to figure it out.\nGameplay:\nTo complete a color water game, simply tap any glass, tube, or bottle and pour the water into another one to merge. Think carefully, as each glass contains more than two colors at the beginning. You'll need to merge and sort the different color water step by step in this water sorting game. Remember tools and hints are helpful to finish the water sorting puzzles. \nSort Em All - Water Puzzle Features:\nFun and Challenging Levels: Engage in exciting water sorting puzzles. More bottles and colorful water are added as you progress, providing an extra layer of challenge to sort and play the game.\nRelax and Fill: Unwind in the calming atmosphere of Sort Em All - Water Puzzle. Let the soothing color water sorting puzzles transport you to a state of pure relaxation while you indulge in the addictive joy of water sorting.\nSpecial Events: Reach certain levels to unlock special game events. These events of water sorting puzzles with the same difficulty as regular levels, but some are more tricky, so think carefully before making a move.\nUnlock Rewards and Progress: Conquer the water brain teasers and unlock new challenges and rewards as you master water sort puzzles. Progress further to win rewards in game events.\n\nExperience the ultimate joy of water sorting in Sort Em All - Water Puzzle, a game that combines relaxation, brain-teasing puzzles, and addictive sorting gameplay. Whether you're a fan of water puzzle games or simply looking for a soothing way to unwind, Sort Em All - Water Puzzle is designed for you.\nDon't miss out on the opportunity to download this captivating sorting game and embark on a water sorting adventure like no other. Let Sort Em All - Water Puzzle be your companion as you relax, challenge your mind, and enjoy the pure delight of solving water sorting puzzles. \n\nDownload Sort Em All - Water Puzzle now and let the game journey begin!",
+   "trackViewUrl": "https://apps.apple.com/us/app/sort-em-all-water-puzzle/id1617401370?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "315813888",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 32
+   }
+  },
+  {
+   "trackId": 6747063674,
+   "trackName": "Brain Puzzle 2: Logic Twist",
+   "bundleId": "com.brain.logic.joygame.ios",
+   "artistName": "SmallStep Dev Team",
+   "sellerName": "Guangzhou SmallStep Information Technology Co., Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Entertainment",
+    "Casual"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.69027,
+   "userRatingCount": 14742,
+   "releaseDate": "2025-09-03T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-23T18:36:31Z",
+   "version": "1.1.2",
+   "description": "This time, we’re continuing the humorous storytelling and brain-teasing design of the first game, bringing you an even richer and more surprising puzzle-solving experience.\n\nIn this brand-new sequel, you'll follow quirky plot lines and make clever use of clues and interactive elements to crack a series of bizarre yet cleverly constructed levels.\n\nEach scene is packed with carefully designed puzzles, unconventional logic, and unexpected twists—making you think outside the box and enjoy a perfect mix of reasoning and creativity.\n\nNo complex systems needed—just tap, swipe, and explore! It's a fun and accessible brain challenge that anyone can enjoy. And if you get stuck, don’t worry—our trusty “Brain Buddy” will give you playful hints to spark new ideas and help you move forward.\n\nGame Features:\n\nBigger, Weirder Stories – Absurd scenarios mixed with trending jokes and clever twists, sparking laughs and wild creativity!\n\nThink Differently – These puzzles aren’t what they seem... flip your logic and find the unexpected solution.\n\nSimple, Fun Controls – Tap, drag, and solve. No learning curve—just dive in and play.\n\nUnlimited Hints – Stuck? Get as many helpful hints as you need.\n\nJoin us now and challenge the limits of your imagination! Use your creativity and wit to conquer this absurd and delightful puzzle adventure, and feel the thrill of every solution.\n\n\nThis is just the beginning! More levels and crazy stories are on the way—stay tuned!\n\nContact Email: xiaobuinfo2019@gmail.com\nWebsite: https://www.smallstepinfo.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/brain-puzzle-2-logic-twist/id6747063674?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "348347392",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "ID",
+    "JA",
+    "KO",
+    "MS",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "ZH",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 11
+   }
+  },
+  {
+   "trackId": 867654947,
+   "trackName": "Nonogram - IQ Logic Pic Puzzle",
+   "bundleId": "br.com.tapps.logicpic",
+   "artistName": "By Aliens L.L.C - F.Z",
+   "sellerName": "By Aliens L.L.C-FZ",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Entertainment",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.38884,
+   "userRatingCount": 9199,
+   "releaseDate": "2014-05-20T15:34:28Z",
+   "currentVersionReleaseDate": "2026-09-16T04:35:10Z",
+   "version": "3.95",
+   "description": "Solve endless logic puzzles and get a bit smarter every day while having fun!\n\nSharpen your mind anywhere, anytime with easy to learn, hard to master nonogram puzzles (a.k.a. Picross, Griddler, Picture Cross), all while discovering awesome pixel art illustrations!\n\nHave your wits always one step ahead!\n\nHOW TO PLAY\nIf you’re already familiar with grid puzzles, you’ll quickly get the hang of nonograms.\nYou only need to follow two steps to get started:\n\n1-Look at the numbers at the ends the rows and columns;\n2-Use logic to fill the blocks and discover the hidden picture!\n\nOur quick in-game tutorial will have you solving picture cross puzzles like a genius in no time!\n\nFEATURES\n•SOLVE countless brain-teasing, easy-to-expert nonogram puzzles!\n•BEAT a challenge every day with the Daily Levels feature!\n•USE logic to color the blocks on the grids and reveal the pictures hidden underneath them. The simple and fun picross gameplay you know and love! \n•ENJOY hours upon hours of picross picture logic puzzles with varying difficulty: lots of fun for all ages and skill levels!\n•NO WI-FI NEEDED: play the game offline at any time!\n•DISCOVER beautiful pixel art pictures from different thematic sets in the biggest selection of picture cross puzzle categories yet! Puzzle Packs include famous landmarks, animals, everyday objects and movies\n•SHOW OFF how smart you are by solving nonograms with record speed in front of your friends or that special someone you wish to impress!\n•AUTO-SAVE feature lets you resume your picross puzzle solving from where you left!\n\nComplete fun thematic puzzle sets and power-up your problem solving skills without even noticing it! \n\nDownload now and start boosting the power of your brain!\n\nLOGIC PIC SUBSCRIPTION\n- You can subscribe for new content updates (every day, new levels will be available for playing)\n- Subscriptions are from $1.99 USD weekly, $4.99 USD monthly and $29.99 USD annually*\n- Payment will be charged to iTunes Account at confirmation of purchase\n- You will be able to access all available packs for the duration of the subscription\n- Subscription automatically renews for the same price and duration period as the original \"weekly\"/\"monthly\"/\"yearly\" package unless auto-renew is turned off at least 24-hours before the end of the current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package (weekly, monthly or yearly package)\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase\n- No cancellation of the current subscription is allowed during active subscription period\n- You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098 for more information\n- You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period\n- Any unused portion of a free-trial period, will be forfeited when the user purchases a subscription\n- For more details, please review the Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nLinks to our Terms of Service and Privacy Policy can be found below:\n\nhttps://byaliens.com/privacy-policy\n\n\n\n\n\n\n\n\n\nhttps://byaliens.com/terms-of-service\n\n* Prices are equal to the value that \"Apple's App Store Pricing Matrix\" determines as the equivalent of the subscription price in $ USD.\n\nDisclaimer: While this App is completely free to play, some additional content can be purchased for real money in-game. If you do not want to use this feature, please turn off in-app purchases in your device's settings.",
+   "trackViewUrl": "https://apps.apple.com/us/app/nonogram-iq-logic-pic-puzzle/id867654947?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "433864704",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 29
+   }
+  },
+  {
+   "trackId": 6451438282,
+   "trackName": "Lexilogic - Logic Puzzle",
+   "bundleId": "com.hitappsgames.squarelogic",
+   "artistName": "Hitapps Games LTD",
+   "sellerName": "Hitapps Games LTD",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Word",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.45698,
+   "userRatingCount": 8891,
+   "releaseDate": "2023-08-02T07:00:00Z",
+   "currentVersionReleaseDate": "2026-06-04T08:26:58Z",
+   "version": "1.8.2",
+   "description": "Introducing Lexilogic, the ultimate word game that combines the thrill of word games, crossword puzzles, and brain games into a single addictive experience. Get ready to dive into the world of word puzzle games and logic puzzles that will test your skills and keep you entertained for hours.\n\n   In Lexilogic, you'll be presented with a grid of letter tiles, and your challenge is to connect them to form words. But it's not just about creating any words; you'll need to figure out the connections between them. This game offers a fresh take on the classic word games, offering you a unique and engaging experience that exercises your brain while having a ton of fun. Lexilogic is not just a word game; it's a crossword puzzle, a brain game, and a logic puzzle all rolled into one.\n\n   Are you looking for free games for adults that are as entertaining as they are mentally stimulating? Lexilogic is here to cater to your needs. Whether you enjoy charades, brain games, logic puzzles, or connections games, Lexilogic offers it all. The game is suitable for players of all ages, but it's especially perfect for adults who are seeking a challenging and enjoyable way to spend their free time.\n\n   Lexilogic is your go-to connections game and connections word game. It is designed to provide you with a mind-boggling experience that will put your word games and crossword puzzle-solving skills to the test. Engage in brain games and word puzzle games that are designed to improve your vocabulary, sharpen your mind, and keep you entertained. Dive into the world of logic puzzles and connect words in this unique and engaging word game.\n\n   Experience the thrill of word games, crossword puzzles, brain games, and logic puzzles all in one place. Lexilogic offers a novel way to enjoy word puzzle games, providing endless hours of challenges, entertainment, and cognitive enhancement. If you're looking for a connections game or connections word game, Lexilogic has got you covered. Whether you're a word game enthusiast or simply seeking a brain-teasing experience, this game has something for everyone. Don't miss out on the fun; download Lexilogic now and put your word skills to the test!",
+   "trackViewUrl": "https://apps.apple.com/us/app/lexilogic-logic-puzzle/id6451438282?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "189307904",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 15
+   }
+  },
+  {
+   "trackId": 6452628712,
+   "trackName": "Block Sudoku Puzzle Game",
+   "bundleId": "microjoy.block.sudoku.puzzle",
+   "artistName": "Microjoy Games Limited",
+   "sellerName": "Microjoy Games Limited",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Casual"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.7336,
+   "userRatingCount": 8345,
+   "releaseDate": "2023-08-02T07:00:00Z",
+   "currentVersionReleaseDate": "2025-09-30T16:28:41Z",
+   "version": "1.8.1",
+   "description": "Let's dive into the world of Block Sudoku Puzzle Game and start playing now! Block Sudoku Puzzle is the perfect game for those seeking relaxation and brain training. With its combination of various levels of complexity and addictive gameplay, reminiscent of both block puzzles and sudoku, this game offers a refreshing way to unwind. Whether you're feeling tired or down, a few rounds of Block Sudoku will uplift your spirits and provide a soothing escape for your mind.\n\nIf you enjoy challenging yourself with block games, Block Sudoku is the ideal choice. Take a break from the daily grind and eliminate negative thoughts as you immerse yourself in this brain-teasing puzzle. Boredom is simply not an option when playing block puzzle games! Whether you want to relieve stress or exercise your brain, Block Sudoku offers a relaxing yet stimulating gaming experience that can be enjoyed anywhere, anytime.\n\nWith Block Sudoku, playing block puzzles becomes an incredibly enjoyable and immersive activity. If you're a fan of puzzle games, prepare to be enthralled by the excitement this game brings. It combines the best elements of free block games and cube block grid games, offering an epic journey that challenges and delights players.\n\n\nHow to play Block Sudoku:\n\nTake your time, as there is no time limit in this block game. Think ahead and strategize your moves, especially when facing difficult situations. Every move counts!\nBuild blocks on the puzzle board to eliminate lines or 3x3 squares with each move, in order to prevent the board from filling up.\nFind your zen by striking a balance between destroying block figures quickly and aiming for combos and streaks to achieve higher scores.\n\n\nFeatures:\n\nEasy to learn and highly addictive gameplay.\nHours of enjoyable gameplay await you.\nFree to play, with no need for an internet connection.\n\n\nGet ready to experience the thrill of Block Sudoku and embark on an incredible puzzle-solving journey that will keep you engaged for hours on end!\"",
+   "trackViewUrl": "https://apps.apple.com/us/app/block-sudoku-puzzle-game/id6452628712?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "223067136",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 18
+   }
+  },
+  {
+   "trackId": 1382208971,
+   "trackName": "Ignis - Puzzle Game",
+   "bundleId": "com.kabukgames.ignis",
+   "artistName": "Dalak Games",
+   "sellerName": "DALAK GAMES BILISIM TEKNOLOJI TICARET LIMITED SIRKETI",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Strategy"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.68146,
+   "userRatingCount": 7864,
+   "releaseDate": "2018-06-20T14:49:41Z",
+   "currentVersionReleaseDate": "2026-06-17T21:14:20Z",
+   "version": "10.0.1",
+   "description": "Brain teasing puzzle lovers will be addicted to this minimalist and unique puzzle game Ignis. Sparkle all mind twister shapes strategically in this minimalist puzzle action game. Tap on the point to ignite and watch all rectangles, hexagons, and circles burning. When one shape burns out, its sparkle spreads on the nearest shape and ignites it. If you like concentration games or challenging games, this physics puzzle game keep you enjoy for hours!\n\nEngaging games start easy and simple but get harder as you pass the levels. Ignis just like all addicting games for free begins with a level that you burn just one shape. However, after completing a couple of puzzle levels, you need to think how to burn five or six shapes only with a sparkle in this logic game. There are hundreds of logic master levels to complete and mind twister shapes, difficult mechanics, exigent lines and zigzags are waiting for you. Fuse all skillfully and have a challenge fun!\n\nIgnis is one of the best challenging and addicting free games to play when you bored. Its unique sounds, simple designs, relaxing fuse and sparkle effects and physics based mechanics can make it the best arcade game. \n\nHow to play:\n\nThink strategically and tap the point you decide, then, watch the burning lines with the sparkles. Each sparkle will connect to other shapes if you can find the correct sparkle point!\n\nUnique and simple game mechanic and design let you live a different puzzle game experience. Puzzle levels getting harder and harder makes you addictive to this exciting puzzle game. Physic based levels are a great joy for the lovers of brain-teasing puzzle games. This classic logic game keep you entertained for hours!\n\nFeatures:\n\nSimple & unique game mechanic\nPhysics puzzles getting harder to solve\nRelaxing music\nVarious shapes to blast and burn\nHint feature\nEnjoying casual style gameplay for the lovers of brain training games",
+   "trackViewUrl": "https://apps.apple.com/us/app/ignis-puzzle-game/id1382208971?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "187925504",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 26
+   }
+  },
+  {
+   "trackId": 6782894084,
+   "trackName": "Pawdoku-Logic Puzzle",
+   "bundleId": "com.pawdoku.puzzle",
+   "artistName": "AI FIRST FOR EVERYTHING TECHNOLOGY PTE. LTD.",
+   "sellerName": "AI FIRST FOR EVERYTHING TECHNOLOGY PTE. LTD.",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.92919,
+   "userRatingCount": 6214,
+   "releaseDate": "2026-06-26T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T20:11:27Z",
+   "version": "1.14.2",
+   "description": "Every otter needs their own corner. One board. One solution. No guessing required.\n\nPawdoku is a clean, minimalist Queens-style logic puzzle built around a simple promise: every puzzle has exactly one correct answer, and you can always reach it through pure deduction. Place one otter in each row, each column, and each colored region — and make sure no two otters ever touch, not even diagonally. The moment you place the last otter, you'll know you earned it.\nNo timer. No pressure. Play offline anywhere.\n\nWHY YOU'LL LOVE PAWDOKU\n• A calm, single-solution logic puzzle that rewards reasoning over guessing\n• Hints that teach, not spoil — they show the next logical step and why it holds\n• Boards that grow with you, from a cozy 4×4 all the way to a deep 10×10\n• Smooth, tactile placement and a satisfying \"last otter home\" moment every level\n• Works fully offline with fast loading and a clean, distraction-free interface\n\nHOW TO PLAY\n• Place exactly one otter in every row, every column, and every colored region\n• Keep otters apart — no two may sit adjacent, not even diagonally\n• Use deduction, not luck — every puzzle has one guaranteed answer\n• Tap a hint to highlight the next logical step when the grid feels tight\n• Fill the board correctly to solve the puzzle and unlock the next size\n\nWHY THIS PUZZLE STANDS OUT\n• Simple rules, deep strategy, and a truly mindful logic escape\n• One board, one solution — no guessing, no dead ends, no luck\n• Hints that build understanding, so you learn how you actually solved it\n• Perfect for short breaks or longer sessions to ease stress and sharpen focus\n• Clean visuals and gentle pacing that keep every puzzle readable\n\nA LOGIC PUZZLE FOR ANY MOMENT\nLearn the rules in seconds, then master trickier region shapes and configurations across dozens of clever boards. Start small on 4×4, then work up through 5×5, 6×6, all the way to 10×10. The rules never change — the depth just keeps unfolding. If you love Sudoku but want something fresh, or you've tried Queens puzzles and want one that meets you at your level, this is it.\n\nWhether you have one minute or one hour, Pawdoku fits your pace. No clock racing against you, no pressure to rush — just you, the otters, and the quiet satisfaction of a perfectly solved board.\n\nFind every otter their corner. Download Pawdoku now and turn pure logic into pure calm.",
+   "trackViewUrl": "https://apps.apple.com/us/app/pawdoku-logic-puzzle/id6782894084?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "333475840",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 33
+   }
+  },
+  {
+   "trackId": 6599857869,
+   "trackName": "Brain Training: Logic puzzles",
+   "bundleId": "com.socialloop.ballsort",
+   "artistName": "SocialLoop LLC",
+   "sellerName": "SocialLoop LLC",
+   "primaryGenreName": "Health & Fitness",
+   "genres": [
+    "Health & Fitness",
+    "Education"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.71431,
+   "userRatingCount": 6199,
+   "releaseDate": "2025-01-05T08:00:00Z",
+   "currentVersionReleaseDate": "2025-05-31T14:01:49Z",
+   "version": "25.5.30",
+   "description": "Brain Training – Logic Puzzles is your daily mental fitness session disguised as a color-sorting challenge. Each level strengthens your reasoning, focus and planning skills, helping you build sharper cognitive habits one puzzle at a time.\n\nHow to play:\n\n1. Tap a tube to lift the top ball.\n2. Drop it into another tube only if colors match or if that tube is empty.\n3. Keep organizing until every tube holds balls of a single color.\n4. Restart any level instantly if you want to refine your strategy.\n\nWhy you’ll love it:\n• Pocket-sized brain workouts you can do anywhere, every day\n• Steady progression—easy warm-ups lead into truly satisfying hurdles\n• Calming, timer-free gameplay that doubles as mindful practice\n• Hundreds of unique puzzles keep your mind engaged and evolving",
+   "trackViewUrl": "https://apps.apple.com/us/app/brain-training-logic-puzzles/id6599857869?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "69292032",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle",
+    "train puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 24,
+    "train puzzle": 25
+   }
+  },
+  {
+   "trackId": 1494084760,
+   "trackName": "Nonogram: Picture Cross Sudoku",
+   "bundleId": "com.s-nebula.nonogram",
+   "artistName": "Joymaster Puzzle Game Studio",
+   "sellerName": "MAVERICKS MOBILE CO.,LIMITED",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Puzzle",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.68468,
+   "userRatingCount": 5940,
+   "releaseDate": "2020-02-18T08:00:00Z",
+   "currentVersionReleaseDate": "2026-05-14T07:03:16Z",
+   "version": "1.7.4",
+   "description": "Discover an amazing world of 1000+ Nonogram puzzles! Solve a logic number puzzle to uncover a hidden picture of pixel art. Clean your mind.& train your brain. Start playing our picture cross puzzle at an easy level, and become a real Nonogram master! Download & Challenge ! \n\nNonogram is picture logic puzzle，you just need to follow the basic rules and logic to reveal the hidden picture. Squares on the board must be colored or left blank, numbers show how many squares to color. Numbers above the column are read from top-to-bottom. Numbers to the left of the rows are read from left-to-right. According the numbers, color a square or mark it with an X. \n\nNonogram is also known as Picture Cross, Hanjie, Picross or Griddlers. Nonogram is a kind of picture number puzzle such as Sudoku, it’s a great exercise for your brain!  There are 1000+ pixel logic puzzles, and new puzzles added every day. Solve the logic number puzzles and train your brain NOW! \n\nYou only need to follow two steps to get start: \n1-Look at the numbers at the ends the rows and columns; \n2-Use logic to fill the blocks and discover the hidden picture! \n\nGriddlers will help you to have a good time no matter wherever you are! Nanogram are suitable for almost everyone. Pass the time solving griddler puzzles and play japanese sudoku puzzles everyday. Perhaps solving number puzzles will turn into a good habit over time. \nOur quick in-game tutorial will have you solving picture cross challenge puzzles like a genius of sudoku -like puzzle games in no time! \n■ 5 difficulty modes for the challenge. Choose the Griddlers game difficulty level that is best for you. \n■ Massive themed puzzle await you to complete. Don’t forget to receive your Achievement rewards. \n■ Relieve stress with relaxing BGM. Gentle music calms you down. \n■ Discover new puzzles at your own pace. Unlock more and more new worlds. \n■ Sign in with Facebook\\ Apple to save your progress & play on multiple devices. Also, you can like us in Facebook: https://www.facebook.com/NonogramPicrossLogicPuzzles/\n\n\n◆ SUBSCRIPTION TERMS ◆ \nLength of Subscription: 1 week \nPrice: 3 days free trial then $7.99/Week \n• Payment will be charged to iTunes Account at confirmation of purchase \n• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period \n• The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal \n• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase \n• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable \n\nPrivacy Policy - https://www.easyfun-games.com/privacy.html\nTerms of Use - https://www.easyfun-games.com/useragreement.html\n\nTrain your brain with nonogram number puzzles! \nDownload free and start your adventure of Nonogram Puzzles.  \nChallenge yourself with picture cross puzzles! \nFacebook：https://facebook.com/NonogramPicrossLogicPuzzles/",
+   "trackViewUrl": "https://apps.apple.com/us/app/nonogram-picture-cross-sudoku/id1494084760?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "204421120",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 26
+   }
+  },
+  {
+   "trackId": 1613958816,
+   "trackName": "Nonogram Crossing Logic Puzzle",
+   "bundleId": "com.twodesperados.pic.cross.picross.logic",
+   "artistName": "Two Desperados",
+   "sellerName": "Two Desperados Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Casual",
+    "Entertainment",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.74974,
+   "userRatingCount": 5774,
+   "releaseDate": "2023-04-01T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T09:10:11Z",
+   "version": "1.142.04",
+   "description": "Rediscover the nonogram genre with Nonogram Crossing - a unique nonogram puzzle game! \n\nIf you enjoy playing nonograms (nanogram, pictogram, hanjie, griddlers, pic-a-pix, picross, sudoku), you will love this never-before-seen picture cross puzzle with thousands of levels!\nTest and improve your skills & logic with easy-to-learn but difficult-to-master logic number puzzle nonogram levels, surprising mini-games, and countless events with various levels of difficulty and unique obstacles that will challenge your brain. Relax and enjoy the whimsical aesthetics, fun sounds, and cute characters that will take your nonogram playing experience to the next level! \n\nHOW TO PLAY:\n\n- Follow the numbers around the nonogram puzzle grid \n- Fill the grid with blocks to reveal the picture\n- Reveal pictures underneath the nonogram puzzles\n- Win levels to help Nonos & unlock new chapters and mini-games \n\nFEATURES:\n\n- 3000+ nonogram puzzles added regularly \n- New mini-games & level types with different obstacles \n- New & exciting events \n- Exciting seasonal challenges \n- A range of boosters & power-ups \n- Fun, whimsical characters in a fantasy world \n- Amazing graphics with fun sounds \n- Offline mode - play anytime, anywhere \n- No interruptive ads! \n\nNonogram puzzles are a great way to challenge your brain, yet they are easy to learn and addictive. Improve your cognitive skills and have fun with Nonogram Crossing! \nIf you need help with your puzzle adventure, please write to us from the game or visit our support portal - https://support.twodesperados.com/hc/en/3-nono-crossing/",
+   "trackViewUrl": "https://apps.apple.com/us/app/nonogram-crossing-logic-puzzle/id1613958816?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "435980288",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 31
+   }
+  },
+  {
+   "trackId": 950326185,
+   "trackName": "Real Logic Riddle Puzzle",
+   "bundleId": "com.rottzgames.logic",
+   "artistName": "Rottz Games",
+   "sellerName": "Rottz Mobile Games LLC",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.76051,
+   "userRatingCount": 5679,
+   "releaseDate": "2015-04-11T19:53:36Z",
+   "currentVersionReleaseDate": "2022-09-25T13:47:23Z",
+   "version": "7.5.0",
+   "description": "Real Logic Challenge is a logic puzzle to challenge your brain. It is known as different names, such as Scientist's Riddle, Zebra Puzzle or Sherlock Holmes Puzzle.\n\n\nThe game presents a logic problem that gives you several clues describing a scenario involving a number of people. Each person has a certain job, owns a certain pet, likes some kind of sport, among other attributes. Your role in this brain teaser is a mix of detective with intelligence work: by using pure logic thinking and elimination, to uniquely deduce the whole scenario based on only a few initial clues.\n\n\nFeatures:\n• Thousands of Riddles: over 7000 logic riddles, all free! No packs to buy or anything.\n• Daily challenges: 15 free challenges every day.\n• Increasing Difficulty: Several grid sizes, from 4x4 to 16x9 - the bigger the harder.\n• Filters for Experts: Filters to help you find hints related to the elements and variables you want.\n• Mobile: Fully adapted to mobile interface: no clumsy triangular grid as the paper version.\n• Auto-Save: game is automatically saved so you can continue later.\n\n\nClues follow these lines:\n\"The English wears the Baseball Cap. The American likes Wine. The one that owns a Fox doesn't drink Beer...\"\n\n\nAnd your job in the Logic Riddle is to fully determine the scenario using logical assumptions, such as knowing what drink the English likes, and what kind of hat the guy who owns a Fox wears.\n\n\nIf you like pure logic problems, this game is for you: a true enigma game.\n\n\nIf you have any suggestions or problems let us know through logic.ios@rottzgames.com or the Facebook group: https://www.facebook.com/groups/288035414684910/",
+   "trackViewUrl": "https://apps.apple.com/us/app/real-logic-riddle-puzzle/id950326185?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "92686336",
+   "languageCodesISO2A": [
+    "CA",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 16
+   }
+  },
+  {
+   "trackId": 472853634,
+   "trackName": "PopWords!",
+   "bundleId": "com.megafaunasoft.popwords",
+   "artistName": "Sarah Pierce",
+   "sellerName": "Sarah Pierce",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Education",
+    "Board",
+    "Word"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.6344,
+   "userRatingCount": 5547,
+   "releaseDate": "2011-11-07T20:33:38Z",
+   "currentVersionReleaseDate": "2023-06-12T17:26:09Z",
+   "version": "2.2",
+   "description": "PopWords! is a simple and addictive word finding game. There are three different ways to play:\n\nClassic: Find words as fast as you can from an endless stream of letters. Finding words fast enough to keep the game going gets harder and harder as time passes. Try to reach the highest level you can! Then check out the leaderboards in Game Center and realize you've got a long way to go :)\n\nPuzzle: You only get one board full of letters, so use them wisely! Longer words will earn you more points, and clearing the board completely will double your points for the  whole game. Play on your own or compete in our Daily Puzzle competition to your score compares to everyone else who played that day. You can even watch the winning solution!\n\nPractice: Relax with no timer and just try to find as many great words as you can!\n\nFeatures: \n• Easy to learn -- just drag to make words!\n• Daily Puzzle lets you compete against the world every day\n• Game center leaderboards and achievements\n• Tracks your records, averages, and all-time best words \n• Relaxing untimed Practice mode\n• A fun mental exercise to keep your brain sharp!",
+   "trackViewUrl": "https://apps.apple.com/us/app/popwords/id472853634?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "35900416",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 35
+   }
+  },
+  {
+   "trackId": 932228293,
+   "trackName": "Train Conductor World",
+   "bundleId": "com.thevoxelagents.tc3",
+   "artistName": "THE VOXEL AGENTS PTY. LTD.",
+   "sellerName": "THE VOXEL AGENTS PTY. LTD.",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Strategy",
+    "Simulation",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.71603,
+   "userRatingCount": 5004,
+   "releaseDate": "2016-02-19T23:35:23Z",
+   "currentVersionReleaseDate": "2026-09-30T01:13:56Z",
+   "version": "25.1.0",
+   "description": "Master and manage the chaos of international railway traffic as the ultimate railroad tycoon. Build the rail network of your dreams; lay rails to solve the railroad puzzle with branching and forking roads at every turn. Pick your path and become the richest rail manager!\n\nGet in the driver's seat and take passengers to their destinations, dropping them at stations, and haul goods to ports and factories. Control and conduct the trains, marshalling them through tunnels, around obstacles and over mountains in this thrilling, fast-paced action arcade videogame. Connect your express trains across the railyard at breakneck speed. Try to avoid crashing, but I bet you can't. You'll need snappy strategy to master the chaos! Be on high-alert for explosive crashes, near-misses and split-second situations.\n\nRing the bell and toot your horn while playing in all types of weather conditions. Find bullet trains, diesel trains, modern electric trains and trams. Customise your trains and pick your favourite train carriage style.\n\nIt all counts when you're growing the biggest railway in the world.\n\nLet the locomotives loose!\n\n\n\"Incredibly good looking. Supremely satisfying.\" \n- Touch Arcade\n\n\"A brilliant mashup of genres that's wonderfully addictive.\"\n- Pocket Gamer\n\n\"So tactile and satisfying\" \n- Penny Arcade\n\n\"A really well thought out puzzle game.\" \n- SlideToPlay\n\n\"Train Conductor is a work of art.\" \n- Hittin Crits",
+   "trackViewUrl": "https://apps.apple.com/us/app/train-conductor-world/id932228293?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "336049152",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PL",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 4
+   }
+  },
+  {
+   "trackId": 6449282116,
+   "trackName": "Logic Detective Games",
+   "bundleId": "com.hugehard.logicgame",
+   "artistName": "Hugesoft Technology Co., Ltd.",
+   "sellerName": "Hugesoft Technology Co., Ltd.",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Word",
+    "Puzzle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73897,
+   "userRatingCount": 4011,
+   "releaseDate": "2023-05-26T07:00:00Z",
+   "currentVersionReleaseDate": "2025-10-22T23:05:04Z",
+   "version": "1.2.0",
+   "description": "Logic Clue Game is a great brain-teasing game that challenges your logic and deduction skills. This addictive game is designed to provide a fun and engaging experience for logic puzzle game players of all ages.\n\nLogic Clue Game features a variety of puzzles that require you to use logic and deduction to solve. Each puzzle presents a set of clues that must be used to deduce the correct answer. With multiple difficulty levels and various categories, Logic Clue Game provides endless hours of entertainment.\n\nThe Pack Mode is an original game mode. Each pack contains dozens of consecutive puzzles. As you solve each puzzle, you'll immerse yourself in a story and feel like a detective uncovering clues.\n\nThis game is perfect for those who enjoy problem-solving and critical thinking. With each puzzle you solve, you'll develop your cognitive skills, including attention to detail, pattern recognition, and logical reasoning. Plus, the sleek and user-friendly interface makes it easy to play and navigate.\n\nSo if you're ready for a mental challenge, download Logic Clue Game today and put your logic skills to the test!\n\nSUBSCRIPTION PRICING AND TERMS\n\nSubscription Options\nIn our game, we have the following subscription option:\n\n- Diamond Membership offers subscription service at $4.99 per week. With this subscription, you can get 2500 coins, 2 hints and 2 magnifiers instantly, 1200 coins every day starting from the second day, unlock all puzzles and remove pop-up Ads.\n\n- End of trial and subscription renewal\nThis price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Payment will be charged to Apple Store Account at confirmation of purchase without free trial.\n\nSubscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current period. The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal.\n\nSubscription may be managed by the user and auto-renewal may be turned off by going to the user's Apple Store Account Settings after purchase.\n\n- Subscription is not a must in our game\nUsers can choose whether to subscribe to our game or not. Except for elements offered in the Subscription option, users who do not make a subscription will still have access to the basic elements in our game.\n\n- Subscription Cancellation\nIf you would like to cancel your subscription, go to ‘Settings’ on your iOS device --> ‘iTunes & App Store’ --> tap ‘Apple ID’ and then ‘View Apple ID’. Enter ‘Account Settings’, tap ‘Subscriptions’ --> ‘Manage’ and select the subscription for ‘Archero’ to cancel it.\n\n\n- User Agreement and Privacy Policy\n\nPrivacy Statement https://hugesoft.co/privacy/\n\nUser Agreement https://hugesoft.co/terms/",
+   "trackViewUrl": "https://apps.apple.com/us/app/logic-detective-games/id6449282116?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "251225088",
+   "languageCodesISO2A": [
+    "CA",
+    "EN",
+    "FR",
+    "DE",
+    "JA",
+    "KO",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 14
+   }
+  },
+  {
+   "trackId": 897857429,
+   "trackName": "Sudoku : World's Biggest Number Logic Puzzle",
+   "bundleId": "com.appynation.wbsd",
+   "artistName": "AppyNation Ltd.",
+   "sellerName": "AppyNation Ltd",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board",
+    "Education"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.52569,
+   "userRatingCount": 3348,
+   "releaseDate": "2014-10-16T07:00:00Z",
+   "currentVersionReleaseDate": "2016-09-20T09:15:53Z",
+   "version": "1.3",
+   "description": "The biggest and best Sudoku game ever! Play now for FREE!\n\nWe've created a GIANT grid of over 350 hand-crafted Sudoku puzzles to challenge players of all ages! Can you complete the whole grid, beat the Quests, and collect all of the Trophies?\n\nTo fully master the game you must complete all these challenges:\n\n● Play on Easy, Medium, Hard and Super-Hard grids \n● Complete each of the 361 individual sections \n● Collect all 45 of the prestigious trophies \n● Complete all 57 quests \n● Unlock all 10 achievements \n\nWorld’s Biggest Sudoku comes complete with these helpful features:\n\n● Use Pencil Marks to help with your deductions\n● Useful Hint features to help if you get stuck\n● Choose from several background themes to suit your style\n\nTake the challenge now!\n\n\nSUPPORT\n\nPlease select the HELP option from the Options menu (the gear icon in the top right corner of the game screen) if you require assistance.\n\nAlternatively you can contact us by email: community@appynation.com\n\nWorld's Biggest Crossword is free to play, but contains optional paid items to unlock puzzles more quickly.\n\nFacebook: /BigPuzzles - Twitter: @BigPuzzles\n\n\nMORE GREAT GAMES\n\n● One Clue Crossword\n● World's Biggest Picture Cross\n● World's Biggest Mahjong\n● World's Biggest Crossword\n● World's Biggest Wordsearch\n● World's Biggest Jigsaw",
+   "trackViewUrl": "https://apps.apple.com/us/app/sudoku-worlds-biggest-number-logic-puzzle/id897857429?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "129256448",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "RU",
+    "ES"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "logic puzzle"
+   ],
+   "ranks": {
+    "logic puzzle": 19
+   }
+  },
+  {
+   "trackId": 870116373,
+   "trackName": "Train Jigsaw Puzzles for Kids",
+   "bundleId": "com.kidslove.PuzzleKidTrain",
+   "artistName": "Irina Schens",
+   "sellerName": "Irina Schens",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Education",
+    "Puzzle",
+    "Board"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.55002,
+   "userRatingCount": 2998,
+   "releaseDate": "2014-05-04T02:29:58Z",
+   "currentVersionReleaseDate": "2021-07-22T18:38:56Z",
+   "version": "2.3",
+   "description": "If your kids love Trains, Steam Locomotives and Jigsaw Puzzles - here is the app they would adore! Trains Jigsaw Puzzles is New Classical Jigsaw Puzzles solving game for your iPhone, iPad and iPod touch devices! \n\nInside the game there are 30 great handmade puzzle pictures collected on the popular trains and locomotives!\nNOTE: every puzzle can be played with up to 11 different sizes from 4 (2x2) pieces up to 144 (12x12) pieces! \n\nThis game was specially designed for kids with simple and clean user interface and very intuitive scrolling, drag & drop control of the puzzle pieces, so that even 2 years old toddler can play it! \n\n• MAJOR FEATURES \n√ Big puzzle area and separate scrollbar with mixed puzzles on the top of the screen \n√ Controls placed on the top of the screen to prevent accident tap on them during puzzling \n√ Autosave functionality for the last played puzzle, just restart the game to continue \n√ Help preview function to light the picture in the background if you will stuck \n√ Share solved puzzles on your favorite social networks\n√ Ambient and positive background music will help you to relax and to get better mood \n√ Separate music and sound controls: listen your own music if you would like \n√ Universal app binary which you can play on iPhone, iPad and iPod Touch devices \n\n• BENEFITS \n√ Visual memory training \n√ Increasing of short term memory \n√ Concentration improvement \n√ Developing of the cognitive skills \n\nDownload this Train Jigsaw Puzzles app Now to have a great time with your kids!",
+   "trackViewUrl": "https://apps.apple.com/us/app/train-jigsaw-puzzles-for-kids/id870116373?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "50128896",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "train puzzle"
+   ],
+   "ranks": {
+    "train puzzle": 3
+   }
+  }
+ ]
+}

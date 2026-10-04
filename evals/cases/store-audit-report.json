@@ -1,0 +1,13 @@
+[
+  {"id": "r-unfold-puzzle-full-report", "group": "golden-rejection", "skill": "store-audit", "run": "report",
+   "listing": "unfold-puzzle-4-3b/listing.json",
+   "expect": {"report_verdict": "NOT READY",
+              "report_contains": ["4.3(b)", "P0", "App Review notes", "Guidance based on public App Review Guidelines; Apple's decisions are their own."]}},
+  {"id": "r-clean-native-report", "group": "golden-approved", "skill": "store-audit", "run": "report",
+   "listing": "approved-things/listing.json", "project": "projects/clean-native", "policy": "projects/clean-native/privacy.md",
+   "expect": {"report_verdict": "READY",
+              "report_contains": ["Guidance based on public App Review Guidelines; Apple's decisions are their own."]}},
+  {"id": "r-vibe-expo-report", "group": "privacy", "skill": "store-audit", "run": "report",
+   "listing": "projects/vibe-expo/listing.json", "project": "projects/vibe-expo", "policy": "projects/vibe-expo/privacy.md",
+   "expect": {"report_verdict": "NOT READY", "report_contains": ["5.1.1(v)", "Demo account"]}}
+]

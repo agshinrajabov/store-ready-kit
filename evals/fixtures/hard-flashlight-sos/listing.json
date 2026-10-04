@@ -1,0 +1,49 @@
+{
+  "_source": "Synthetic hard case: a flashlight app whose only addition is an SOS strobe.",
+  "name": "Bright Flashlight: LED Torch",
+  "subtitle": "Super bright light, SOS strobe",
+  "keywords": "lamp,light,bright,led,strobe,sos,night,emergency,camping",
+  "category": "Utilities",
+  "description": "The brightest flashlight app for your iPhone! Turn your phone into a powerful LED torch with one tap. Features SOS strobe mode for emergencies. Simple and easy to use flashlight with a beautiful design. Perfect for camping, power outages and finding things in the dark. Download the best flashlight now!",
+  "screenshots": [
+    {
+      "caption": "Super bright flashlight",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Simple and easy to use",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "utility-app",
+  "traits": {
+    "UT01": true,
+    "UT02": false,
+    "UT03": true,
+    "UT04": false,
+    "UT05": true,
+    "UT06": true,
+    "UT07": true,
+    "UT08": true,
+    "UT09": true,
+    "UT10": true
+  },
+  "monetisation": {
+    "iap_count": 2,
+    "paywall_before_value": false,
+    "purchase_prompts_first_10_min": 2
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true,
+    "lasting_value": false
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [
+    "SOS strobe mode"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/flashlight.json"
+}

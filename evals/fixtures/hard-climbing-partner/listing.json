@@ -1,0 +1,49 @@
+{
+  "_source": "Synthetic hard case: a climbing-partner finder that a reviewer could label 'dating' (the category-label pattern from the case law).",
+  "name": "Belayer",
+  "subtitle": "Find partners at your crag",
+  "keywords": "climbing,bouldering,crag,belay,partner,gym,route,grade,outdoor",
+  "category": "Sports",
+  "description": "Belayer helps climbers find a partner for tonight's session. Set your grades, home gym and the crags you climb, then swipe to match with climbers who need a belayer at the same time. Every profile shows verified belay certification from partner gyms, a lead/top-rope preference and the routes you have logged together. Plan a session, share the topo and check in when you are safely down.",
+  "screenshots": [
+    {
+      "caption": "Find a belayer for tonight",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Verified belay certification",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "utility-app",
+  "traits": {
+    "UT01": false,
+    "UT02": false,
+    "UT03": false,
+    "UT04": false,
+    "UT05": false,
+    "UT06": false,
+    "UT07": false,
+    "UT08": "partial",
+    "UT09": false,
+    "UT10": false
+  },
+  "monetisation": {
+    "iap_count": 2,
+    "purchase_prompts_first_10_min": 0
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [
+    "Belay certification verified through partner gyms",
+    "Session planning with shared topos",
+    "Safety check-in after the session"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/dating.json"
+}

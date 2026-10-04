@@ -1,0 +1,49 @@
+{
+  "_source": "Synthetic hard case: a genuinely deeper habit app whose metadata copies the niche's phrasing.",
+  "name": "Habit Tracker: Daily Routine",
+  "subtitle": "Build good habits & goals",
+  "keywords": "habits,routine,goals,streak,planner,reminder,self care,productivity,tracker",
+  "category": "Health & Fitness",
+  "description": "Build good habits and break bad ones with the best habit tracker! Track your daily habits, set goals and reminders, and keep your streak going. Our simple habit tracker helps you stay motivated, build a healthy routine and achieve your goals. Track habits, view statistics and progress charts, get reminders and widgets. Start building better habits today!",
+  "screenshots": [
+    {
+      "caption": "Build better habits",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Track your progress",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "utility-app",
+  "traits": {
+    "UT01": "partial",
+    "UT02": false,
+    "UT03": false,
+    "UT04": false,
+    "UT05": false,
+    "UT06": false,
+    "UT07": true,
+    "UT08": false,
+    "UT09": false,
+    "UT10": false
+  },
+  "monetisation": {
+    "iap_count": 2,
+    "purchase_prompts_first_10_min": 1
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [
+    "Habits tied to place via geofences",
+    "Weekly review that drops habits you never do",
+    "Shared habits with one accountability partner"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/habit-tracker.json"
+}

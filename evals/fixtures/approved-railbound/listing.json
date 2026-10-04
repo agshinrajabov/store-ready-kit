@@ -1,0 +1,60 @@
+{
+  "_source": "iTunes lookup 1636439801 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "name": "Railbound",
+  "subtitle": "Connect the train cars",
+  "keywords": "train,rail,track,logic,brain,dog,comic,level,solve,carriage",
+  "description": "Railbound is a comfy track-bending puzzle game about a pair of dogs on a train journey around the world.\n\nConnect and sever railways across different landscapes and help everyone reach their homes. Solve over 240 clever puzzles ranging from gentle slopes to twisted passageways.\n\nBEND RAILS TO MAKE THE TRAIN GO ‘CHOO-CHOO' \nPlace, remove and reroute connections so that carriages safely connect to the locomotive. But be careful and don’t make them run into each other!\n\n240+ PUZZLES TO COMPLETE\nOur main levels will take you through a variety of locations at a relaxed pace. Forks along the road will lead you to spicy brainteasers that’ll please even the most demanding players!\n\nTRAIN-INSPIRED MECHANICS\nUse tunnels to cover vast distances in an instant. Delay trains using well-timed railway barriers. Switch tracks to reroute cars in different directions. Pick up cute friends on the way and encounter even more challenges on your journey!\n\nART AND MUSIC FULL OF WHOLESOME VIBES\nAcross the game’s world enjoy our comic-book-inspired visuals and a relaxing original soundtrack by the team behind Golf Peaks and inbento.",
+  "category": "Games",
+  "niche_snapshot": "niches/logic-puzzle.json",
+  "exclude_ids": [
+    1636439801
+  ],
+  "trait_catalog": "hypercasual-game",
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "traits": {
+    "HC01": false,
+    "HC02": false,
+    "HC03": false,
+    "HC04": false,
+    "HC05": false,
+    "HC06": false,
+    "HC07": false,
+    "HC08": false,
+    "HC09": false,
+    "HC10": false,
+    "HC11": false,
+    "HC12": false,
+    "HC13": false,
+    "HC14": false,
+    "HC15": false,
+    "HC16": false
+  },
+  "monetisation": {
+    "iap_count": 0,
+    "consumable_count": 0,
+    "rewarded_placements": 0,
+    "purchase_prompts_first_10_min": 0
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "screenshots": [
+    {
+      "caption": "Connect the cars",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Bend the rails, not the rules",
+      "shows_real_ui": true
+    }
+  ],
+  "differentiators": [
+    "Hand-made levels in a European-comic art style",
+    "Wordless onboarding",
+    "Premium, no ads"
+  ]
+}

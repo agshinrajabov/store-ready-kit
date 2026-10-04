@@ -1,0 +1,1885 @@
+{
+ "source": "itunes-search-api",
+ "fetchedAt": "2026-10-04T18:33:59Z",
+ "country": "us",
+ "terms": [
+  "flight tracker",
+  "flight status"
+ ],
+ "count": 40,
+ "apps": [
+  {
+   "trackId": 382233851,
+   "trackName": "Flightradar24 | Flight Tracker",
+   "bundleId": "se.resenatverket.FlightRadar24-Free",
+   "artistName": "Flightradar24 AB",
+   "sellerName": "Flightradar24 AB",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.83655,
+   "userRatingCount": 666025,
+   "releaseDate": "2010-07-21T16:30:25Z",
+   "currentVersionReleaseDate": "2026-09-28T20:09:24Z",
+   "version": "11.12.0",
+   "description": "The world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky \n• See what the pilot of an aircraft sees in 3D \n• Tap on a plane for flight details such as route, estimated time of arrival, actual time of departure, aircraft type, speed, altitude, high-resolution photos of the actual aircraft & more.\n• See historical data & watch playback of past flights\n• Tap on an airport icon for arrival & departure boards, flight status, aircraft on the ground, current delay stats, & detailed weather conditions\n• Search and bookmark individual flights using flight number, airport, or airline\n• Filter flights by airline, aircraft, altitude, speed, & more\n• NEW - view aircraft in 3D with hundreds of new aircraft and airline liveries added.\n \nFlightradar24 is a free app and includes all the above features. If you want even more great features from Flightradar24 there are two upgrade options—Silver & Gold—and each comes with a free trial.\n \nSILVER\n\n• 90 days of flight history\n• More aircraft details, like serial number & age\n• More flight details, like vertical speed & squawk\n• Filters and alerts to find and track flights\n• Current weather at 3,000+ airports overlaid on the map\n \nGOLD\n \n• All the features included in Flightradar24 Silver +\n• 365 days of flight history\n• Detailed live map weather layers for clouds & precipitation\n• Aeronautical charts & oceanic tracks showing the pathways flights follow across the sky\n• Air traffic control boundaries that show which controllers are responsible for a flight\n• Extended Mode S data — even more information about altitude, speed, and wind & temperature conditions during flight\n \nIf you choose to upgrade to a Silver or Gold subscription, a payment will be charged to your iTunes account at the end of the free trial period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your account settings in the iTunes Store. Silver and Gold upgrade prices are listed in the app as they vary depending on your country and currency. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nHOW IT WORKS\n\nMost aircraft today are equipped with ADS-B transponders that transmit positional data. Flightradar24 has a rapidly growing network of 50,000 ground stations to receive this data that then shows up as aircraft moving on a map in the app. In an expanding number of regions, with the help of multilateration (MLAT), we’re able to calculate the positions of aircraft that don’t have ADS-B transponders. Coverage is subject to change at any time.\n\nCONNECT WITH US\n\nWe love getting feedback on FR24. Since we’re unable to respond directly to reviews, you can contact us directly and we’ll be happy to assist.\n• Email (support@fr24.com)\n• X (@Flightradar24)\n• Facebook (@Flightradar24)\n• YouTube (@Flightradar24DotCom)\n\nDISCLAIMER\n\nThe use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.\n\nTerms of Service: https://www.flightradar24.com/terms-of-service\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+   "trackViewUrl": "https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "379674624",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 1,
+    "flight status": 3
+   }
+  },
+  {
+   "trackId": 415458524,
+   "trackName": "Skyscanner Flights & Travel",
+   "bundleId": "net.skyscanner.iphone",
+   "artistName": "Skyscanner",
+   "sellerName": "Skyscanner Limited",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.81134,
+   "userRatingCount": 500119,
+   "releaseDate": "2011-02-17T16:02:14Z",
+   "currentVersionReleaseDate": "2026-09-29T15:21:23Z",
+   "version": "7.211",
+   "description": "Skyscanner makes planning your next trip easy. Find the best prices on flights, hotels & rental cars – all in one place.\n\nWith Skyscanner, you can search for cheap airline tickets, low-cost flights, and the best airfare deals to destinations worldwide. Easily find and book flights with major airlines like Spirit Airlines, United Airlines, Southwest, Delta, and American Airlines—all in one place. Save time and money by comparing flight prices across multiple airlines, online travel agencies and travel booking platforms to get the best price. There are no booking fees or hidden charges—just the lowest prices on domestic and international flights.\n\nSkyscanner is more than just flights. Find cheap hotels, luxury resorts, airport hotels, and vacation rentals with our hotel search, ensuring you have the perfect place to stay wherever you go. Need transportation? Compare and book affordable rental cars from top providers.\n\nHere’s how to use our app:\n\nFind inspiration\nCan’t decide where to go? Start by exploring everywhere first. Tap “Everywhere” in our search bar to find low-cost flights literally anywhere around the world and get ideas for your next vacation.\n\nFilter your search\nKnow what you’re looking for? Use our smart filters to search by flight duration, airline, number of stops, travel class, departure and arrival times. Looking for last-minute travel deals? Use filters to find flexible options and spontaneous getaways at the lowest prices.\n\nThe best time to fly\nYou’ve chosen where it will be, now we’ll help you find the best dates to book your travel. Our calendar view breaks down the cheapest dates in a chosen month so you can find the right flight deal. Not ready to book yet? Set up a Price Alert and we’ll let you know when the flight price changes so you’re always booking at the right time.\n\nThe right hotel at the right price\nThought we were just about discount flights? Nope, we’ve got your stay covered too. Compare and book budget hotels, luxury resorts, vacation rentals, motels and hostels all over the world. Or, easily find hotel rooms near your current location and grab a last-minute hotel deal for your next vacation.\n\nCar rentals\nChoose where and when to pick up your rental car, and we’ll show you affordable options from top car rental agencies. You can filter your search by vehicle type, fuel type and features. And our Fair Fuel Policy flag will make sure you’re not paying too much on fuel – we’ve got your back. Find the best rental car deals from top car rental providers like Hertz, Budget, Avis and Enterprise. \n\nBook with who you trust\nCompare all your top travel and flight providers, including online travel agencies (OTA), in one place – Spirit Airlines, United Airlines, American Airlines, JetBlue, Frontier Airlines, Delta, Ctrip, Expedia, Kiwi.com, Trip.com, Agoda, booking.com and more. Plus, get recent reviews on our travel partners from our community of travelers.\n\nNo added fees ever\nDid we mention we don’t charge any booking fees? Never. None at all. Book directly with airlines, hotels, and travel agency services with total transparency.\n\nSave your flights\nWant to look but not ready to book a flight? No problem. We have a “saved” feature where you can “heart” flights or hotels you like. Then it’ll show up on your trips, so you can pick up where you left off and book your travel.\n\nWhy Skyscanner?\n● The Telegraph; “The only 20 travel apps you’ll ever need”\n● The New York Times; “Apps for Travelers Dreaming of Their Next Trip”\n● Elite Daily; “7 holiday travel apps that’ll let you jingle around the world’\n● Pocket-lint; “4 apps to get you ready for summer”\n\nLet’s get social\n● Facebook: https://www.facebook.com/skyscanner\n● Instagram: @skyscanner \n● X: @skyscanner\n● TikTok: @skyscanner \n● LinkedIn: https://www.linkedin.com/company/skyscanner/\n● Website: www.skyscanner.net",
+   "trackViewUrl": "https://apps.apple.com/us/app/skyscanner-flights-travel/id415458524?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "369914880",
+   "languageCodesISO2A": [
+    "AR",
+    "BG",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TL",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 29
+   }
+  },
+  {
+   "trackId": 316793974,
+   "trackName": "FlightAware Flight Tracker",
+   "bundleId": "com.flightaware.iphone.live-flight-tracker",
+   "artistName": "FlightAware",
+   "sellerName": "FlightAware",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.85845,
+   "userRatingCount": 387901,
+   "releaseDate": "2009-06-04T23:55:03Z",
+   "currentVersionReleaseDate": "2026-09-25T15:11:42Z",
+   "version": "6.28.5",
+   "description": "Where’s that plane headed? Whether you’re an aviation enthusiast, a frequent traveler, a pilot, or part of a flight crew, FlightAware is a must-have app. Track planes in real-time above your head, or all over the world. Easily track the status of your flight, check for any delays on the inbound aircraft, see weather radar, and set up alerts to be notified of any changes – all for free!\n\nFree features:\n\n▶ Track any plane around the world in real-time\n▶ Get free flight status alerts: Departure, Arrival, Cancellations, Gate changes, Delays, Diversions\n▶ See weather radar\n▶ Save your favorite aircraft and airports\n▶ Check for flight delays (with “Where is my plane?”)\n\nFlightAware is the leader in providing advanced, accurate, actionable intelligence and insights that inform every aviation decision. We believe that flying opens up the world around you. It makes distances shorter, the world more accessible and satisfies one of the core aspirations of mankind.\n \nUpgrade options:\n▶ Ad Remove - Removes all advertisements from the app\n▶ FlightAware Aviator - Register and enable advanced features for your piston-engine GA aircraft\n\nTerms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/flightaware-flight-tracker/id316793974?uo=4",
+   "contentAdvisoryRating": "9+",
+   "fileSizeBytes": "98926592",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "HI",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 3,
+    "flight status": 2
+   }
+  },
+  {
+   "trackId": 533365777,
+   "trackName": "Flight Tracker +",
+   "bundleId": "com.iaftt.flightplusfree",
+   "artistName": "Impala Studios",
+   "sellerName": "Impala Studios B.V.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73281,
+   "userRatingCount": 290600,
+   "releaseDate": "2012-07-20T22:22:48Z",
+   "currentVersionReleaseDate": "2026-08-27T20:55:49Z",
+   "version": "8.7.22",
+   "description": "Since 2012, Flight Tracker+ has helped millions of travelers in the United States and worldwide feel more at ease when flying, while friends and family follow their flights.\n\nFlight times, gates, and schedules can change in seconds. Track any flight and get alerts for delays, cancellations, gate changes, departures, and arrivals.\n\nWhether you’re flying, picking someone up, or following a loved one’s journey, you’ll know when the flight is delayed, where it departs from, and when it will arrive.\n\nANY FLIGHT\nFind and track passenger flights worldwide. See where the aircraft is, whether it is on time, which gate it departs from, and when it is expected to arrive.\n▶ See whether a flight is on time and check its latest departure and arrival times\n▶ Get alerts for delays, cancellations, and gate changes\n▶ Find the terminal, gate, and baggage claim belt\n▶ Watch the aircraft move on live radar maps\n▶ See weather at departure, arrival, and along the route\n▶ Follow updates from your Lock Screen with Live Activities and Dynamic Island\n\nSearch by flight number, airline, route, or airport.\n\nANY AIRLINE\nTrack U.S. and international airlines. Get alerted when a flight is delayed or cancelled, its gate changes, or its departure or arrival time moves.\n\nMajor U.S. airlines include:\n▶ American Airlines\n▶ Delta Air Lines\n▶ United Airlines\n▶ Southwest Airlines\n▶ Alaska Airlines\n\nOther airlines include:\n▶ Air Canada\n▶ British Airways\n▶ Lufthansa\n▶ Emirates\n▶ Air France\n\nANY AIRPORT\nFollow arrivals and departures at airports worldwide. See which flights are delayed, where they depart from, when they land, and where passengers can collect their bags.\n\nMajor U.S. airports include:\n▶ Hartsfield-Jackson Atlanta International Airport (ATL)\n▶ Dallas Fort Worth International Airport (DFW)\n▶ Chicago O’Hare International Airport (ORD)\n▶ Denver International Airport (DEN)\n▶ Los Angeles International Airport (LAX)\n\nOther airports include:\n▶ London Heathrow Airport (LHR)\n▶ Toronto Pearson International Airport (YYZ)\n▶ Cancún International Airport (CUN)\n▶ Mexico City International Airport (MEX)\n▶ Paris Charles de Gaulle Airport (CDG)\n\nAIRCRAFT DETAILS\nSee which aircraft is operating the flight, where it is now, how high and fast it is flying, and where it has flown before.\n\nAircraft include:\n▶ Boeing 737\n▶ Airbus A320 family\n▶ Boeing 777\n▶ Boeing 787 Dreamliner\n▶ Airbus A350\n\nFOR FLYING, PICKING UP, OR FOLLOWING A FLIGHT\nKnow when to leave, where to go, and when the flight will arrive, whether you’re traveling or waiting for someone else.\n▶ Check your flight before leaving for the airport\n▶ Know when your flight is delayed or moved to another gate\n▶ Plan when to leave based on delays or the expected arrival time\n▶ See when the aircraft took off and landed\n▶ Keep saved flights and trips together\n\nWHY MILLIONS CHOOSE FLIGHT TRACKER+\n▶ Trusted by millions since 2012\n▶ Follow flights live from departure to arrival\n▶ Get alerts for delays, cancellations, and gate changes\n▶ Track flights, airlines, and airports worldwide\n▶ Know when a flight leaves, where it is, and when it will arrive\n\nUPGRADE TO FLIGHT TRACKER UNLIMITED\n▶ Track unlimited flights worldwide\n▶ Monitor multiple flights in one place\n▶ See whether each flight is on time and get delay alerts\n▶ Check weather along the route\n▶ See aircraft type, altitude, speed, route, and flight history\n▶ Keep saved flights and trips together\n▶ Enjoy an ad-free experience\n\nDOWNLOAD FLIGHT TRACKER+ TODAY\nJoin millions of travelers, friends, and families who trust Flight Tracker+. Follow flights live and get alerts for delays, cancellations, gate changes, takeoff, and landing.\n\nAny flight. Any airline. Any airport. Download Flight Tracker+ today and know when a flight is delayed, where it departs from, and when it arrives.\n\nTerms & Conditions: https://impalastudios.com/terms\nPrivacy Policy: https://impalastudios.com/privacy\n\nQuestions or feedback? Contact support@impalastudios.com\n\nFlight Tracker+ © 2012–2026 Impala Studios",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker/id533365777?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "175736832",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 2,
+    "flight status": 4
+   }
+  },
+  {
+   "trackId": 1358823008,
+   "trackName": "Flighty – Live Flight Tracker",
+   "bundleId": "com.flightyapp.flighty",
+   "artistName": "Flighty LLC",
+   "sellerName": "Flighty LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.84788,
+   "userRatingCount": 155204,
+   "releaseDate": "2019-08-19T21:54:24Z",
+   "currentVersionReleaseDate": "2026-09-17T17:23:57Z",
+   "version": "4.11.1",
+   "description": "\"Don't Fly Without This App\" WSJ • Finalist for App of The Year • Winner of Apple Design Award\n\nThe flight tracker your pilot uses.\n\nFree trial does not required credit card.\nNo account required.\nNo newsletters.\nNo ads.\n\n▶ WORLD'S FASTEST DELAY ALERTS\n- 2-90 minutes faster than airline apps\n- 24-48 hours faster cancellation alerts\n- Always be the first to know, with no effort\n\n▶ INDUSTRY-FIRST FEATURES\n- See WHY you're flight is delayed\n- 25-hour where's my plane\n- Flighty Friends – private sharing among family/friends\n- Pilot-Grade data – FAA and Eurocontrol\n- Delay Predictions\n- Gate Predictions\n- Flighty Passport – auto-create your personal flight map\n- Airport Intelligence – plain word summary of the status\n- Taxi times\n- Ground radar\n- Proximity radar\n\n▶ AUTOMATIONS\n- Calendar sync\n- TripIt sync\n- Email forwarding\n- Flighty Friends: private flight sharing with friends\n\n▶ PILOT-GRADE DATA\n- Live-streaming\n- Actual flight plans\n- Commercial data – same source used by your pilot\n- FAA advisories, warnings, and delays\n- Tail number – with birthday, type, and even name\n- Full flight timetable\n- Proximity radar - see flights around you\n- Ground radar - radar even while taxiing\n\n▶ BE THE FIRST TO KNOW\n- Late arriving aircraft delays – up to 6 hours before your airline!\n- Alerts for canceled inbound aircraft\n- Alerts for airport weather or traffic\n- Delay forecast\n\n▶ ASSISTANTS\n- Morning-Of Assistant - wake up informed\n- Check In Assistant - your reservation number and check in link at the right time\n- Connection Assistant - see all the checkpoints required for your connection and how long it typically takes\n- Import Assistant - seamless import (plus data enrichment!) from myFlightradar24, App In The Air, OpenFlights.org, FlightMemory, Logmyflight, and JetLovers\n\n▶ WORLDWIDE + LIVE + UNLIMITED\n- Every airline\n- Every flight\n- 24/7/365 live global coverage\n\n▶ FLIGHTY FRIENDS\n- Often sharing with Family and Friends? Invite them to see your flights and never manually share again!\n- Picking someone up, excited for a friend to visit, meeting a colleague? Share your live flight status with one tap.\n\n▶ WHAT'S FREE?\n- No ads\n- Unlimited flights\n- Flighty Friends\n- Live data\n- Weather\n- Actual flight route\n- Aircraft model and image\n- Personal flight log and map\n- Personal all-time and annual stats\n- Apple Watch app\n- iCloud backup & sync\n- Historical flight input and import limited to past 365 days (due to costs)\n- Lock screen widgets (limited refresh for costs)\n- Airport Intelligence \n\n▶ WHAT'S PRO?\n- See why your flight is delayed\n- Pilot-grade FAA delay alerts\n- Delay predictions, including the reason why\n- Industry's fastest push alerts\n- 25-hour where's my plane\n- Live lock screen widgets\n- Live data, even on 'messaging-only' plane wifi\n- Live activities\n- Unlimited past flight lookup\n- Unlimited bulk import\n- Delay predictions\n- Arrival forecast\n- TripIt sync\n- Calendar sync\n- Email forwarding\n- Apple Watch complications\n- Airport \n- Tail number\n- Taxi times\n- And more\n\nPro is free on your first flight. No trial required.\n\nflightyapp.com/privacy Zero personal information is required. \nflightyapp.com/terms Personal use only. Business@flightyapp.com for business usage.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "408717312",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 4,
+    "flight status": 6
+   }
+  },
+  {
+   "trackId": 1097815000,
+   "trackName": "Planes Live - Flight Tracker",
+   "bundleId": "com.apalonapps.planesfree",
+   "artistName": "Mosaic S.r.l.",
+   "sellerName": "Mosaic S.r.l.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.62317,
+   "userRatingCount": 93016,
+   "releaseDate": "2016-06-16T12:19:38Z",
+   "currentVersionReleaseDate": "2026-09-23T12:20:41Z",
+   "version": "3.10.59",
+   "description": "Planes Live Free is a simple yet powerful flight tracking tool that lets you watch the planes online all over the world and get up-to-date information on flights instantly! Track the flights of your family members or beloved ones as if you were traveling with them and find the best time to pick them up at the airport. \n\nWhether you are a professional pilot or an aviation enthusiast, you'll definitely appreciate our flight tracker - the simple, clean and informative interface coupled with powerful functionality!\n\nFEATURES\n\n* Track planes and biplanes online all over the world\n* Get notified about the flight schedule changes with handy alerts: be aware of the flight status, canceled flights, new departure and arrival time and more\n* Search for particular flights, airports, ​and locations\n* Get detailed information on flights: from aircraft characteristics and picture to its route and schedule\n* Find up-to-date airport information that covers accurate departures and arrivals schedule, airport timezone and local time, its location and weather forecast\n* Add airports and locations to \"My Places\" to access them instantly!\n* Check weather forecast for a particular location or airport\n* Spot planes and airports near you: select the desirable distance and enjoy the show!\n* Apply smart filters to track a particular airplane model or an airline company, watch the planes of selected altitude, speed or airport.\n\nPREMIUM FEATURES\n* Weather Overlays\n* Unlimited number of alerts\n* 2x faster data update\n* Terminal, Check In, Gate and Baggage info\n* No Ads\n\n* Subscriptions will automatically renew and payment will be charged to your Apple account unless auto-renew is turned off at least 24 hours prior to the end of the current period. \n\nSubscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. \nSubscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support.\n\nСoverage zone:\n- Europe: up to 95% of the continent.\n- South America: up to 90% of ADS-B coverage for airplanes.\n- North America: close to 100% coverage of transmitter-enabled airplanes; 100% of data delivered with a delay of up to 5 minutes.\n- Africa: major coverage of South Africa; partial coverage of the rest of the continent.\n- Australia: 100% coverage.\n- Asia: coverage of mainly densely populated areas.\n- Oceania: 100% coverage.\n\nTogether with our partners, we are constantly working on improving the coverage.\n\nImportant Notice:\nThe airline tracker app uses data from several providers, which is collected from aircraft, equipped with ADS-B transmitters. ADS-B is not used by all airlines or aircraft. Due to technical limitations on how flight data is collected, ​it might be incomplete in some cases. We are working to improve this situation.\n\nPrivacy Policy: https://support.bendingspoons.com/privacy.html?app=1097815000\nTerms: https://support.bendingspoons.com/tos.html?app=1097815000\nContact us: support@planeslive.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/planes-live-flight-tracker/id1097815000?uo=4",
+   "contentAdvisoryRating": "12+",
+   "fileSizeBytes": "274641920",
+   "languageCodesISO2A": [
+    "AR",
+    "DA",
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 8,
+    "flight status": 12
+   }
+  },
+  {
+   "trackId": 572700574,
+   "trackName": "FlightStats",
+   "bundleId": "com.flightstats.FlightStats",
+   "artistName": "LNRS Data Services Limited",
+   "sellerName": "LNRS Data Services Limited",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.83368,
+   "userRatingCount": 79414,
+   "releaseDate": "2012-12-18T21:05:18Z",
+   "currentVersionReleaseDate": "2024-10-30T06:54:32Z",
+   "version": "3.4.16",
+   "description": "FlightStats is a free real-time flight status and airport tracking app for iPhone and iPad.\n\nTake control of your day-of-travel by downloading FlightStats:\n\n-Quickly access worldwide flight status by flight number, airport, or route\n-Watch flights as they move across the world on our gorgeous flight tracker\n-Scan essential information like departure/arrival times, delay indexes, gates, and weather\n-Enable Siri Shortcuts to Departures, Arrivals, Route searches, or daily flights\n-Use 3D Touch to quickly view flights from My Flights, Departures, Arrivals, or Route search results\n-Check the flight timeline to get in-depth descriptions of all activities about your flight\n-Easily view the most relevant flights with the FlightStats Today widget\n-Quickly launch the app with 3D Touch to view or search your flights\n-Deep link from flightstats.com for your departures, arrivals, route, and airport conditions searches\n-Quickly share your flight right from the flight details screen\n-Share current departure or arrival boards\n-Log in to your flightstats.com account\n-Subscription to FlightStats includes the removal of ads from the app and flightstats.com\n-FlightStats is a leader in global flight and airport information services. Our flight status, trip monitoring, and flight alert solutions are trusted by millions of travelers every day.\n\nwww.flightstats.com\nContact us at helpdesk@flightstats.com",
+   "trackViewUrl": "https://apps.apple.com/us/app/flightstats/id572700574?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "27367424",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 6,
+    "flight status": 1
+   }
+  },
+  {
+   "trackId": 361273585,
+   "trackName": "Plane Finder ⁃ Flight Tracker",
+   "bundleId": "uk.co.leeus.planefinderfree",
+   "artistName": "pinkfroot limited",
+   "sellerName": "pinkfroot limited",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73878,
+   "userRatingCount": 60869,
+   "releaseDate": "2010-03-15T17:03:10Z",
+   "currentVersionReleaseDate": "2026-09-29T18:16:30Z",
+   "version": "2026.6.3",
+   "description": "Uncover the mysteries of live air traffic in one beautiful and easy to use app. Is it a bird? Is it a plane?! If it’s the latter, Plane Finder can tell you exactly which plane it is.\n \nPlane Finder is incredibly easy to use and utterly fascinating. It enables you to see live air traffic patterns with real-time tracking of almost any plane you’re interested in, and in addition to the aircraft’s location you can see its current altitude, its speed and where it’s heading.\n \nGet live information on flights - super handy when travelling. You can even be alerted when a particular flight is heading your way, which is useful if you’re trying to catch sight of rare birds such as the Airbus A380.\n \nSwitch to incredible 3D flight tracking anytime from any aircraft, airport or location on the map seamlessly to view air traffic as never before.\n \nThere’s a superb augmented-reality option that enables you to point your camera at the sky and see details of the aircraft that’s overhead, and with full support for iOS’s Dark Mode it’s just as handy for night flights as it is for daytime ones.\n \nIt’s all great fun, but it’s also very practical: in addition to flight tracking there’s extensive airport information, which supplements live arrival and departures with live weather reports for hundreds of airports.\n \nEnjoy Plane Finder’s leading edge design as featured in Apple’s “The Power of Dark Mode” and “See it in Dark Mode” Collections 2019.\n \nApple’s App of The Day – Jan 2020 and Top ranking since 2009. Plane Finder is also featured in Gizmodo, CNN, GMA, BBC, Sunday Times, Mail on Sunday, CNET, Wired, GQ Magazine to name a few.\n \nTrusted by friends and families of travellers, enthusiasts, pilots, cabin crew and aviation professionals alike. Choose Plane Finder for:\n \n•\tLive Global Flight Tracking\nQuickly find and track flights live on a map and explore live status information\n \n•\tSwitch to 3D Tracking Anytime\nFlip instantly to 3D from any aircraft, airport or location on the map\n\n•\tLive AR Mode\nPoint your camera at a plane in the sky to instantly reveal live flight and aircraft information\n \n•\tLive Airport Information\nView real time airport arrival and departure boards plus terminal, gate, baggage and weather information\n \n•\tComprehensive Technical Data\nDig deeper into technical aircraft and flight data\n \n•\tUnlimited Custom Alerts\nNever miss a flight, create as many custom notifications as you like and stay informed\n \n•\tUnlimited Global Playback\nReplay interesting flights and watch fascinating air traffic patterns back to 2011\n \n•\tUnlimited Filters\nSimplify your view with powerful filters\n \n•\tCustom Aircraft Labels\nChoose the position, color and content of aircraft labels inc. logo with text label\n \n•\tLeading Edge Dark Mode\nAdopt dark mode, a bold interface perfect for low light\n \n•\tCurated Map Styles\nSwitch seamlessly between simple, detailed, hybrid and satellite maps\n \nHelp and Support\nPlane Finder is regularly updated with innovative new features.  Please email support@planefinder.net with any questions or queries, we are happy to help.\n \nHow does Plane Finder work?\nPlane Finder receives real time ADS-B and MLAT signals sent by aircraft to transmit their positional data to land based receivers. This technology is faster than traditional radar and is used for air traffic control and navigation. You can check our worldwide flight tracking coverage for free at www.planefinder.net\n \nDisclaimer\nThe use of the information presented using Plane Finder is strictly limited to pursuing enthusiast activities (i.e. for entertainment purposes), which specifically exclude any activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this application be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.\n \nPrivacy Policy: https://planefinder.net/legal/privacy-policy\nTerms of Use: https://planefinder.net/legal/terms-and-conditions",
+   "trackViewUrl": "https://apps.apple.com/us/app/plane-finder-flight-tracker/id361273585?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "173253632",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "ZH",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 7,
+    "flight status": 19
+   }
+  },
+  {
+   "trackId": 690568297,
+   "trackName": "Flight Board",
+   "bundleId": "com.iaftt.flightboardpro",
+   "artistName": "Impala Studios",
+   "sellerName": "Impala Studios B.V.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.67197,
+   "userRatingCount": 30696,
+   "releaseDate": "2013-09-12T22:57:05Z",
+   "currentVersionReleaseDate": "2026-06-29T07:02:27Z",
+   "version": "2.6.8",
+   "description": "View, check and track realtime flight status information and details which update every minute. Quickly see when your flight gets canceled or delayed. All available airlines and flights for any airport in the world!\nManage your flights and be on time.\n\nFUNCTIONALITY\n• Covers over 16.000 airports and 1.400 airlines worldwide\n• Optimized for iPad and iPhone\n• Updates every minute\n• See the real-time status of any flight\n• Realistic designed flight board\n• Search for specific flights, by destination, or flight number\n• Instantly narrow results via an exceptional search interface\n• Quickly switch between Departures and Arrivals boards\n\nBE ON TIME WITH FLIGHT BOARD!\n\nPlease note that some charter flights are not listed.\n\n-- WE LOVE FEEDBACK! --\nAs always, we appreciate your feedback.\nPlease keep sharing your experience to feedback@impalastudios.com\nDo you love our app? Please rate and review us in the App Store!\n\n--Also by Impala Studios-- \nThe Flight Tracker",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-board/id690568297?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "124356608",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ES"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 10,
+    "flight status": 8
+   }
+  },
+  {
+   "trackId": 823481079,
+   "trackName": "Airlines Manager: Plane Tycoon",
+   "bundleId": "com.Playrion.AirlinesManager2",
+   "artistName": "Playrion",
+   "sellerName": "Playrion SARL",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Strategy",
+    "Simulation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.64419,
+   "userRatingCount": 21793,
+   "releaseDate": "2014-05-05T22:16:54Z",
+   "currentVersionReleaseDate": "2026-09-19T09:01:50Z",
+   "version": "4.01.0001",
+   "description": "Build your dream airline and rise to the top in Airlines Manager, the #1 aviation tycoon game of 2026! Experience a deep, realistic simulation driven by a team of passionate aviation enthusiasts who bring you fresh monthly challenges with exciting rewards, and regular updates featuring the latest aircraft - all inspired by real-world aviation news. Join over 15 million players worldwide and start your journey today!  \n\nKEY FEATURES\n\n- Access 2700 airports worldwide, and set up strategic flight routes.\n- Choose from over 200 airplane models from real-life civil aviation.\n- Paint your own aircraft liveries and integrate them to your fleet.\n- Monitor your flights in real-time on a dynamic world map.\n- Unlock over 500 different types of research in the R&D center.\n- Choose from over 200 services to tailor your strategy.\n- Trade your planes with other players on the second-hand market.\n- Two playing modes: PRO (in real-time) and TYCOON (fast mode).\n\nWHY CHOOSE AIRLINES MANAGER\n\nAirlines Manager delivers one of the most realistic and detailed airline simulation experiences available. With high-quality graphics, a live global flight map, and real-time tracking, you'll feel like you're running a real airline. Our exclusive partnership with the International Air Transport Association (IATA) brings an unmatched level of authenticity and data accuracy to the game.\nStay engaged with regular updates crafted by our passionate team of aviation lovers. From new aircraft and hub expansions to seasonal events and monthly challenges with exciting prizes, everything is inspired by real-world aviation news to keep your experience fresh and exciting.\n\nWhether you're a casual player or a hardcore strategist, Airlines Manager adapts to your style. Choose between simplified or advanced gameplay modes, and enjoy the game in 8 supported languages including English, French, Spanish, and German. Join a vibrant community of over 15 million players worldwide — and connect with fellow aviation fans on our active Discord server!\n\nABOUT US\n\nWe are Playrion, a French gaming studio based in Paris. We are driven by the desire to design free to play mobile games linked to the world of aviation and offering a top notch user experience. We love planes, and anything that’s related to them. Our entire office has been decorated with airport iconography and plane models, including the recent addition of the Concorde from Lego. If you share our passion for the world of aviation, or simply love management games, Airlines Manager is for you!\n\nJoin the Community: https://forum.paradoxplaza.com/forum/forums/airlines-manager.1087/",
+   "trackViewUrl": "https://apps.apple.com/us/app/airlines-manager-plane-tycoon/id823481079?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "530715648",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "RU",
+    "ES"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 28
+   }
+  },
+  {
+   "trackId": 1462642534,
+   "trackName": "World of Airports",
+   "bundleId": "com.haugland.worldofairports",
+   "artistName": "Jakub Kadlec",
+   "sellerName": "Jakub Kadlec",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Simulation",
+    "Strategy"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.64222,
+   "userRatingCount": 14794,
+   "releaseDate": "2019-10-24T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-17T10:27:29Z",
+   "version": "3.7.0",
+   "description": "WORLD OF AIRPORTS\n\nBuild, manage, and grow your aviation empire in one of the most realistic airport management games on mobile.\n\nWorld of Airports combines airport operations, airline management, fleet planning, and multiplayer strategy into a unique aviation experience. Take control of real-world inspired airports, coordinate aircraft movements, optimize ground handling operations, and build a global airline network connecting players from around the world.\n\nWhether you dream of managing a busy international hub, expanding a regional airport, or creating a world-class airline, every decision matters.\n\nMANAGE REALISTIC AIRPORT OPERATIONS\n\n• Coordinate aircraft arrivals and departures\n• Assign gates and optimize airport traffic flow\n• Manage airport capacity and operational efficiency\n• Expand airport infrastructure and unlock new opportunities\n• Balance resources, schedules, and profitability\n\nEvery aircraft requires a carefully coordinated turnaround. Passengers board and deboard, baggage is loaded and unloaded, aircraft are refueled, and ground services must be completed before departure. Efficient planning is essential to keep flights on schedule and maximize airport performance.\n\nBUILD YOUR AIRLINE\n\n• Create and grow your own airline\n• Collect and operate a diverse fleet of aircraft\n• Customize liveries and showcase your brand\n• Open new routes and expand your network\n• Earn rewards through strategic fleet management\n\nFrom regional aircraft to wide-body airliners, every aircraft plays a role in your airline’s growth. Build a fleet that reflects your strategy and establish your presence across the global aviation industry.\n\nPLAY WITH REAL PLAYERS\n\nWorld of Airports features a unique multiplayer system where aircraft operated by real players travel between airports managed by other players.\n\n• Service aircraft from airlines around the world\n• Send your own fleet to other players’ airports\n• Participate in global events and challenges\n• Compete in rankings and leaderboards\n• Join one of the largest aviation gaming communities\n\nEvery airport becomes part of a living global aviation network where your decisions influence both your airport and your airline.\n\nEXPERIENCE AUTHENTIC AVIATION\n\nWorld of Airports is designed for players who appreciate the complexity and beauty of modern aviation.\n\n• Airports inspired by real-world locations\n• Realistic aircraft models and airline liveries\n• Detailed aircraft turnaround operations\n• Strategic airport and airline management\n• Live weather based on real-world METAR reports\n• Dynamic airport environments\n• Constantly evolving content and new destinations\n\nWeather conditions change throughout the day, affecting airport operations and creating new challenges. From clear skies to reduced visibility, every airport operates within a dynamic environment inspired by real aviation conditions.\n\nPLAN, OPTIMIZE, EXPAND\n\nSuccess depends on efficient resource management, careful planning, and strategic decision-making. Optimize aircraft turnaround times, maximize airport capacity, improve service efficiency, and expand your operations to handle increasing traffic.\n\nAs your airport grows, so do the challenges. Larger fleets, more passengers, and higher traffic volumes require smarter planning and better coordination.\n\nFOR AVIATION ENTHUSIASTS\n\nWhether you are fascinated by aircraft, airport logistics, airline operations, airport infrastructure, or aviation strategy, World of Airports offers a deeper level of realism than traditional airport tycoon games.\n\nExperience the challenge of coordinating ground services, managing airport resources, expanding facilities, operating airline fleets, and maintaining smooth airport operations in a living multiplayer aviation world.\n\nJoin more than 40 million players worldwide and discover why World of Airports has become one of the world’s leading airport management games.\n\nBuild your airport.\nGrow your airline.\nConnect the world.",
+   "trackViewUrl": "https://apps.apple.com/us/app/world-of-airports/id1462642534?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "1880183808",
+   "languageCodesISO2A": [
+    "CS",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "DE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 22
+   }
+  },
+  {
+   "trackId": 933992899,
+   "trackName": "Flight Radar, Plane Tracker 24",
+   "bundleId": "uk.co.miflights.miflightradarlite",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.62669,
+   "userRatingCount": 10624,
+   "releaseDate": "2015-04-04T04:29:50Z",
+   "currentVersionReleaseDate": "2026-09-05T01:31:58Z",
+   "version": "6.1.21",
+   "description": "Turn your iPhone or iPad into a live air traffic radar with mi Flight Radar! Watch aircraft move in real-time on beautiful, highly detailed global tracking maps and instantly identify planes overhead.\n\nWhether you are an aviation enthusiast, a frequent traveler, or picking up family from the airport, mi Flight Radar delivers smooth, accurate flight data straight to your screen.\n\nEXPLORE FREE FEATURES:\n• Live Global Map: Watch flights navigate across the globe in real-time.\n• Flight Identification: Tap any aircraft to reveal essential live data including airline, aircraft type, altitude, and current speed.\n• Instant Global Jump: Explore international skies instantly by jumping directly to any major city, airport, or country to view live local air traffic.\n\nGO PREMIUM UNLOCKED:\nExperience the ultimate tracking toolkit with our in-app premium upgrade:\n• Augmented Reality (AR) View: Point your device at the sky to overlay live flight details, destinations, and routes directly onto the real world using your camera.\n• Flight Search: Find flights and aircraft by flight number or aircraft registration.\n• Airport Insights: Unlock comprehensive global airport views to check local arrivals, departures, and active airspace schedules.\n• Enhanced tracking: See a greater region with increased map size with more aircraft visible\n• 100% Ad-Free: Remove all visual banners to maximize your screen's tracking map estate.\n\nDiscover why aviation lovers choose the mi suite. Download today and never look at the sky the same way again!\n\nDISCLAIMER\nThe use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement. We reserve the right to anonymously track and report a user's activity using the app.\n\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-radar-plane-tracker-24/id933992899?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "47236096",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 13
+   }
+  },
+  {
+   "trackId": 631927169,
+   "trackName": "Goibibo: Flight, Hotel & Train",
+   "bundleId": "com.goibibo.Goibibo",
+   "artistName": "ibibo Web Pvt. Ltd",
+   "sellerName": "ibibo Web Pvt. Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.60666,
+   "userRatingCount": 7055,
+   "releaseDate": "2013-05-08T22:20:44Z",
+   "currentVersionReleaseDate": "2026-09-23T00:42:21Z",
+   "version": "17.7.0",
+   "description": "Goibibo is your all-in-one travel superapp, designed for modern explorers looking to book hotels, flights, buses, trains, and international accommodations with ease. \n\nWhether planning a weekend getaway, a spiritual yatra, a business trip, or a global adventure, Goibibo combines convenience, value, and variety—bringing together features and services found across India’s favorite travel platforms in one seamless app experience.\n\nFind the perfect stay from a wide selection-spanning luxury hotels, budget rooms, and cozy bed & breakfast options-through India’s top hospitality brands like Marriot, Hilton Hotels, Hyatt Hotels, Radisson Hotels, and OYO Rooms. For every journey, access unbeatable deals and instant confirmations for domestic and international hotel bookings. Compare amenities, reviews, and locations effortlessly, ensuring the right fit for every traveler, family, or solo explorer.\n\nBook flights quickly with a robust network of partners including Air India, Indigo, SpiceJet, and Akasa, and discover global routes and special fares. Manage all your train bookings with IRCTC integration for major destinations and pilgrimage routes, ideal for both everyday travel and spiritual journeys. Reserve buses, cabs, and even last-minute transportation-making Goibibo the top choice for clear planning and easy trip management, no matter your route or purpose.\n\nGoibibo empowers you to embark on pilgrimage yatras, find unique bed & breakfast stays, explore holiday rentals, and plan custom itineraries with complete personalization. \n\nEnjoy exclusive app-only offers-up to 25% off on hotels, flat 12% off on flights, and generous discounts on train and bus bookings. All transactions are secured with multiple payment options, from GoCash wallet to Trip Money travel loans.\n\nTravel with confidence thanks to reliable service, real-time updates, transparent policies, and 24x7 customer support. Goibibo is designed with smart technology to minimize effort and maximize your travel value-making it the ideal solution for booking hotels, flight tickets, trains, and buses in India and worldwide. Discover why millions trust Goibibo as their travel companion: for savings, choice, and support found in the best global travel platforms, now thoughtfully unified for you.\n\nDownload Goibibo today-the travel superapp for every journey, every style, and every destination. Unlock a world of hotel booking, flight booking, bus booking, train booking, and international travel possibilities in one trusted app.",
+   "trackViewUrl": "https://apps.apple.com/us/app/goibibo-flight-hotel-train/id631927169?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "366604288",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 6,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 25
+   }
+  },
+  {
+   "trackId": 399057337,
+   "trackName": "Flightview - Flight Tracker",
+   "bundleId": "com.flightview.flightviewfree",
+   "artistName": "FlightView Inc.",
+   "sellerName": "FlightView Inc.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.64881,
+   "userRatingCount": 6367,
+   "releaseDate": "2010-10-29T19:16:07Z",
+   "currentVersionReleaseDate": "2026-01-21T09:57:07Z",
+   "version": "5.0.13",
+   "description": "Free Flight tracking app from the leaders in real-time flight information.  Track upcoming and in-air flights, and receive status alerts via push notification.  Check gate assignments, delays and cancellations and use the attractive flight map to see a flight's progress. Forward your itinerary confirmation emails and Flightview will automatically load them into your Trips.  See your Trips across mobile devices and at www.Flightview.com.  View a North American airport delay map with radar weather overlay. Wherever life takes you, count on Flightview to help you travel smarter!\n\n  \"Easy-to-use app that should be an essential for air travelers\" - Practical Travel Gear\n \n  \"I highly recommend this App, even if you only fly a few times a year it would be incredibly useful.\" - AppShouter\n\n  \"There are a lot of flight tracking apps for the iPhone - but most of them sell for $4.99 to $9.99. FlightView is significantly cheaper - and even more reliable. The new app also has a great user interface. It's easy to use, has great visuals and makes information easily available for the on-the-go users.\" - Fresh Apps\n\n\nFlight Tracking Features:\n • Track flights on a map showing flight path and current radar weather\n • My Home page gives an easy view into your home airport's current status and your next trip\n • Flight Status Push Alerts for flights stored in My Trips\n • View terminal, gate and baggage claim information\n • See where the plane for your flight is coming from and check its status via Aircraft's Previous Flight \n • Driving Directions to Airport integration with iPhone Maps\n • Easily find alternative flights by viewing flight schedules between cities\n • Search flights up to 350 days in the future and save them\n • See My Next Trip information on the iOS 'Today' view\n\nMy Trips Features:\n • Forward your itinerary confirmation email to Trips@Flightview.com, and it will be automatically loaded into your My Trips on your device\n • Trips are synced between devices and with www.Flightview.com so you can quickly reference their statuses everywhere\n • Add notes to flights or trips, such as car rental and hotel reservation numbers, and keep all of your day-of-travel information in one place\n • While in-flight, review your saved itineraries in Airplane mode\n\nAirport Delay Information Features:\n • View a color-coded map of airport delays in the US & Canada with weather overlay to see how your travel plans could be affected\n • View list of airports suffering the Biggest Departure Delays right now \n • View Flightview's proprietary Airport Delay Index for 180 major airports in the US and Canada\n • View FAA Airport Closures & Delay Programs for major airports in the US\n\nCalendar Integration:\n • Post your Flight or the Flights within a Trip to your iPhone Calendar \n\nSharing Features:\n • Share trip itineraries via email or share flights via email or SMS/text\n • Post your Trip Itinerary or Flight Information on Facebook\n • Login to Flightview using Facebook login\n\nWeather Features:\n • View current weather conditions at arrival and departure airports on the Flight Details screen\n • 7-Day Weather forecast so you can see the weather forecast for both ends of your trip\n\nOther Great Features:\n • Call an airline reservation number directly from the Flight Details screen\n • In the Help section, read the Frequently Asked Questions and their answers, Flight Tracking Tips, Flight Status definitions and Flight Tracking terms\n\nTired of Ads?\n • If you would like to avoid seeing ads, then check out our Flightview plus application in the paid section of the App Store - no ads there!",
+   "trackViewUrl": "https://apps.apple.com/us/app/flightview-flight-tracker/id399057337?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "139077632",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 5,
+    "flight status": 7
+   }
+  },
+  {
+   "trackId": 317703490,
+   "trackName": "Flight Update Pro",
+   "bundleId": "com.silverware.flightupdatepro",
+   "artistName": "Silverware Software, LLC",
+   "sellerName": "Silverware Software, LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.54291,
+   "userRatingCount": 5279,
+   "releaseDate": "2009-05-31T06:03:07Z",
+   "currentVersionReleaseDate": "2026-09-29T15:09:34Z",
+   "version": "9.6.8",
+   "description": "YOU deserve First Class flight tracking!\nFlight Update Pro is the #1 choice of travelers and professionals to track their flights.  Used by vacationers, business people and professional pilots!!  Flight Update Pro uses the BEST flight status and schedule service available (rated #1 by WSJ) so you will always have the latest information about your upcoming flights.\n\nAvailable since 2008, it is the premier flight tracking app available on the App Store\n\nMarch - 2017 - Chosen \"Rightful Heir to FlightTrack Pro\" by Yahoo! Tech's David Pogue:\nwww.tinyurl.com/BestAirTravelApp\n\nMay 2017-Jason Snell chooses Flight Update Pro top travel app:\nwww.tinyurl.com/SixColorsReview\n\nKEY FEATURES\n* Track and search for flights Worldwide\n* Detailed Departure and Arrival Information\n* Large and easy to read displays of flight times\n* Real-time updates to flight status, gate changes and cancellations\n* Terminal, Gate and Baggage Claim info\n* Layover times clearly shown\n* ALL in an Elegant, Attractive and Easy To Read interface\n* Automatic mirroring of flights to your Calendar \n* Automatic syncing with your TripIt account.  Also, download trips shared with you by others.  Upload any additions or changes too\n* Track up to five flights departing each month.\n\nADVANCED FEATURES\n* Find alternate flights\n* Track the Inbound aircraft to your departing gate (then watch it pull up to the gate)\n* Track flight position on a map while en-route\n* Save notes for airports and refer to them when you revisit\n* Quickly email or text your itinerary\n* Organize your flights in “Trips” since we all want to be super organized OR view ALL your flights in one screen\n* Store your seat # and notes per flight\n\nADDING FLIGHTS and SEARCHES\n* Add flights by airline and flight number OR search by route\n* Display of On-Time Percentage\n\nFUN FEATURES\n* Track flights on a map as they travel across the world\n* Follow a flight’s altitude, direction, speed and the city it is flying over\n\nAIRLINES\n* Saves your frequently used airlines\n* View airline contact info\n\nAIRPORTS\n* Saves your frequently used airports\n* Beautiful Terminal Maps for major airports\n* Store notes for each airport - a great way of noting your favorite restaurant or parking info\n\nACCOLADES\n* Consistently chosen BEST flight app among independent reviewers\n* Highlighted on the App Store by Apple countless times since its introduction in 2008\n* Featured in an Apple magazine ad\n\nBACKUP and RESTORE\n* iCloud\n\nPUSH NOTIFICATIONS\n* The MOST timely notification available for flight status, gate changes PLUS pre-flight reminders!\n* Fully Customizable to suit your needs - choose only the reminders you want\n\nUSAGE\n* Once purchased the first month is included in the purchase of the app (tracking of up to 20 flights)\n* After the first month the app requires a monthly or yearly subscription to track and receive flight alerts\n\nSUBSCRIPTION DETAILS\n* Choice of either tracking up to 20 flights, 50 flights, 100 flights or 150 flights departing each month\n* Payment charged to iTunes account at confirmation of purchase\n* Automatic renews unless auto-renew is turned off at least 24-hours before the end of the current period\n* Account will be charged for renewal within 24-hours prior to the end of the current period\n* Subscriptions can be managed and auto-renewal can be turned off with Account Settings\n\nhttp://www.silverwaresoftware.com/PrivacyPolicy.html\nhttp://www.silverwaresoftware.com/TermsOfUse.html\n\nCONTACT US\n* If you ever have any comments, complaints or compliments, simply tap \"Email the Author\" from the Prefs screen\n\nREVIEWS\n* Love our app?  We greatly appreciate reviews.  But if you are having an issue, please email us first so we can help.  It is VERY likely we know about it and can suggest an easy solution\n\nTHANK-YOU\nThank you for making Flight Update Pro the top choice among travelers since 2008",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-update-pro/id317703490?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "8415232",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 15
+   }
+  },
+  {
+   "trackId": 476574483,
+   "trackName": "Flight Tracker Expert",
+   "bundleId": "com.smartmobilesoftware.flighttracker.FlightTrackerFree",
+   "artistName": "Smart Mobile Software",
+   "sellerName": "Smart Mobile Software",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.25335,
+   "userRatingCount": 2613,
+   "releaseDate": "2011-11-04T16:14:58Z",
+   "currentVersionReleaseDate": "2020-04-22T20:37:31Z",
+   "version": "2.2.0",
+   "description": "Flight Status Tracker is the ideal companion for frequent travelers. Get real-time flight status. Worldwide, accurate departures and arrivals. Give it a try. \n\nFeatures:\n- Flight status tracking\n- Automatic compensation reminder in case of delayed/canceled flight",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-expert/id476574483?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "70999040",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 20
+   }
+  },
+  {
+   "trackId": 727297302,
+   "trackName": "Flight Board Pro Plane Tracker",
+   "bundleId": "uk.co.miflights.miflightboard",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Entertainment"
+   ],
+   "price": 3.99,
+   "formattedPrice": "$3.99",
+   "averageUserRating": 4.70085,
+   "userRatingCount": 2243,
+   "releaseDate": "2013-11-12T04:18:22Z",
+   "currentVersionReleaseDate": "2026-01-04T11:34:01Z",
+   "version": "6.1.7",
+   "description": "Turn your iPhone or iPad into an animated old style retro flip-flap Arrivals and Departures flight board for any airport in the world! mi Flight Board is designed based on the old departures board at the Grand Central Terminal Station in New York City and has a beautiful old style retro feel.\n\nDownload mi Flight Board and view the departures and arrivals board at your favourite airports. View updated flight status information in real-time , the #1 travel app in over 35 countries.\n\nFEATURES\n• Old style retro-feel based on the old departures board at Grand Central Station in New York City\n• Includes over 6,000 airports and 1,500 airlines worldwide \n• See the real-time status or use as a flight tracker to track any flight in the world\n• Search for specific flights, by destination or airline \n• Efficiently switch between flight Departures and Arrivals boards \n• Enables you to answer the question:“I wonder what planes are arriving in Phoenix at the moment?” or “Has Dad’s plane arrived yet?”  \n\nSee our other flight tracker and flight radar apps.\nmi Flight Tracker\nmi Flight Radar\n\nThis app has an optional subscription to enable flight notifications pushed directly to your phone and extended time frames for the flight boards out to 24 hours. There is one subscription and three ways of paying, monthly (bronze), 6 monthly (silver), or yearly (gold). This is an auto-renewing subscription. This subscription unlocks premium services across all our apps, where available. Get updates on departure & arrival times, latest delays, gate & baggage reclaim changes. No commitment, you can cancel any time. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nTerms and conditions: http://www.miflightsapp.com/terms_and_conditions.html\nPrivacy policy: http://www.miflightsapp.com/privacy_policy.html\n\nPlease note that some charter flights are not listed and that flight data may be delayed by up to 15 mins due to FAA regulations and that charter flights are not listed.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-board-pro-plane-tracker/id727297302?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "44827648",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 21
+   }
+  },
+  {
+   "trackId": 6737029127,
+   "trackName": "Skycards by Flightradar24",
+   "bundleId": "com.flightradar24.skycards",
+   "artistName": "Flightradar24 AB",
+   "sellerName": "Flightradar24 AB",
+   "primaryGenreName": "Games",
+   "genres": [
+    "Games",
+    "Travel",
+    "Casual",
+    "Card"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 3.65619,
+   "userRatingCount": 1940,
+   "releaseDate": "2024-11-14T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T08:39:49Z",
+   "version": "2.2.9",
+   "description": "Capture real aircraft and build your card deck using live data from Flightradar24.\n\n• REAL-TIME AIRCRAFT — Spot aircraft in the game as they fly overhead in real life. Use the in-game camera to capture planes and add them to your collection!\n\n• BUILD A DECK — Collect aircraft models to assemble an impressive fleet. Catch the same model many times to upgrade your cards.\n\n• BATTLE — Challenge other players in thrilling card-based battles using your aircraft cards.\n\n• UPGRADE — Level up your character to earn coins, unlock new features, and get more apparel for your avatar.\n\nWhether you’re a casual gamer or an aviation enthusiast, Skycards offers an exciting, real-world experience that brings aviation to your fingertips. Start collecting today!",
+   "trackViewUrl": "https://apps.apple.com/us/app/skycards-by-flightradar24/id6737029127?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "218936320",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 33
+   }
+  },
+  {
+   "trackId": 6471097370,
+   "trackName": "Flight Tracker Airplane Radar",
+   "bundleId": "flight.tracker.airplane.radar",
+   "artistName": "Oleksandr Selivanov",
+   "sellerName": "Oleksandr Selivanov",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.73393,
+   "userRatingCount": 1913,
+   "releaseDate": "2023-11-29T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T07:55:17Z",
+   "version": "3.6.2",
+   "description": "With flight tracking app, you can access precise and dependable details concerning flights operated by various global airlines. You are granted the ability to view the flight path of any airplane, along with comprehensive flight information.\n\nThe main screen will display a global map showcasing all international flights in real time. To delve into further flight details, simply choose the aircraft of your interest. You'll then gain access to information like flight direction, flight number, departure and arrival times, as well as aircraft type.\n\nTo enhance the user experience with the flight tracker, the application includes the following filters:\n- Flight by route\n- Live flights by airline\n- Airports by country\n- Nearby airports\n\nHere's how you can locate a flight by route: Just enter the ICAO or IATA code into the search box, and you'll receive information about all flights currently on the way.\n\nLive flights by airline: Within the list, you'll discover a comprehensive collection of international airlines arranged alphabetically. Choose the desired airlines to access flight particulars, including arrival and departure dates and countries, along with aircraft types.\n\nAirports by country: Locate the airport you're interested in by selecting from an extensive list of countries. Following that, you'll be presented with a comprehensive list of airports within that country. The app will show it on the map and provide you with detailed information about ongoing flights.\n\nNearby airports: This feature provides you with a comprehensive list of airports in close proximity. When you choose the one you're interested in, you'll receive detailed information about that specific airport.\n\nDownload Flight Tracker: Airplane Radar for iOS now!\n\nTerms of Use - https://docs.google.com/document/d/1oCb4LQ80gFGVvAIjHsVb7MbhpLtPHe9kdSMR3w3H9Vk/edit?tab=t.0\nPrivacy Policy - https://docs.google.com/document/d/1gPDxpS3iufXKqvBuSc1_dbhncJjF3fB9iHxQJg_kpQY/edit?tab=t.0",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-airplane-radar/id6471097370?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "149707776",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 15
+   }
+  },
+  {
+   "trackId": 527616248,
+   "trackName": "Flight Tracker, Plane Radar 24",
+   "bundleId": "uk.co.miflights.miflightslite",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Entertainment"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.67853,
+   "userRatingCount": 1742,
+   "releaseDate": "2012-05-22T23:16:08Z",
+   "currentVersionReleaseDate": "2026-10-01T12:24:39Z",
+   "version": "10.1.13",
+   "description": "mi Flight Tracker is a simple yet powerful tool that allows you to track planes all over the world and get live status information. Whether you are a professional pilot or crew member, planning your own trip or just want to an app to track the flights of your family and friends you'll find the information that you need.\n\nmi Flight Tracker provides live status updates of your flight 24/7, the #1 travel app in over 20 countries.\n\nFEATURES\n• Track flights across the world \n• Easy to search for individual flights using flight number or route\n• Be the first to be updated of delays\n• Detailed Departure and Arrival information \n• Flight radar mode enabling you to see the flight position on zoomable maps\n• Plots the actual flight track and updates with latest arrival time\n• Terminal and Gate information updated in real-time\n• Layover information is automatically displayed \n• mi Flight Tracker enables you to track your flights progress whilst on board the aircraft using the the inbuilt physics based flight model. The model works in flight safe mode.\n• Save and share your flight information via e-mail, Facebook, and Twitter\n\nWe are passionate about providing innovative flight status and tracking apps giving you the information you need to make your travel smoother. We are continuing to develop the app to add in new functionality and improve the user experience.\n\nUpgrade to mi Flights Premium service to unlock flight notifications pushed directly to your phone. We do the flight tracking for you behind the scenes and notify you of changes when they occur.\n\nUPGRADE TO PRO VERSION:\n◆ Unlimited flight search, status and tracking updates.\n◆ No advertising banners. \n◆ Record unlimited flights to your flight book\n\nSee our other flight tracker apps.\n• mi Flight Radar\n• mi Flight Board\n\nwww.miflightsapp.com\n\nQuestions, feedback or comments? Email us: info@miflightsapp.com. We answer all emails quickly!\n\nTerms and conditions: http://www.miflightsapp.com/terms_and_conditions.html\nPrivacy policy: http://www.miflightsapp.com/privacy_policy.html\n\nNote that this app does not require GPS updates and operates in flight safe mode except for real-time flight status and tracking where the device needs an internet connection.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-plane-radar-24/id527616248?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "55817216",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 16
+   }
+  },
+  {
+   "trackId": 1610743209,
+   "trackName": "Flight Tracker & Radar",
+   "bundleId": "com.applace.flight",
+   "artistName": "ISLAND STORM LABS LIMITED",
+   "sellerName": "ISLAND STORM LABS LIMITED",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.7366,
+   "userRatingCount": 1735,
+   "releaseDate": "2022-04-03T07:00:00Z",
+   "currentVersionReleaseDate": "2026-01-15T03:14:46Z",
+   "version": "1.4.2",
+   "description": "Flight Tracker – follow planes routes around the world in real-time. Tap on the plane and see where it’s going and it's destination. No matter it's just your hobby or you'd like to follow your friends and family members – the app does it's job!\n\nFree features:\n- Limited number of planes around (free unlimited usage)\n- See Route (free unlimited usage)\n- Map Design (free unlimited usage)\n- Compass (free unlimited usage)\n\nFeatures with limited usage:\n- Add to “My Flights” (limited usage, unlimited available for premium users only)\n- Search Flights (limited usage, unlimited available for premium users only)\n- Planes Design (limited usage, unlimited available for premium users only)\n\nPremium features:\n- Unlimited number of flights and planes around (available for premium users only)\n- Measurement Units (available for premium users only)\n\nAre you ready to give it a go?\n\nSubscription information about pricing and terms:\n\nThe app is based on freemium model: it's absolutely free to use. However, you can subscribe for unlimited access to all features with unlimited usage. We provide different options. The longer period – the profitable subscription.\n\n*Pricing in countries may vary and actual charges may be converted to your local currency depending on the country of residence.\n*Payment will be charged to iTunes Account at confirmation of purchase.\n*Subscription will be automatically renewed. Auto-renew can be turned off at least 24 hours before the end of the current period.\n*Your account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal.\n*Subscriptions may be managed by you and auto-renewal may be turned off by going to the user's iTunes Account Settings.\n\nFor more information please visit the link https://support.apple.com/en-us/HT202039\n\nRead more about our terms and conditions here:\n\nPrivacy Policy: https://applace.io/privacy/\nTerms of Use: https://applace.io/terms/\nSupport: https://applace.io/support/\nApp website: https://applace.io\n\nWe value your feedback more than anything. If you find that there is something about our app that doesn’t work for you and you have an exciting idea that could make it better, shoot us an email at support@applace.io. We appreciate your feedback and strive to make the app better for you every day!",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-radar/id1610743209?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "106975232",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 12
+   }
+  },
+  {
+   "trackId": 1571921860,
+   "trackName": "Flight Tracker Live",
+   "bundleId": "com.planesradar.planesapp",
+   "artistName": "Position Mobile Ltd SEZC",
+   "sellerName": "Position Mobile Ltd SEZC",
+   "primaryGenreName": "Business",
+   "genres": [
+    "Business",
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.61695,
+   "userRatingCount": 1522,
+   "releaseDate": "2022-03-19T07:00:00Z",
+   "currentVersionReleaseDate": "2024-12-03T06:44:21Z",
+   "version": "1.13",
+   "description": "Accurate and reliable, our Live Flight Tracker is the ultimate Flight Tracker app. The best flight tracking app in the United States of America & Canada.\nTrack your own flights, family’s or friends flights, save time and make your travel stress-free with Live Flight Tracker. Access everything you need to know about your flight, the airport, and airlines in one easy-to-use app.\nFREE FEATURES\n• Worldwide flight tracking\n• Glanceable flight board with detailed departure and arrival information\n• Real-time terminal and gate updates\n• Alerts for flight status changes (schedule, terminal & gate updates)\n• Detailed aircraft, airport, and airlines information\n• Renewed Airline Map that shows airline-specific flights and supported airports\n• Create your trips and add notes\n• Upload and quickly access travel documents (boarding pass, vaccination certificate, booking confirmations, and others)\n• Share your flight information via email, text, Facebook, Twitter, and WhatsApp, etc\nWORLDWIDE FLIGHT COVERAGE\nSearch flights and airports worldwide. If you are unable to find your flight, please let us know through the Frequently Asked Questions feedback section of the app Settings.\nPREMIUM FEATURES\n• Text alerts for flight status changes\n• Live weather map\n• Save to My-Flights Options\n• Live gate, terminal & airport tracking information\n• Real-Time Flight information & gate-change notifications\n• Ad-free\nTerms & Conditions: http://planesradar.com/pp.html#terms-of-service\nPrivacy Policy: http://planesradar.com/pp.html#privacy-policy\nBIGGEST AIRPORTS SUPPORTED\nHarts-field–Jackson Atlanta (ATL), Los Angeles (LAX), O’Hare (ORD), Dallas/Fort Worth (DFW), Denver (DEN), John F. Kennedy (JFK), San Francisco (SFO), McCarran (LAS), Seattle-Tacoma (SEA), Charlotte Douglas (CLT), Orlando (MCO), Miami (MIA), Phoenix Sky Harbor (PHX), Newark Liberty (EWR), George Bush (IAH), Vancouver (YVR), Toronto Pearson (YYZ), Halifax Stanfield (YHZ), Montréal Pierre Elliott Trudeau (YUL), Hartsfield–Jackson Atlanta International Airport, Atlanta, Georgia, United States, ATL/KATL, CTU/ZUUU, Dallas/Fort Worth International Airport, Dallas-Fort Worth, Texas, United States, DFW/KDFW, Denver International Airport, Denver, Colorado, United States, DEN/KDEN, O'Hare International Airport, Chicago, Illinois, United States, ORD/KORD, Los Angeles International Airport, Los Angeles, California, United States, LAX/KLAX, Indira Gandhi International Airport, Delhi, India, DEL/VIDP, Charlotte Douglas International Airport, Charlotte, North Carolina, United States, CLT/KCLT,  Phoenix Sky Harbor International Airport, Phoenix, Arizona, United States, PHX/KPHX, SGN/VVTS, Orlando International Airport, Orlando, Florida, United States, MCO/KMCO, CGO/ZHCC,  Seattle–Tacoma International Airport, SeaTac, Washington, United States, SEA/KSEA, Miami International Airport, Miami-Dade County, Florida, United States, MIA/KMIA, George Bush Intercontinental Airport, Houston, Texas, United States, IAH/KIAH,\nLARGEST AIRLINES SUPPORTED\nDelta Air Lines (DL), American Airlines (AA), Lufthansa (LH), United Airlines (UA), Air France (AF), Southwest Airlines (WN), China Southern (CZ), All Nippon Airways (NH), China Eastern Airlines (MU),\nPRIVACY\nFor the optimal use of all Live Flight Tracker features, we ask your permission to access your location (to identify nearby airports and weather conditions) and notifications (to send alerts).\nHave suggestions or cannot find the answers to your questions in the Frequently Asked Questions in the app Settings? Our support team is ready and happy to help at feedback@planesradar.com\nWE LOVE FEEDBACK\nAs always, we appreciate your feedback. Please share your experience with us at feedback@planesradar.com\nEnjoy your trip and travel safely with Live Flight Tracker!",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-live/id1571921860?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "150277120",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "PT",
+    "RO",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 19
+   }
+  },
+  {
+   "trackId": 6759628645,
+   "trackName": "FlightDeck - Flight Tracker",
+   "bundleId": "com.jaddar.SkyWatch",
+   "artistName": "Attracts",
+   "sellerName": "JAC LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.50035,
+   "userRatingCount": 1407,
+   "releaseDate": "2026-03-01T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-03T10:46:44Z",
+   "version": "2.3",
+   "description": "Every plane in the sky. Every cockpit message. Every emergency, the second it happens.\n\nFlightDeck plugs into the same live feeds airlines and ATC run on and turns them into plain English.\n\nPILOT MESSAGES (ACARS)\nThe digital messages pilots and dispatchers send worldwide, decoded live the moment they go out. Diversions, emergencies, mechanical issues, and the occasional cockpit humor. No other app shows you this.\n\nTRACK YOUR FLIGHT\nFollow any flight on your Lock Screen with real ATC-grade detail: IFR clearance, pushback, the exact runways it uses, even the inbound jet that becomes your flight.\n\nEVERYTHING ELSE\nLive weather radar, turbulence and pilot reports, D-ATIS, METARs, and plain-English NOTAMs. FAA ground stops and delays, active runways, gates, TSA waits, and approach charts. Emergency squawks are for military and government aircraft, and custom alerts you write in plain English.\n\nSUBSCRIPTION\nFlightDeck requires a subscription to use. We offer a weekly or yearly subscribtion. \n\nPrivacy Policy: https://www.tryflightdeck.com/privacy\nTerms of Use: https://www.tryflightdeck.com/terms",
+   "trackViewUrl": "https://apps.apple.com/us/app/flightdeck-flight-tracker/id6759628645?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "145661952",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 14
+   }
+  },
+  {
+   "trackId": 525956148,
+   "trackName": "Flight Tracker Pro Plane Radar",
+   "bundleId": "uk.co.miflights",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Entertainment"
+   ],
+   "price": 5.99,
+   "formattedPrice": "$5.99",
+   "averageUserRating": 4.77175,
+   "userRatingCount": 1367,
+   "releaseDate": "2012-05-22T23:06:06Z",
+   "currentVersionReleaseDate": "2026-10-03T15:56:27Z",
+   "version": "10.1.13",
+   "description": "mi Flight Tracker is a simple yet powerful tool that allows you to track planes all over the world and get live status information. Whether you are a professional pilot or crew member, planning your own trip or just want to an app to track the flights of your family and friends you'll find the information that you need.\n\nmi Flight Tracker provides live status updates of your flight 24/7, the #1 travel app in over 65 countries.\n\nFEATURES\n• Track flights across the world \n• Easy to search for individual flights using flight number or route\n• Be the first to be updated of delays\n• Detailed Departure and Arrival information \n• Flight radar mode enabling you to see the flight position on zoomable maps\n• Plots the actual flight track and updates with latest arrival time\n• Terminal and Gate information updated in real-time\n• Layover information is automatically displayed \n• mi Flight Tracker enables you to track your flights progress whilst on board the aircraft using the the inbuilt physics based flight model. The model works in flight safe mode.\n• Save and share your flight information via e-mail, Facebook, and Twitter\n\nWe are passionate about providing innovative flight status and tracking apps giving you the information you need to make your travel smoother. We are continuing to develop the app to add in new functionality and improve the user experience.\n\nUpgrade to mi Flights Premium service to unlock flight notifications pushed directly to your phone. We do the flight tracking for you behind the scenes and notify you of changes when they occur.\n\nThere is one subscription and three ways of paying, monthly (bronze), 6 monthly (silver), or yearly (gold). This is an auto-renewing subscription to flight updates via push notifications. Get updates on departure & arrival times, latest delays, gate & baggage reclaim changes. No commitment, you can cancel any time. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.\n\nSee our other flight tracker apps.\n• mi Flight Radar\n• mi Flight Board\n\nwww.miflightsapp.com\n\nQuestions, feedback or comments? Email us: info@miflightsapp.com. We answer all emails quickly!\n\nTerms and conditions: http://www.miflightsapp.com/terms_and_conditions.html\nPrivacy policy: http://www.miflightsapp.com/privacy_policy.html\n\nNote that this app does not require GPS updates and operates in flight safe mode except for real-time flight status and tracking where the device needs an internet connection.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-pro-plane-radar/id525956148?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "55804928",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 30
+   }
+  },
+  {
+   "trackId": 1382868950,
+   "trackName": "AirNav Radar – Flight Tracker",
+   "bundleId": "com.airnav.radarbox",
+   "artistName": "AirNav Systems",
+   "sellerName": "AirNav Systems LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.70139,
+   "userRatingCount": 1286,
+   "releaseDate": "2018-07-28T04:30:06Z",
+   "currentVersionReleaseDate": "2026-09-25T21:28:18Z",
+   "version": "3.4.15",
+   "description": "Welcome aboard to AirNav Radar, the real-time flight tracker app trusted worldwide for accurate, live aircraft and flight tracking! With one of the most comprehensive global flight coverage networks available, AirNav Radar is used by millions of aviation enthusiasts, travelers, pilots, and professionals to track every plane in the sky in real time. Download the radar app free and instantly see the exact current position of any flight, from takeoff to landing, at any airport worldwide.\n\nAirNav Radar is designed for anyone searching for the best flight tracker, live flight radar, or aircraft tracking app that delivers precise, reliable, and up-to-date flight information across the globe.\n\n▶ How is AirNav Radar one of the best and most accurate flight tracker apps?\n• Most modern aircraft you see out in the open sky are equipped with ADS-B transponders that continuously transmit live flight data. AirNav Systems operates a global network of over 36,000 receivers, allowing us to cover major airports and international flight corridors worldwide.\n• By combining ADS-B, MLAT, satellite, and oceanic data, AirNav Radar delivers high-precision real-time flight data for aircraft flying over land and remote regions.\n\n▶ Features\n• Track any flight live and receive real-time notifications for status changes\n• View most tracked flights and emergency aircraft on an interactive radar map\n• Access individual flight pages with live position, route, and plane photos\n• Check detailed info: aircraft make, model, airline, altitude, and speed\n• Replay past flights and review up to 7 days of historical data\n• Monitor arrivals and departures at any airport with clear flight status\n• Multi-source tracking using ADS-B, ASDI, Oceanic, MLAT, and Satellite\n\n▶ Ads-Free Plan\n• Completely ads-free experience\n• Unlimited access to live airport control tower radio\n• Full flight graphs showing altitude and speed over time\n• Access up to 30 days of historical flights and replays\n\n▶ Pilot Plan\n• All Ads-Free features plus advanced aviation tools\n• Terrain, Satellite, and aviation map layers\n• Weather layers for airports and full flight routes\n• Advanced flight and aircraft filtering\n\n▶ Business Plan\n• Professional-grade tools with up to 365 days of historical data\n• Track multiple aircraft and flights as a fleet\n• Detailed airport overviews (weather, visibility, etc.)\n• Expanded raw flight data downloads\n\nDownload AirNav Radar free today and track every flight with confidence.\nHave a safe flight — you are cleared for take-off!\nQuestions? Reach us at support@airnavradar.com\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/airnav-radar-flight-tracker/id1382868950?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "149508096",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 9
+   }
+  },
+  {
+   "trackId": 6446590295,
+   "trackName": "Live Flights Tracker",
+   "bundleId": "com.mzdt.liveflighttracker",
+   "artistName": "Nouman Sharif",
+   "sellerName": "APPJIANT LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.29704,
+   "userRatingCount": 1185,
+   "releaseDate": "2023-04-11T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-13T16:54:02Z",
+   "version": "1.2.1",
+   "description": "Live Flight Tracker is the best option for real time flight tracking of live planes. Search cheap flights using live plane tracker. Get flight status, arrival and departure airports with flight tracking app. Get American airline flight information and search cheap airlines. Flight radar and cheap flight tracking free app is used to view southwest airline flights. \n\nAirplane finder is used to track live planes. Flight radar app is free to download. Live map in this flight planes tracker app shows flight information. American airlines flight tracker to get flight information.  Flight track using live plane tracker app. Flight status app is used as plane finder. See flight details of southwest airlines. \n\nApp Features \n• Search flight number using plane tracker. \n• Flight track on radar by Tail Number.\n• Search Airport Arrival and Departures.\n• Check flight status with flight radar.\n• Track flights with live plane tracker. \n• Get flight delays with plane finder app. \n• Watch planes with live flight radar.\n• Airplane finder to get airport information.\n• Flight tracker app to get airport flight status.\n• Live Map Airplane Finder with flight tracker.\n• Search Routes with the airport flight status app.\n• Arrival and departure information with flight tracker. \n\nFlight radar with live plane tracker\nTravel safe and get live weather forecast with plane finder. QR code to scan boarding pass and get flight info with flight scanner.\nWith airplane finder, add cheap flights and delta airline in your list. Flight radar and flight simulator display all airline and aircraft on map with flight stats.\n\nFlight status tracker\nPlane tracker allow you to track flights with real time flight status. Get detailed flight info with airplane finder and flight tracker app.\nFly for business with live plane tracker and flight scanner. Get flight delay information with plane finder and flighty.\n\nSearch by Routes\nRoute search in flight tracker app will provide flights data like delay status and also show live map.\nFree flight track app will provide all airplanes traveling from source to destination. You can get cheap flight.\n\nFlight track on radar by Tail Number\nSearch by tail number and get flight delay time or departure time and arrival time track by this flight radar app. Tail number will provide flight schedule real time information. Get enough information by monitor for flight radar.\n\nPlanes Tracker Live by Flight Number\nFlight Number track of radar status will provide full details regarding live flight tracker with view free. Search by flight number and air traffic will provide airlines track on live map. You will get arrival and departure time and delay status and other useful information.\n\nSearch Airport Arrival and Departures\nSearch any airports from autofill search view and get airport flight status. Plane finder app free download provide a list of arrival and departures. When you select any aircraft from American airport flight track, you will get all information along with live map.\n\nPlease give us a five-star review and add your valuable feedback about the Flight Tracker app.\n\nPrivacy Policy: http://liveflighttracker.appjiant.com/\nTerms of Service: http://liveflighttracker.appjiant.com/termsofuse.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/live-flights-tracker/id6446590295?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "66736128",
+   "languageCodesISO2A": [
+    "AF",
+    "AR",
+    "CS",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "EL",
+    "HI",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "FA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TH",
+    "VI"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 31,
+    "flight status": 23
+   }
+  },
+  {
+   "trackId": 1439182354,
+   "trackName": "SkyTrack | Live Flight Tracker",
+   "bundleId": "com.appeclectic.skytrack",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.53915,
+   "userRatingCount": 1124,
+   "releaseDate": "2019-08-05T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-04T22:03:50Z",
+   "version": "1.7.5",
+   "description": "SkyTrack turns your iPhone or iPad in to your own personal air traffic control radar, flight tracker, and aiport departurs and arrivals boards. Flights are displayed in real-time on beautiful maps near you or anywhere in the world. Track the flights of your family and friends or just watch the aircraft fly around the world in real time.\n\nWe are passionate about providing innovative flight tracking apps and are excited about the new features and functionality we are developing to enhance the app. Contact us for any features or improvements you would like to see incorporated.\n\nFEATURES\n• See aircraft fly all over the world \n• Track flights by flight number, aircraft registration or by airport arrivals / departures or en route between airports;\n• See departures and arrivals board world-wide;\n• Organise your flights into trips and store them in the flight log;\n• Follow your flight in real time and zoom out to see the flight route, see actual path and scheduled waypoints in real time;\n• Easy access to full flight details such as flight number, airline, aircraft type and tail number, photo (where available);\n\nEnhance your flight tracking with either the Professional or Premium subscription upgrade.\n\nPROFESSIONAL AND PREMIUM FEATURES\n• Access to a professional grade flight data source having a much lower data latency, more frequent updates, and using a wider map;\n• See airport departure and arrivals within 24 hours;\n• Enjoy the 3D pilots view to see the world as if you are right there in the cockpit;\n• Quickly visualise the type of aircraft on your map display with over 40 realistic aircraft icons;\n• Includes realistic shadows that change with the local time of day, season and location;\n• See the recent flights flown by the aircraft;\n• Unlock altitude tracks to quickly see if the plane is climbing, cruising or descending;\n• Removal of all adverts.\n\nProfessional and Premium are automatic renewal subscriptions. There is no commitment, you can cancel at any time. Payment will be charged to the iTunes account on the purchase confirmation. The subscription is automatically renewed unless the automatic renewal is deactivated at least 24 hours before the end of the current period. The account will be charged for renewal within 24 hours prior to the end of the current period, and will identify the cost of the renewal. Subscriptions can be managed by the user and automatic renewal can be deactivated by going to the User Account Settings after purchase. Any unused portion of a free trial period, if offered, will be lost when the user purchases a subscription to that publication, where applicable.\n\nTerms and conditions: https://www.skytrack.app/terms_and_conditions.html\nPrivacy policy: https://www.skytrack.app/privacy_policy.html\n\nDISCLAIMER\nThe use of this app is strictly limited to entertainment purposes. This specifically excludes activities that might endanger yourself or the lives of others. Under no circumstances will the developer of this app be held responsible for incidents resulting from the use of the data or its interpretation or its use contrary to this agreement.",
+   "trackViewUrl": "https://apps.apple.com/us/app/skytrack-live-flight-tracker/id1439182354?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "28158976",
+   "languageCodesISO2A": [
+    "AR",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshotCount": 10,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 27,
+    "flight status": 30
+   }
+  },
+  {
+   "trackId": 1231873792,
+   "trackName": "Flight Information Global",
+   "bundleId": "com.horseboxsoftware.worldfree",
+   "artistName": "John Mollaghan",
+   "sellerName": "John Mollaghan",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.65858,
+   "userRatingCount": 1113,
+   "releaseDate": "2017-05-10T01:05:01Z",
+   "currentVersionReleaseDate": "2026-09-30T13:57:07Z",
+   "version": "26.9.29",
+   "description": "Live flight tracker for 10,000+ airports worldwide. Free.\n\nPick any airport and instantly see real-time arrivals, departures and flight status — on time, delayed, diverted, cancelled or landed. Gate numbers, baggage carousels, terminal info and delay alerts, all live, straight to your phone.\n\nYour go-to flight companion whether you're flying, picking someone up, tracking a connection or planning a route — anywhere on the planet.\n\nKEY FEATURES\n• Instant access to 10,000+ airports worldwide\n• Live arrivals & departures board — refreshed in real time\n• Flight tracker: search by flight number, airline, gate, terminal, baggage area, city or airport code\n• Status at a glance: on time, delayed, diverted, cancelled, landed\n• Filter by domestic, international or all flights\n• Codeshare flight matching\n• Nearby airport finder (uses your location)\n• Starred favourites — pin the flights you care about\n• 12-hour or 24-hour time format\n• Translated into 50+ languages\n\nPRO SUBSCRIPTION\n• Full flight timeline — scheduled, estimated and actual times for every leg\n• Aircraft details: registration, type, IATA code\n• Security and customs queue wait times (supported airports)\n• Completely ad-free\n• Supports continued development and new features\n\nDownload Flight Information Global today and always know exactly where any flight stands, anywhere on the planet.\n\n—\n\nThis app is not an official airport app and is not affiliated with or endorsed by any airport or airline. For definitive flight times, please check the official airport or airline website. The developer accepts no liability for incidents resulting from use of the data shown.\n\nTerms of Use (EULA)\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nPrivacy Policy\nhttp://flightinfoapps.com/flightinfoapps-privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-information-global/id1231873792?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "86170624",
+   "languageCodesISO2A": [
+    "SQ",
+    "AM",
+    "AR",
+    "AZ",
+    "BN",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "GU",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "GA",
+    "IT",
+    "JA",
+    "KN",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "ML",
+    "MR",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "PA",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "CY"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 17
+   }
+  },
+  {
+   "trackId": 6608970045,
+   "trackName": "Flight Tracker: Plane Radar 24",
+   "bundleId": "flight.tracker.live.air.plane.radar",
+   "artistName": "Sofiia Mertsalova",
+   "sellerName": "Sofiia Mertsalova",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Utilities"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.65374,
+   "userRatingCount": 1057,
+   "releaseDate": "2024-08-16T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T08:28:34Z",
+   "version": "1.5.2",
+   "description": "Flight Tracker: Plane Radar is your go-to app for live air traffic information. Our app brings the world of aviation to your fingertips, allowing you to track flights, airplanes, and airports with unmatched precision and ease.\n\nKey Features:\n\n- Live Plane Tracking: Experience the excitement of tracking planes in real-time on our interactive radar map. Watch as aircraft navigate the skies, and follow their flight paths with live updates.\n\n- Detailed Flight Information: Stay informed with comprehensive details about your flight, including real-time flight status, weather forecasts, and time zone information. Whether you're monitoring your own flight or someone else's, our app provides all the crucial details you need.\n\n- Quick Search & Filter Options: Find flights and airports quickly with our powerful search and filter tools. Whether you're looking for a specific flight, airport, or airline, easily access detailed information.\n\n- My Flighty Passport: Keep a record of all your past and upcoming flights in one convenient place. Track your travel history, explore your journey data, and relive your adventures.\n\n- Airport Arrivals & Departures: Stay updated on the latest arrivals and departures at your favorite airports. Get real-time updates on flight schedules, delays, and cancellations to stay ahead of your travel plans.\n\nWhy Choose Flight Tracker: Plane Radar?\n\nFrom live flight tracking to detailed flight information and airport updates, Flight Tracker: Plane Radar offers a comprehensive suite of tools for aviation lovers and travelers alike. Our app is perfect for tracking your flight status, following live air traffic, and staying connected with the skies. Whether you're planning your next trip, checking a loved one's flight, or simply enjoying the beauty of air traffic, our app is your ideal companion.\n\nDon't miss out on the ultimate flight tracking experience. Download Flight Tracker: Plane Radar today and explore the world from above! With our user-friendly interface and robust features, staying informed about your flights has never been easier. \n\nGet ready to take off with the best free airplane tracker and experience the future of flight tracking!\n\nDownload Flight Tracker: Plane Radar for iOS now!\nTerms of Use (EULA) - https://docs.google.com/document/d/1olnWOE91LhMz9-bfe_e61xz_zq20cl1EVvSzh9OjcCk/edit?tab=t.0\nPrivacy Policy - https://docs.google.com/document/d/1JTLvcVQASP9sxmdpcis7XlJiO76v0VmnvaIA5o9LLSU/edit?tab=t.0",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-plane-radar-24/id6608970045?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "88194048",
+   "languageCodesISO2A": [
+    "AR",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "HE",
+    "HI",
+    "HU",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "MS",
+    "NB",
+    "PL",
+    "PT",
+    "RO",
+    "RU",
+    "ZH",
+    "SK",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 21
+   }
+  },
+  {
+   "trackId": 6478918286,
+   "trackName": "Flight Tracker - Flights25",
+   "bundleId": "de.app.flighttracker",
+   "artistName": "Rocketech sp. z o.o.",
+   "sellerName": "Rocketech sp. z o.o.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.58581,
+   "userRatingCount": 775,
+   "releaseDate": "2024-03-05T08:00:00Z",
+   "currentVersionReleaseDate": "2026-07-16T22:50:45Z",
+   "version": "1.4.6",
+   "description": "Never miss a flight update again. Flights25 is the flight tracker built for travelers and crew members who want to know more than the airline tells them.\n\nThe app is your unfair advantage at the airport and gives you clarity in busy moments while traveling. \n\nKey Features:\n\n1) First-Class Alerts\nGet notified about gate changes, delays, and cancellations before the airline tells you. Our 25-hour monitoring catches issues before they become problems.\n\n2) Track Your Inbound Aircraft\nKnow exactly where your plane is right now. See if the aircraft coming from its previous flight is on time — so you know if yours will be too.\n\n3) Offline SMS Alerts\nNo WiFi? No problem. Receive critical flight updates via SMS — even in airplane mode.\n\n4) Build Your Flight Map\nVisualize every flight you've taken on a stunning 3D globe. See your total miles, countries visited, and airlines flown.\n\n5) Scan Your Boarding Pass\nScan any boarding pass to instantly add your flight. No manual entry needed.\n\n6) Sync Your Bookings\nImport flights directly from your calendar, email, or other travel apps. Everything in one place.\n\n7) Pilot-Level Timeline\nSee your flight's full story - with exact takeoff, landing, and taxi times that most trackers don't show.\n\n8) Share Your Travel Story\nShare your travel stats, flight map, and trip memories. Show the world where you've been.\n\n9) Home Widgets\nTrack your upcoming flights right from your home screen.\n\n10) Import from other providers\nYou can now import your flights from other flight tracking apps like Flighty, Myflightradar24, JetLovers. Flights25 even supports automatic syncing with Delta's MiCrew calendar entries.\n\nTrusted by 250,000+ travelers worldwide.\n\nDownload now for free and see why frequent flyers are switching to Flights25.\n\nBy using our app you agree to our Terms of Services: https://flights25.com/terms-conditions",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-flights25/id6478918286?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "153645056",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 8,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker",
+    "flight status"
+   ],
+   "ranks": {
+    "flight tracker": 26,
+    "flight status": 32
+   }
+  },
+  {
+   "trackId": 6740584454,
+   "trackName": "AirTraffic flight tracker",
+   "bundleId": "xyz.coutant.airtraffic",
+   "artistName": "Stephane Coutant",
+   "sellerName": "Stephane Coutant",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.74884,
+   "userRatingCount": 645,
+   "releaseDate": "2025-03-26T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-07T18:15:00Z",
+   "version": "3.0",
+   "description": "AirTraffic is a feature-rich and intuitive flight tracker that lets you follow aircraft movements live, providing detailed flight insights in a sleek, easy-to-use interface.\n\nExplore the skies in real time:\n\n- Flight monitoring – Follow aircraft movements live on an interactive Apple Map with precise positioning.\n- Flight data – Access airline details, flight numbers, departure and arrival times, altitude, speed, heading, and more.\n- Realistic aircraft visuals – Enjoy AI-generated images of aircraft models for a more immersive experience.\n- Smooth and intuitive navigation – Designed for effortless browsing, providing a clutter-free experience.\n\nSearch for planes by flight number or aircraft registration.\n\nView flights across the globe with reliable, up-to-date data from trusted sources.\n\nCompletely free – no subscriptions, no paywalls, all features included.\n\nDownload AirTraffic today and take flight tracking to the next level!",
+   "trackViewUrl": "https://apps.apple.com/us/app/airtraffic-flight-tracker/id6740584454?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "125740032",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "PT"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 32
+   }
+  },
+  {
+   "trackId": 1375444249,
+   "trackName": "Live Flight Status - Tracker",
+   "bundleId": "com.appeclectic.liveflightstatus",
+   "artistName": "Flight Tracker Apps Studio",
+   "sellerName": "Appeclectic Ltd",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.32367,
+   "userRatingCount": 621,
+   "releaseDate": "2018-08-05T16:21:46Z",
+   "currentVersionReleaseDate": "2019-08-12T21:27:44Z",
+   "version": "1.3",
+   "description": "Track flights and be the first to be notified of delays with Live Flight Status. A refreshingly simple flight tracker app giving the latest estimated departure and arrival times, terminal and gate numbers, and on arrival the baggage claim carousel number. Live Flight Status is perfect for tracking the flights of your friends and family and is a must have if you are meeting someone at the airport and need to know if the flight is delayed.\n\nSearch for your flight in four easy steps:\n• Enter your flight number if known, or your departure and arrival airports (optional choose airline to filter results).\n• Select the flight date of departure or if you prefer the arrival date.\n• Search for flights using our online database covering over 92% of all world-wide flights including some chartered flight.\n• Select your flights to track and optional choose from the alternate code shares for that flight.\n\nWhat’s inside:\n• Track any flight in the world (see coverage details below)\n• Detailed departure and arrival information including gate and terminal numbers, delays and baggage reclaim details. Please note that the availability of data is dependent upon the airline and airport.\n• Flight operation times, get scheduled, estimated and actual gate departure and arrival. Where available see the field flight plan, estimated and actual runway departure and arrival times.\n\nOur flight coverage is always expanding. Our current statistics are Asia-Pacific 98%, Europe 99%, latin America 98%, Middle East and Africa 97%, North America ~100%.\n\nPowered by our own dedicated flight tracker servers supplying data 24 / 7 to ensure you have access to flight status data at all times. Data is enriched by combining live flight information from the two leading data providers, Flight Stats and Flight Aware to ensure you have the most up to date data at all times.",
+   "trackViewUrl": "https://apps.apple.com/us/app/live-flight-status-tracker/id1375444249?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "44251136",
+   "languageCodesISO2A": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "ZH",
+    "ES"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 9
+   }
+  },
+  {
+   "trackId": 1666079904,
+   "trackName": "Track My Flight Now",
+   "bundleId": "com.flightradarliveapp.app",
+   "artistName": "East End Technologies Ltd.",
+   "sellerName": "East End Technologies Ltd.",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.17685,
+   "userRatingCount": 605,
+   "releaseDate": "2023-05-31T07:00:00Z",
+   "currentVersionReleaseDate": "2026-05-14T15:37:49Z",
+   "version": "1.55",
+   "description": "Track My Flight Now keeps you in the know with personalized flight notifications for departures, arrivals, and delays. Say goodbye to sitting around the airport waiting for updates - our app will keep you informed every step of the way. With real-time flight status updates, you can relax and enjoy your travels knowing you have the most up-to-date information at your fingertips. Download Track My Flight Now, available only on iOS, and take your travel game to the next level.\n\n* PERMISSIONS\n\n- Location - for showing you nearby flights.\n- Notifications - for receiving updates regarding arrivals, departures  \n\n* SUBSCRIPTIONS\n\nYou can subscribe to Track My Flight Now to get access to premium features, like unlimited flight queries, real-time flight status update, and more.\nOptions:\n- 3-day free trial, then renews weekly for $5.99\n- 3-day free trial, then renews weekly for $2.99\n\n* Link to Terms of Use: https://flightradarliveapp.com/terms.html\n\n* Link to Privacy Policy: https://flightradarliveapp.com/privacy.html",
+   "trackViewUrl": "https://apps.apple.com/us/app/track-my-flight-now/id1666079904?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "208782336",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 4,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 28
+   }
+  },
+  {
+   "trackId": 963836358,
+   "trackName": "FLIO",
+   "bundleId": "com.airmedia.FLIO",
+   "artistName": "sostravel.com SpA",
+   "sellerName": "sostravel.com SpA",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Lifestyle"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.49502,
+   "userRatingCount": 602,
+   "releaseDate": "2015-06-24T16:02:05Z",
+   "currentVersionReleaseDate": "2026-03-31T07:38:12Z",
+   "version": "4.1.0",
+   "description": "FLIO is the best app to accompany you during your flights. Receive flight status updates, visit all airports stress-free, take advantage of hundreds of information on shops and services.\n\nWith FLIO you can:\n•\tReceive real-time notifications on flight status, check-in and boarding times.\n•\tManage boarding passes for all flights in one app.\n•\tAccess all destination, departure and connecting airport information for free.\n•\tGet luggage protection and stress-free travel.\n•\tKeep track of your travels and view your travel statistics and 3D globe\nDiscover all the services available in the App and make your journey a unique experience.\n\nAre you ready to significantly improve your next air travels? Download the app to discover the benefits and have a new flying companion.\n\nEnjoy your trip,\nThe FLIO team\n\nWe are constantly improving our services and would welcome any suggestions or feedback please send an email to customercare@sostravel.com.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flio/id963836358?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "181597184",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 26
+   }
+  },
+  {
+   "trackId": 871809572,
+   "trackName": "Air Flight Tracker",
+   "bundleId": "com.airaufree",
+   "artistName": "fikret urgan",
+   "sellerName": "fikret urgan",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.4962,
+   "userRatingCount": 395,
+   "releaseDate": "2014-10-22T23:45:57Z",
+   "currentVersionReleaseDate": "2024-05-16T00:40:51Z",
+   "version": "2.4.3",
+   "description": "When your loved ones on the flight, you can watch them easily. What’s more you don’t have to go to the airport earlier to welcome them! \n\nAir Flight Tracker lets you view whole flights with 100% correct and instant information. And if you wish, you can push the airports button and switch to another one you want or you can select an airline and view their whole flights in the sky! \n\nTurn your iPhone or iPad into an air traffic radar and see planes around the world move in real-time on a detailed map. \n\nOr point your device at a plane in the sky to find out where it’s going and more. Discover today why millions are already tracking flights with Flight radar.\n\nWhen you see an airplane with your friends, run the application and view whole flight data, then surprise them all. \n\nWe make sure that you cannot take your eyes off for hours!",
+   "trackViewUrl": "https://apps.apple.com/us/app/air-flight-tracker/id871809572?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "21855232",
+   "languageCodesISO2A": [
+    "AR",
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 29
+   }
+  },
+  {
+   "trackId": 959887279,
+   "trackName": "Flight Tracker - Plane Status",
+   "bundleId": "com.discoverukraine.airports",
+   "artistName": "Discover Ukraine LLC",
+   "sellerName": "Discover Ukraine LLC",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.6619,
+   "userRatingCount": 210,
+   "releaseDate": "2015-02-17T23:13:19Z",
+   "currentVersionReleaseDate": "2025-06-12T20:58:42Z",
+   "version": "5.0",
+   "description": "Flight Tracker - Plane Status App – makes your travels and airport meetups easier! Stay updated with real-time flight status and arrival times. Whether you're heading for a business trip, picking up loved ones, traveling to your dream vacation, or simply curious about airport details, this app ensures you're always informed about delays, terminal info, gates, and all the important updates – so you’re always a step ahead.\n\n- Real-time updates: Track departures, arrivals, delays, and cancellations.\n\n- Aircraft details: Learn the aircraft model, specifications, and view photos.\n\n- Seat maps: Find your seat easily with detailed seating charts.\n\n- Airport information: Access everything you need to know about terminals, services, and amenities.\n\n- Weather forecasts: Stay prepared with accurate weather updates for your destination.\n\nDownload now and stay informed with the latest flight details, making your travel and airport experience stress-free!\n\nPlease note: Charter flights may not be displayed for some airports.",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-plane-status/id959887279?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "26122240",
+   "languageCodesISO2A": [
+    "EN",
+    "FR",
+    "DE",
+    "EL",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "TR"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 10
+   }
+  },
+  {
+   "trackId": 6744179599,
+   "trackName": "Flight Tracker | Plane Radar",
+   "bundleId": "com.flyradarai.flighttracker",
+   "artistName": "Giorgi Saldadze",
+   "sellerName": "Giorgi Saldadze",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Navigation"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80663,
+   "userRatingCount": 181,
+   "releaseDate": "2025-04-25T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-26T19:51:28Z",
+   "version": "1.7.2",
+   "description": "Ladies and gentlemen, this is your captain speaking. Whether you're tracking a loved one's journey, keeping tabs on your own itinerary, or simply fascinated by the skies, Flight Tracker is your go-to co-pilot for live air traffic updates and flight status tracking - all in one place.\n\nTrusted by frequent flyers, airport pickup pros, and aviation lovers worldwide, Flight Tracker delivers accurate, real-time updates using advanced flight radar 24 and plane tracker technology. Whether you're monitoring international airspace or just checking a domestic departure, we’ve got your sky covered.\n\nWITH FLIGHT TRACKER YOU CAN:\n▶ Track flights live around the world using high-precision fly radar and plane tracker maps\n▶ Check real-time flight status - know about delays, gate changes, or cancellations instantly\n▶ Search flights quickly with smart flight finder tools (by number, airport, or route)\n▶ Visualize aircraft movement with our smooth and intuitive plane finder flight tracker display\n▶ Monitor multiple flights at once and get automatic alerts for each one\n▶ Access airport insights including terminal maps, baggage claim info, and local weather\n▶ Explore aircraft data - see models, altitude, speed, and route history\n▶ Use delay predictions powered by historical data to anticipate disruptions before they happen\n\nWHY CHOOSE FLIGHT TRACKER?\n▶ FLIGHT TRACKER LIVE FREE: Access global tracking without paying a dime - ideal for casual and daily travelers alike.\n▶ REAL-TIME ACCURACY: Stay ahead of any update with lightning-fast data.\n▶ PLANE TRACKER TOOLS: Visualize air traffic, track my flight status, and explore aircraft movements like a pro.\n▶ USER-FRIENDLY DESIGN: Made for everyone - from the average traveler to aviation professionals.\nWHY FLIGHT TRACKER STANDS OUT: \n▶ Combines top features from flight tracker apps similar to flightradar24, flightstats, and flightview \n▶ Great for casual travelers and flight schedule pros alike \n▶ Built for speed - faster load times, smoother interaction, and live updates without lag\n\nDESIGNED FOR EVERY TYPE OF TRAVELER:\n▶ BUSINESS TRAVELERS: Stay on top of flight status changes and manage tight connections.\n▶ FRIENDS & FAMILY: Coordinate pickups with exact timing using airline flight status tracker tools.\n▶ AVIATION ENTHUSIASTS: Enjoy deep dives into aircraft stats, flight paths, and global activity.\n\nDOWNLOAD FLIGHT TRACKER TODAY!\nJoin thousands using our free flight tracker app to monitor real-time air traffic with ease. Whether you're searching for flight tracker 24 accuracy, live flight tracker performance, or tracking with the flight radar experience - Flight Tracker brings it all together.\n\nPRO FEATURES INCLUDE:\n▶ LIVE Tracking Without Limits – Follow any flight, anywhere, anytime.\n▶ SMART Alerts & Notifications – Know before the crowd about delays or changes.\n▶ AIRCRAFT INSIGHTS – Access detailed data about every flight and plane.\n▶ MULTI-FLIGHT Support – Track more than one flight at once.\n▶ AD-FREE Experience – no distractions while tracking\n▶ ADVANCED Weather & Airport Info – View forecasts along your flight route and get terminal maps.\n▶ ALL PRO Features – Built for global travelers\n\nDownload Flight Tracker + today to take the stress out of flying. Track flights in real time, get ahead of delays, and never miss a critical update again.\n\nNote: The free version may be subject to limitations and the limitations are subject to change.\n\nChoose from different subscription options. Our standard subscription options are:\n1-week Subscription - USD5.99\n1-year Subscription - USD49.99\n\nPrivacy Policy: https://weup.pro/privacy-policy-2/\nTerms of Use: https://weup.pro/terms-conditions/\n\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "trackViewUrl": "https://apps.apple.com/us/app/flight-tracker-plane-radar/id6744179599?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "53476352",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 7,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight tracker"
+   ],
+   "ranks": {
+    "flight tracker": 11
+   }
+  },
+  {
+   "trackId": 1538561618,
+   "trackName": "Track Live Flights - Mileways",
+   "bundleId": "com.mileways.app",
+   "artistName": "Codeventures GmbH",
+   "sellerName": "Codeventures GmbH",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Social Networking"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.51807,
+   "userRatingCount": 83,
+   "releaseDate": "2021-08-25T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T19:44:49Z",
+   "version": "4.7.6",
+   "description": "Mileways – Your Smartest, Ad Free, Travel Companion\n\n“Don’t travel without Mileways” - trusted by thousands of travelers worldwide.\nMade for passengers first, with real-time flight alerts, beautiful design, and peace of mind built in.\n\nBE THE FIRST TO KNOW\n• Instant alerts for delays, gate changes, and cancellations\n• Beautiful, detailed flight information\n• See where your inbound plane is before it even reaches your airport\n• Live weather updates and forecasts at departure & destination\n• Homescreen & lockscreen widgets for at-a-glance updates\n\nFEATURES TRAVELERS LOVE\n• Beautiful, detailed flight information\n• Beautiful seatmaps: explore your aircraft before you board\n• Track your flights (and your friends’ flights) in one simple timeline\n• Stunning aircraft illustrations & 350+ airline logos\n• Personal flight log & statistics for frequent flyers\n• Airport greeting sign — stand out when meeting guests at arrivals\n\nFIRST CLASS UPGRADE (Premium)\nFor frequent travelers who demand the best:\n• Real-time flight tracking, always up to date\n• Unlimited historical flights: your complete flight history in one place\n• Detailed aircraft data & time zone insights\n• Calendar sync: import flights with one tap\n• Weather forecasts tailored to your trip\n\nSTAY CONNECTED EFFORTLESSLY\nNo more endless text updates, Mileways automatically keeps your friends and family in the loop. You control who sees what, with easy privacy settings.\n\nSHARE ANYWHERE\nYour friends and family don’t need the app, with Web Sharing, they can follow your flight from any device.\n\nTRAVEL SMARTER, STRESS LESS\nFlights can be overwhelming: delays, gates, terminals, time zones… Mileways cuts through the chaos.\nOne tap, and you have everything you need, fast, reliable, and beautifully designed.\n\nDownload Mileways today and turn stressful travel into smooth travel.\n\n---\n\nLearn more about Mileways at:\nhttps://www.mileways.com\n\nWe are always available for feedback and questions at:\ninfo@mileways.com\n\nTerms of Service:\nhttps://www.mileways.com/pages/terms-and-conditions\n\nPrivacy Policy:\nhttps://www.mileways.com/pages/privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/track-live-flights-mileways/id1538561618?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "160826368",
+   "languageCodesISO2A": [
+    "EN"
+   ],
+   "screenshotCount": 9,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 24
+   }
+  },
+  {
+   "trackId": 1102414034,
+   "trackName": "Dubai Airport Flight Info",
+   "bundleId": "com.horseboxsoftware.dxbfree",
+   "artistName": "John Mollaghan",
+   "sellerName": "John Mollaghan",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.80701,
+   "userRatingCount": 57,
+   "releaseDate": "2016-04-16T04:17:20Z",
+   "currentVersionReleaseDate": "2026-09-30T19:44:01Z",
+   "version": "26.9.29",
+   "description": "Live flight tracker for Dubai International Airport (DXB). Free.\n\nArrivals, departures and flight status in real time — on time, delayed, diverted, cancelled or landed. Gate numbers, baggage carousels, terminals and delay alerts, all live, straight to your phone. Never be caught out by a last-minute gate change again.\n\nPerfect for travellers, frequent flyers, taxi drivers, airport staff and anyone meeting or seeing off passengers at Dubai International Airport.\n\nKEY FEATURES\n• Live arrivals & departures board — updated in real time\n• Flight search: flight number, airline, gate, terminal, baggage area, city or airport code\n• Status at a glance: on time, delayed, diverted, cancelled, landed\n• Domestic, international or all-flights filter\n• Codeshare flight matching\n• Starred favourites — pin the flights you care about\n• 12-hour or 24-hour time format\n• Translated into 50+ languages\n\nPRO SUBSCRIPTION\n• Full flight timeline: scheduled, estimated and actual times\n• Aircraft details: registration, type, IATA code\n• Security and customs queue wait times (supported airports)\n• Completely ad-free\n• Supports continued development and new features\n\nDownload now and always know exactly where every DXB flight stands.\n\n—\n\nThis app is not an official airport app and is not affiliated with or endorsed by Dubai International Airport or any airline. For definitive flight times, please check the official airport or airline website. The developer accepts no liability for incidents resulting from use of the data shown.\n\nTerms of Use (EULA)\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nPrivacy Policy\nhttp://flightinfoapps.com/flightinfoapps-privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/dubai-airport-flight-info/id1102414034?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "86219776",
+   "languageCodesISO2A": [
+    "SQ",
+    "AM",
+    "AR",
+    "AZ",
+    "BN",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "GU",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "GA",
+    "IT",
+    "JA",
+    "KN",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "ML",
+    "MR",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "PA",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "CY"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 22
+   }
+  },
+  {
+   "trackId": 1152330588,
+   "trackName": "Baltimore Washington Airport",
+   "bundleId": "com.horseboxsoftware.bwifree",
+   "artistName": "John Mollaghan",
+   "sellerName": "John Mollaghan",
+   "primaryGenreName": "Travel",
+   "genres": [
+    "Travel",
+    "Business"
+   ],
+   "price": 0.0,
+   "formattedPrice": "Free",
+   "averageUserRating": 4.43182,
+   "userRatingCount": 44,
+   "releaseDate": "2016-09-17T05:00:58Z",
+   "currentVersionReleaseDate": "2026-09-30T19:43:19Z",
+   "version": "26.9.29",
+   "description": "Live flight tracker for Baltimore/Washington Airport (BWI). Free.\n\nArrivals, departures and flight status in real time — on time, delayed, diverted, cancelled or landed. Gate numbers, baggage carousels, terminals and delay alerts, all live, straight to your phone. Never be caught out by a last-minute gate change again.\n\nPerfect for travellers, frequent flyers, taxi drivers, airport staff and anyone meeting or seeing off passengers at Baltimore/Washington Airport.\n\nKEY FEATURES\n• Live arrivals & departures board — updated in real time\n• Flight search: flight number, airline, gate, terminal, baggage area, city or airport code\n• Status at a glance: on time, delayed, diverted, cancelled, landed\n• Domestic, international or all-flights filter\n• Codeshare flight matching\n• Starred favourites — pin the flights you care about\n• 12-hour or 24-hour time format\n• Translated into 50+ languages\n\nPRO SUBSCRIPTION\n• Full flight timeline: scheduled, estimated and actual times\n• Aircraft details: registration, type, IATA code\n• Security and customs queue wait times (supported airports)\n• Completely ad-free\n• Supports continued development and new features\n\nDownload now and always know exactly where every BWI flight stands.\n\n—\n\nThis app is not an official airport app and is not affiliated with or endorsed by Baltimore/Washington Airport or any airline. For definitive flight times, please check the official airport or airline website. The developer accepts no liability for incidents resulting from use of the data shown.\n\nTerms of Use (EULA)\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\nPrivacy Policy\nhttp://flightinfoapps.com/flightinfoapps-privacy-policy",
+   "trackViewUrl": "https://apps.apple.com/us/app/baltimore-washington-airport/id1152330588?uo=4",
+   "contentAdvisoryRating": "4+",
+   "fileSizeBytes": "86232064",
+   "languageCodesISO2A": [
+    "SQ",
+    "AM",
+    "AR",
+    "AZ",
+    "BN",
+    "BG",
+    "MY",
+    "KM",
+    "CA",
+    "HR",
+    "CS",
+    "DA",
+    "NL",
+    "EN",
+    "ET",
+    "FI",
+    "FR",
+    "DE",
+    "EL",
+    "GU",
+    "HE",
+    "HI",
+    "HU",
+    "IS",
+    "ID",
+    "GA",
+    "IT",
+    "JA",
+    "KN",
+    "KO",
+    "LV",
+    "LT",
+    "MS",
+    "ML",
+    "MR",
+    "NB",
+    "FA",
+    "PL",
+    "PT",
+    "PA",
+    "RO",
+    "RU",
+    "SR",
+    "ZH",
+    "SK",
+    "SL",
+    "ES",
+    "SW",
+    "SV",
+    "TA",
+    "TE",
+    "TH",
+    "ZH",
+    "TR",
+    "UK",
+    "UR",
+    "VI",
+    "CY"
+   ],
+   "screenshotCount": 5,
+   "subtitle": null,
+   "matchedTerms": [
+    "flight status"
+   ],
+   "ranks": {
+    "flight status": 27
+   }
+  }
+ ]
+}

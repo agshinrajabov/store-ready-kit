@@ -1,0 +1,45 @@
+{
+  "_source": "Synthetic hard case: a general chat assistant reskin with a paywall before the first answer.",
+  "name": "AI Chat: Ask Assistant Bot",
+  "subtitle": "Chatbot powered by GPT & AI",
+  "keywords": "chatbot,gpt,ask,answer,write,essay,assistant,smart,genius",
+  "category": "Productivity",
+  "description": "Meet your new AI assistant! Ask anything and get instant answers powered by the latest AI models. Write essays, emails and poems, translate text, get homework help and chat with the smartest AI chatbot. Unlock unlimited messages with Pro.",
+  "screenshots": [
+    {
+      "caption": "Ask me anything",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Your smart AI assistant",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "ai-wrapper",
+  "traits": {
+    "AI01": true,
+    "AI02": true,
+    "AI03": true,
+    "AI04": true,
+    "AI05": true,
+    "AI06": false,
+    "AI07": true,
+    "AI08": "partial"
+  },
+  "monetisation": {
+    "iap_count": 4,
+    "paywall_before_value": true,
+    "purchase_prompts_first_10_min": 4
+  },
+  "content": {
+    "generated": true,
+    "authored_onboarding": false,
+    "lasting_value": false
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/ai-chat.json"
+}

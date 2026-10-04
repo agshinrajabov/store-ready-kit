@@ -1,0 +1,64 @@
+{
+  "_source": "Synthetic boundary case: the anonymised 4.3(b) listing after the developer's own recovery plan (paper art direction, authored first chapter, one purchase). It must not be flagged.",
+  "name": "Fairfold",
+  "subtitle": "A paper fairground, ride by ride",
+  "keywords": "unfolding,amusement,carnival,fairground,ride,paper,craft,hinge,chapter,handmade",
+  "category": "Games / Puzzle",
+  "description": "Fairfold is a book of flat-packed fairground rides. Open a page, find the order the hinges allow, and the carousel stands up off the paper. The first chapter is twelve hand-made rides, each teaching one idea; later chapters fill the fairground, and the children you built them for come to ride. No lives, no timers. One purchase removes ads; a hint is there when you want one.",
+  "screenshots": [
+    {
+      "caption": "",
+      "concept": "a carousel mid-unfold on a cream page",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "",
+      "concept": "the puzzle page with a pencil tally",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "hypercasual-game",
+  "traits": {
+    "HC01": false,
+    "HC02": false,
+    "HC03": false,
+    "HC04": false,
+    "HC05": false,
+    "HC06": false,
+    "HC07": false,
+    "HC08": false,
+    "HC09": false,
+    "HC10": false,
+    "HC11": false,
+    "HC12": false,
+    "HC13": false,
+    "HC14": false,
+    "HC15": false,
+    "HC16": false
+  },
+  "monetisation": {
+    "iap_count": 1,
+    "rewarded_placements": 1,
+    "purchase_prompts_first_10_min": 0
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0,
+    "prior_4_3_rejections": 1
+  },
+  "differentiators": [
+    "Unfolding hinged objects in a constrained order",
+    "Paper-and-ink art direction that matches the mechanic",
+    "Hand-authored first chapter"
+  ],
+  "changes_since_rejection": [
+    "Art direction rebuilt as paper and card on a book page",
+    "First chapter hand-authored",
+    "Six products detached; one purchase (remove ads)"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/unfold-puzzle.json"
+}

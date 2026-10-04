@@ -1,0 +1,8 @@
+{
+  "name": "SnapCal Beta: Free Calorie AI",
+  "subtitle": "Snap food, count calories",
+  "keywords": "calorie,food,diet,ai,scan,nutrition,macro",
+  "description": "Snap a photo of your meal and SnapCal estimates calories. Also available on Android! Insights: lorem ipsum dolor sit amet.",
+  "requires_login": true,
+  "screenshots": [{"caption": "SnapCal", "shows_real_ui": false}]
+}

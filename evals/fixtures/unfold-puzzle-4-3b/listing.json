@@ -1,0 +1,31 @@
+{
+  "_source": "Anonymised from a real 4.3(b) rejection (iOS 1.0, 17 Sep 2026), used with the developer's permission. Brand name, bundle ID, developer and screenshots removed; 'Fairfold' is invented. Subtitle, keyword field, IAP structure, ad placements and first-session facts are from the developer's own records. The description is reconstructed in the style of the submitted one.",
+  "name": "Fairfold: Unfold Puzzle",
+  "subtitle": "Fold 3D rides, build your park",
+  "keywords": "unfolding,amusement,carnival,theme,builder,origami,brain,logic,relax,offline,tap,order,jigsaw",
+  "category": "Games / Puzzle",
+  "description": "Unfold the fun! Tap the pieces in the right order to unfold 3D fairground rides and build your dream amusement park. Each level is a satisfying brain puzzle: find the right order, unfold the ride, and watch your park grow.\n\nFEATURES\n- Hundreds of levels of relaxing 3D puzzle fun\n- Unfold carousels, ferris wheels, swings and more\n- Build and upgrade your own theme park\n- Earn coins and decorate your rides\n- Simple one-tap controls, easy to learn, hard to master\n- Play offline, no wifi needed\n\nChallenge your mind and relax with the most satisfying unfolding puzzle game. Download now and start building your park!",
+  "screenshots": [
+    {"caption": "Unfold the ride!", "concept": "bright capture of a half-unfolded ride on a green island, orange caption band", "shows_real_ui": true},
+    {"caption": "Tap in the right order", "concept": "puzzle board, hearts row and coin pill visible", "shows_real_ui": true},
+    {"caption": "Build your dream park", "concept": "rendered park overview on a dark gradient", "shows_real_ui": true},
+    {"caption": "Hundreds of levels", "concept": "grid of level thumbnails", "shows_real_ui": true},
+    {"caption": "Relax and unwind", "concept": "empty grid with blue boxes on sand", "shows_real_ui": true},
+    {"caption": "Upgrade your rides", "concept": "ride with an UPGRADE button and coin cost", "shows_real_ui": true}
+  ],
+  "trait_catalog": "hypercasual-game",
+  "traits": {
+    "HC01": true, "HC02": true, "HC03": true, "HC04": true, "HC05": true, "HC06": true, "HC07": true, "HC08": true,
+    "HC09": true, "HC10": true, "HC11": true, "HC12": true, "HC13": true, "HC14": "partial", "HC15": true, "HC16": true
+  },
+  "monetisation": {
+    "iap_count": 7, "consumable_count": 6, "rewarded_placements": 6,
+    "interstitial": "every third level from level 9, including after giving up",
+    "purchase_prompts_first_10_min": 5, "sink_without_content": true
+  },
+  "content": {"generated": true, "authored_onboarding": false, "repeats_in_first_session": true, "silent_failures": true},
+  "account": {"similar_apps_on_account": 0, "template_or_generator": false, "prior_4_3_rejections": 0},
+  "differentiators": ["Unfolding hinged objects in a constrained order is not a mechanic any live app uses"],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/unfold-puzzle.json"
+}

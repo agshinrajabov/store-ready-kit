@@ -1,0 +1,50 @@
+{
+  "_source": "iTunes lookup 885697368 fetched 2026-10-04; subtitle and keywords are the public store-page subtitle / an illustrative keyword set, traits and monetisation filled in by hand from the public store page",
+  "name": "Halide Mark III - Pro Camera",
+  "subtitle": "Pro Camera",
+  "keywords": "raw,manual,focus,exposure,photography,lens,shutter,iso,histogram",
+  "description": "Halide unleashes your iPhone’s camera. Disable iPhone processing for natural photos, apply powerful film situations, access manual controls, and more. Halide has over 24,000 5-star ratings and is an App Store Editors’ Choice and Apple Design Award winner.\n\nHalide’s Looks are built into the camera itself, changing how your photo is captured and processed - not just a color filter applied after the fact. These are the best photos you can get out of an iPhone. Start with Process Zero for natural, film-like results, without any AI or computational photography. Explore our rich set of creative Looks developed with Hollywood colorist Cullen Kelly, and powered by sophisticated film simulation. \n\nFor nine years, Halide has set the standard for professional iPhone camera control. Nail your manual focus with Focus Peaking and the Focus Loupe. Compose your shots with intention using sophisticated framing guides, from a basic grid and rule of thirds, to the golden ratio and rabatment of the rectangle. Get perfect macro shots with Halide's dedicated Macro Mode.\n\nHate editing? Halide gives you amazing results straight out of the camera. But when you need to fine-tune, Photo Lab makes it fast and intuitive.  Try dramatically different Looks, adjust framing and exposure, experiment with film simulation, or rescue details in highlights and shadows with Tone Fusion.\n\nYou can even import and load RAWs from other apps, such as Apple’s own camera app, or standalone cameras by Canon, Nikon, Sony, Leica, Fujifilm, and Hasselblad. Specific formats are listed below.\n\n*Halide is a paid app. Try it free for 7 days with an annual membership, or buy it outright with a one-time purchase — no subscription required.*\n\nFeatures:\n- Shoot without Apple’s computational photography for stronger contrast and more natural results.\n- Photographic Looks developed in collaboration with esteemed Hollywood colorist Cullen Kelly.\n- Rescue details in shadows and highlights with a Tone Fusion slider inspired by darkroom dodging and burning.\n- Try any Look on existing ProRAW files - including photos shot in Apple’s camera app.\n- Become a better photographer by signing up for our 10-day tutorial directly from the app.\n- Full manual exposure controls including shutter speed, ISO and white balance.\n- Technical Readout to view all details of your iPhone camera hardware.\n- Also runs on iPad, for an amazing Photo Lab experience.\n\nRAW File Support:\n- DNG (iPhone, Leica)\n- CR2 (Canon)\n- CR3 (Canon)\n- NEF (Nikon)\n- RAF (Fujifilm)\n- ARW (Sony)\n- FFF (Hasselblad)\n\nTerms of Use can be found here: https://halide.cam/terms\n\nPrivacy: https://www.lux.camera/privacy/",
+  "category": "Photo & Video",
+  "niche_snapshot": "niches/camera.json",
+  "exclude_ids": [
+    885697368
+  ],
+  "trait_catalog": "utility-app",
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "traits": {
+    "UT01": false,
+    "UT02": false,
+    "UT03": false,
+    "UT04": false,
+    "UT05": false,
+    "UT06": false,
+    "UT07": "partial",
+    "UT08": false,
+    "UT09": false,
+    "UT10": false
+  },
+  "monetisation": {
+    "iap_count": 3,
+    "consumable_count": 0,
+    "rewarded_placements": 0,
+    "purchase_prompts_first_10_min": 1
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "screenshots": [
+    {
+      "caption": "Manual control at your fingertips",
+      "shows_real_ui": true
+    }
+  ],
+  "differentiators": [
+    "Gesture-based manual focus and exposure",
+    "Process Zero: no AI processing pipeline",
+    "Instant RAW review tools"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "_source": "Synthetic hard case: an authored, honest indie puzzle game with a keyword-stuffed name and stock captions.",
+  "name": "Lumen: Puzzle Game Brain Logic",
+  "subtitle": "Logic puzzles & brain teasers",
+  "keywords": "light,beam,mirror,prism,laser,reflect,optics,calm,handmade",
+  "category": "Games / Puzzle",
+  "description": "Lumen is a puzzle game about bending light. Each of the 90 hand-made rooms hides a beam, a few mirrors and a prism; rotate them until the light reaches the lantern. Rooms are grouped into eight chapters, each introducing one optical idea, from reflection to colour mixing. No timers, no lives, no ads. One purchase unlocks the full game after the first chapter.",
+  "screenshots": [
+    {
+      "caption": "Train your brain",
+      "shows_real_ui": true
+    },
+    {
+      "caption": "Relax with 90 levels",
+      "shows_real_ui": true
+    }
+  ],
+  "trait_catalog": "hypercasual-game",
+  "traits": {
+    "HC01": false,
+    "HC02": false,
+    "HC03": false,
+    "HC04": false,
+    "HC05": false,
+    "HC06": false,
+    "HC07": false,
+    "HC08": "partial",
+    "HC09": false,
+    "HC10": false,
+    "HC11": false,
+    "HC12": false,
+    "HC13": false,
+    "HC14": true,
+    "HC15": false,
+    "HC16": false
+  },
+  "monetisation": {
+    "iap_count": 1,
+    "purchase_prompts_first_10_min": 0
+  },
+  "content": {
+    "generated": false,
+    "authored_onboarding": true
+  },
+  "account": {
+    "similar_apps_on_account": 0
+  },
+  "differentiators": [
+    "Optics as the puzzle language",
+    "Hand-made chapters, one idea each",
+    "Premium unlock, no ads"
+  ],
+  "privacy_policy_url": "https://example.invalid/privacy",
+  "niche_snapshot": "niches/logic-puzzle.json"
+}
