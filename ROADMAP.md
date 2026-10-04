@@ -15,4 +15,7 @@ while building v1 are written here and stay out of v1.
 
 ## Parking lot
 
-_(new ideas go here)_
+- Compare competitor screenshots as images, not only as described concepts (store-audit, store-assets).
+- A `guidelines_watch` check that flags when Apple publishes a new Review Guidelines revision.
+- Per-niche template-trait catalogues beyond the three in v1 (finance, health, kids, productivity games).
+- A demo mode in store-audit that runs the whole pipeline on the anonymised fixture, for the README recording.
