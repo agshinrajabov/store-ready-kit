@@ -73,6 +73,7 @@ python3 evals/run_evals.py
 ## 1-2 · How to play
 
 Open your app's repository in your agent and say what you need in plain words. The right skill loads by itself.
+**You never run a command.** The agent reads the skill's instructions and runs its helper scripts for you.
 
 | Skill | Say something like | You get |
 |---|---|---|
@@ -136,9 +137,23 @@ date, and please open an issue.
 
 <br>
 
-## 1-5 · Scripts
+## 1-5 · How a skill works inside
 
-The skills call these for you. They also work on their own and print `--help`.
+Each skill is a folder the agent reads, not a program you run:
+
+```
+skills/store-audit/
+├── SKILL.md       the instructions: when to start, which steps, which rules never to break
+├── references/    what the agent reads when it needs it (guideline summaries, templates)
+└── scripts/       small Python helpers the agent runs on its own
+```
+
+The scripts exist for the jobs a language model does badly: counting characters exactly, calling Apple's public
+APIs, parsing `Info.plist` files, and scoring the same input the same way every time, so the 54 evals can check
+it. **The script measures, the agent judges**: a script reports "15 of 16 template traits, FLAG", and the agent
+explains which part of 4.3 is at risk and what to change first.
+
+You only need the commands below to run a script by hand, for example in CI. Every script prints `--help`.
 
 <details>
 <summary><b>store-audit</b>: 5 scripts</summary>
